@@ -1,0 +1,92 @@
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1429053935830">
+  <folder name="css">
+    <file name="site_global.css" crc="246345996"/>
+    <file name="master_b-master-copy.css" crc="3972462965" ref="textile-0.2:textile-0.1:under-the-willow-tree:millinery---floral:how-do-i-love-thee:contact:sonic-playground:textile-0.3:fine-arts"/>
+    <file name="master_a-master.css" crc="365756909" ref="index"/>
+    <file name="textile-0_2.css" crc="4199204197" ref="textile-0.2"/>
+    <file name="textile-0_1.css" crc="4199204197" ref="textile-0.1"/>
+    <file name="index.css" crc="254598826" ref="index"/>
+    <file name="under-the-willow-tree.css" crc="4199204197" ref="under-the-willow-tree"/>
+    <file name="millinery---floral.css" crc="3963017449" ref="millinery---floral"/>
+    <file name="how-do-i-love-thee.css" crc="364573352" ref="how-do-i-love-thee"/>
+    <file name="contact.css" crc="4280080931" ref="contact"/>
+    <file name="sonic-playground.css" crc="259278780" ref="sonic-playground"/>
+    <file name="textile-0_3.css" crc="4199204197" ref="textile-0.3"/>
+    <file name="fine-arts.css" crc="4190641114" ref="fine-arts"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="phone>index:phone>portfoli:phone>contact:fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="museutils.js" crc="212726984" ref="phone>index:phone>portfoli:phone>contact:fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="phone>index:phone>portfoli:phone>contact:fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="pie.js" crc="3827607177" ref="fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="jquery.musemenu.js" crc="440295907" ref="fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="html5shiv.js" crc="4241844378" ref="fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="webpro.js" crc="114405901" ref="sonic-playground:how-do-i-love-thee"/>
+    <file name="musewpslideshow.js" crc="3797706250" ref="sonic-playground:how-do-i-love-thee"/>
+    <file name="jquery.museoverlay.js" crc="254250306" ref="sonic-playground:how-do-i-love-thee"/>
+    <file name="touchswipe.js" crc="12843993" ref="sonic-playground:how-do-i-love-thee"/>
+  </folder>
+  <folder name="images">
+    <file name="background2.png" crc="374033574" ref="fine-arts:millinery---floral:contact:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="u5418-4.png" crc="282531763" ref="fine-arts:millinery---floral:contact:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="u5426-4.png" crc="450259224" ref="fine-arts:millinery---floral:contact:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="button.png" crc="4082415351" ref="fine-arts:index"/>
+    <file name="u5437-4.png" crc="487807889" ref="fine-arts:millinery---floral:contact:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="u5519-4.png" crc="4008897141" ref="fine-arts:millinery---floral:contact:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="u5445-4.png" crc="255932229" ref="fine-arts:millinery---floral:contact:under-the-willow-tree:textile-0.1:textile-0.2:textile-0.3:sonic-playground:how-do-i-love-thee"/>
+    <file name="tile.jpg" crc="441065166" ref="fine-arts"/>
+    <file name="mouseover.jpg" crc="322785001" ref="fine-arts"/>
+    <file name="thumbnail.jpg" crc="4056452025" ref="fine-arts"/>
+    <file name="rolloever.jpg" crc="3821579395" ref="fine-arts"/>
+    <file name="thumbnail2.jpg" crc="4242923612" ref="fine-arts"/>
+    <file name="rollover.jpg" crc="3920848589" ref="fine-arts"/>
+    <file name="u6610-4.png" crc="303632385" ref="millinery---floral"/>
+    <file name="background4.png" crc="3987476225" ref="index"/>
+    <file name="u5100-4.png" crc="282531763" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:sonic-playground:how-do-i-love-thee"/>
+    <file name="u5403.png" crc="315725868" ref="index"/>
+    <file name="u5403-a.png" crc="315725868" ref="index"/>
+    <file name="u5392-4.png" crc="343216614" ref="index"/>
+    <file name="u5509-4.png" crc="4065259766" ref="index"/>
+    <file name="u5395-4.png" crc="3779276200" ref="index"/>
+    <file name="vimeo1.jpg" crc="4148158061" ref="sonic-playground"/>
+    <file name="vimeo2.jpg" crc="3893338908" ref="sonic-playground"/>
+    <file name="sketch1.jpg" crc="3951703530" ref="sonic-playground"/>
+    <file name="sketch2.jpg" crc="327192849" ref="sonic-playground"/>
+    <file name="d1e1893fd14d7ac0a469bfa756296f82-1-.jpg" crc="4038814375" ref="sonic-playground"/>
+    <file name="vimeo1-crop-u6540.jpg" crc="3967275388" ref="sonic-playground"/>
+    <file name="vimeo2-crop-u6554.jpg" crc="272679348" ref="sonic-playground"/>
+    <file name="sketch1-crop-u6568.jpg" crc="5391365" ref="sonic-playground"/>
+    <file name="sketch2-crop-u6582.jpg" crc="180688928" ref="sonic-playground"/>
+    <file name="d1e1893fd14d7ac0a469bfa756296f82-1--crop-u6354.jpg" crc="4073190725" ref="sonic-playground"/>
+    <file name="loading.gif" crc="3815509949" ref="sonic-playground:how-do-i-love-thee"/>
+    <file name="lovethee2.jpg" crc="3662603" ref="how-do-i-love-thee"/>
+    <file name="lovethee1.jpg" crc="95801633" ref="how-do-i-love-thee"/>
+    <file name="fwb후보7.jpg" crc="4152183289" ref="how-do-i-love-thee"/>
+    <file name="lyric.jpg" crc="4269878500" ref="how-do-i-love-thee"/>
+    <file name="lovethee2-crop-u6486.jpg" crc="4058030991" ref="how-do-i-love-thee"/>
+    <file name="lovethee1-crop-u6495.jpg" crc="4195027543" ref="how-do-i-love-thee"/>
+    <file name="fwb후보7-crop-u6510.jpg" crc="216494400" ref="how-do-i-love-thee"/>
+    <file name="lyric-crop-u6524.jpg" crc="4070965024" ref="how-do-i-love-thee"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="contact.css" crc="4213266521" ref="phone>contact"/>
+      <file name="portfoli.css" crc="4213266521" ref="phone>portfoli"/>
+      <file name="index.css" crc="4213266521" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="372998072" mt="1428906334525" redirect="false"/>
+    <file name="portfoli.html" crc="3968610387" mt="1427599097299" redirect="false"/>
+    <file name="contact.html" crc="451291669" mt="1428906334565" redirect="false"/>
+  </folder>
+  <file name="fine-arts.html" crc="336959297" mt="1428907383601" redirect="true"/>
+  <file name="millinery---floral.html" crc="38500124" mt="1428907358353" redirect="true"/>
+  <file name="contact.html" crc="441554813" mt="1428906409803" redirect="true"/>
+  <file name="index.html" crc="38008332" mt="1428906361276" redirect="true"/>
+  <file name="under-the-willow-tree.html" crc="305078544" mt="1428906409807" redirect="true"/>
+  <file name="textile-0.1.html" crc="4130896385" mt="1428906409808" redirect="true"/>
+  <file name="textile-0.2.html" crc="4000601865" mt="1428906409808" redirect="true"/>
+  <file name="textile-0.3.html" crc="3863983089" mt="1428906409809" redirect="true"/>
+  <file name="sonic-playground.html" crc="432450731" mt="1428906409810" redirect="true"/>
+  <file name="how-do-i-love-thee.html" crc="505527547" mt="1428906409810" redirect="true"/>
+</manifest>
