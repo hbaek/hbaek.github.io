@@ -1,7 +1,7 @@
 .version.straw /* version checker */
 {
-	color: #0000E4;
-	background-color: #56F4CB;
+	color: #0000FA;
+	background-color: #DD2BDD;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 634.9px;
+	min-height: 634.55px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
@@ -30,7 +30,7 @@
 #page_position_content
 {
 	margin-top: -216px;
-	padding-bottom: 449px;
+	padding-bottom: 426px;
 }
 
 #pu7897
@@ -177,12 +177,21 @@
 	top: 7px;
 }
 
-#pmenuu7930
+#pu7928-3
 {
 	width: 0.01px;
 	padding-bottom: 22px;
-	margin-left: -100px;
-	margin-top: 58px;
+	margin-left: 23px;
+	margin-top: 81px;
+}
+
+#u7928-3
+{
+	z-index: 30;
+	width: 5px;
+	margin-right: -10000px;
+	margin-top: 48px;
+	left: 107px;
 }
 
 #menuu7930
@@ -398,17 +407,8 @@
 	z-index: 92;
 	width: 5px;
 	margin-right: -10000px;
-	margin-top: 38px;
-	left: 143px;
-}
-
-#u7928-3
-{
-	z-index: 30;
-	width: 5px;
-	margin-right: -10000px;
-	margin-top: 71px;
-	left: 230px;
+	margin-top: 15px;
+	left: 20px;
 }
 
 body

@@ -1,7 +1,7 @@
 .version.floral_corwn /* version checker */
 {
-	color: #000013;
-	background-color: #9816F6;
+	color: #00000E;
+	background-color: #71EDD7;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 634.6499999999999px;
+	min-height: 635px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
@@ -22,7 +22,6 @@
 	-webkit-border-radius: 0px 0px 0px 10px ;
 	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -180,8 +179,8 @@
 #pu7928-3
 {
 	width: 0.01px;
-	margin-left: -100px;
-	margin-top: 57px;
+	margin-left: 23px;
+	margin-top: 77px;
 }
 
 #u7928-3
@@ -189,8 +188,8 @@
 	z-index: 30;
 	width: 5px;
 	margin-right: -10000px;
-	margin-top: 72px;
-	left: 230px;
+	margin-top: 52px;
+	left: 107px;
 }
 
 #menuu7930
@@ -198,7 +197,7 @@
 	z-index: 33;
 	width: 112px;
 	margin-right: -10000px;
-	margin-top: 1px;
+	margin-top: 4px;
 }
 
 #u7938
@@ -407,22 +406,8 @@
 	z-index: 92;
 	width: 5px;
 	margin-right: -10000px;
-	margin-top: 39px;
-	left: 143px;
-}
-
-#u8120
-{
-	z-index: 113;
-	width: 261px;
-	height: 264px;
-	border-style: none;
-	border-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 200px;
-	background: transparent url("../images/thumbnail-u8120-fr.jpg") no-repeat left top;
-	background-size: contain;
+	margin-top: 19px;
+	left: 20px;
 }
 
 #u8133
@@ -434,8 +419,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
-	left: 489px;
+	left: 250px;
 	background: transparent url("../images/thumbnail-u8133-fr.jpg") no-repeat left top;
 	background-size: contain;
 }
@@ -449,46 +433,16 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
-	left: 778px;
+	left: 597px;
 	background: transparent url("../images/thumbnail-u8134-fr.jpg") no-repeat left top;
 	background-size: contain;
 }
 
-#u8133:hover,#u8134:hover
-{
-	background-repeat: no-repeat;
-	background-position: left top;
-	opacity: 0.7;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-	filter: alpha(opacity=70);
-	margin: 4px -10000px 0px 0px;
-	background-size: contain;
-}
-
-#pu7730-6
+#pu7736-6
 {
 	width: 0.01px;
-	margin-left: 133px;
+	margin-left: 306px;
 	margin-top: 26px;
-}
-
-#u7730-6
-{
-	z-index: 95;
-	width: 195px;
-	min-height: 47px;
-	font-size: 18px;
-	line-height: 1.31;
-	text-align: center;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u7730-4
-{
-	color: #5B5B5B;
 }
 
 #u7736-6
@@ -503,7 +457,6 @@
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	left: 289px;
 }
 
 #u7731-6
@@ -518,14 +471,14 @@
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	left: 578px;
+	left: 348px;
 }
 
 #pu8137
 {
 	width: 0.01px;
-	margin-left: 100px;
-	margin-top: 90px;
+	margin-left: 54px;
+	margin-top: 47px;
 }
 
 #u8137
@@ -550,7 +503,8 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 290px;
+	margin-top: 4px;
+	left: 312px;
 	background: transparent url("../images/thumbnail-u8139-fr.jpg") no-repeat left top;
 	background-size: contain;
 }
@@ -564,27 +518,28 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 579px;
+	margin-top: 4px;
+	left: 618px;
 	background: transparent url("../images/thumbnail-u8141-fr.jpg") no-repeat left top;
 	background-size: contain;
 }
 
-#u8120:hover,#u8137:hover,#u8139:hover,#u8141:hover
+#u8139:hover,#u8141:hover
 {
 	background-repeat: no-repeat;
 	background-position: left top;
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	margin: 0px -10000px 0px 0px;
+	margin: 4px -10000px 0px 0px;
 	background-size: contain;
 }
 
 #pu8136-6
 {
 	width: 0.01px;
-	margin-left: 133px;
-	margin-top: 31px;
+	margin-left: 88px;
+	margin-top: 28px;
 }
 
 #u8136-6
@@ -613,7 +568,8 @@
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	left: 290px;
+	margin-top: 3px;
+	left: 308px;
 }
 
 #u8140-6
@@ -628,7 +584,15 @@
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	left: 579px;
+	margin-top: 3px;
+	left: 617px;
+}
+
+#pu8143
+{
+	width: 0.01px;
+	margin-left: 54px;
+	margin-top: 68px;
 }
 
 #u8143
@@ -638,22 +602,52 @@
 	height: 264px;
 	border-style: none;
 	border-color: transparent;
-	margin-left: 103px;
-	margin-top: 103px;
 	position: relative;
+	margin-right: -10000px;
 	background: transparent url("../images/thumbnail-u8143-fr.jpg") no-repeat left top;
 	background-size: contain;
 }
 
-#u8143:hover
+#u8120
+{
+	z-index: 113;
+	width: 261px;
+	height: 264px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 312px;
+	background: transparent url("../images/thumbnail-u8120-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u8133:hover,#u8134:hover,#u8137:hover,#u8143:hover,#u8120:hover
 {
 	background-repeat: no-repeat;
 	background-position: left top;
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	margin: 103px 0px 0px 103px;
+	margin: 0px -10000px 0px 0px;
 	background-size: contain;
+}
+
+#u8989-3
+{
+	z-index: 144;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 86px;
+	left: 1074px;
+}
+
+#pu8138-6
+{
+	width: 0.01px;
+	margin-left: 84px;
+	margin-top: 28px;
 }
 
 #u8138-6
@@ -666,9 +660,28 @@
 	line-height: 1.31;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-left: 133px;
-	margin-top: 28px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u7730-6
+{
+	z-index: 95;
+	width: 195px;
+	min-height: 47px;
+	font-size: 18px;
+	line-height: 1.31;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 316px;
+}
+
+#u7730-4
+{
+	color: #5B5B5B;
 }
 
 body

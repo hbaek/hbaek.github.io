@@ -1,7 +1,7 @@
-.version.side_band_rose /* version checker */
+.version.fruit_punch /* version checker */
 {
-	color: #00001A;
-	background-color: #0D6A2D;
+	color: #0000FF;
+	background-color: #C7611C;
 }
 
 .html
@@ -177,7 +177,7 @@
 	top: 7px;
 }
 
-#slideshowu8571
+#slideshowu9380
 {
 	z-index: 95;
 	width: 0.01px;
@@ -187,7 +187,7 @@
 	position: relative;
 }
 
-#u8583
+#u9399
 {
 	position: absolute;
 	width: 444px;
@@ -196,12 +196,12 @@
 	left: 41px;
 }
 
-#u8583popup
+#u9399popup
 {
 	z-index: 96;
 }
 
-#u8586
+#u9404
 {
 	z-index: 97;
 	width: 444px;
@@ -213,7 +213,7 @@
 	position: relative;
 }
 
-#u8648
+#u9453
 {
 	z-index: 99;
 	width: 444px;
@@ -225,7 +225,7 @@
 	position: relative;
 }
 
-#u8657
+#u9462
 {
 	z-index: 101;
 	width: 444px;
@@ -237,7 +237,7 @@
 	position: relative;
 }
 
-#u8666
+#u9471
 {
 	z-index: 103;
 	width: 444px;
@@ -249,22 +249,34 @@
 	position: relative;
 }
 
-#u8593
-{
-	position: absolute;
-	width: 394px;
-	top: 604px;
-	left: 65px;
-}
-
-#u8593popup
+#u9480
 {
 	z-index: 105;
+	width: 444px;
+	height: 582px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
-#u8594
+#u9382
 {
-	z-index: 106;
+	position: absolute;
+	width: 495px;
+	top: 604px;
+	left: 14px;
+}
+
+#u9382popup
+{
+	z-index: 107;
+}
+
+#u9389
+{
+	z-index: 108;
 	width: 91px;
 	height: 82px;
 	border-color: #6B6B6B;
@@ -273,9 +285,9 @@
 	margin-right: -10000px;
 }
 
-#u8651
+#u9456
 {
-	z-index: 108;
+	z-index: 110;
 	width: 91px;
 	height: 82px;
 	border-color: #6B6B6B;
@@ -285,9 +297,9 @@
 	left: 101px;
 }
 
-#u8660
+#u9465
 {
-	z-index: 110;
+	z-index: 112;
 	width: 91px;
 	height: 82px;
 	border-color: #6B6B6B;
@@ -297,9 +309,9 @@
 	left: 202px;
 }
 
-#u8669
+#u9474
 {
-	z-index: 112;
+	z-index: 114;
 	width: 91px;
 	height: 82px;
 	border-color: #6B6B6B;
@@ -309,7 +321,19 @@
 	left: 303px;
 }
 
-#u8594.SSSlideLinkSelected,#u8651.SSSlideLinkSelected,#u8660.SSSlideLinkSelected,#u8669.SSSlideLinkSelected
+#u9483
+{
+	z-index: 116;
+	width: 91px;
+	height: 82px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 404px;
+}
+
+#u9389.SSSlideLinkSelected,#u9456.SSSlideLinkSelected,#u9465.SSSlideLinkSelected,#u9474.SSSlideLinkSelected,#u9483.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
@@ -326,9 +350,9 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#u8568-4
+#u9379-4
 {
-	z-index: 114;
+	z-index: 118;
 	width: 312px;
 	min-height: 36px;
 	font-size: 22px;
@@ -342,14 +366,14 @@
 	position: relative;
 }
 
-#ppu8567-16
+#ppu9378-12
 {
 	width: 0.01px;
 	margin-left: 23px;
 	margin-top: -748px;
 }
 
-#pu8567-16
+#pu9378-12
 {
 	width: 0.01px;
 	margin-right: -10000px;
@@ -357,43 +381,30 @@
 	margin-left: 604px;
 }
 
-#u8567-16
+#u9378-12
 {
-	z-index: 118;
+	z-index: 122;
 	width: 302px;
 	min-height: 360px;
+	font-size: 21px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	left: 10px;
 }
 
-#u8567-2
+#u9378
 {
-	font-size: 21px;
 	text-align: left;
 	font-style: italic;
 }
 
-#u8567-4
+#u9378-5,#u9378-7
 {
-	font-size: 21px;
-	text-align: left;
-	color: #E21E79;
-}
-
-#u8567-8,#u8567-10
-{
-	font-size: 18px;
 	letter-spacing: 1px;
 }
 
-#u8567-5,#u8567-6,#u8567-11,#u8567-12,#u8567-13,#u8567-14
-{
-	font-size: 21px;
-}
-
-#u8944
+#u9376
 {
 	z-index: 134;
 	width: 77px;
@@ -403,11 +414,11 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 277px;
+	margin-top: 300px;
 	left: 83px;
 }
 
-#u8942
+#u9411
 {
 	z-index: 135;
 	width: 44px;
@@ -417,11 +428,11 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 277px;
+	margin-top: 300px;
 	left: 170px;
 }
 
-#u8946
+#u9374
 {
 	z-index: 136;
 	width: 77px;
@@ -431,7 +442,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 277px;
+	margin-top: 300px;
 }
 
 #u7928-3
