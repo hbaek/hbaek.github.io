@@ -1,7 +1,7 @@
 .version.millinery___floral /* version checker */
 {
-	color: #00001B;
-	background-color: #3A1961;
+	color: #0000E9;
+	background-color: #6144C6;
 }
 
 .html
@@ -224,13 +224,6 @@
 	position: relative;
 }
 
-#u9110_clip,#u9130_clip
-{
-	overflow: hidden;
-	width: 736px;
-	height: 499px;
-}
-
 #u9110_img,#u9130_img
 {
 	margin: -41px 146px -42px;
@@ -266,6 +259,32 @@
 	padding-bottom: 19px;
 }
 
+#u9526
+{
+	z-index: 105;
+	width: 736px;
+	height: 499px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u9110_clip,#u9130_clip,#u9526_clip
+{
+	overflow: hidden;
+	width: 736px;
+	height: 499px;
+}
+
+#u9526_img
+{
+	margin-left: 118px;
+	margin-right: 118px;
+	margin-bottom: -1px;
+}
+
 #u9112
 {
 	width: 434px;
@@ -277,12 +296,12 @@
 
 #u9112popup
 {
-	z-index: 105;
+	z-index: 107;
 }
 
 #u9114-4
 {
-	z-index: 106;
+	z-index: 108;
 	width: 404px;
 	min-height: 22px;
 	padding: 15px;
@@ -298,7 +317,7 @@
 
 #u9136-4
 {
-	z-index: 110;
+	z-index: 112;
 	width: 404px;
 	min-height: 22px;
 	padding: 15px;
@@ -314,7 +333,7 @@
 
 #u9216-4
 {
-	z-index: 114;
+	z-index: 116;
 	width: 404px;
 	min-height: 22px;
 	padding: 15px;
@@ -330,7 +349,23 @@
 
 #u9233-4
 {
-	z-index: 118;
+	z-index: 120;
+	width: 404px;
+	min-height: 22px;
+	padding: 15px;
+	letter-spacing: 3px;
+	color: #999999;
+	font-size: 16px;
+	line-height: 1.4;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u9532-4
+{
+	z-index: 124;
 	width: 404px;
 	min-height: 22px;
 	padding: 15px;
@@ -363,7 +398,7 @@
 
 #u9095-4popup
 {
-	z-index: 122;
+	z-index: 128;
 }
 
 #u9095
@@ -391,7 +426,7 @@
 
 #u9103-4popup
 {
-	z-index: 126;
+	z-index: 132;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */

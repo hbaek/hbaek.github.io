@@ -829,12 +829,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/1-crop-u8846.jpg</loc>
-    <lastmod>2015-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/2-crop-u8899.jpg</loc>
     <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -931,12 +925,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/19.jpg</loc>
-    <lastmod>2015-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/29.jpg</loc>
     <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -991,6 +979,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/thumbnail.jpg</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/phone/portfoli.html</loc>
     <lastmod>2015-03-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -1022,43 +1016,43 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/under-the-willow-tree.html</loc>
-    <lastmod>2015-05-03</lastmod>
+    <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/textile-0.1.html</loc>
-    <lastmod>2015-05-03</lastmod>
+    <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/textile-0.2.html</loc>
-    <lastmod>2015-05-03</lastmod>
+    <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/sonic-playground.html</loc>
-    <lastmod>2015-05-03</lastmod>
+    <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/how-do-i-love-thee.html</loc>
-    <lastmod>2015-05-03</lastmod>
+    <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/peanut-shell-study.html</loc>
-    <lastmod>2015-05-03</lastmod>
+    <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/water-color-0.1.html</loc>
-    <lastmod>2015-05-03</lastmod>
+    <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

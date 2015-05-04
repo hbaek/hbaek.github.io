@@ -1,12 +1,66 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430728876810">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430729882130">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
+      <file name="peanut-shell-study.css" crc="4108902859" ref="tablet>peanut-shell-study"/>
+      <file name="carnation-crown.css" crc="4108902859" ref="tablet>carnation-crown"/>
+      <file name="center-piece.css" crc="4108902859" ref="tablet>center-piece"/>
+      <file name="fine-arts.css" crc="4108902859" ref="tablet>fine-arts"/>
+      <file name="index.css" crc="4108902859" ref="tablet>index"/>
+      <file name="contact.css" crc="4108902859" ref="tablet>contact"/>
+      <file name="sonic-playground.css" crc="4108902859" ref="tablet>sonic-playground"/>
+      <file name="water-color-0_1.css" crc="4108902859" ref="tablet>water-color-0.1"/>
+      <file name="millinery---floral.css" crc="4108902859" ref="tablet>millinery---floral"/>
+      <file name="ivory-and-green.css" crc="4108902859" ref="tablet>ivory-and-green"/>
+      <file name="carnation-halo.css" crc="4108902859" ref="tablet>carnation-halo"/>
+      <file name="floral-corwn.css" crc="4108902859" ref="tablet>floral-corwn"/>
+      <file name="orange-and-white.css" crc="4108902859" ref="tablet>orange-and-white"/>
+      <file name="textile-0_2.css" crc="4108902859" ref="tablet>textile-0.2"/>
+      <file name="hemlock-angle.css" crc="4108902859" ref="tablet>hemlock-angle"/>
+      <file name="leaves.css" crc="4108902859" ref="tablet>leaves"/>
+      <file name="fruit-punch.css" crc="4108902859" ref="tablet>fruit-punch"/>
+      <file name="straw.css" crc="4108902859" ref="tablet>straw"/>
+      <file name="side-band-rose.css" crc="4108902859" ref="tablet>side-band-rose"/>
+      <file name="textile-0_1.css" crc="4108902859" ref="tablet>textile-0.1"/>
+      <file name="felt.css" crc="4108902859" ref="tablet>felt"/>
+      <file name="bouquet.css" crc="4108902859" ref="tablet>bouquet"/>
+      <file name="under-the-willow-tree.css" crc="4108902859" ref="tablet>under-the-willow-tree"/>
+      <file name="how-do-i-love-thee.css" crc="4108902859" ref="tablet>how-do-i-love-thee"/>
+    </folder>
+    <file name="index.html" crc="3933157716" mt="1430729811690" redirect="false"/>
+    <file name="contact.html" crc="243494047" mt="1430729811739" redirect="false"/>
+    <file name="fine-arts.html" crc="4201343115" mt="1430729811804" redirect="false"/>
+    <file name="sonic-playground.html" crc="4276601240" mt="1430729811853" redirect="false"/>
+    <file name="under-the-willow-tree.html" crc="4195787447" mt="1430729811902" redirect="false"/>
+    <file name="how-do-i-love-thee.html" crc="4291014696" mt="1430729811970" redirect="false"/>
+    <file name="textile-0.1.html" crc="535953573" mt="1430729812020" redirect="false"/>
+    <file name="textile-0.2.html" crc="4120932686" mt="1430729812073" redirect="false"/>
+    <file name="peanut-shell-study.html" crc="123645480" mt="1430729812139" redirect="false"/>
+    <file name="water-color-0.1.html" crc="238837557" mt="1430729812192" redirect="false"/>
+    <file name="millinery---floral.html" crc="351279307" mt="1430729812264" redirect="false"/>
+    <file name="straw.html" crc="3908972599" mt="1430729812316" redirect="false"/>
+    <file name="felt.html" crc="407852271" mt="1430729812387" redirect="false"/>
+    <file name="floral-corwn.html" crc="3819793327" mt="1430729812438" redirect="false"/>
+    <file name="carnation-crown.html" crc="342292124" mt="1430729812488" redirect="false"/>
+    <file name="carnation-halo.html" crc="3884016794" mt="1430729812554" redirect="false"/>
+    <file name="ivory-and-green.html" crc="4244186628" mt="1430729812607" redirect="false"/>
+    <file name="leaves.html" crc="217490370" mt="1430729812659" redirect="false"/>
+    <file name="side-band-rose.html" crc="4014882288" mt="1430729812711" redirect="false"/>
+    <file name="hemlock-angle.html" crc="3855140729" mt="1430729812765" redirect="false"/>
+    <file name="orange-and-white.html" crc="430369280" mt="1430729812815" redirect="false"/>
+    <file name="bouquet.html" crc="4274036832" mt="1430729812887" redirect="false"/>
+    <file name="birthday-k.html" crc="4137771400" mt="1430729812939" redirect="false"/>
+    <file name="center-piece.html" crc="3858097968" mt="1430729812989" redirect="false"/>
+    <file name="fruit-punch.html" crc="405674815" mt="1430729813055" redirect="false"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4144233371"/>
+    <file name="site_global.css" crc="72584779"/>
     <file name="master_a-master.css" crc="4036125324" ref="index:contact"/>
     <file name="textile-0_2.css" crc="74162879" ref="textile-0.2"/>
     <file name="textile-0_1.css" crc="523645659" ref="textile-0.1"/>
     <file name="index.css" crc="372067187" ref="index"/>
     <file name="under-the-willow-tree.css" crc="103435938" ref="under-the-willow-tree"/>
-    <file name="millinery---floral.css" crc="456792417" ref="millinery---floral"/>
+    <file name="millinery---floral.css" crc="3915465926" ref="millinery---floral"/>
     <file name="how-do-i-love-thee.css" crc="59339733" ref="how-do-i-love-thee"/>
     <file name="contact.css" crc="4054710976" ref="contact"/>
     <file name="sonic-playground.css" crc="112403573" ref="sonic-playground"/>
@@ -15,13 +69,13 @@
     <file name="master_shop.css" crc="367772561" ref="leaves:side-band-rose:hemlock-angle:carnation-crown:straw:center-piece:orange-and-white:floral-corwn:bouquet:ivory-and-green:millinery---floral:felt:carnation-halo:birthday-k:fruit-punch"/>
     <file name="leaves.css" crc="4197582608" ref="leaves"/>
     <file name="side-band-rose.css" crc="437086765" ref="side-band-rose"/>
-    <file name="hemlock-angle.css" crc="57273643" ref="hemlock-angle"/>
+    <file name="hemlock-angle.css" crc="445176858" ref="hemlock-angle"/>
     <file name="carnation-crown.css" crc="495076886" ref="carnation-crown"/>
     <file name="straw.css" crc="4208798685" ref="straw"/>
     <file name="center-piece.css" crc="58571514" ref="center-piece"/>
     <file name="orange-and-white.css" crc="468843331" ref="orange-and-white"/>
     <file name="floral-corwn.css" crc="242347479" ref="floral-corwn"/>
-    <file name="bouquet.css" crc="330736678" ref="bouquet"/>
+    <file name="bouquet.css" crc="3832658161" ref="bouquet"/>
     <file name="ivory-and-green.css" crc="421327352" ref="ivory-and-green"/>
     <file name="felt.css" crc="4208798685" ref="felt"/>
     <file name="carnation-halo.css" crc="147885422" ref="carnation-halo"/>
@@ -31,10 +85,10 @@
     <file name="fruit-punch.css" crc="4291256604" ref="fruit-punch"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="phone>index:phone>portfoli:phone>contact:fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:sonic-playground:how-do-i-love-thee:peanut-shell-study:water-color-0.1:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch"/>
-    <file name="museutils.js" crc="212726984" ref="phone>index:phone>portfoli:phone>contact:fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:sonic-playground:how-do-i-love-thee:peanut-shell-study:water-color-0.1:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch"/>
-    <file name="jquery.watch.js" crc="4125239756" ref="phone>index:phone>portfoli:phone>contact:fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:sonic-playground:how-do-i-love-thee:peanut-shell-study:water-color-0.1:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch"/>
-    <file name="pie.js" crc="3827607177" ref="fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:sonic-playground:how-do-i-love-thee:peanut-shell-study:water-color-0.1:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch"/>
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="phone>index:phone>portfoli:phone>contact:fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:sonic-playground:how-do-i-love-thee:peanut-shell-study:water-color-0.1:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:tablet>index:tablet>contact:tablet>fine-arts:tablet>sonic-playground:tablet>under-the-willow-tree:tablet>how-do-i-love-thee:tablet>textile-0.1:tablet>textile-0.2:tablet>peanut-shell-study:tablet>water-color-0.1:tablet>millinery---floral:tablet>straw:tablet>felt:tablet>floral-corwn:tablet>carnation-crown:tablet>carnation-halo:tablet>ivory-and-green:tablet>leaves:tablet>side-band-rose:tablet>hemlock-angle:tablet>orange-and-white:tablet>bouquet:tablet>birthday-k:tablet>center-piece:tablet>fruit-punch"/>
+    <file name="museutils.js" crc="212726984" ref="phone>index:phone>portfoli:phone>contact:fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:sonic-playground:how-do-i-love-thee:peanut-shell-study:water-color-0.1:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:tablet>index:tablet>contact:tablet>fine-arts:tablet>sonic-playground:tablet>under-the-willow-tree:tablet>how-do-i-love-thee:tablet>textile-0.1:tablet>textile-0.2:tablet>peanut-shell-study:tablet>water-color-0.1:tablet>millinery---floral:tablet>straw:tablet>felt:tablet>floral-corwn:tablet>carnation-crown:tablet>carnation-halo:tablet>ivory-and-green:tablet>leaves:tablet>side-band-rose:tablet>hemlock-angle:tablet>orange-and-white:tablet>bouquet:tablet>birthday-k:tablet>center-piece:tablet>fruit-punch"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="phone>index:phone>portfoli:phone>contact:fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:sonic-playground:how-do-i-love-thee:peanut-shell-study:water-color-0.1:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:tablet>index:tablet>contact:tablet>fine-arts:tablet>sonic-playground:tablet>under-the-willow-tree:tablet>how-do-i-love-thee:tablet>textile-0.1:tablet>textile-0.2:tablet>peanut-shell-study:tablet>water-color-0.1:tablet>millinery---floral:tablet>straw:tablet>felt:tablet>floral-corwn:tablet>carnation-crown:tablet>carnation-halo:tablet>ivory-and-green:tablet>leaves:tablet>side-band-rose:tablet>hemlock-angle:tablet>orange-and-white:tablet>bouquet:tablet>birthday-k:tablet>center-piece:tablet>fruit-punch"/>
+    <file name="pie.js" crc="3827607177" ref="fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:sonic-playground:how-do-i-love-thee:peanut-shell-study:water-color-0.1:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:tablet>index:tablet>contact:tablet>fine-arts:tablet>sonic-playground:tablet>under-the-willow-tree:tablet>how-do-i-love-thee:tablet>textile-0.1:tablet>textile-0.2:tablet>peanut-shell-study:tablet>water-color-0.1:tablet>millinery---floral:tablet>straw:tablet>felt:tablet>floral-corwn:tablet>carnation-crown:tablet>carnation-halo:tablet>ivory-and-green:tablet>leaves:tablet>side-band-rose:tablet>hemlock-angle:tablet>orange-and-white:tablet>bouquet:tablet>birthday-k:tablet>center-piece:tablet>fruit-punch"/>
     <file name="jquery.musemenu.js" crc="440295907" ref="fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:sonic-playground:how-do-i-love-thee:peanut-shell-study:water-color-0.1:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch"/>
     <file name="html5shiv.js" crc="4241844378" ref="fine-arts:millinery---floral:contact:index:under-the-willow-tree:textile-0.1:textile-0.2:sonic-playground:how-do-i-love-thee:peanut-shell-study:water-color-0.1:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch"/>
     <file name="webpro.js" crc="114405901" ref="sonic-playground:how-do-i-love-thee:peanut-shell-study:under-the-willow-tree:textile-0.1:textile-0.2:water-color-0.1:carnation-crown:carnation-halo:ivory-and-green:leaves:side-band-rose:orange-and-white:hemlock-angle:millinery---floral:birthday-k:fruit-punch"/>
@@ -130,13 +184,13 @@
     <file name="2-crop-u8176.jpg" crc="216566338" ref="carnation-crown"/>
     <file name="3-crop-u8185.jpg" crc="4186756237" ref="carnation-crown"/>
     <file name="4-crop-u8194.jpg" crc="226846354" ref="carnation-crown"/>
-    <file name="thumbnail-u8120-fr.jpg" crc="308076935" ref="floral-corwn:bouquet"/>
+    <file name="thumbnail-u8120-fr.jpg" crc="308076935" ref="floral-corwn"/>
     <file name="thumbnail-u8133-fr.jpg" crc="163647314" ref="floral-corwn"/>
-    <file name="thumbnail-u8134-fr.jpg" crc="387864206" ref="floral-corwn:bouquet"/>
-    <file name="thumbnail-u8137-fr.jpg" crc="281532331" ref="floral-corwn:bouquet"/>
-    <file name="thumbnail-u8139-fr.jpg" crc="3882985354" ref="floral-corwn:bouquet"/>
-    <file name="thumbnail-u8141-fr.jpg" crc="93526807" ref="floral-corwn:bouquet"/>
-    <file name="thumbnail-u8143-fr.jpg" crc="96215890" ref="floral-corwn:bouquet"/>
+    <file name="thumbnail-u8134-fr.jpg" crc="387864206" ref="floral-corwn"/>
+    <file name="thumbnail-u8137-fr.jpg" crc="281532331" ref="floral-corwn"/>
+    <file name="thumbnail-u8139-fr.jpg" crc="3882985354" ref="floral-corwn"/>
+    <file name="thumbnail-u8141-fr.jpg" crc="93526807" ref="floral-corwn"/>
+    <file name="thumbnail-u8143-fr.jpg" crc="96215890" ref="floral-corwn"/>
     <file name="12.jpg" crc="4152258887" ref="carnation-halo"/>
     <file name="22.jpg" crc="296615539" ref="carnation-halo"/>
     <file name="32.jpg" crc="469529495" ref="carnation-halo"/>
@@ -163,10 +217,10 @@
     <file name="25.jpg" crc="3942351869" ref="side-band-rose"/>
     <file name="35.jpg" crc="3983952247" ref="side-band-rose"/>
     <file name="44.jpg" crc="153704995" ref="side-band-rose"/>
-    <file name="1-crop-u8594.jpg" crc="4154570785" ref="side-band-rose"/>
-    <file name="2-crop-u8651.jpg" crc="4193238471" ref="side-band-rose"/>
-    <file name="3-crop-u8660.jpg" crc="379493262" ref="side-band-rose"/>
-    <file name="4-crop-u8669.jpg" crc="389087903" ref="side-band-rose"/>
+    <file name="1-crop-u8594.jpg" crc="178304518" ref="side-band-rose"/>
+    <file name="2-crop-u8651.jpg" crc="481427057" ref="side-band-rose"/>
+    <file name="3-crop-u8660.jpg" crc="357406300" ref="side-band-rose"/>
+    <file name="4-crop-u8669.jpg" crc="293305615" ref="side-band-rose"/>
     <file name="16.jpg" crc="365905140" ref="orange-and-white"/>
     <file name="26.jpg" crc="4064056200" ref="orange-and-white"/>
     <file name="36.jpg" crc="3859356621" ref="orange-and-white"/>
@@ -177,12 +231,11 @@
     <file name="3-crop-u8791.jpg" crc="4083778587" ref="orange-and-white"/>
     <file name="4-crop-u8800.jpg" crc="3932480172" ref="orange-and-white"/>
     <file name="5-crop-u8809.jpg" crc="3869063441" ref="orange-and-white"/>
-    <file name="17.jpg" crc="262853724" ref="hemlock-angle"/>
+    <file name="17.jpg" crc="251680795" ref="birthday-k"/>
     <file name="27.jpg" crc="196998414" ref="hemlock-angle"/>
     <file name="37.jpg" crc="451325931" ref="hemlock-angle"/>
     <file name="46.jpg" crc="402461240" ref="hemlock-angle"/>
     <file name="52.jpg" crc="7045362" ref="hemlock-angle"/>
-    <file name="1-crop-u8846.jpg" crc="4241541364" ref="hemlock-angle"/>
     <file name="2-crop-u8899.jpg" crc="190155626" ref="hemlock-angle"/>
     <file name="3-crop-u8908.jpg" crc="211850854" ref="hemlock-angle"/>
     <file name="4-crop-u8917.jpg" crc="4114895743" ref="hemlock-angle"/>
@@ -191,7 +244,7 @@
     <file name="recent2.jpg" crc="241676727" ref="millinery---floral"/>
     <file name="thumbnail-u9496-fr.jpg" crc="83568560" ref="center-piece"/>
     <file name="thumbnail-u9168-fr.jpg" crc="302215989" ref="bouquet"/>
-    <file name="18.jpg" crc="251680795" ref="birthday-k"/>
+    <file name="18.jpg" crc="431854736" ref="fruit-punch"/>
     <file name="28.jpg" crc="395317148" ref="birthday-k"/>
     <file name="38.jpg" crc="4042390927" ref="birthday-k"/>
     <file name="47.jpg" crc="3882018553" ref="birthday-k"/>
@@ -199,7 +252,6 @@
     <file name="2-crop-u9338.jpg" crc="3830865056" ref="birthday-k"/>
     <file name="3-crop-u9347.jpg" crc="4199853240" ref="birthday-k"/>
     <file name="4-crop-u9356.jpg" crc="273881982" ref="birthday-k"/>
-    <file name="19.jpg" crc="431854736" ref="fruit-punch"/>
     <file name="29.jpg" crc="234509994" ref="fruit-punch"/>
     <file name="39.jpg" crc="383128583" ref="fruit-punch"/>
     <file name="48.jpg" crc="4254132940" ref="fruit-punch"/>
@@ -209,6 +261,7 @@
     <file name="3-crop-u9465.jpg" crc="3864074501" ref="fruit-punch"/>
     <file name="4-crop-u9474.jpg" crc="4128910147" ref="fruit-punch"/>
     <file name="5-crop-u9483.jpg" crc="3796137225" ref="fruit-punch"/>
+    <file name="thumbnail.jpg" crc="51466644" ref="millinery---floral"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -216,33 +269,33 @@
       <file name="portfoli.css" crc="4213266521" ref="phone>portfoli"/>
       <file name="index.css" crc="4213266521" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="372998072" mt="1428906334525" redirect="false"/>
+    <file name="index.html" crc="372998072" mt="1430729813089" redirect="false"/>
     <file name="portfoli.html" crc="3968610387" mt="1427599097299" redirect="false"/>
-    <file name="contact.html" crc="451291669" mt="1428906334565" redirect="false"/>
+    <file name="contact.html" crc="451291669" mt="1430729813094" redirect="false"/>
   </folder>
-  <file name="fine-arts.html" crc="3929147883" mt="1430725703208" redirect="true"/>
-  <file name="millinery---floral.html" crc="3916215286" mt="1430728789492" redirect="true"/>
-  <file name="contact.html" crc="3865507707" mt="1430725769844" redirect="true"/>
-  <file name="index.html" crc="445206385" mt="1430725769846" redirect="true"/>
-  <file name="under-the-willow-tree.html" crc="4193174959" mt="1430708933843" redirect="true"/>
-  <file name="textile-0.1.html" crc="158048373" mt="1430708933844" redirect="true"/>
-  <file name="textile-0.2.html" crc="3822682930" mt="1430708933844" redirect="true"/>
-  <file name="sonic-playground.html" crc="3820635587" mt="1430708933842" redirect="true"/>
-  <file name="how-do-i-love-thee.html" crc="19156674" mt="1430708933842" redirect="true"/>
-  <file name="peanut-shell-study.html" crc="107655353" mt="1430708933843" redirect="true"/>
-  <file name="water-color-0.1.html" crc="349728533" mt="1430708933845" redirect="true"/>
-  <file name="carnation-crown.html" crc="4038635858" mt="1430728789494" redirect="true"/>
-  <file name="floral-corwn.html" crc="3774153578" mt="1430728789496" redirect="true"/>
-  <file name="straw.html" crc="3826647861" mt="1430728789498" redirect="true"/>
-  <file name="bouquet.html" crc="4158157923" mt="1430728789509" redirect="true"/>
-  <file name="felt.html" crc="4129533315" mt="1430728789499" redirect="true"/>
-  <file name="center-piece.html" crc="498514542" mt="1430728825664" redirect="true"/>
-  <file name="carnation-halo.html" crc="72595239" mt="1430728789502" redirect="true"/>
-  <file name="ivory-and-green.html" crc="85676527" mt="1430728789503" redirect="true"/>
-  <file name="leaves.html" crc="459062718" mt="1430728789504" redirect="true"/>
-  <file name="side-band-rose.html" crc="117833206" mt="1430728789505" redirect="true"/>
-  <file name="orange-and-white.html" crc="212807350" mt="1430728789507" redirect="true"/>
-  <file name="hemlock-angle.html" crc="156539902" mt="1430728789508" redirect="true"/>
-  <file name="birthday-k.html" crc="4027127731" mt="1430728845784" redirect="true"/>
-  <file name="fruit-punch.html" crc="435697657" mt="1430728845431" redirect="true"/>
+  <file name="fine-arts.html" crc="3853542062" mt="1430729811802" redirect="true"/>
+  <file name="millinery---floral.html" crc="51409717" mt="1430729812261" redirect="true"/>
+  <file name="contact.html" crc="3865507707" mt="1430729811737" redirect="true"/>
+  <file name="index.html" crc="445206385" mt="1430729811681" redirect="true"/>
+  <file name="under-the-willow-tree.html" crc="4193174959" mt="1430729811899" redirect="true"/>
+  <file name="textile-0.1.html" crc="158048373" mt="1430729812017" redirect="true"/>
+  <file name="textile-0.2.html" crc="3822682930" mt="1430729812070" redirect="true"/>
+  <file name="sonic-playground.html" crc="3820635587" mt="1430729811851" redirect="true"/>
+  <file name="how-do-i-love-thee.html" crc="19156674" mt="1430729811968" redirect="true"/>
+  <file name="peanut-shell-study.html" crc="107655353" mt="1430729812136" redirect="true"/>
+  <file name="water-color-0.1.html" crc="349728533" mt="1430729812189" redirect="true"/>
+  <file name="carnation-crown.html" crc="4038635858" mt="1430729812486" redirect="true"/>
+  <file name="floral-corwn.html" crc="4042238675" mt="1430729812436" redirect="true"/>
+  <file name="straw.html" crc="3826647861" mt="1430729812312" redirect="true"/>
+  <file name="bouquet.html" crc="162240379" mt="1430729812885" redirect="true"/>
+  <file name="felt.html" crc="4129533315" mt="1430729812384" redirect="true"/>
+  <file name="center-piece.html" crc="357069462" mt="1430729812986" redirect="true"/>
+  <file name="carnation-halo.html" crc="72595239" mt="1430729812552" redirect="true"/>
+  <file name="ivory-and-green.html" crc="85676527" mt="1430729812604" redirect="true"/>
+  <file name="leaves.html" crc="459062718" mt="1430729812657" redirect="true"/>
+  <file name="side-band-rose.html" crc="117833206" mt="1430729812708" redirect="true"/>
+  <file name="orange-and-white.html" crc="212807350" mt="1430729812811" redirect="true"/>
+  <file name="hemlock-angle.html" crc="3975313162" mt="1430729812761" redirect="true"/>
+  <file name="birthday-k.html" crc="4142353596" mt="1430729812937" redirect="true"/>
+  <file name="fruit-punch.html" crc="3923129057" mt="1430729813052" redirect="true"/>
 </manifest>
