@@ -1,7 +1,7 @@
 .version.floral_corwn /* version checker */
 {
-	color: #00000E;
-	background-color: #71EDD7;
+	color: #0000F5;
+	background-color: #08D70B;
 }
 
 .html
@@ -618,7 +618,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 312px;
-	background: transparent url("../images/thumbnail-u8120-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail2.jpg") no-repeat left top;
 	background-size: contain;
 }
 

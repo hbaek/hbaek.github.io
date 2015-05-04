@@ -517,12 +517,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/thumbnail-u8120-fr.jpg</loc>
-    <lastmod>2015-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/thumbnail-u8133-fr.jpg</loc>
     <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -985,6 +979,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/thumbnail2.jpg</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/thumbnail-u9792-fr.jpg</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/19.jpg</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/21.jpg</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/1-crop-u9839.jpg</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/21-crop-u9880.jpg</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/phone/portfoli.html</loc>
     <lastmod>2015-03-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -1136,6 +1166,12 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/fruit-punch.html</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/birthday-k-copy.html</loc>
     <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

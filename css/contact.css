@@ -1,12 +1,12 @@
 .version.contact /* version checker */
 {
-	color: #0000F1;
-	background-color: #ADFAC0;
+	color: #00000B;
+	background-color: #C13EFC;
 }
 
 .html
 {
-	background: #F7F5DD url("../images/backtest.jpg") repeat-x center top scroll;
+	background: #F7F5DD url("../images/backtest.jpg") repeat-y center top scroll;
 }
 
 #page
