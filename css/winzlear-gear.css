@@ -1,7 +1,7 @@
-.version.birthday_k_copy /* version checker */
+.version.winzlear_gear /* version checker */
 {
-	color: #00000A;
-	background-color: #E54E03;
+	color: #0000F1;
+	background-color: #0062AD;
 }
 
 .html
@@ -177,7 +177,7 @@
 	top: 7px;
 }
 
-#slideshowu9814
+#slideshowu10187
 {
 	z-index: 95;
 	width: 0.01px;
@@ -187,7 +187,7 @@
 	position: relative;
 }
 
-#u9825
+#u10192
 {
 	position: absolute;
 	width: 444px;
@@ -196,12 +196,12 @@
 	left: 41px;
 }
 
-#u9825popup
+#u10192popup
 {
 	z-index: 96;
 }
 
-#u9826
+#u10250
 {
 	z-index: 97;
 	width: 444px;
@@ -213,7 +213,7 @@
 	position: relative;
 }
 
-#u9877
+#u10259
 {
 	z-index: 99;
 	width: 444px;
@@ -225,22 +225,58 @@
 	position: relative;
 }
 
-#u9836
-{
-	position: absolute;
-	width: 192px;
-	top: 604px;
-	left: 166px;
-}
-
-#u9836popup
+#u10241
 {
 	z-index: 101;
+	width: 444px;
+	height: 582px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
-#u9839
+#u10268
 {
-	z-index: 102;
+	z-index: 103;
+	width: 444px;
+	height: 582px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u10277
+{
+	z-index: 105;
+	width: 444px;
+	height: 582px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u10202
+{
+	position: absolute;
+	width: 495px;
+	top: 604px;
+	left: 14px;
+}
+
+#u10202popup
+{
+	z-index: 107;
+}
+
+#u10253
+{
+	z-index: 108;
 	width: 91px;
 	height: 82px;
 	border-color: #6B6B6B;
@@ -249,9 +285,9 @@
 	margin-right: -10000px;
 }
 
-#u9880
+#u10262
 {
-	z-index: 104;
+	z-index: 110;
 	width: 91px;
 	height: 82px;
 	border-color: #6B6B6B;
@@ -261,7 +297,43 @@
 	left: 101px;
 }
 
-#u9839.SSSlideLinkSelected,#u9880.SSSlideLinkSelected
+#u10244
+{
+	z-index: 112;
+	width: 91px;
+	height: 82px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 202px;
+}
+
+#u10271
+{
+	z-index: 114;
+	width: 91px;
+	height: 82px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 303px;
+}
+
+#u10280
+{
+	z-index: 116;
+	width: 91px;
+	height: 82px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 404px;
+}
+
+#u10253.SSSlideLinkSelected,#u10262.SSSlideLinkSelected,#u10244.SSSlideLinkSelected,#u10271.SSSlideLinkSelected,#u10280.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
@@ -278,23 +350,9 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#ppu9813-4
+#u10182-4
 {
-	width: 0.01px;
-	margin-left: 25px;
-	margin-top: -778px;
-}
-
-#pu9813-4
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 602px;
-}
-
-#u9813-4
-{
-	z-index: 106;
+	z-index: 118;
 	width: 312px;
 	min-height: 36px;
 	font-size: 22px;
@@ -302,18 +360,30 @@
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
+	margin-left: 627px;
+	top: -778px;
+	margin-bottom: -36px;
 	position: relative;
 }
 
-#pu9847-13
+#ppu10208-15
 {
 	width: 0.01px;
-	margin-top: 40px;
+	margin-left: 25px;
+	margin-top: -748px;
 }
 
-#u9847-13
+#pu10208-15
 {
-	z-index: 110;
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 46px;
+	margin-left: 602px;
+}
+
+#u10208-15
+{
+	z-index: 122;
 	width: 302px;
 	min-height: 360px;
 	font-size: 21px;
@@ -323,27 +393,27 @@
 	left: 10px;
 }
 
-#u9847-2
+#u10208-2
 {
 	text-align: left;
 	font-style: italic;
 }
 
-#u9847-4
+#u10208-4
 {
 	text-align: left;
 	color: #E21E79;
 	font-style: italic;
 }
 
-#u9847-8
+#u10208-8,#u10208-10
 {
 	letter-spacing: 1px;
 }
 
-#u9850
+#u10183
 {
-	z-index: 123;
+	z-index: 137;
 	width: 77px;
 	min-height: 24px;
 	border-style: none;
@@ -355,9 +425,9 @@
 	left: 83px;
 }
 
-#u9845
+#u10185
 {
-	z-index: 124;
+	z-index: 138;
 	width: 44px;
 	min-height: 24px;
 	border-style: none;
@@ -369,9 +439,9 @@
 	left: 170px;
 }
 
-#u9848
+#u10180
 {
-	z-index: 125;
+	z-index: 139;
 	width: 77px;
 	min-height: 24px;
 	border-style: none;
@@ -387,7 +457,7 @@
 	z-index: 30;
 	width: 5px;
 	margin-right: -10000px;
-	margin-top: 78px;
+	margin-top: 48px;
 	left: 105px;
 }
 
@@ -396,7 +466,6 @@
 	z-index: 33;
 	width: 112px;
 	margin-right: -10000px;
-	margin-top: 30px;
 }
 
 #u7938
@@ -695,7 +764,7 @@
 	z-index: 92;
 	width: 5px;
 	margin-right: -10000px;
-	margin-top: 45px;
+	margin-top: 15px;
 	left: 18px;
 }
 

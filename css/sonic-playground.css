@@ -1,7 +1,7 @@
 .version.sonic_playground /* version checker */
 {
-	color: #000006;
-	background-color: #B32475;
+	color: #0000EC;
+	background-color: #27C85C;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 634.5499999999997px;
+	min-height: 634.9499999999998px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
@@ -29,7 +29,7 @@
 
 #page_position_content
 {
-	margin-top: -772px;
+	margin-top: -725px;
 	padding-bottom: 84px;
 }
 
@@ -48,7 +48,7 @@
 #u6777-bw
 {
 	z-index: 2;
-	margin-top: 556px;
+	margin-top: 509px;
 	height: 215px;
 }
 
@@ -58,7 +58,7 @@
 	width: 942px;
 	min-height: 133px;
 	margin-right: -10000px;
-	margin-top: 563px;
+	margin-top: 516px;
 	left: 293px;
 }
 
@@ -67,7 +67,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 133px;
-	margin: 563px -10000px 0px 0px;
+	margin: 516px -10000px 0px 0px;
 }
 
 #u6742
@@ -76,7 +76,7 @@
 	width: 911px;
 	height: 7px;
 	margin-right: -10000px;
-	margin-top: 706px;
+	margin-top: 659px;
 	left: 307px;
 }
 
@@ -85,7 +85,7 @@
 	z-index: 8;
 	width: 1219px;
 	margin-right: -10000px;
-	margin-top: 729px;
+	margin-top: 682px;
 }
 
 #u6766
@@ -192,7 +192,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 880px;
-	left: 290px;
+	left: 301px;
 }
 
 #u6294
@@ -426,7 +426,7 @@
 #pu6743-3
 {
 	width: 0.01px;
-	margin-top: -248px;
+	margin-top: -295px;
 }
 
 #u6743-3

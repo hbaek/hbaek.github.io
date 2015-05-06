@@ -1,7 +1,7 @@
 .version.center_piece /* version checker */
 {
-	color: #0000F4;
-	background-color: #9219A2;
+	color: #0000E2;
+	background-color: #2C062E;
 }
 
 .html
@@ -29,7 +29,7 @@
 #page_position_content
 {
 	margin-top: -216px;
-	padding-bottom: 220px;
+	padding-bottom: 217px;
 }
 
 #pu7897
@@ -514,7 +514,21 @@
 	background-size: contain;
 }
 
-#u9496:hover
+#u10516
+{
+	z-index: 104;
+	width: 261px;
+	height: 264px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 590px;
+	background: transparent url("../images/thumbnail-u10516-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u9496:hover,#u10516:hover
 {
 	background-repeat: no-repeat;
 	background-position: left top;
@@ -523,6 +537,13 @@
 	filter: alpha(opacity=70);
 	margin: 0px -10000px 0px 0px;
 	background-size: contain;
+}
+
+#pu9495-4
+{
+	width: 0.01px;
+	margin-left: 290px;
+	margin-top: 27px;
 }
 
 #u9495-4
@@ -536,9 +557,24 @@
 	letter-spacing: 2px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-left: 290px;
-	margin-top: 27px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u10515-4
+{
+	z-index: 100;
+	width: 195px;
+	min-height: 47px;
+	line-height: 1.31;
+	color: #5B5B5B;
+	font-size: 19px;
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 359px;
 }
 
 body

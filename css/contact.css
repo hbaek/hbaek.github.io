@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00000B;
-	background-color: #C13EFC;
+	color: #0000ED;
+	background-color: #7AD2AC;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 634.9347956412216px;
+	min-height: 635px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
@@ -22,7 +22,6 @@
 	-webkit-border-radius: 0px 0px 0px 10px ;
 	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -157,8 +156,8 @@
 #pu6650-3
 {
 	width: 0.01px;
-	margin-left: 15px;
-	margin-top: 55px;
+	margin-left: 39px;
+	margin-top: 41px;
 }
 
 #u6650-3
@@ -166,20 +165,40 @@
 	z-index: 29;
 	width: 5px;
 	margin-right: -10000px;
-	margin-top: 29px;
-	left: 115px;
+	margin-top: 43px;
+	left: 91px;
 }
 
 #u5862
 {
 	z-index: 32;
-	width: 951px;
-	min-height: 360px;
+	width: 374px;
+	min-height: 667px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u10156-13
+{
+	z-index: 33;
+	width: 410px;
+	min-height: 308px;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	letter-spacing: 1px;
+	font-size: 19px;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	font-weight: normal;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 95px;
+	left: 461px;
 }
 
 body

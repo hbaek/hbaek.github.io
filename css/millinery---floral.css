@@ -1,7 +1,7 @@
 .version.millinery___floral /* version checker */
 {
-	color: #00000B;
-	background-color: #3B94FA;
+	color: #0000E4;
+	background-color: #D1747F;
 }
 
 .html
@@ -200,7 +200,7 @@
 	z-index: 96;
 }
 
-#u9110
+#u9526
 {
 	z-index: 97;
 	width: 736px;
@@ -212,7 +212,7 @@
 	position: relative;
 }
 
-#u9130
+#u10659
 {
 	z-index: 99;
 	width: 736px;
@@ -224,12 +224,7 @@
 	position: relative;
 }
 
-#u9110_img,#u9130_img
-{
-	margin: -41px 146px -42px;
-}
-
-#u9210
+#u10671
 {
 	z-index: 101;
 	width: 736px;
@@ -241,48 +236,16 @@
 	position: relative;
 }
 
-#u9227
-{
-	z-index: 103;
-	width: 736px;
-	height: 499px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u9210_img,#u9227_img
-{
-	padding-top: 20px;
-	padding-bottom: 19px;
-}
-
-#u9526
-{
-	z-index: 105;
-	width: 736px;
-	height: 499px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u9110_clip,#u9130_clip,#u9526_clip
+#u9526_clip,#u10659_clip,#u10671_clip
 {
 	overflow: hidden;
 	width: 736px;
 	height: 499px;
 }
 
-#u9526_img
+#u9526_img,#u10659_img,#u10671_img
 {
-	margin-left: 118px;
-	margin-right: 118px;
-	margin-bottom: -1px;
+	margin: -41px 146px -42px;
 }
 
 #u9112
@@ -295,10 +258,26 @@
 
 #u9112popup
 {
-	z-index: 107;
+	z-index: 103;
 }
 
-#u9114-4
+#u9532-4
+{
+	z-index: 104;
+	width: 404px;
+	min-height: 22px;
+	padding: 15px;
+	line-height: 1.4;
+	color: #999999;
+	font-size: 16px;
+	letter-spacing: 3px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u10665-4
 {
 	z-index: 108;
 	width: 404px;
@@ -314,57 +293,9 @@
 	position: relative;
 }
 
-#u9136-4
+#u10677-4
 {
 	z-index: 112;
-	width: 404px;
-	min-height: 22px;
-	padding: 15px;
-	line-height: 1.4;
-	color: #999999;
-	font-size: 16px;
-	letter-spacing: 3px;
-	text-align: center;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u9216-4
-{
-	z-index: 116;
-	width: 404px;
-	min-height: 22px;
-	padding: 15px;
-	line-height: 1.4;
-	color: #999999;
-	font-size: 16px;
-	letter-spacing: 3px;
-	text-align: center;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u9233-4
-{
-	z-index: 120;
-	width: 404px;
-	min-height: 22px;
-	padding: 15px;
-	line-height: 1.4;
-	color: #999999;
-	font-size: 16px;
-	letter-spacing: 3px;
-	text-align: center;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u9532-4
-{
-	z-index: 124;
 	width: 404px;
 	min-height: 22px;
 	padding: 15px;
@@ -395,7 +326,7 @@
 
 #u9095-4popup
 {
-	z-index: 128;
+	z-index: 116;
 }
 
 #u9095
@@ -421,7 +352,7 @@
 
 #u9103-4popup
 {
-	z-index: 132;
+	z-index: 120;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
