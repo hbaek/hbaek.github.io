@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EA;
-	background-color: #478701;
+	color: #000014;
+	background-color: #29CC25;
 }
 
 .html
@@ -439,8 +439,7 @@
 #u12521
 {
 	position: absolute;
-	width: 989px;
-	top: 1px;
+	width: 982px;
 }
 
 #u12521popup
@@ -451,7 +450,7 @@
 #u12522
 {
 	z-index: 78;
-	width: 969px;
+	width: 982px;
 	height: 449px;
 	border-color: #999999;
 	-moz-border-radius: 40px 0px 40px 40px ;
@@ -460,7 +459,6 @@
 	border-radius: 40px 0px 40px 40px ;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
 	background: transparent url("../images/recent.jpg") no-repeat left top;
 }
 
@@ -471,8 +469,8 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 130px;
-	left: 411px;
+	margin-top: 75px;
+	left: 321px;
 }
 
 #u12532
@@ -485,8 +483,10 @@
 	-webkit-border-radius: 87px 0px 87px 87px ;
 	-khtml-border-radius: 87px 0px 87px 87px ;
 	border-radius: 87px 0px 87px 87px ;
+	margin-bottom: -23px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 	background: #FFFFFF url("../images/recent2.jpg") no-repeat left top;
 }
 

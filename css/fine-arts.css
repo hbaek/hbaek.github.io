@@ -1,7 +1,7 @@
 .version.fine_arts /* version checker */
 {
-	color: #0000EB;
-	background-color: #94BBC1;
+	color: #0000E1;
+	background-color: #BAB98A;
 }
 
 .html
@@ -592,6 +592,12 @@
 	background: transparent url("../images/txt3.jpg") no-repeat left top;
 }
 
+#u7169:hover
+{
+	margin: 13px 0px 0px 178px;
+	background: #000000 url("../images/txt3.jpg") no-repeat left top;
+}
+
 #u7201-4
 {
 	z-index: 120;
@@ -717,6 +723,12 @@
 	margin-top: 20px;
 	position: relative;
 	background: transparent url("../images/txt2.jpg") no-repeat left top;
+}
+
+#u7205:hover
+{
+	margin: 20px 0px 0px 178px;
+	background: #FEFFFF url("../images/txt2.jpg") no-repeat left top;
 }
 
 #u7206-4

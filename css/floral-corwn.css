@@ -1,7 +1,7 @@
 .version.floral_corwn /* version checker */
 {
-	color: #00001F;
-	background-color: #52B41D;
+	color: #00000B;
+	background-color: #16F159;
 }
 
 .html
@@ -614,13 +614,6 @@
 	background-size: contain;
 }
 
-#pu8136-6
-{
-	width: 0.01px;
-	margin-left: 105px;
-	margin-top: -1px;
-}
-
 #u8136-6
 {
 	z-index: 97;
@@ -694,7 +687,25 @@
 	background-size: contain;
 }
 
-#u8133:hover,#u8134:hover,#u8139:hover,#u8141:hover,#u8120:hover,#u8143:hover
+#u13388
+{
+	z-index: 134;
+	width: 261px;
+	height: 264px;
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 333px;
+	background: transparent url("../images/thumbnail-u13388-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u8133:hover,#u8134:hover,#u8139:hover,#u8141:hover,#u8120:hover,#u8143:hover,#u13388:hover
 {
 	background-repeat: no-repeat;
 	background-position: left top;
@@ -715,6 +726,13 @@
 	left: 1049px;
 }
 
+#pu8136-6,#pu8138-6
+{
+	width: 0.01px;
+	margin-left: 105px;
+	margin-top: -1px;
+}
+
 #u8138-6
 {
 	z-index: 104;
@@ -725,10 +743,23 @@
 	font-size: 18px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-left: 105px;
-	top: -1px;
-	margin-bottom: -1px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u13387-6
+{
+	z-index: 128;
+	width: 254px;
+	min-height: 47px;
+	line-height: 1.31;
+	color: #5B5B5B;
+	font-size: 18px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 313px;
 }
 
 body
