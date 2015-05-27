@@ -1,7 +1,7 @@
 .version.carnation_crown /* version checker */
 {
-	color: #0000F3;
-	background-color: #080958;
+	color: #0000E9;
+	background-color: #DE369C;
 }
 
 .html
@@ -600,14 +600,14 @@
 	margin-bottom: -17px;
 }
 
-#pu7410-16
+#pu7410-13
 {
 	width: 0.01px;
 	margin-left: 627px;
 	margin-top: -702px;
 }
 
-#u7410-16
+#u7410-13
 {
 	z-index: 99;
 	width: 302px;
@@ -632,20 +632,20 @@
 	color: #E21E79;
 }
 
-#u7410-8,#u7410-10
+#u7410-8
 {
 	font-size: 18px;
 	letter-spacing: 1px;
 }
 
-#u7410-5,#u7410-6,#u7410-11,#u7410-12,#u7410-13,#u7410-14
+#u7410-5,#u7410-6,#u7410-9,#u7410-10,#u7410-11
 {
 	font-size: 21px;
 }
 
 #u8951
 {
-	z-index: 115;
+	z-index: 112;
 	width: 77px;
 	min-height: 24px;
 	border-style: none;
@@ -659,7 +659,7 @@
 
 #u8953
 {
-	z-index: 116;
+	z-index: 113;
 	width: 44px;
 	min-height: 24px;
 	border-style: none;
@@ -673,7 +673,7 @@
 
 #u8955
 {
-	z-index: 117;
+	z-index: 114;
 	width: 77px;
 	min-height: 24px;
 	border-style: none;

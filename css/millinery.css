@@ -1,7 +1,7 @@
 .version.millinery /* version checker */
 {
-	color: #000011;
-	background-color: #9ED64C;
+	color: #000016;
+	background-color: #1BA278;
 }
 
 .html
@@ -450,7 +450,7 @@
 	z-index: 77;
 }
 
-#u12330
+#u14740
 {
 	z-index: 78;
 	width: 988px;
@@ -466,7 +466,19 @@
 	position: relative;
 }
 
-#u12397
+#u14740_clip
+{
+	overflow: hidden;
+	width: 988px;
+	height: 500px;
+}
+
+#u14740_img
+{
+	margin: -41px 272px;
+}
+
+#u14728
 {
 	z-index: 80;
 	width: 988px;
@@ -482,9 +494,30 @@
 	position: relative;
 }
 
-#u12330 .clip_frame,#u12397 .clip_frame
+#u14716
+{
+	z-index: 82;
+	width: 988px;
+	height: 500px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+	-khtml-border-radius: 22px;
+	border-radius: 22px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u14740 .clip_frame,#u14728 .clip_frame,#u14716 .clip_frame
 {
 	-webkit-border-radius: 22px 22px 22px 22px;
+}
+
+#u14728_img,#u14716_img
+{
+	padding: 103px 272px 102px;
 }
 
 #u12340-4
@@ -501,7 +534,7 @@
 
 #u12340-4popup
 {
-	z-index: 82;
+	z-index: 84;
 }
 
 #u12340
@@ -525,7 +558,7 @@
 
 #u12346-4popup
 {
-	z-index: 86;
+	z-index: 88;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */

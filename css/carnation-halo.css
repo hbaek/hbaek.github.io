@@ -1,7 +1,7 @@
 .version.carnation_halo /* version checker */
 {
-	color: #0000E8;
-	background-color: #2D8C28;
+	color: #0000F5;
+	background-color: #C6FEFD;
 }
 
 .html
@@ -605,14 +605,14 @@
 	margin-bottom: -17px;
 }
 
-#pu8243-16
+#pu8243-14
 {
 	width: 0.01px;
 	margin-left: 627px;
 	margin-top: -702px;
 }
 
-#u8243-16
+#u8243-14
 {
 	z-index: 99;
 	width: 302px;
@@ -637,20 +637,20 @@
 	color: #E21E79;
 }
 
-#u8243-8,#u8243-10
+#u8243-8
 {
 	font-size: 18px;
 	letter-spacing: 1px;
 }
 
-#u8243-5,#u8243-6,#u8243-11,#u8243-12,#u8243-13,#u8243-14
+#u8243-5,#u8243-6,#u8243-9,#u8243-10,#u8243-11,#u8243-12
 {
 	font-size: 21px;
 }
 
 #u8957
 {
-	z-index: 115;
+	z-index: 113;
 	width: 77px;
 	min-height: 24px;
 	border-style: none;
@@ -664,7 +664,7 @@
 
 #u8959
 {
-	z-index: 116;
+	z-index: 114;
 	width: 44px;
 	min-height: 24px;
 	border-style: none;
@@ -678,7 +678,7 @@
 
 #u8961
 {
-	z-index: 117;
+	z-index: 115;
 	width: 77px;
 	min-height: 24px;
 	border-style: none;
