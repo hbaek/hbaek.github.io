@@ -1,7 +1,7 @@
 .version.carnation_halo /* version checker */
 {
-	color: #0000F5;
-	background-color: #C6FEFD;
+	color: #00000D;
+	background-color: #C3013C;
 }
 
 .html
@@ -462,7 +462,7 @@
 	position: relative;
 }
 
-#u8288
+#u15816
 {
 	z-index: 80;
 	width: 444px;
@@ -474,7 +474,7 @@
 	position: relative;
 }
 
-#u8297
+#u15825
 {
 	z-index: 82;
 	width: 444px;
@@ -486,7 +486,7 @@
 	position: relative;
 }
 
-#u8306
+#u15834
 {
 	z-index: 84;
 	width: 444px;
@@ -498,7 +498,7 @@
 	position: relative;
 }
 
-#u8279_img,#u8288_img,#u8297_img,#u8306_img
+#u8279_img,#u15816_img,#u15825_img,#u15834_img
 {
 	padding-bottom: 1px;
 }
@@ -527,7 +527,7 @@
 	margin-right: -10000px;
 }
 
-#u8291
+#u15819
 {
 	z-index: 89;
 	width: 91px;
@@ -539,7 +539,7 @@
 	left: 101px;
 }
 
-#u8300
+#u15828
 {
 	z-index: 91;
 	width: 91px;
@@ -551,7 +551,7 @@
 	left: 202px;
 }
 
-#u8309
+#u15837
 {
 	z-index: 93;
 	width: 91px;
@@ -563,7 +563,7 @@
 	left: 303px;
 }
 
-#u8282.SSSlideLinkSelected,#u8291.SSSlideLinkSelected,#u8300.SSSlideLinkSelected,#u8309.SSSlideLinkSelected
+#u8282.SSSlideLinkSelected,#u15819.SSSlideLinkSelected,#u15828.SSSlideLinkSelected,#u15837.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;

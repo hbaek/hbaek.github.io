@@ -1,7 +1,7 @@
 .version.ivory_and_green /* version checker */
 {
-	color: #0000ED;
-	background-color: #CBDD3E;
+	color: #0000F3;
+	background-color: #F45DD8;
 }
 
 .html
@@ -450,7 +450,7 @@
 	z-index: 77;
 }
 
-#u8417
+#u8435
 {
 	z-index: 78;
 	width: 444px;
@@ -462,7 +462,7 @@
 	position: relative;
 }
 
-#u8426
+#u15864
 {
 	z-index: 80;
 	width: 444px;
@@ -474,7 +474,7 @@
 	position: relative;
 }
 
-#u8435
+#u15873
 {
 	z-index: 82;
 	width: 444px;
@@ -499,7 +499,7 @@
 	z-index: 84;
 }
 
-#u8420
+#u8438
 {
 	z-index: 85;
 	width: 91px;
@@ -510,7 +510,7 @@
 	margin-right: -10000px;
 }
 
-#u8429
+#u15867
 {
 	z-index: 87;
 	width: 91px;
@@ -522,7 +522,7 @@
 	left: 101px;
 }
 
-#u8438
+#u15876
 {
 	z-index: 89;
 	width: 91px;
@@ -534,7 +534,7 @@
 	left: 202px;
 }
 
-#u8420.SSSlideLinkSelected,#u8429.SSSlideLinkSelected,#u8438.SSSlideLinkSelected
+#u8438.SSSlideLinkSelected,#u15867.SSSlideLinkSelected,#u15876.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;

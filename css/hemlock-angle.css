@@ -1,7 +1,7 @@
 .version.hemlock_angle /* version checker */
 {
 	color: #00000C;
-	background-color: #E08186;
+	background-color: #33EFAB;
 }
 
 .html
@@ -462,7 +462,7 @@
 	position: relative;
 }
 
-#u8905
+#u15752
 {
 	z-index: 80;
 	width: 444px;
@@ -474,7 +474,7 @@
 	position: relative;
 }
 
-#u8914
+#u15761
 {
 	z-index: 82;
 	width: 444px;
@@ -486,7 +486,7 @@
 	position: relative;
 }
 
-#u8923
+#u15770
 {
 	z-index: 84;
 	width: 444px;
@@ -522,7 +522,7 @@
 	margin-right: -10000px;
 }
 
-#u8908
+#u15755
 {
 	z-index: 89;
 	width: 91px;
@@ -534,7 +534,7 @@
 	left: 101px;
 }
 
-#u8917
+#u15764
 {
 	z-index: 91;
 	width: 91px;
@@ -546,7 +546,7 @@
 	left: 202px;
 }
 
-#u8926
+#u15773
 {
 	z-index: 93;
 	width: 91px;
@@ -558,7 +558,7 @@
 	left: 303px;
 }
 
-#u8899.SSSlideLinkSelected,#u8908.SSSlideLinkSelected,#u8917.SSSlideLinkSelected,#u8926.SSSlideLinkSelected
+#u8899.SSSlideLinkSelected,#u15755.SSSlideLinkSelected,#u15764.SSSlideLinkSelected,#u15773.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
