@@ -2,11 +2,10 @@
 {
 	border-style: none;
 	border-color: transparent;
+	background-color: #FFFFFF;
 	opacity: 0.79;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=79)";
 	filter: alpha(opacity=79);
-	background: #FFFFFF url("../images/backtest.jpg") no-repeat left top;
-	background-size: cover;
 }
 
 #u12879
@@ -27,12 +26,9 @@
 
 #u12900
 {
-	border-color: #DBA0A2;
 	opacity: 0.49;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=49)";
 	filter: alpha(opacity=49);
-	background: #F7F6F6 url("../images/41bbfe0a08f7f1b57d76a6629a288f3f-1-.jpg") no-repeat left top;
-	background-size: cover;
 }
 
 #u12843
@@ -41,18 +37,6 @@
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
-}
-
-#u12843.MuseMenuActive
-{
-	border-color: #939495;
-	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.4);
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
-	-pie-background: rgba(255, 255, 255, 0.4);
 }
 
 #u12845
@@ -73,18 +57,6 @@
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
-}
-
-#u12838.MuseMenuActive
-{
-	border-color: #939495;
-	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.4);
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
-	-pie-background: rgba(255, 255, 255, 0.4);
 }
 
 #u12841
@@ -118,9 +90,7 @@
 
 #u12825:hover
 {
-	background-color: #E2FFFF;
-	background-color: rgba(195, 255, 255, 0.47);
-	-pie-background: rgba(195, 255, 255, 0.47);
+	background-color: transparent;
 }
 
 #u12825.MuseMenuActive
@@ -134,7 +104,7 @@
 
 #u12827-4
 {
-	background-color: #E2E8E2;
+	background-color: transparent;
 	font-size: 16px;
 	letter-spacing: 4px;
 	text-align: center;
@@ -145,6 +115,11 @@
 #u12825:hover #u12827-4
 {
 	background-color: transparent;
+}
+
+#u12825:hover #u12827-4 p
+{
+	text-decoration: underline;
 }
 
 #u12832
@@ -161,9 +136,7 @@
 
 #u12832:hover
 {
-	background-color: #E2FFFF;
-	background-color: rgba(195, 255, 255, 0.47);
-	-pie-background: rgba(195, 255, 255, 0.47);
+	background-color: transparent;
 }
 
 #u12832.MuseMenuActive
@@ -177,7 +150,7 @@
 
 #u12834-4
 {
-	background-color: #E2E8E2;
+	background-color: transparent;
 	font-size: 16px;
 	letter-spacing: 4px;
 	text-align: center;
@@ -188,6 +161,11 @@
 #u12832:hover #u12834-4
 {
 	background-color: transparent;
+}
+
+#u12832:hover #u12834-4 p
+{
+	text-decoration: underline;
 }
 
 #u12818
@@ -204,9 +182,7 @@
 
 #u12818:hover
 {
-	background-color: #E2FFFF;
-	background-color: rgba(195, 255, 255, 0.47);
-	-pie-background: rgba(195, 255, 255, 0.47);
+	background-color: transparent;
 }
 
 #u12818.MuseMenuActive
@@ -220,7 +196,7 @@
 
 #u12820-4
 {
-	background-color: #E2E8E2;
+	background-color: transparent;
 	font-size: 16px;
 	letter-spacing: 4px;
 	text-align: center;
@@ -234,9 +210,9 @@
 	background-color: transparent;
 }
 
-#u12825.MuseMenuActive #u12827-4,#u12832.MuseMenuActive #u12834-4,#u12818.MuseMenuActive #u12820-4
+#u12818:hover #u12820-4 p
 {
-	background-color: #E2E8E2;
+	text-decoration: underline;
 }
 
 #u12873
@@ -245,18 +221,6 @@
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
-}
-
-#u12873.MuseMenuActive
-{
-	border-color: #939495;
-	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.4);
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
-	-pie-background: rgba(255, 255, 255, 0.4);
 }
 
 #u12876
@@ -278,10 +242,9 @@
 
 #u12855
 {
-	border-width: 1px;
-	border-style: solid;
-	border-color: #FFFFFF;
-	background-color: #E0C2BA;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	-khtml-border-radius: 5px;
@@ -293,14 +256,12 @@
 {
 	border-style: none;
 	border-color: transparent;
-	background-color: #E7FFFF;
-	background-color: rgba(195, 255, 255, 0.4);
-	-pie-background: rgba(195, 255, 255, 0.4);
+	background-color: transparent;
 }
 
 #u12858-4
 {
-	background-color: transparent;
+	background-color: #FFFFFF;
 	font-size: 16px;
 	letter-spacing: 4px;
 	text-align: center;
@@ -310,7 +271,9 @@
 
 #u12855:hover #u12858-4
 {
-	background-color: transparent;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
+	-pie-background: rgba(255, 255, 255, 1);
 }
 
 #u12855.MuseMenuActive #u12858-4
@@ -320,12 +283,16 @@
 	-pie-background: rgba(195, 255, 255, 0.46);
 }
 
+#u12855:hover #u12858-4 p
+{
+	text-decoration: underline;
+}
+
 #u12862
 {
-	border-width: 1px;
-	border-style: solid;
-	border-color: #FFFFFF;
-	background-color: #E0C2BA;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	-khtml-border-radius: 5px;
@@ -333,18 +300,23 @@
 	position: relative;
 }
 
-#u12862:hover
+#u12855.MuseMenuActive,#u12862:hover
 {
 	border-style: none;
 	border-color: transparent;
-	background-color: #E7FFFF;
-	background-color: rgba(195, 255, 255, 0.4);
-	-pie-background: rgba(195, 255, 255, 0.4);
+	background-color: transparent;
+}
+
+#u12862.MuseMenuActive
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 }
 
 #u12864-4
 {
-	background-color: transparent;
+	background-color: #FFFFFF;
 	font-size: 16px;
 	letter-spacing: 4px;
 	text-align: center;
@@ -354,7 +326,9 @@
 
 #u12862:hover #u12864-4
 {
-	background-color: transparent;
+	background-color: #FFFFFF;
+	background-color: rgba(255, 255, 255, 1);
+	-pie-background: rgba(255, 255, 255, 1);
 }
 
 #u12862.MuseMenuActive #u12864-4
@@ -364,55 +338,14 @@
 	-pie-background: rgba(195, 255, 255, 0.46);
 }
 
-#u12867
+#u12862:hover #u12864-4 p
 {
-	border-width: 1px;
-	border-style: solid;
-	border-color: #FFFFFF;
-	background-color: #E0C2BA;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-khtml-border-radius: 5px;
-	border-radius: 5px;
-	position: relative;
+	text-decoration: underline;
 }
 
-#u12867:hover
+#u12825.MuseMenuActive #u12827-4 p,#u12832.MuseMenuActive #u12834-4 p,#u12818.MuseMenuActive #u12820-4 p,#u12855.MuseMenuActive #u12858-4 p,#u12862.MuseMenuActive #u12864-4 p
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: #E7FFFF;
-	background-color: rgba(195, 255, 255, 0.4);
-	-pie-background: rgba(195, 255, 255, 0.4);
-}
-
-#u12855.MuseMenuActive,#u12862.MuseMenuActive,#u12867.MuseMenuActive
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u12870-4
-{
-	background-color: transparent;
-	font-size: 16px;
-	letter-spacing: 4px;
-	text-align: center;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u12867:hover #u12870-4
-{
-	background-color: transparent;
-}
-
-#u12867.MuseMenuActive #u12870-4
-{
-	background-color: #E3FFFF;
-	background-color: rgba(195, 255, 255, 0.46);
-	-pie-background: rgba(195, 255, 255, 0.46);
+	text-decoration: none;
 }
 
 #u12810
@@ -423,16 +356,16 @@
 	position: relative;
 }
 
-#u12810.MuseMenuActive
+#u12843.MuseMenuActive,#u12838.MuseMenuActive,#u12873.MuseMenuActive,#u12810.MuseMenuActive
 {
+	border-width: 1px;
+	border-style: solid;
 	border-color: #939495;
-	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.4);
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
-	-pie-background: rgba(255, 255, 255, 0.4);
+	background-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
 }
 
 #u12812
@@ -447,112 +380,13 @@
 	background: url("../images/u12812-a.png") no-repeat 0px 0px;
 }
 
-#u12902-3,#menuu12806,#u12842,#u12814,#u12816,#u12824,#u12831,#u12817,#u12849,#u12851,#u12852,#u12859,#u12866,#u12807,#u12905,#u12906,#u12903-3,#slideshowu12884
-{
-	position: relative;
-}
-
-#u12892
-{
-	position: absolute;
-	background-color: transparent;
-}
-
-#u12893
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
-#u12889
-{
-	position: absolute;
-}
-
-#u12890
-{
-	border-color: #6B6B6B;
-	background-color: transparent;
-	position: relative;
-}
-
-#u12890.SSSlideLinkSelected
-{
-	border-style: none;
-	border-color: transparent;
-}
-
-.MenuItem,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* unifiedNavBar */
+.MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
 }
 
-.SSSlideLoading /* slideshowFreeStyle */
+#u12902-3,#menuu12806,#u12842,#u12814,#u12816,#u12824,#u12831,#u12817,#u12849,#u12851,#u12852,#u12859,#u12807,#u12903-3,#u12906
 {
-	background: url("../images/loading.gif") no-repeat center center;
-}
-
-#u12904-27
-{
-	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	position: relative;
-}
-
-#u12904-2
-{
-	font-size: 34px;
-	text-align: center;
-	letter-spacing: 0px;
-	visibility: hidden;/* 100% transparent text is hidden */
-}
-
-#u12904-3
-{
-	font-size: 26px;
-	text-align: center;
-	visibility: hidden;/* 100% transparent text is hidden */
-}
-
-#u12904-4
-{
-	font-size: 26px;
-	text-align: center;
-	color: #000000;
-}
-
-#u12904-5,#u12904-6
-{
-	font-size: 16px;
-	text-align: left;
-	color: #000000;
-}
-
-#u12904-8,#u12904-9,#u12904-11
-{
-	font-size: 18px;
-	text-align: left;
-	visibility: hidden;/* 100% transparent text is hidden */
-}
-
-#u12904-12,#u12904-13,#u12904-14
-{
-	font-size: 21px;
-	visibility: hidden;/* 100% transparent text is hidden */
-}
-
-#u12904-16,#u12904-17,#u12904-19,#u12904-20,#u12904-21,#u12904-25
-{
-	font-size: 21px;
-	text-align: left;
-	line-height: 1.78;
-	letter-spacing: 1px;
-	visibility: hidden;/* 100% transparent text is hidden */
-}
-
-#u12904,#u12904-23
-{
-	text-decoration: underline;
 }
 
