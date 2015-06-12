@@ -1,7 +1,7 @@
 .version.nightcap_lilly /* version checker */
 {
-	color: #000000;
-	background-color: #4564B8;
+	color: #0000F2;
+	background-color: #9F29C3;
 }
 
 .html
@@ -466,6 +466,7 @@
 {
 	padding-left: 29px;
 	padding-right: 30px;
+	padding-bottom: 1px;
 }
 
 #u13489

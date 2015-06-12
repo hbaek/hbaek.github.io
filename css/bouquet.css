@@ -1,7 +1,7 @@
 .version.bouquet /* version checker */
 {
-	color: #0000F4;
-	background-color: #08FECF;
+	color: #000011;
+	background-color: #A1FADE;
 }
 
 .html
@@ -495,10 +495,10 @@
 	z-index: 76;
 	width: 195px;
 	min-height: 47px;
-	letter-spacing: 2px;
+	line-height: 1.31;
 	color: #5B5B5B;
 	font-size: 19px;
-	line-height: 1.31;
+	letter-spacing: 2px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -510,10 +510,10 @@
 	z-index: 87;
 	width: 261px;
 	min-height: 47px;
-	letter-spacing: 2px;
+	line-height: 1.31;
 	color: #5B5B5B;
 	font-size: 19px;
-	line-height: 1.31;
+	letter-spacing: 2px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;

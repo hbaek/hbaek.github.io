@@ -1,7 +1,7 @@
 .version.carnation_crown /* version checker */
 {
-	color: #0000E9;
-	background-color: #DE369C;
+	color: #000019;
+	background-color: #26FC4C;
 }
 
 .html
@@ -450,7 +450,7 @@
 	z-index: 77;
 }
 
-#u8164
+#u8182
 {
 	z-index: 78;
 	width: 444px;
@@ -462,7 +462,7 @@
 	position: relative;
 }
 
-#u8173
+#u15599
 {
 	z-index: 80;
 	width: 444px;
@@ -474,7 +474,7 @@
 	position: relative;
 }
 
-#u8182
+#u15608
 {
 	z-index: 82;
 	width: 444px;
@@ -486,7 +486,7 @@
 	position: relative;
 }
 
-#u8191
+#u15617
 {
 	z-index: 84;
 	width: 444px;
@@ -511,7 +511,7 @@
 	z-index: 86;
 }
 
-#u8167
+#u8185
 {
 	z-index: 87;
 	width: 91px;
@@ -522,7 +522,7 @@
 	margin-right: -10000px;
 }
 
-#u8176
+#u15602
 {
 	z-index: 89;
 	width: 91px;
@@ -534,7 +534,7 @@
 	left: 101px;
 }
 
-#u8185
+#u15611
 {
 	z-index: 91;
 	width: 91px;
@@ -546,7 +546,7 @@
 	left: 202px;
 }
 
-#u8194
+#u15620
 {
 	z-index: 93;
 	width: 91px;
@@ -558,7 +558,7 @@
 	left: 303px;
 }
 
-#u8167.SSSlideLinkSelected,#u8176.SSSlideLinkSelected,#u8185.SSSlideLinkSelected,#u8194.SSSlideLinkSelected
+#u8185.SSSlideLinkSelected,#u15602.SSSlideLinkSelected,#u15611.SSSlideLinkSelected,#u15620.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;

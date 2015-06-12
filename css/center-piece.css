@@ -1,7 +1,7 @@
 .version.center_piece /* version checker */
 {
-	color: #0000F7;
-	background-color: #A93425;
+	color: #000005;
+	background-color: #615FCF;
 }
 
 .html
@@ -517,10 +517,10 @@
 	z-index: 76;
 	width: 195px;
 	min-height: 47px;
-	letter-spacing: 2px;
+	line-height: 1.31;
 	color: #5B5B5B;
 	font-size: 19px;
-	line-height: 1.31;
+	letter-spacing: 2px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -532,10 +532,10 @@
 	z-index: 81;
 	width: 195px;
 	min-height: 47px;
-	letter-spacing: 2px;
+	line-height: 1.31;
 	color: #5B5B5B;
 	font-size: 19px;
-	line-height: 1.31;
+	letter-spacing: 2px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -548,10 +548,10 @@
 	z-index: 86;
 	width: 195px;
 	min-height: 47px;
-	letter-spacing: 2px;
+	line-height: 1.31;
 	color: #5B5B5B;
 	font-size: 19px;
-	line-height: 1.31;
+	letter-spacing: 2px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -593,10 +593,10 @@
 	z-index: 91;
 	width: 195px;
 	min-height: 47px;
-	letter-spacing: 2px;
+	line-height: 1.31;
 	color: #5B5B5B;
 	font-size: 19px;
-	line-height: 1.31;
+	letter-spacing: 2px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 118px;
