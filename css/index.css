@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
 	color: #0000E8;
-	background-color: #F13997;
+	background-color: #E1C383;
 }
 
 .html
@@ -362,12 +362,34 @@
 	top: 6px;
 }
 
+#pu12903-3
+{
+	width: 0.01px;
+	margin-left: 130px;
+	margin-top: 93px;
+}
+
 #u12903-3
 {
 	z-index: 6;
 	width: 5px;
-	margin-left: 130px;
-	margin-top: 135px;
+	margin-right: -10000px;
+	margin-top: 42px;
+}
+
+#u16805
+{
+	z-index: 71;
+	width: 438px;
+	height: 578px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 186px;
+	background: #FFFFFF url("../images/4.jpg") no-repeat left top;
 }
 
 #u12906
@@ -376,7 +398,7 @@
 	width: 601px;
 	height: 336px;
 	margin-left: 410px;
-	margin-top: 825px;
+	margin-top: 305px;
 }
 
 .ie #u12900,.ie #u12906

@@ -276,13 +276,6 @@
 	-pie-background: rgba(255, 255, 255, 1);
 }
 
-#u12855.MuseMenuActive #u12858-4
-{
-	background-color: #E3FFFF;
-	background-color: rgba(195, 255, 255, 0.46);
-	-pie-background: rgba(195, 255, 255, 0.46);
-}
-
 #u12855:hover #u12858-4 p
 {
 	text-decoration: underline;
@@ -331,11 +324,9 @@
 	-pie-background: rgba(255, 255, 255, 1);
 }
 
-#u12862.MuseMenuActive #u12864-4
+#u12855.MuseMenuActive #u12858-4,#u12862.MuseMenuActive #u12864-4
 {
-	background-color: #E3FFFF;
-	background-color: rgba(195, 255, 255, 0.46);
-	-pie-background: rgba(195, 255, 255, 0.46);
+	background-color: transparent;
 }
 
 #u12862:hover #u12864-4 p
