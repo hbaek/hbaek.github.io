@@ -1,7 +1,7 @@
 .version.floral_corwn /* version checker */
 {
-	color: #0000F2;
-	background-color: #54C167;
+	color: #0000E7;
+	background-color: #F3CB8D;
 }
 
 .html
@@ -596,8 +596,8 @@
 	z-index: 115;
 	width: 142px;
 	min-height: 47px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 15px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
