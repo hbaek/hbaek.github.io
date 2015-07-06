@@ -1,7 +1,7 @@
 .version.hemlock_angle /* version checker */
 {
-	color: #0000FE;
-	background-color: #67FDCB;
+	color: #0000E6;
+	background-color: #FA3A92;
 }
 
 .html
@@ -392,35 +392,34 @@
 	left: 74px;
 }
 
-#slideshowu8827
+#slideshowu19426
 {
 	z-index: 73;
 	width: 0.01px;
-	height: 778px;
-	margin-left: 102px;
-	margin-top: 131px;
+	height: 867px;
+	margin-left: 271px;
+	margin-top: 69px;
 	position: relative;
 }
 
-#u8831
+#u19428
 {
 	position: absolute;
-	width: 444px;
-	height: 582px;
+	width: 547px;
+	height: 670px;
 	background-color: transparent;
-	left: 41px;
 }
 
-#u8831popup
+#u19428popup
 {
 	z-index: 74;
 }
 
-#u8896
+#u19494
 {
 	z-index: 75;
-	width: 444px;
-	height: 582px;
+	width: 547px;
+	height: 670px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -428,11 +427,11 @@
 	position: relative;
 }
 
-#u15752
+#u19503
 {
 	z-index: 77;
-	width: 444px;
-	height: 582px;
+	width: 547px;
+	height: 670px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -440,11 +439,11 @@
 	position: relative;
 }
 
-#u15761
+#u19512
 {
 	z-index: 79;
-	width: 444px;
-	height: 582px;
+	width: 547px;
+	height: 670px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -452,11 +451,11 @@
 	position: relative;
 }
 
-#u15770
+#u19521
 {
 	z-index: 81;
-	width: 444px;
-	height: 582px;
+	width: 547px;
+	height: 670px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -464,20 +463,25 @@
 	position: relative;
 }
 
-#u8841
+#u19494_img,#u19503_img,#u19512_img,#u19521_img
+{
+	padding: 15px 29px 14px;
+}
+
+#u19446
 {
 	position: absolute;
 	width: 394px;
-	top: 604px;
-	left: 65px;
+	top: 693px;
+	left: 76px;
 }
 
-#u8841popup
+#u19446popup
 {
 	z-index: 83;
 }
 
-#u8899
+#u19497
 {
 	z-index: 84;
 	width: 91px;
@@ -488,7 +492,7 @@
 	margin-right: -10000px;
 }
 
-#u15755
+#u19506
 {
 	z-index: 86;
 	width: 91px;
@@ -500,7 +504,7 @@
 	left: 101px;
 }
 
-#u15764
+#u19515
 {
 	z-index: 88;
 	width: 91px;
@@ -512,7 +516,7 @@
 	left: 202px;
 }
 
-#u15773
+#u19524
 {
 	z-index: 90;
 	width: 91px;
@@ -524,7 +528,7 @@
 	left: 303px;
 }
 
-#u8899.SSSlideLinkSelected,#u15755.SSSlideLinkSelected,#u15764.SSSlideLinkSelected,#u15773.SSSlideLinkSelected
+#u19497.SSSlideLinkSelected,#u19506.SSSlideLinkSelected,#u19515.SSSlideLinkSelected,#u19524.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
@@ -541,118 +545,64 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#pu12903-3
-{
-	width: 0.01px;
-	margin-left: 130px;
-	margin-top: -778px;
-}
-
 #u12903-3
 {
 	z-index: 6;
 	width: 5px;
-	margin-right: -10000px;
-	margin-top: 4px;
+	margin-left: 130px;
+	top: -801px;
+	margin-bottom: -17px;
 }
 
-#u8826-4
+#u19465-5
+{
+	z-index: 103;
+	width: 52px;
+	min-height: 48px;
+	font-size: 21px;
+	text-align: left;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	-webkit-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
+	-ms-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
+	-o-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
+	transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
+	margin-left: 314px;
+	top: -128px;
+	margin-bottom: -59px;
+	position: relative;
+}
+
+#u19465
+{
+	font-style: italic;
+}
+
+#u19465-3
+{
+	color: #E21E79;
+}
+
+#u19457-4
 {
 	z-index: 92;
-	width: 312px;
+	width: 356px;
 	min-height: 36px;
 	font-size: 22px;
 	letter-spacing: 5px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
+	margin-left: 367px;
+	top: -60px;
+	margin-bottom: -36px;
 	position: relative;
-	margin-right: -10000px;
-	left: 497px;
 }
 
-#pu8825-16
+#pu12906
 {
 	width: 0.01px;
-	margin-left: 627px;
-	margin-top: -702px;
-}
-
-#u8825-16
-{
-	z-index: 96;
-	width: 302px;
-	min-height: 360px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	position: relative;
-	margin-right: -10000px;
-	left: 10px;
-}
-
-#u8825-2
-{
-	font-size: 21px;
-	text-align: left;
-	font-style: italic;
-}
-
-#u8825-4
-{
-	font-size: 21px;
-	text-align: left;
-	color: #E21E79;
-}
-
-#u8825-8,#u8825-10
-{
-	font-size: 18px;
-	letter-spacing: 1px;
-}
-
-#u8825-5,#u8825-6,#u8825-11,#u8825-12,#u8825-13,#u8825-14
-{
-	font-size: 21px;
-}
-
-#u8975
-{
-	z-index: 112;
-	width: 77px;
-	min-height: 24px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 301px;
-	left: 83px;
-}
-
-#u8977
-{
-	z-index: 113;
-	width: 44px;
-	min-height: 24px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 301px;
-	left: 170px;
-}
-
-#u8979
-{
-	z-index: 114;
-	width: 77px;
-	min-height: 24px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 301px;
+	margin-left: 345px;
+	margin-top: -4px;
 }
 
 #u12906
@@ -660,8 +610,9 @@
 	z-index: 72;
 	width: 601px;
 	height: 336px;
-	margin-left: 410px;
-	margin-top: 68px;
+	margin-right: -10000px;
+	margin-top: 54px;
+	left: 65px;
 }
 
 .ie #u12900,.ie #u12906
@@ -670,6 +621,57 @@
 	opacity: 0.01;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 	filter: alpha(opacity=1);
+}
+
+#u19458-4
+{
+	z-index: 96;
+	width: 400px;
+	min-height: 85px;
+	font-size: 16px;
+	letter-spacing: 1px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u19459
+{
+	z-index: 100;
+	width: 107px;
+	min-height: 24px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 153px;
+}
+
+#u19461
+{
+	z-index: 101;
+	width: 61px;
+	min-height: 24px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 105px;
+}
+
+#u19463
+{
+	z-index: 102;
+	width: 107px;
+	min-height: 24px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 129px;
 }
 
 body

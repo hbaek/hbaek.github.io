@@ -1,7 +1,7 @@
 .version.carnation_crown /* version checker */
 {
-	color: #0000EA;
-	background-color: #D11538;
+	color: #0000F0;
+	background-color: #FC1F08;
 }
 
 .html
@@ -80,6 +80,14 @@
 {
 	z-index: 12;
 	height: 52px;
+}
+
+.ie #u12900
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
 }
 
 #u12900-bw
@@ -392,35 +400,34 @@
 	left: 74px;
 }
 
-#slideshowu7345
+#slideshowu19942
 {
 	z-index: 73;
 	width: 0.01px;
-	height: 778px;
-	margin-left: 102px;
-	margin-top: 131px;
+	height: 867px;
+	margin-left: 309px;
+	margin-top: 64px;
 	position: relative;
 }
 
-#u7362
+#u19953
 {
 	position: absolute;
-	width: 444px;
-	height: 582px;
+	width: 547px;
+	height: 670px;
 	background-color: transparent;
-	left: 41px;
 }
 
-#u7362popup
+#u19953popup
 {
 	z-index: 74;
 }
 
-#u8182
+#u20003
 {
 	z-index: 75;
-	width: 444px;
-	height: 582px;
+	width: 547px;
+	height: 670px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -428,11 +435,11 @@
 	position: relative;
 }
 
-#u15599
+#u20012
 {
 	z-index: 77;
-	width: 444px;
-	height: 582px;
+	width: 547px;
+	height: 670px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -440,11 +447,11 @@
 	position: relative;
 }
 
-#u15608
+#u20021
 {
 	z-index: 79;
-	width: 444px;
-	height: 582px;
+	width: 547px;
+	height: 670px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -452,11 +459,11 @@
 	position: relative;
 }
 
-#u15617
+#u20030
 {
 	z-index: 81;
-	width: 444px;
-	height: 582px;
+	width: 547px;
+	height: 670px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -464,20 +471,25 @@
 	position: relative;
 }
 
-#u7349
+#u20003_img,#u20012_img,#u20021_img,#u20030_img
+{
+	padding: 15px 29px 14px;
+}
+
+#u19946
 {
 	position: absolute;
 	width: 394px;
-	top: 604px;
-	left: 65px;
+	top: 693px;
+	left: 76px;
 }
 
-#u7349popup
+#u19946popup
 {
 	z-index: 83;
 }
 
-#u8185
+#u20006
 {
 	z-index: 84;
 	width: 91px;
@@ -488,7 +500,7 @@
 	margin-right: -10000px;
 }
 
-#u15602
+#u20015
 {
 	z-index: 86;
 	width: 91px;
@@ -500,7 +512,7 @@
 	left: 101px;
 }
 
-#u15611
+#u20024
 {
 	z-index: 88;
 	width: 91px;
@@ -512,7 +524,7 @@
 	left: 202px;
 }
 
-#u15620
+#u20033
 {
 	z-index: 90;
 	width: 91px;
@@ -524,7 +536,7 @@
 	left: 303px;
 }
 
-#u8185.SSSlideLinkSelected,#u15602.SSSlideLinkSelected,#u15611.SSSlideLinkSelected,#u15620.SSSlideLinkSelected
+#u20006.SSSlideLinkSelected,#u20015.SSSlideLinkSelected,#u20024.SSSlideLinkSelected,#u20033.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
@@ -541,135 +553,119 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#pu12903-3
-{
-	width: 0.01px;
-	margin-left: 130px;
-	margin-top: -778px;
-}
-
 #u12903-3
 {
 	z-index: 6;
 	width: 5px;
-	margin-right: -10000px;
-	margin-top: 4px;
+	margin-left: 130px;
+	top: -796px;
+	margin-bottom: -17px;
 }
 
-#u7409-4
+#u19976-5
+{
+	z-index: 103;
+	width: 52px;
+	min-height: 48px;
+	font-size: 21px;
+	text-align: left;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	-webkit-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
+	-ms-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
+	-o-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
+	transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
+	margin-left: 352px;
+	top: -128px;
+	margin-bottom: -59px;
+	position: relative;
+}
+
+#u19976
+{
+	font-style: italic;
+}
+
+#u19976-3
+{
+	color: #E21E79;
+}
+
+#u19968-4
 {
 	z-index: 92;
-	width: 312px;
+	width: 356px;
 	min-height: 36px;
 	font-size: 22px;
 	letter-spacing: 5px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
+	margin-left: 405px;
+	top: -60px;
+	margin-bottom: -36px;
 	position: relative;
-	margin-right: -10000px;
-	left: 497px;
 }
 
-#pu7410-13
+#pu12906
 {
 	width: 0.01px;
-	margin-left: 627px;
-	margin-top: -702px;
-}
-
-#u7410-13
-{
-	z-index: 96;
-	width: 302px;
-	min-height: 360px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	position: relative;
-	margin-right: -10000px;
-	left: 10px;
-}
-
-#u7410-2
-{
-	font-size: 21px;
-	text-align: left;
-	font-style: italic;
-}
-
-#u7410-4
-{
-	font-size: 21px;
-	text-align: left;
-	color: #E21E79;
-}
-
-#u7410-8
-{
-	font-size: 18px;
-	letter-spacing: 1px;
-}
-
-#u7410-5,#u7410-6,#u7410-9,#u7410-10,#u7410-11
-{
-	font-size: 21px;
-}
-
-#u8951
-{
-	z-index: 109;
-	width: 77px;
-	min-height: 24px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 280px;
-	left: 83px;
-}
-
-#u8953
-{
-	z-index: 110;
-	width: 44px;
-	min-height: 24px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 280px;
-	left: 170px;
-}
-
-#u8955
-{
-	z-index: 111;
-	width: 77px;
-	min-height: 24px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 280px;
+	padding-bottom: 207px;
+	margin-left: 383px;
+	margin-top: -4px;
 }
 
 #u12906
 {
 	z-index: 72;
-	width: 601px;
-	height: 336px;
-	margin-left: 410px;
-	margin-top: 68px;
+	width: 107px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 116px;
 }
 
-.ie #u12900,.ie #u12906
+#u19972
 {
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
+	z-index: 101;
+	width: 61px;
+	min-height: 24px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u19974
+{
+	z-index: 102;
+	width: 107px;
+	min-height: 24px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u19970
+{
+	z-index: 100;
+	width: 107px;
+	min-height: 24px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u19969-4
+{
+	z-index: 96;
+	width: 400px;
+	min-height: 85px;
+	font-size: 16px;
+	letter-spacing: 1px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
 }
 
 body

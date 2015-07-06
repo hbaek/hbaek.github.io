@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000EA;
-	background-color: #A37223;
+	color: #000002;
+	background-color: #A77CDE;
 }
 
 .html
@@ -407,32 +407,33 @@
 	margin-top: 55px;
 }
 
-#u5862
+#u16819
 {
 	z-index: 73;
+	width: 607px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 10px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 149px;
+}
+
+#u5862
+{
+	z-index: 74;
 	width: 532px;
-	min-height: 652px;
+	min-height: 783px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 177px;
-}
-
-#u16819
-{
-	z-index: 74;
-	width: 607px;
-	height: 576px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 149px;
+	margin-top: 11px;
+	left: 27px;
 }
 
 #u16820
@@ -444,8 +445,22 @@
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 586px;
-	left: 163px;
+	margin-top: 562px;
+	left: 168px;
+}
+
+#u18409
+{
+	z-index: 76;
+	width: 283px;
+	height: 297px;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 498px;
+	left: 446px;
+	background: #FFFFFF url("../images/contact.gif") no-repeat left top;
+	background-size: cover;
 }
 
 #u12906
@@ -454,7 +469,7 @@
 	width: 601px;
 	height: 336px;
 	margin-left: 410px;
-	margin-top: 225px;
+	margin-top: 92px;
 }
 
 .ie #u12900,.ie #u12906
