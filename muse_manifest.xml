@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1436158191479">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1436158602211">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
@@ -68,7 +68,7 @@
     <file name="straw.css" crc="4253354474" ref="straw"/>
     <file name="center-piece.css" crc="4240337262" ref="center-piece"/>
     <file name="orange-and-white.css" crc="4080526031" ref="orange-and-white"/>
-    <file name="floral-corwn.css" crc="4154558985" ref="floral-corwn"/>
+    <file name="floral-corwn.css" crc="4130076043" ref="floral-corwn"/>
     <file name="bouquet.css" crc="4028328764" ref="bouquet"/>
     <file name="ivory-and-green.css" crc="377871590" ref="ivory-and-green"/>
     <file name="felt.css" crc="4135744410" ref="felt"/>
@@ -132,14 +132,13 @@
     <file name="txt1.jpg" crc="125131792" ref="fine-arts"/>
     <file name="pnt.jpg" crc="471885379" ref="fine-arts"/>
     <file name="txt2.jpg" crc="3990953601" ref="fine-arts"/>
-    <file name="1.jpg" crc="4152447554" ref="carnation-crown:fruit-punch"/>
+    <file name="1.jpg" crc="28661809" ref="carnation-crown:fruit-punch:floral-corwn"/>
     <file name="2.jpg" crc="165610523" ref="carnation-crown:fruit-punch"/>
     <file name="3.jpg" crc="80459334" ref="carnation-crown:fruit-punch"/>
     <file name="4.jpg" crc="417650474" ref="index:carnation-halo:fruit-punch"/>
     <file name="thumbnail-u8133-fr.jpg" crc="383789983" ref="floral-corwn"/>
     <file name="thumbnail-u8134-fr.jpg" crc="4058770386" ref="floral-corwn"/>
     <file name="thumbnail-u8143-fr.jpg" crc="4022776438" ref="floral-corwn"/>
-    <file name="12.jpg" crc="28661809" ref="floral-corwn"/>
     <file name="22.jpg" crc="4168395157" ref="carnation-halo"/>
     <file name="32.jpg" crc="346508464" ref="carnation-halo"/>
     <file name="42.jpg" crc="3976274469" ref="carnation-crown"/>
@@ -443,7 +442,7 @@
   <file name="sonic-playground.html" crc="3947704309" mt="1435533207728" redirect="true"/>
   <file name="how-do-i-love-thee.html" crc="392919932" mt="1435707117581" redirect="true"/>
   <file name="carnation-crown.html" crc="4112177895" mt="1436157315161" redirect="true"/>
-  <file name="floral-corwn.html" crc="3790886409" mt="1436152379537" redirect="true"/>
+  <file name="floral-corwn.html" crc="82712266" mt="1436158590251" redirect="true"/>
   <file name="straw.html" crc="4160583920" mt="1435508660072" redirect="true"/>
   <file name="bouquet.html" crc="3764568716" mt="1435508660070" redirect="true"/>
   <file name="felt.html" crc="4182630931" mt="1435508660066" redirect="true"/>
