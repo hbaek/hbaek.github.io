@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1436158602211">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1436233778198">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
@@ -56,7 +56,7 @@
   <folder name="css">
     <file name="site_global.css" crc="72584779"/>
     <file name="textile-0_2.css" crc="223122131" ref="textile-0.2"/>
-    <file name="index.css" crc="4129451090" ref="index"/>
+    <file name="index.css" crc="4135887787" ref="index"/>
     <file name="under-the-willow-tree.css" crc="3848022709" ref="under-the-willow-tree"/>
     <file name="how-do-i-love-thee.css" crc="4003465985" ref="how-do-i-love-thee"/>
     <file name="contact.css" crc="44530910" ref="contact"/>
@@ -436,7 +436,7 @@
   </folder>
   <file name="fine-arts.html" crc="4154526235" mt="1436139592576" redirect="true"/>
   <file name="contact.html" crc="348071329" mt="1436141674132" redirect="true"/>
-  <file name="index.html" crc="258084051" mt="1436158171197" redirect="true"/>
+  <file name="index.html" crc="136614506" mt="1436233764285" redirect="true"/>
   <file name="under-the-willow-tree.html" crc="343133722" mt="1435695211766" redirect="true"/>
   <file name="textile-0.2.html" crc="3888706422" mt="1435704848974" redirect="true"/>
   <file name="sonic-playground.html" crc="3947704309" mt="1435533207728" redirect="true"/>
