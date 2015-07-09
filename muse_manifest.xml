@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1436423943466">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1436424374537">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
@@ -54,7 +54,7 @@
     <file name="fruit-punch.html" crc="405674815" mt="1430782044646" redirect="false"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="72584779"/>
+    <file name="site_global.css" crc="246345996"/>
     <file name="textile-0_2.css" crc="223122131" ref="textile-0.2"/>
     <file name="index.css" crc="4076890121" ref="index"/>
     <file name="under-the-willow-tree.css" crc="3848022709" ref="under-the-willow-tree"/>
@@ -82,7 +82,7 @@
     <file name="balck-acorn.css" crc="515212128" ref="balck-acorn"/>
     <file name="millinery.css" crc="4144530139" ref="millinery"/>
     <file name="floral.css" crc="328914325" ref="floral"/>
-    <file name="master_portfolio.css" crc="335962237" ref="under-the-willow-tree:textile-0.2:how-do-i-love-thee:sonic-playground:center-piece:fine-arts:winzlear-gear:white-straw-and-black-crosses:straw:felt:dear-mother:double-side-band-floral:fruit-punch:floral-corwn:carnation-crown:birthday-k:bouquet:bohemian-rose-yy:index:hemlock-angle:bohemian-pink-yy:orange-and-white:bohemian-green-yy:millinery:side-band-rose:wild-forget-me-not:floral:oragne-heaven-and-hell:ivory-and-green:nightcap-lilly:balck-acorn:burgendy-rose:carnation-halo:contact:silver-beaded-night-casque:rabit-furr-study:textile-01:natural-history-illustration:textile-0.3:leave-corwn:three-rose-band:druid-crown"/>
+    <file name="master_portfolio.css" crc="219312294" ref="under-the-willow-tree:textile-0.2:how-do-i-love-thee:sonic-playground:center-piece:fine-arts:winzlear-gear:white-straw-and-black-crosses:straw:felt:dear-mother:double-side-band-floral:fruit-punch:floral-corwn:carnation-crown:birthday-k:bouquet:bohemian-rose-yy:index:hemlock-angle:bohemian-pink-yy:orange-and-white:bohemian-green-yy:millinery:side-band-rose:wild-forget-me-not:floral:oragne-heaven-and-hell:ivory-and-green:nightcap-lilly:balck-acorn:burgendy-rose:carnation-halo:contact:silver-beaded-night-casque:rabit-furr-study:textile-01:natural-history-illustration:textile-0.3:leave-corwn:three-rose-band:druid-crown"/>
     <file name="double-side-band-floral.css" crc="215751394" ref="double-side-band-floral"/>
     <file name="dear-mother.css" crc="375331555" ref="dear-mother"/>
     <file name="burgendy-rose.css" crc="4123583342" ref="burgendy-rose"/>
@@ -97,7 +97,7 @@
     <file name="textile-0_3.css" crc="217862243" ref="textile-0.3"/>
     <file name="leave-corwn.css" crc="224428150" ref="leave-corwn"/>
     <file name="three-rose-band.css" crc="4213028176" ref="three-rose-band"/>
-    <file name="druid-crown.css" crc="4250219771" ref="druid-crown"/>
+    <file name="druid-crown.css" crc="3798909920" ref="druid-crown"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3850798583" ref="phone>index:phone>contact:fine-arts:contact:index:under-the-willow-tree:textile-0.2:sonic-playground:how-do-i-love-thee:carnation-crown:floral-corwn:straw:bouquet:felt:center-piece:carnation-halo:ivory-and-green:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:tablet>index:tablet>contact:tablet>fine-arts:tablet>sonic-playground:tablet>under-the-willow-tree:tablet>how-do-i-love-thee:tablet>textile-0.1:tablet>textile-0.2:tablet>peanut-shell-study:tablet>water-color-0.1:tablet>millinery---floral:tablet>straw:tablet>felt:tablet>floral-corwn:tablet>carnation-crown:tablet>carnation-halo:tablet>ivory-and-green:tablet>leaves:tablet>side-band-rose:tablet>hemlock-angle:tablet>orange-and-white:tablet>bouquet:tablet>birthday-k:tablet>center-piece:tablet>fruit-punch:phone>fine-arts:phone>sonic-playground:phone>under-the-willow-tree:phone>how-do-i-love-thee:phone>textile-0.1:phone>textile-0.2:phone>peanut-shell-study:phone>water-color-0.1:phone>millinery---floral:phone>felt:phone>floral-corwn:phone>carnation-crown:phone>carnation-halo:phone>ivory-and-green:phone>leaves:phone>side-band-rose:phone>hemlock-angle:phone>orange-and-white:phone>straw:phone>white-straw-and-black-crosses:phone>bouquet:phone>birthday-k:phone>center-piece:phone>fruit-punch:white-straw-and-black-crosses:winzlear-gear:silver-beaded-night-casque:balck-acorn:oragne-heaven-and-hell:floral:millinery:double-side-band-floral:nightcap-lilly:wild-forget-me-not:burgendy-rose:bohemian-green-yy:bohemian-pink-yy:bohemian-rose-yy:dear-mother:textile-0.3:natural-history-illustration:textile-01:rabit-furr-study:leave-corwn:three-rose-band:druid-crown"/>
@@ -135,7 +135,7 @@
     <file name="txt2.jpg" crc="3990953601" ref="fine-arts"/>
     <file name="1.jpg" crc="3960268437" ref="carnation-crown:fruit-punch:three-rose-band"/>
     <file name="2.jpg" crc="165610523" ref="carnation-crown:fruit-punch"/>
-    <file name="3.jpg" crc="54150915" ref="carnation-crown:fruit-punch:floral-corwn:three-rose-band"/>
+    <file name="3.jpg" crc="408884217" ref="carnation-crown:fruit-punch:floral-corwn:three-rose-band:druid-crown"/>
     <file name="4.jpg" crc="3793922299" ref="carnation-halo:fruit-punch:three-rose-band:druid-crown"/>
     <file name="thumbnail-u8133-fr.jpg" crc="383789983" ref="floral-corwn"/>
     <file name="thumbnail-u8134-fr.jpg" crc="4058770386" ref="floral-corwn"/>
@@ -145,7 +145,7 @@
     <file name="42.jpg" crc="3976274469" ref="carnation-crown"/>
     <file name="13.jpg" crc="257927198" ref="carnation-halo"/>
     <file name="23.jpg" crc="254235569" ref="ivory-and-green"/>
-    <file name="33.jpg" crc="408884217" ref="ivory-and-green:druid-crown"/>
+    <file name="33.jpg" crc="408884217" ref="ivory-and-green"/>
     <file name="43.jpg" crc="52514591" ref="hemlock-angle"/>
     <file name="14.jpg" crc="4121972625" ref="ivory-and-green"/>
     <file name="24.jpg" crc="4076562044" ref="hemlock-angle"/>
@@ -441,7 +441,7 @@
   </folder>
   <file name="fine-arts.html" crc="4154526235" mt="1436139592576" redirect="true"/>
   <file name="contact.html" crc="348071329" mt="1436141674132" redirect="true"/>
-  <file name="index.html" crc="4243621728" mt="1436423726216" redirect="true"/>
+  <file name="index.html" crc="4243621728" mt="1436424353272" redirect="true"/>
   <file name="under-the-willow-tree.html" crc="343133722" mt="1435695211766" redirect="true"/>
   <file name="textile-0.2.html" crc="3888706422" mt="1435704848974" redirect="true"/>
   <file name="sonic-playground.html" crc="3947704309" mt="1435533207728" redirect="true"/>
@@ -480,5 +480,5 @@
   <file name="rabit-furr-study.html" crc="36943582" mt="1435721640757" redirect="true"/>
   <file name="leave-corwn.html" crc="4049500762" mt="1436157691827" redirect="true"/>
   <file name="three-rose-band.html" crc="4252025131" mt="1436423241541" redirect="true"/>
-  <file name="druid-crown.html" crc="4103453457" mt="1436423726449" redirect="true"/>
+  <file name="druid-crown.html" crc="173376006" mt="1436424329235" redirect="true"/>
 </manifest>

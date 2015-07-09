@@ -1,7 +1,7 @@
 .version.druid_crown /* version checker */
 {
-	color: #0000FD;
-	background-color: #5534FB;
+	color: #0000E2;
+	background-color: #6EC3E0;
 }
 
 .html
@@ -447,13 +447,32 @@
 
 #u20417_img
 {
-	padding-left: 18px;
-	padding-right: 19px;
+	padding-left: 19px;
+	padding-right: 18px;
+}
+
+#u20426
+{
+	z-index: 79;
+	width: 547px;
+	height: 670px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u20426_img
+{
+	padding-left: 1px;
+	padding-top: 19px;
+	padding-bottom: 18px;
 }
 
 #u20408
 {
-	z-index: 79;
+	z-index: 81;
 	width: 547px;
 	height: 670px;
 	border-style: none;
@@ -467,24 +486,6 @@
 {
 	padding-top: 26px;
 	padding-bottom: 26px;
-}
-
-#u20426
-{
-	z-index: 81;
-	width: 547px;
-	height: 670px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u20426_img
-{
-	padding-top: 18px;
-	padding-bottom: 19px;
 }
 
 #u20360
@@ -523,7 +524,7 @@
 	left: 101px;
 }
 
-#u20411
+#u20429
 {
 	z-index: 88;
 	width: 91px;
@@ -535,7 +536,7 @@
 	left: 202px;
 }
 
-#u20429
+#u20411
 {
 	z-index: 90;
 	width: 91px;
@@ -547,7 +548,7 @@
 	left: 303px;
 }
 
-#u20402.SSSlideLinkSelected,#u20420.SSSlideLinkSelected,#u20411.SSSlideLinkSelected,#u20429.SSSlideLinkSelected
+#u20402.SSSlideLinkSelected,#u20420.SSSlideLinkSelected,#u20429.SSSlideLinkSelected,#u20411.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
