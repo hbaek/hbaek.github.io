@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F6;
-	background-color: #84A3AB;
+	color: #0000F3;
+	background-color: #006809;
 }
 
 .html
@@ -419,7 +419,8 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 198px;
-	background: #FFFFFF url("../images/4.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/5-u16805-fr.png") no-repeat center bottom;
+	background-size: cover;
 }
 
 #u12906
