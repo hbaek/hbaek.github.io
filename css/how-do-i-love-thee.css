@@ -1,7 +1,7 @@
 .version.how_do_i_love_thee /* version checker */
 {
-	color: #0000EE;
-	background-color: #A00B01;
+	color: #00001F;
+	background-color: #4C6EA1;
 }
 
 .html
@@ -583,8 +583,8 @@
 	position: absolute;
 	width: 30px;
 	min-height: 30px;
-	color: #FFFFFF;
 	line-height: 1.4;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -306px;
@@ -601,8 +601,8 @@
 	position: absolute;
 	width: 30px;
 	min-height: 30px;
-	color: #FFFFFF;
 	line-height: 1.4;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -306px;

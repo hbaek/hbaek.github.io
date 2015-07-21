@@ -1,7 +1,7 @@
 .version.straw /* version checker */
 {
-	color: #00001A;
-	background-color: #3E5409;
+	color: #0000F3;
+	background-color: #8EFF88;
 }
 
 .html
@@ -427,14 +427,14 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 132px;
-	background: transparent url("../images/thumbnail.jpg") no-repeat center bottom;
+	background: transparent url("../images/thumbnail6.jpg") no-repeat center bottom;
 }
 
 #u16371:hover
 {
 	border-style: none;
 	margin: 0px -10000px 0px 0px;
-	background: #FFFFFF url("../images/thumbnail.jpg") no-repeat center bottom;
+	background: #FFFFFF url("../images/thumbnail6.jpg") no-repeat center bottom;
 }
 
 #u16371:active
@@ -446,7 +446,7 @@
 	height: 498px;
 	min-height: 0px;
 	margin: -2px -10003px -3px -2px;
-	background: #FFFFFF url("../images/thumbnail.jpg") no-repeat center bottom;
+	background: #FFFFFF url("../images/thumbnail6.jpg") no-repeat center bottom;
 }
 
 #pu12906
@@ -510,7 +510,7 @@
 	margin-right: -10000px;
 	margin-top: 72px;
 	background: transparent url("../images/thumbnail2-ieu9797-fr.png") no-repeat left top;
-	background: rgba(0,0,0,0) url("../images/thumbnail2.jpg") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/thumbnail22.jpg") no-repeat left top;
 	background-color: transparent;
 	background-size: contain;
 }

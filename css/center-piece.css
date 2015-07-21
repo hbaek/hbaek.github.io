@@ -1,7 +1,7 @@
 .version.center_piece /* version checker */
 {
-	color: #0000FC;
-	background-color: #BE696E;
+	color: #00001A;
+	background-color: #EFC9A9;
 }
 
 .html
@@ -442,8 +442,8 @@
 	z-index: 73;
 	width: 174px;
 	min-height: 47px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 19px;
 	letter-spacing: 2px;
 	text-align: center;
@@ -480,8 +480,8 @@
 	z-index: 83;
 	width: 174px;
 	min-height: 37px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 19px;
 	letter-spacing: 2px;
 	text-align: center;
@@ -507,7 +507,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/thumbnail4.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail5.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -527,8 +527,8 @@
 	z-index: 88;
 	width: 195px;
 	min-height: 47px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 19px;
 	letter-spacing: 2px;
 	text-align: center;
@@ -576,8 +576,8 @@
 	z-index: 78;
 	width: 174px;
 	min-height: 47px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 19px;
 	letter-spacing: 2px;
 	text-align: center;

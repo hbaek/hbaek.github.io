@@ -1,7 +1,7 @@
 .version.felt /* version checker */
 {
-	color: #0000F6;
-	background-color: #82739A;
+	color: #00000C;
+	background-color: #6DE5BB;
 }
 
 .html
@@ -466,8 +466,8 @@
 	z-index: 73;
 	width: 195px;
 	min-height: 47px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 18px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -480,8 +480,8 @@
 	z-index: 79;
 	width: 253px;
 	min-height: 47px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 18px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
