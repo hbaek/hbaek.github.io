@@ -1,7 +1,7 @@
 .version.wild_forget_me_not /* version checker */
 {
-	color: #0000FA;
-	background-color: #39414C;
+	color: #000006;
+	background-color: #405201;
 }
 
 .html
@@ -593,6 +593,11 @@
 #u13546
 {
 	text-align: left;
+	font-style: italic;
+}
+
+#u13546-3
+{
 	font-style: italic;
 }
 

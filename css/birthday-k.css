@@ -1,7 +1,7 @@
 .version.birthday_k /* version checker */
 {
-	color: #0000EF;
-	background-color: #9C025D;
+	color: #00000F;
+	background-color: #1FB4F0;
 }
 
 .html
@@ -599,6 +599,7 @@
 #u9290-5
 {
 	letter-spacing: 1px;
+	font-style: italic;
 }
 
 #u9295

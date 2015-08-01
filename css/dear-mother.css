@@ -1,7 +1,7 @@
 .version.dear_mother /* version checker */
 {
-	color: #000016;
-	background-color: #5F1AE3;
+	color: #0000FB;
+	background-color: #A9C061;
 }
 
 .html
@@ -623,6 +623,7 @@
 #u14531-5,#u14531-7
 {
 	letter-spacing: 1px;
+	font-style: italic;
 }
 
 #u14532

@@ -1,7 +1,7 @@
 .version.nightcap_lilly /* version checker */
 {
-	color: #0000FB;
-	background-color: #EB2960;
+	color: #0000E7;
+	background-color: #2C5CD0;
 }
 
 .html
@@ -558,6 +558,7 @@
 #u13458-5,#u13458-7
 {
 	letter-spacing: 1px;
+	font-style: italic;
 }
 
 #u13421

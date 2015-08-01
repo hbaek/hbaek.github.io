@@ -1,7 +1,7 @@
 .version.straw /* version checker */
 {
-	color: #0000F3;
-	background-color: #8EFF88;
+	color: #000014;
+	background-color: #50A4A2;
 }
 
 .html
@@ -427,14 +427,14 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 132px;
-	background: transparent url("../images/thumbnail6.jpg") no-repeat center bottom;
+	background: transparent url("../images/thumbnail5.jpg") no-repeat center bottom;
 }
 
 #u16371:hover
 {
 	border-style: none;
 	margin: 0px -10000px 0px 0px;
-	background: #FFFFFF url("../images/thumbnail6.jpg") no-repeat center bottom;
+	background: #FFFFFF url("../images/thumbnail5.jpg") no-repeat center bottom;
 }
 
 #u16371:active
@@ -446,7 +446,7 @@
 	height: 498px;
 	min-height: 0px;
 	margin: -2px -10003px -3px -2px;
-	background: #FFFFFF url("../images/thumbnail6.jpg") no-repeat center bottom;
+	background: #FFFFFF url("../images/thumbnail5.jpg") no-repeat center bottom;
 }
 
 #pu12906

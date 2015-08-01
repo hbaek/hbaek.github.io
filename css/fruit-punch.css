@@ -1,7 +1,7 @@
 .version.fruit_punch /* version checker */
 {
-	color: #000016;
-	background-color: #748358;
+	color: #0000F9;
+	background-color: #D0F8EA;
 }
 
 .html
@@ -623,6 +623,7 @@
 #u9378-5,#u9378-7
 {
 	letter-spacing: 1px;
+	font-style: italic;
 }
 
 #u9376

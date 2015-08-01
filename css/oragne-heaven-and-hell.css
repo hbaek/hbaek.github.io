@@ -1,7 +1,7 @@
 .version.oragne_heaven_and_hell /* version checker */
 {
-	color: #0000F0;
-	background-color: #92746F;
+	color: #0000EC;
+	background-color: #F99598;
 }
 
 .html
@@ -599,6 +599,7 @@
 #u10527-5,#u10527-7
 {
 	letter-spacing: 1px;
+	font-style: italic;
 }
 
 #u10567

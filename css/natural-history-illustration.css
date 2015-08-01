@@ -1,7 +1,7 @@
 .version.natural_history_illustration /* version checker */
 {
-	color: #000005;
-	background-color: #7F02DE;
+	color: #00001D;
+	background-color: #152E5B;
 }
 
 .html
@@ -557,8 +557,8 @@
 	background-color: #101010;
 	padding-left: 10px;
 	padding-top: 10px;
-	line-height: 1.4;
 	color: #DEDEDE;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -626,8 +626,8 @@
 {
 	z-index: 91;
 	width: 19px;
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
@@ -657,8 +657,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
@@ -712,8 +712,8 @@
 	z-index: 101;
 	width: 20px;
 	min-height: 20px;
-	color: #FFFFFF;
 	line-height: 1.4;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -746,8 +746,8 @@
 	background-color: #151515;
 	padding-left: 10px;
 	padding-top: 10px;
-	line-height: 1.4;
 	color: #DEDEDE;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 73px;
 	top: -2032px;
