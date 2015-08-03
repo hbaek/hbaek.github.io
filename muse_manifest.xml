@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1438571110673">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1438571286737">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
@@ -499,7 +499,7 @@
   <file name="sonic-playground.html" crc="331172502" mt="1438312375837" redirect="true"/>
   <file name="how-do-i-love-thee.html" crc="4177391015" mt="1438312375837" redirect="true"/>
   <file name="carnation-crown.html" crc="3810570422" mt="1438312375838" redirect="true"/>
-  <file name="floral-corwn.html" crc="348191569" mt="1438571078608" redirect="true"/>
+  <file name="floral-corwn.html" crc="3951206814" mt="1438571269980" redirect="true"/>
   <file name="straw.html" crc="81191716" mt="1438312375844" redirect="true"/>
   <file name="felt.html" crc="491768440" mt="1438312375839" redirect="true"/>
   <file name="carnation-halo.html" crc="146027487" mt="1438312375840" redirect="true"/>
