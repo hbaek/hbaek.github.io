@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1444996221136">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1444996458529">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
@@ -54,7 +54,7 @@
     <file name="fruit-punch.html" crc="405674815" mt="1430782044646" redirect="false"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="72584779"/>
+    <file name="site_global.css" crc="4144233371"/>
     <file name="textile-0_2.css" crc="223122131" ref="textile-0.2"/>
     <file name="index.css" crc="367857396" ref="index"/>
     <file name="under-the-willow-tree.css" crc="3848022709" ref="under-the-willow-tree"/>
@@ -542,7 +542,7 @@
   <file name="silver-beaded-night-casque.html" crc="197362028" mt="1438312375846" redirect="true"/>
   <file name="balck-acorn.html" crc="506016516" mt="1438312375847" redirect="true"/>
   <file name="oragne-heaven-and-hell.html" crc="4244704148" mt="1438394190886" redirect="true"/>
-  <file name="floral.html" crc="3995242178" mt="1444996189380" redirect="true"/>
+  <file name="floral.html" crc="4284686325" mt="1444996441991" redirect="true"/>
   <file name="millinery.html" crc="3894323114" mt="1438312375849" redirect="true"/>
   <file name="double-side-band-floral.html" crc="3837305667" mt="1438312375852" redirect="true"/>
   <file name="nightcap-lilly.html" crc="4220736389" mt="1438394198227" redirect="true"/>
