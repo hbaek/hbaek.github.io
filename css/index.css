@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000009;
-	background-color: #8E71F4;
+	color: #000015;
+	background-color: #ED0EF4;
 }
 
 .html
@@ -410,7 +410,7 @@
 #u16805
 {
 	z-index: 73;
-	width: 434px;
+	width: 384px;
 	height: 579px;
 	border-width: 1px;
 	border-style: solid;
@@ -418,9 +418,9 @@
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	left: 198px;
-	background: #FFFFFF url("../images/test-u16805-fr.jpg") no-repeat center bottom;
-	background-size: cover;
+	left: 232px;
+	background: #FFFFFF url("../images/4-u16805-fr.jpg") no-repeat center bottom;
+	background-size: contain;
 }
 
 #u12906

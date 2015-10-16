@@ -1,7 +1,7 @@
 .version.floral_corwn /* version checker */
 {
-	color: #00000D;
-	background-color: #2D7D4B;
+	color: #0000E7;
+	background-color: #5A24C8;
 }
 
 .html
@@ -460,7 +460,7 @@
 	margin-right: -10000px;
 	margin-top: -2px;
 	left: 163px;
-	background: transparent url("../images/2.jpg") no-repeat center center;
+	background: #D2D6DC url("../images/2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
