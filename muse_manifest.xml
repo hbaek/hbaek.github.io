@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1446415972893">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1446416451171">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
@@ -54,7 +54,7 @@
     <file name="fruit-punch.html" crc="405674815" mt="1430782044646" redirect="false"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4144233371"/>
+    <file name="site_global.css" crc="72584779"/>
     <file name="textile-0_2.css" crc="223122131" ref="textile-0.2"/>
     <file name="index.css" crc="487681867" ref="index"/>
     <file name="under-the-willow-tree.css" crc="3848022709" ref="under-the-willow-tree"/>
@@ -79,7 +79,7 @@
     <file name="silver-beaded-night-casque.css" crc="237557813" ref="silver-beaded-night-casque"/>
     <file name="balck-acorn.css" crc="515212128" ref="balck-acorn"/>
     <file name="millinery.css" crc="3864555501" ref="millinery"/>
-    <file name="floral.css" crc="416923018" ref="floral"/>
+    <file name="floral.css" crc="4004351619" ref="floral"/>
     <file name="master_portfolio.css" crc="335962237" ref="under-the-willow-tree:textile-0.2:how-do-i-love-thee:sonic-playground:fine-arts:winzlear-gear:white-straw-and-black-crosses:straw:felt:dear-mother:double-side-band-floral:fruit-punch:floral-corwn:carnation-crown:birthday-k:bohemian-rose-yy:index:hemlock-angle:bohemian-pink-yy:orange-and-white:bohemian-green-yy:millinery:side-band-rose:wild-forget-me-not:floral:oragne-heaven-and-hell:ivory-and-green:nightcap-lilly:balck-acorn:burgendy-rose:carnation-halo:contact:silver-beaded-night-casque:rabit-furr-study:textile-01:natural-history-illustration:textile-0.3:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:ribbon-beret:fall-burgundy-shade:green-spring-bonet:undergrowth-drapry:birthday-s"/>
     <file name="double-side-band-floral.css" crc="215751394" ref="double-side-band-floral"/>
     <file name="dear-mother.css" crc="4222206049" ref="dear-mother"/>
@@ -395,7 +395,6 @@
     <file name="4.gif" crc="457870661" ref="satin-buttercup"/>
     <file name="2-u21779-fr.jpg" crc="531632670" ref="floral"/>
     <file name="2-u21789-fr.jpg" crc="496450029" ref="floral"/>
-    <file name="2-u21823-fr.jpg" crc="4201340678" ref="floral"/>
     <file name="1-u21884-fr.jpg" crc="3855449634" ref="floral"/>
     <file name="5-u21895-fr.jpg" crc="156969236" ref="floral"/>
     <file name="117.jpg" crc="11802115" ref="dear-mother"/>
@@ -462,6 +461,9 @@
     <file name="dsc03503-crop-u23637.jpg" crc="3777100141" ref="birthday-s"/>
     <file name="dsc03505-crop-u23646.jpg" crc="4005645686" ref="birthday-s"/>
     <file name="dsc03508-crop-u23655.jpg" crc="4174433243" ref="birthday-s"/>
+    <file name="1-u21823-fr.jpg" crc="4232813029" ref="floral"/>
+    <file name="1-u23787-fr.jpg" crc="483155553" ref="floral"/>
+    <file name="2-u23780-fr.jpg" crc="4201340678" ref="floral"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -521,7 +523,7 @@
   </folder>
   <file name="fine-arts.html" crc="3777453165" mt="1438312375835" redirect="true"/>
   <file name="contact.html" crc="4007488945" mt="1438312375836" redirect="true"/>
-  <file name="index.html" crc="501218284" mt="1446415679203" redirect="true"/>
+  <file name="index.html" crc="418075426" mt="1446416429903" redirect="true"/>
   <file name="under-the-willow-tree.html" crc="4082723614" mt="1438312375849" redirect="true"/>
   <file name="textile-0.2.html" crc="401895000" mt="1438312375850" redirect="true"/>
   <file name="sonic-playground.html" crc="331172502" mt="1438312375837" redirect="true"/>
@@ -542,7 +544,7 @@
   <file name="silver-beaded-night-casque.html" crc="197362028" mt="1438312375846" redirect="true"/>
   <file name="balck-acorn.html" crc="506016516" mt="1438312375847" redirect="true"/>
   <file name="oragne-heaven-and-hell.html" crc="4244704148" mt="1438394190886" redirect="true"/>
-  <file name="floral.html" crc="4159605092" mt="1446415952043" redirect="true"/>
+  <file name="floral.html" crc="8798952" mt="1446416197271" redirect="true"/>
   <file name="millinery.html" crc="3894323114" mt="1438312375849" redirect="true"/>
   <file name="double-side-band-floral.html" crc="3837305667" mt="1438312375852" redirect="true"/>
   <file name="nightcap-lilly.html" crc="4220736389" mt="1438394198227" redirect="true"/>
