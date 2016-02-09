@@ -1,7 +1,7 @@
 .version.felt /* version checker */
 {
-	color: #000012;
-	background-color: #CD61C1;
+	color: #00001A;
+	background-color: #E8E4C4;
 }
 
 .html
@@ -29,7 +29,7 @@
 #page_position_content
 {
 	margin-top: -267px;
-	padding-bottom: 911px;
+	padding-bottom: 452px;
 }
 
 #pu12901
@@ -403,7 +403,7 @@
 {
 	width: 0.01px;
 	margin-left: 130px;
-	margin-top: 80px;
+	margin-top: 81px;
 }
 
 #u12903-3
@@ -411,7 +411,36 @@
 	z-index: 6;
 	width: 5px;
 	margin-right: -10000px;
-	margin-top: 55px;
+	margin-top: 54px;
+}
+
+#u24218
+{
+	z-index: 107;
+	width: 306px;
+	height: 352px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 224px;
+	background: transparent url("../images/621-u24218-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u24217-6
+{
+	z-index: 101;
+	width: 253px;
+	min-height: 47px;
+	line-height: 1.31;
+	color: #5B5B5B;
+	font-size: 18px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	margin-left: 364px;
+	margin-top: 19px;
+	position: relative;
 }
 
 #u22672
@@ -421,9 +450,9 @@
 	height: 352px;
 	border-style: none;
 	border-color: transparent;
+	margin-left: 352px;
+	margin-top: 40px;
 	position: relative;
-	margin-right: -10000px;
-	left: 222px;
 	background: transparent url("../images/4-u22672-fr.jpg") no-repeat center bottom;
 	background-size: cover;
 }
@@ -435,7 +464,7 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	margin: 0px -10000px 0px 0px;
+	margin: 40px 0px 0px 352px;
 	background-size: cover;
 }
 
@@ -444,14 +473,22 @@
 	z-index: 87;
 	width: 253px;
 	min-height: 47px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 18px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 362px;
 	margin-top: 18px;
 	position: relative;
+}
+
+#u12906
+{
+	z-index: 72;
+	width: 310px;
+	margin-left: 352px;
+	margin-top: 5px;
 }
 
 #u22686
@@ -461,21 +498,20 @@
 	height: 363px;
 	border-style: none;
 	border-color: transparent;
-	margin-left: 352px;
-	margin-top: 5px;
 	position: relative;
+	margin-right: -10000px;
 	background: transparent url("../images/fb3-u22686-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u22686:hover
+#u24218:hover,#u22686:hover
 {
 	background-repeat: no-repeat;
 	background-position: center center;
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	margin: 5px 0px 0px 352px;
+	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
 
@@ -484,22 +520,14 @@
 	z-index: 94;
 	width: 195px;
 	min-height: 47px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 18px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 408px;
 	margin-top: 19px;
 	position: relative;
-}
-
-#u12906
-{
-	z-index: 72;
-	width: 305px;
-	margin-left: 353px;
-	margin-top: 18px;
 }
 
 #u10298
@@ -509,8 +537,9 @@
 	height: 352px;
 	border-style: none;
 	border-color: transparent;
+	margin-left: 353px;
+	margin-top: 18px;
 	position: relative;
-	margin-right: -10000px;
 	background: transparent url("../images/thumbnail-u10298-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
@@ -522,7 +551,7 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	margin: 0px -10000px 0px 0px;
+	margin: 18px 0px 0px 353px;
 	background-size: cover;
 }
 
@@ -531,8 +560,8 @@
 	z-index: 79;
 	width: 253px;
 	min-height: 47px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 18px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -571,8 +600,8 @@
 	z-index: 73;
 	width: 195px;
 	min-height: 47px;
-	color: #5B5B5B;
 	line-height: 1.31;
+	color: #5B5B5B;
 	font-size: 18px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;

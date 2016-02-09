@@ -131,12 +131,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
-a,.White-on-Black a,.Orange-on-White a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Orange-on-White a:link
 {
 	color: #DE6530;
@@ -159,6 +153,12 @@ a,.White-on-Black a,.Orange-on-White a
 {
 	color: #DE6530;
 	text-decoration: underline;
+}
+
+a,.White-on-Black a,.Orange-on-White a,.Inquiry-Button a
+{
+	color: inherit;
+	text-decoration: inherit;
 }
 
 .Inquiry-Button a:link
