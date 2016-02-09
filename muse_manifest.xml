@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1454997481269">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1454998243143">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
@@ -65,7 +65,7 @@
     <file name="side-band-rose.css" crc="4195011205" ref="side-band-rose"/>
     <file name="hemlock-angle.css" crc="3875158674" ref="hemlock-angle"/>
     <file name="carnation-crown.css" crc="4043054856" ref="carnation-crown"/>
-    <file name="straw.css" crc="4062198978" ref="straw"/>
+    <file name="straw.css" crc="3870514419" ref="straw"/>
     <file name="orange-and-white.css" crc="4080526031" ref="orange-and-white"/>
     <file name="floral-corwn.css" crc="3881444552" ref="floral-corwn"/>
     <file name="ivory-and-green.css" crc="377871590" ref="ivory-and-green"/>
@@ -143,8 +143,8 @@
     <file name="pnt.jpg" crc="471885379" ref="fine-arts"/>
     <file name="txt2.jpg" crc="3990953601" ref="fine-arts"/>
     <file name="1.jpg" crc="4229924872" ref="carnation-crown:straw:undergrowth-drapry:fall-burgundy-shade"/>
-    <file name="2.jpg" crc="3976119027" ref="carnation-crown:floral-corwn:fall-burgundy-shade:undergrowth-drapry"/>
-    <file name="3.jpg" crc="269607298" ref="carnation-crown:floral-corwn:undergrowth-drapry:straw"/>
+    <file name="2.jpg" crc="310723835" ref="carnation-crown:floral-corwn:fall-burgundy-shade:undergrowth-drapry:straw"/>
+    <file name="3.jpg" crc="269607298" ref="carnation-crown:floral-corwn:undergrowth-drapry"/>
     <file name="4.jpg" crc="371665494" ref="carnation-crown:love_bird:undergrowth-drapry"/>
     <file name="thumbnail-u8133-fr.jpg" crc="383789983" ref="floral-corwn"/>
     <file name="thumbnail-u8134-fr.jpg" crc="4058770386" ref="floral-corwn"/>
@@ -178,7 +178,7 @@
     <file name="4-crop-u9474.jpg" crc="210624662" ref="fruit-punch"/>
     <file name="5-crop-u9483.jpg" crc="22010639" ref="fruit-punch"/>
     <file name="19.jpg" crc="4156238900" ref="winzlear-gear"/>
-    <file name="21.jpg" crc="4101742745" ref="white-straw-and-black-crosses:straw"/>
+    <file name="21.jpg" crc="4101742745" ref="white-straw-and-black-crosses"/>
     <file name="1-crop-u9839.jpg" crc="348157694" ref="white-straw-and-black-crosses"/>
     <file name="21-crop-u9880.jpg" crc="253482410" ref="white-straw-and-black-crosses"/>
     <file name="thumbnail-u10297-fr.jpg" crc="4109179110" ref="felt"/>
@@ -372,7 +372,7 @@
     <file name="6-crop-u20193.jpg" crc="14641400" ref="three-rose-band"/>
     <file name="1.png" crc="3822332837" ref="druid-crown"/>
     <file name="5.png" crc="515675330" ref="druid-crown"/>
-    <file name="12.jpg" crc="4269413217" ref="carnation-halo"/>
+    <file name="12.jpg" crc="4031579221" ref="carnation-halo:straw"/>
     <file name="39.jpg" crc="4267569102" ref="birthday-k"/>
     <file name="29.jpg" crc="401413982" ref="winzlear-gear"/>
     <file name="411.jpg" crc="3831876655" ref="double-side-band-floral"/>
@@ -556,7 +556,7 @@
   <file name="how-do-i-love-thee.html" crc="4177391015" mt="1438312375837" redirect="true"/>
   <file name="carnation-crown.html" crc="3810570422" mt="1438312375838" redirect="true"/>
   <file name="floral-corwn.html" crc="3951206814" mt="1444995144774" redirect="true"/>
-  <file name="straw.html" crc="4185536296" mt="1454997456419" redirect="true"/>
+  <file name="straw.html" crc="392305454" mt="1454998207368" redirect="true"/>
   <file name="felt.html" crc="3787771776" mt="1454996952221" redirect="true"/>
   <file name="carnation-halo.html" crc="146027487" mt="1438312375840" redirect="true"/>
   <file name="ivory-and-green.html" crc="408139271" mt="1438312375840" redirect="true"/>
