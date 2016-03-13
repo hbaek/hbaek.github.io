@@ -1,7 +1,7 @@
 .version.floral_corwn /* version checker */
 {
-	color: #0000E7;
-	background-color: #5A24C8;
+	color: #00001B;
+	background-color: #FBE53E;
 }
 
 .html
@@ -460,7 +460,7 @@
 	margin-right: -10000px;
 	margin-top: -2px;
 	left: 163px;
-	background: #D2D6DC url("../images/2.jpg") no-repeat center center;
+	background: #D2D6DC url("../images/3.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -523,7 +523,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 437px;
-	background: transparent url("../images/3.jpg") no-repeat center center;
+	background: transparent url("../images/32.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -550,6 +550,7 @@
 	position: relative;
 	margin-right: -10000px;
 	background: transparent url("../images/merrygoraound1.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 #u22583-7:hover
@@ -560,6 +561,7 @@
 	padding-bottom: 0px;
 	min-height: 437px;
 	margin: 0px -10000px 0px 0px;
+	background-size: cover;
 }
 
 #u18308-7
@@ -575,7 +577,7 @@
 	top: -1px;
 	margin-bottom: -1px;
 	position: relative;
-	background: transparent url("../images/32.jpg") no-repeat center center;
+	background: transparent url("../images/33.jpg") no-repeat center center;
 	background-size: cover;
 }
 
