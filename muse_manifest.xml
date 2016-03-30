@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1459365236627">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1459365641855">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
@@ -559,7 +559,7 @@
   </folder>
   <file name="fine-arts.html" crc="3777453165" mt="1438312375835" redirect="true"/>
   <file name="contact.html" crc="4007488945" mt="1438312375836" redirect="true"/>
-  <file name="index.html" crc="252442489" mt="1459364944487" redirect="true"/>
+  <file name="index.html" crc="4082683241" mt="1459365627920" redirect="true"/>
   <file name="under-the-willow-tree.html" crc="4082723614" mt="1438312375849" redirect="true"/>
   <file name="textile-0.2.html" crc="401895000" mt="1438312375850" redirect="true"/>
   <file name="sonic-playground.html" crc="331172502" mt="1438312375837" redirect="true"/>
