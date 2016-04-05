@@ -187,6 +187,13 @@
 	background-color: transparent;
 }
 
+#u12825.MuseMenuActive,#u12832.MuseMenuActive,#u12818.MuseMenuActive
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
 #u12820-4
 {
 	background-color: transparent;
@@ -204,6 +211,11 @@
 }
 
 #u12832.MuseMenuActive #u12834-4 p,#u12818:hover #u12820-4 p
+{
+	text-decoration: underline;
+}
+
+#u12818.MuseMenuActive #u12820-4 p
 {
 	text-decoration: underline;
 }
@@ -233,106 +245,7 @@
 	background: url("../images/u12876-a.png") no-repeat 0px 0px;
 }
 
-#u12862
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-khtml-border-radius: 5px;
-	border-radius: 5px;
-	position: relative;
-}
-
-#u12825.MuseMenuActive,#u12832.MuseMenuActive,#u12818.MuseMenuActive,#u12862:hover
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u12864-4
-{
-	background-color: #FFFFFF;
-	font-size: 16px;
-	letter-spacing: 4px;
-	text-align: center;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u12862:hover #u12864-4
-{
-	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 1);
-	-pie-background: rgba(255, 255, 255, 1);
-}
-
-#u12818.MuseMenuActive #u12820-4 p,#u12862:hover #u12864-4 p
-{
-	text-decoration: underline;
-}
-
-#u12855
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-khtml-border-radius: 5px;
-	border-radius: 5px;
-	position: relative;
-}
-
-#u12862.MuseMenuActive,#u12855:hover
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u12855.MuseMenuActive
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u12858-4
-{
-	background-color: #FFFFFF;
-	font-size: 16px;
-	letter-spacing: 4px;
-	text-align: center;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u12855:hover #u12858-4
-{
-	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 1);
-	-pie-background: rgba(255, 255, 255, 1);
-}
-
-#u12862.MuseMenuActive #u12864-4,#u12855.MuseMenuActive #u12858-4
-{
-	background-color: transparent;
-}
-
-#u12862.MuseMenuActive #u12864-4 p,#u12855:hover #u12858-4 p
-{
-	text-decoration: underline;
-}
-
-#u12855.MuseMenuActive #u12858-4 p
-{
-	text-decoration: underline;
-}
-
-#u12851,#u12810
+#u12810
 {
 	border-style: none;
 	border-color: transparent;
@@ -372,7 +285,7 @@
 	cursor: pointer;
 }
 
-#u12902-3,#menuu12806,#u12842,#u12814,#u12824,#u12831,#u12817,#u12849,#u12859,#u12852,#u12807,#u12903-3,#u12906
+#u12902-3,#menuu12806,#u12842,#u12814,#u12824,#u12831,#u12817,#u12849,#u12807,#u12903-3,#u12906
 {
 	position: relative;
 }

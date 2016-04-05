@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000C;
-	background-color: #0823E7;
+	color: #0000F8;
+	background-color: #39FCAF;
 }
 
 .html
@@ -233,6 +233,11 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u12818.MuseMenuActive
+{
+	margin: 0px -10000px 0px 0px;
+}
+
 #u12820-4
 {
 	width: 64px;
@@ -246,6 +251,14 @@
 }
 
 #u12832.MuseMenuActive #u12834-4,#u12818:hover #u12820-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12818.MuseMenuActive #u12820-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -274,94 +287,6 @@
 	margin-right: -10000px;
 	top: 15px;
 	left: 74px;
-}
-
-#u12850
-{
-	width: 275px;
-	top: 52px;
-}
-
-#u12862
-{
-	width: 275px;
-	padding-bottom: 5px;
-	margin-right: -10000px;
-}
-
-#u12818.MuseMenuActive,#u12862:hover
-{
-	margin: 0px -10000px 0px 0px;
-}
-
-#u12864-4
-{
-	width: 132px;
-	min-height: 19px;
-	padding-left: 2px;
-	padding-top: 4px;
-	padding-right: 2px;
-	margin-right: -10000px;
-	top: 2px;
-	left: 68px;
-}
-
-#u12818.MuseMenuActive #u12820-4,#u12862:hover #u12864-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u12851,#u12859,#u12852
-{
-	width: 275px;
-}
-
-#u12855
-{
-	width: 275px;
-	padding-bottom: 5px;
-	margin-right: -10000px;
-}
-
-#u12862.MuseMenuActive,#u12855:hover
-{
-	margin: 0px -10000px 0px 0px;
-}
-
-#u12855.MuseMenuActive
-{
-	margin: 0px -10000px 0px 0px;
-}
-
-#u12858-4
-{
-	width: 84px;
-	min-height: 19px;
-	padding-left: 2px;
-	padding-top: 4px;
-	padding-right: 2px;
-	margin-right: -10000px;
-	top: 2px;
-	left: 92px;
-}
-
-#u12862.MuseMenuActive #u12864-4,#u12855:hover #u12858-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u12855.MuseMenuActive #u12858-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	margin: 0px -10000px 0px 0px;
 }
 
 #u12807
@@ -409,7 +334,7 @@
 
 #u16805
 {
-	z-index: 73;
+	z-index: 59;
 	width: 384px;
 	height: 579px;
 	border-width: 1px;
@@ -419,13 +344,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 232px;
-	background: #FFFFFF url("../images/dsc03621-u16805-fr.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/3-u16805-fr.jpg") no-repeat left bottom;
 	background-size: cover;
 }
 
 #u12906
 {
-	z-index: 72;
+	z-index: 58;
 	width: 601px;
 	height: 336px;
 	margin-left: 410px;
