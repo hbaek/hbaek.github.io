@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F8;
-	background-color: #39FCAF;
+	color: #000009;
+	background-color: #EA50F1;
 }
 
 .html
@@ -348,13 +348,46 @@
 	background-size: cover;
 }
 
+#pu26043
+{
+	width: 0.01px;
+	margin-left: 499px;
+	margin-top: 15px;
+}
+
+#u26043
+{
+	z-index: 60;
+	width: 101px;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	left: 146px;
+	background: #FFFFFF url("../images/logo_-u26043-fr.png") no-repeat left top;
+	background-size: cover;
+}
+
+#u26051-4
+{
+	z-index: 61;
+	width: 168px;
+	min-height: 30px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 36px;
+}
+
 #u12906
 {
 	z-index: 58;
 	width: 601px;
 	height: 336px;
 	margin-left: 410px;
-	margin-top: 317px;
+	margin-top: 236px;
 }
 
 .ie #u12900,.ie #u12906

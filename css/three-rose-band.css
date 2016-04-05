@@ -1,7 +1,7 @@
 .version.three_rose_band /* version checker */
 {
-	color: #00000C;
-	background-color: #89C240;
+	color: #0000F9;
+	background-color: #4FB712;
 }
 
 .html
@@ -491,6 +491,13 @@
 	margin-bottom: -17px;
 }
 
+#pu24782-5
+{
+	width: 0.01px;
+	margin-left: 266px;
+	margin-top: -137px;
+}
+
 #u24782-5
 {
 	z-index: 89;
@@ -503,10 +510,10 @@
 	-ms-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
 	-o-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
 	transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
-	margin-left: 317px;
-	top: -128px;
-	margin-bottom: -59px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 51px;
 }
 
 #u24782
@@ -517,6 +524,32 @@
 #u24782-3
 {
 	color: #E21E79;
+}
+
+#u26151
+{
+	z-index: 94;
+	width: 101px;
+	height: 50px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	background: #FFFFFF url("../images/logo_-u26043-fr.png") no-repeat left top;
+	background-size: cover;
+}
+
+#u26152-4
+{
+	z-index: 95;
+	width: 61px;
+	min-height: 30px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u20116-4
@@ -530,7 +563,7 @@
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	margin-left: 377px;
-	top: -60px;
+	top: -69px;
 	margin-bottom: -36px;
 	position: relative;
 }
@@ -539,7 +572,7 @@
 {
 	width: 0.01px;
 	margin-left: 355px;
-	margin-top: -4px;
+	margin-top: -13px;
 }
 
 #u12906
