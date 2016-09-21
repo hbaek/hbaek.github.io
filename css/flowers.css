@@ -1,7 +1,7 @@
 .version.flowers /* version checker */
 {
-	color: #0000E6;
-	background-color: #09556D;
+	color: #000009;
+	background-color: #2A0B67;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1088px;
-	min-height: 3107.6123060861423px;
+	min-height: 3107.6304525520445px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
@@ -30,7 +30,7 @@
 #page_position_content
 {
 	margin-top: -267px;
-	padding-bottom: 1692px;
+	padding-bottom: 1509px;
 }
 
 #pu12901
@@ -391,7 +391,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 115px;
-	background: #D2D6DC url("../images/dsc03698.jpg") no-repeat center bottom;
+	background: #D2D6DC url("../images/dsc03732.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -535,7 +535,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/42.gif") no-repeat center center;
+	background: transparent url("../images/4.gif") no-repeat center center;
 	background-size: cover;
 }
 
@@ -898,6 +898,51 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 440px;
+}
+
+#u26667
+{
+	z-index: 142;
+	width: 140px;
+	height: 140px;
+	border-style: none;
+	border-color: transparent;
+	margin-left: 243px;
+	margin-top: 20px;
+	position: relative;
+	background: transparent url("../images/dsc03699-u26667-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u26667:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin: 20px 0px 0px 243px;
+	background-size: contain;
+}
+
+#u26668-4
+{
+	z-index: 143;
+	width: 138px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	line-height: 1.87;
+	font-size: 11px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	margin-left: 243px;
+	position: relative;
 }
 
 body

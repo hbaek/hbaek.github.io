@@ -1,7 +1,7 @@
 .version.straw /* version checker */
 {
-	color: #00001D;
-	background-color: #BA3B1F;
+	color: #00001C;
+	background-color: #10B55F;
 }
 
 .html
@@ -383,7 +383,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 115px;
-	background: #D2D6DC url("../images/test2.jpg") no-repeat center bottom;
+	background: #D2D6DC url("../images/test.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
