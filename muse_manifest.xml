@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1476316689299">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1476318465934">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
@@ -88,7 +88,7 @@
     <file name="bohemian-green-yy.css" crc="479595535" ref="bohemian-green-yy"/>
     <file name="rabit-furr-study.css" crc="254839321" ref="rabit-furr-study"/>
     <file name="textile-01.css" crc="4104244330" ref="textile-01"/>
-    <file name="natural-history-illustration.css" crc="4169405404" ref="natural-history-illustration"/>
+    <file name="natural-history-illustration.css" crc="447231460" ref="natural-history-illustration"/>
     <file name="textile-0_3.css" crc="314273777" ref="textile-0.3"/>
     <file name="leave-corwn.css" crc="4175940444" ref="leave-corwn"/>
     <file name="three-rose-band.css" crc="4182750994" ref="three-rose-band"/>
@@ -275,10 +275,10 @@
     <file name="history4-u17991-fr.jpg" crc="137367479" ref="natural-history-illustration"/>
     <file name="history5-u18003-fr.jpg" crc="3762740286" ref="natural-history-illustration"/>
     <file name="history1.jpg" crc="220735909" ref="natural-history-illustration"/>
-    <file name="history2-u17949-fr.jpg" crc="3894327072" ref="natural-history-illustration"/>
-    <file name="history3-u17945-fr.jpg" crc="4110240448" ref="natural-history-illustration"/>
+    <file name="history2-u17949-fr.jpg" crc="131902570" ref="natural-history-illustration"/>
+    <file name="history3-u17945-fr.jpg" crc="4247491566" ref="natural-history-illustration"/>
     <file name="history4.jpg" crc="4139155527" ref="natural-history-illustration"/>
-    <file name="history5-u18004-fr.jpg" crc="3881223653" ref="natural-history-illustration"/>
+    <file name="history5-u18004-fr.jpg" crc="3843138689" ref="natural-history-illustration"/>
     <file name="back-u16931-fr.jpg" crc="119965206" ref="textile-01"/>
     <file name="front-u16938-fr.jpg" crc="305758080" ref="textile-01"/>
     <file name="app-u16945-fr.jpg" crc="508107224" ref="textile-01"/>
@@ -625,7 +625,7 @@
   <file name="bohemian-rose-yy.html" crc="3890975935" mt="1459830126418" redirect="true"/>
   <file name="dear-mother.html" crc="4243235188" mt="1459830126419" redirect="true"/>
   <file name="textile-0.3.html" crc="519062773" mt="1459830126411" redirect="true"/>
-  <file name="natural-history-illustration.html" crc="210502131" mt="1459830126412" redirect="true"/>
+  <file name="natural-history-illustration.html" crc="367245387" mt="1476318443176" redirect="true"/>
   <file name="textile-01.html" crc="4265596371" mt="1459830126413" redirect="true"/>
   <file name="rabit-furr-study.html" crc="511022190" mt="1459830126413" redirect="true"/>
   <file name="leave-corwn.html" crc="3954531104" mt="1459830126404" redirect="true"/>
