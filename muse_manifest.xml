@@ -1,4 +1,4 @@
-<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1474439052189">
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1476316689299">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4108902859" ref="tablet>birthday-k"/>
@@ -54,7 +54,7 @@
     <file name="fruit-punch.html" crc="405674815" mt="1430782044646" redirect="false"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="246345996"/>
+    <file name="site_global.css" crc="72584779"/>
     <file name="textile-0_2.css" crc="460040545" ref="textile-0.2"/>
     <file name="index.css" crc="201377145" ref="index"/>
     <file name="under-the-willow-tree.css" crc="3871352424" ref="under-the-willow-tree"/>
@@ -594,7 +594,7 @@
     <file name="center-piece.html" crc="355054977" mt="1438312375831" redirect="false"/>
     <file name="fruit-punch.html" crc="89662352" mt="1430782044580" redirect="false"/>
   </folder>
-  <file name="fine-arts.html" crc="4021908844" mt="1459830126396" redirect="true"/>
+  <file name="fine-arts.html" crc="3879084944" mt="1476316663030" redirect="true"/>
   <file name="contact.html" crc="310292892" mt="1459830126397" redirect="true"/>
   <file name="index.html" crc="240901785" mt="1474371291270" redirect="true"/>
   <file name="under-the-willow-tree.html" crc="4035090774" mt="1459830126410" redirect="true"/>
