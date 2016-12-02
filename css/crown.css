@@ -1,7 +1,7 @@
 .version.crown /* version checker */
 {
-	color: #000003;
-	background-color: #500FBF;
+	color: #000011;
+	background-color: #BBC5AB;
 }
 
 .html
@@ -18,9 +18,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	-moz-border-radius: 0px 0px 0px 10px ;
-	-webkit-border-radius: 0px 0px 0px 10px ;
-	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
 	padding-bottom: 0px;
 	margin-left: auto;
@@ -31,6 +28,7 @@
 {
 	margin-top: -267px;
 	padding-bottom: 1191px;
+	width: 0.01px;
 }
 
 #pu12901
@@ -119,6 +117,15 @@
 
 #u12843:hover
 {
+	width: 276px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12843.MuseMenuActive
+{
+	width: 276px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -145,6 +152,13 @@
 	padding-bottom: 30px;
 }
 
+#u12838.MuseMenuActive
+{
+	width: 288px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u12841
 {
 	height: 22px;
@@ -169,6 +183,8 @@
 
 #u12825:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -189,6 +205,16 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 39px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12825.MuseMenuActive #u12827-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 39px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -201,6 +227,8 @@
 
 #u12825.MuseMenuActive,#u12832:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -216,11 +244,21 @@
 	left: 103px;
 }
 
-#u12825.MuseMenuActive #u12827-4,#u12832:hover #u12834-4
+#u12832:hover #u12834-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 58px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12832.MuseMenuActive #u12834-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 58px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -238,11 +276,15 @@
 
 #u12832.MuseMenuActive,#u12818:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u12818.MuseMenuActive
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -258,11 +300,12 @@
 	left: 100px;
 }
 
-#u12832.MuseMenuActive #u12834-4,#u12818:hover #u12820-4
+#u12818:hover #u12820-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -271,6 +314,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -286,6 +330,13 @@
 {
 	width: 249px;
 	padding-bottom: 30px;
+}
+
+#u12873.MuseMenuActive
+{
+	width: 249px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u12876
@@ -311,8 +362,10 @@
 	padding-bottom: 30px;
 }
 
-#u12843.MuseMenuActive,#u12838.MuseMenuActive,#u12873.MuseMenuActive,#u12810.MuseMenuActive
+#u12810.MuseMenuActive
 {
+	width: 269px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -364,6 +417,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 450px;
+	width: 412px;
 	margin: 26px -10000px 0px 0px;
 }
 
@@ -385,8 +439,8 @@
 	min-height: 581px;
 	border-color: #DCDFE1;
 	line-height: 1.31;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -405,6 +459,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 581px;
+	width: 581px;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
@@ -419,6 +474,7 @@
 {
 	z-index: 109;
 	width: 5px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
@@ -453,6 +509,7 @@
 {
 	z-index: 106;
 	width: 5px;
+	background-color: transparent;
 	margin-left: 251px;
 	margin-top: 5px;
 	position: relative;
@@ -468,7 +525,7 @@
 	margin-left: 465px;
 	margin-top: 125px;
 	position: relative;
-	background: transparent url("../images/6-u26312-fr.jpg") no-repeat center center;
+	background: transparent url("../images/6.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -479,6 +536,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 125px 0px 0px 465px;
 	background-size: cover;
 }
@@ -518,6 +578,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 0px 0px 0px 3px;
 	background-size: cover;
 }
@@ -535,8 +598,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 2px;
 	position: relative;
@@ -551,7 +614,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/thumbnail-u8133-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -562,6 +625,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 19px 0px 0px;
 	background-size: contain;
 }
@@ -569,17 +635,16 @@
 #u12906
 {
 	z-index: 58;
-	width: 361px;
+	width: 601px;
 	margin-right: -10000px;
-	margin-top: 50px;
-	left: 220px;
+	left: 165px;
 }
 
 #pu13816
 {
 	width: 0.01px;
 	padding-bottom: 0px;
-	margin-right: -10000px;
+	margin: 50px -10000px -36px 55px;
 }
 
 #u13816
@@ -590,7 +655,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/thumbnail2-u13816-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail2.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -603,7 +668,7 @@
 	border-color: transparent;
 	margin-top: 42px;
 	position: relative;
-	background: transparent url("../images/thumbnail1-u13812-fr.jpg") no-repeat center center;
+	background: transparent url("../images/thumbnail1.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -614,6 +679,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 42px 0px 0px;
 	background-size: cover;
 }
@@ -621,8 +689,7 @@
 #pu13808
 {
 	width: 0.01px;
-	margin-right: -10000px;
-	margin-left: 220px;
+	margin: 50px -10000px -36px 275px;
 }
 
 #u13808
@@ -633,7 +700,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/thumbnail-u13808-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail3.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -644,6 +711,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 0px;
 	background-size: cover;
 }
@@ -657,7 +727,7 @@
 	border-color: transparent;
 	margin-top: 42px;
 	position: relative;
-	background: transparent url("../images/thumbnail-u13814-fr.jpg") no-repeat center bottom;
+	background: transparent url("../images/thumbnail4.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -668,6 +738,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 42px 0px 0px;
 	background-size: cover;
 }
@@ -676,6 +749,7 @@
 {
 	z-index: 71;
 	width: 5px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 102px;
@@ -695,8 +769,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -717,8 +791,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -739,8 +813,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -761,8 +835,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -782,8 +856,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -804,8 +878,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -822,7 +896,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/thumbnail-u8143-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail5.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -833,6 +907,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background-size: contain;
 }
@@ -847,7 +924,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 220px;
-	background: transparent url("../images/thumbnail-u13810-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail6.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -861,7 +938,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 441px;
-	background: transparent url("../images/thumbnail-u8120-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail7.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -878,8 +955,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -899,8 +976,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -921,8 +998,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -946,7 +1023,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/thumbnail-u8139-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail8.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -960,7 +1037,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 220px;
-	background: transparent url("../images/thumbnail-u8137-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail9.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -974,7 +1051,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 441px;
-	background: transparent url("../images/5-u8134-fr.jpg") no-repeat right bottom;
+	background: transparent url("../images/5.jpg") no-repeat right bottom;
 	background-size: cover;
 }
 
@@ -985,6 +1062,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
@@ -1008,8 +1088,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1029,8 +1109,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1051,8 +1131,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1073,8 +1153,8 @@
 	width: 140px;
 	min-height: 140px;
 	line-height: 1.31;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1092,6 +1172,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 140px;
+	width: 140px;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
@@ -1122,7 +1203,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 217px;
-	background: transparent url("../images/thumbnail-u8141-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail10.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -1136,7 +1217,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 439px;
-	background: transparent url("../images/thumbnail-u25980-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail11.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -1147,6 +1228,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
@@ -1170,8 +1254,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1191,8 +1275,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1213,8 +1297,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;

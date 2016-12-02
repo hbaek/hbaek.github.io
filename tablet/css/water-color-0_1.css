@@ -1,7 +1,7 @@
 .version.water_color_0_1 /* version checker */
 {
-	color: #0000F4;
-	background-color: #E8E1CB;
+	color: #0000F6;
+	background-color: #9F243A;
 }
 
 @-ms-viewport
@@ -43,9 +43,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	-moz-border-radius: 0px 0px 0px 10px ;
-	-webkit-border-radius: 0px 0px 0px 10px ;
-	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
 	padding-top: 128px;
 	padding-right: 768px;

@@ -1,7 +1,7 @@
 .version.textile_01 /* version checker */
 {
-	color: #0000F4;
-	background-color: #A1CC6A;
+	color: #000016;
+	background-color: #4BEFC6;
 }
 
 .html
@@ -18,9 +18,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	-moz-border-radius: 0px 0px 0px 10px ;
-	-webkit-border-radius: 0px 0px 0px 10px ;
-	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
 	padding-bottom: 0px;
 	margin-left: auto;
@@ -31,6 +28,7 @@
 {
 	margin-top: -267px;
 	padding-bottom: 1383px;
+	width: 0.01px;
 }
 
 #pu12901
@@ -111,6 +109,15 @@
 
 #u12843:hover
 {
+	width: 276px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12843.MuseMenuActive
+{
+	width: 276px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -137,6 +144,13 @@
 	padding-bottom: 30px;
 }
 
+#u12838.MuseMenuActive
+{
+	width: 288px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u12841
 {
 	height: 22px;
@@ -161,6 +175,8 @@
 
 #u12825:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -181,6 +197,16 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 39px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12825.MuseMenuActive #u12827-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 39px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -193,6 +219,8 @@
 
 #u12825.MuseMenuActive,#u12832:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -208,11 +236,21 @@
 	left: 103px;
 }
 
-#u12825.MuseMenuActive #u12827-4,#u12832:hover #u12834-4
+#u12832:hover #u12834-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 58px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12832.MuseMenuActive #u12834-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 58px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -230,11 +268,15 @@
 
 #u12832.MuseMenuActive,#u12818:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u12818.MuseMenuActive
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -250,11 +292,12 @@
 	left: 100px;
 }
 
-#u12832.MuseMenuActive #u12834-4,#u12818:hover #u12820-4
+#u12818:hover #u12820-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -263,6 +306,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -278,6 +322,13 @@
 {
 	width: 249px;
 	padding-bottom: 30px;
+}
+
+#u12873.MuseMenuActive
+{
+	width: 249px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u12876
@@ -303,8 +354,10 @@
 	padding-bottom: 30px;
 }
 
-#u12843.MuseMenuActive,#u12838.MuseMenuActive,#u12873.MuseMenuActive,#u12810.MuseMenuActive
+#u12810.MuseMenuActive
 {
+	width: 269px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -337,6 +390,7 @@
 	z-index: 59;
 	width: 248px;
 	min-height: 165px;
+	background-color: transparent;
 	text-align: left;
 	position: relative;
 	margin-right: -10000px;
@@ -396,6 +450,9 @@
 {
 	z-index: 84;
 	width: 735px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 216px;
@@ -408,14 +465,17 @@
 	height: 296px;
 	border-color: #000000;
 	position: relative;
-	background: #FFFFFF url("../images/back-u16931-fr.jpg") no-repeat left top;
+	background: #FFFFFF url("../images/back.jpg") no-repeat left top;
 	background-size: contain;
 }
 
 #u16931:hover
 {
+	width: 735px;
+	height: 296px;
+	min-height: 0px;
 	margin: 0px;
-	background: transparent url("../images/back-u16931-fr.jpg") no-repeat left top;
+	background: transparent url("../images/back.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -428,14 +488,17 @@
 	top: -1px;
 	margin-bottom: -1px;
 	position: relative;
-	background: #FFFFFF url("../images/front-u16938-fr.jpg") no-repeat left top;
+	background: #FFFFFF url("../images/front.jpg") no-repeat left top;
 	background-size: contain;
 }
 
 #u16938:hover
 {
+	width: 735px;
+	height: 296px;
+	min-height: 0px;
 	margin: 0px 0px -1px;
-	background: transparent url("../images/front-u16938-fr.jpg") no-repeat left top;
+	background: transparent url("../images/front.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -448,7 +511,7 @@
 	margin-left: 348px;
 	margin-top: 27px;
 	position: relative;
-	background: #FFFFFF url("../images/app-u16945-fr.jpg") no-repeat left top;
+	background: #FFFFFF url("../images/app.jpg") no-repeat left top;
 	background-size: contain;
 }
 

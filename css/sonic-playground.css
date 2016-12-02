@@ -1,7 +1,7 @@
 .version.sonic_playground /* version checker */
 {
-	color: #000009;
-	background-color: #19641B;
+	color: #0000E7;
+	background-color: #9997BA;
 }
 
 .html
@@ -18,9 +18,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	-moz-border-radius: 0px 0px 0px 10px ;
-	-webkit-border-radius: 0px 0px 0px 10px ;
-	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
 	padding-bottom: 0px;
 	margin-left: auto;
@@ -31,6 +28,7 @@
 {
 	margin-top: -267px;
 	padding-bottom: 562px;
+	width: 0.01px;
 }
 
 #pu12901
@@ -119,6 +117,15 @@
 
 #u12843:hover
 {
+	width: 276px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12843.MuseMenuActive
+{
+	width: 276px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -145,6 +152,13 @@
 	padding-bottom: 30px;
 }
 
+#u12838.MuseMenuActive
+{
+	width: 288px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u12841
 {
 	height: 22px;
@@ -169,6 +183,8 @@
 
 #u12825:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -189,6 +205,16 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 39px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12825.MuseMenuActive #u12827-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 39px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -201,6 +227,8 @@
 
 #u12825.MuseMenuActive,#u12832:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -216,11 +244,21 @@
 	left: 103px;
 }
 
-#u12825.MuseMenuActive #u12827-4,#u12832:hover #u12834-4
+#u12832:hover #u12834-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 58px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12832.MuseMenuActive #u12834-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 58px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -238,11 +276,15 @@
 
 #u12832.MuseMenuActive,#u12818:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u12818.MuseMenuActive
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -258,11 +300,12 @@
 	left: 100px;
 }
 
-#u12832.MuseMenuActive #u12834-4,#u12818:hover #u12820-4
+#u12818:hover #u12820-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -271,6 +314,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -286,6 +330,13 @@
 {
 	width: 249px;
 	padding-bottom: 30px;
+}
+
+#u12873.MuseMenuActive
+{
+	width: 249px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u12876
@@ -311,8 +362,10 @@
 	padding-bottom: 30px;
 }
 
-#u12843.MuseMenuActive,#u12838.MuseMenuActive,#u12873.MuseMenuActive,#u12810.MuseMenuActive
+#u12810.MuseMenuActive
 {
+	width: 269px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -345,6 +398,7 @@
 	z-index: 59;
 	width: 271px;
 	min-height: 633px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 653px;
@@ -401,14 +455,17 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 197px;
-	background: #FFFFFF url("../images/untitled-u12774-fr.jpg") no-repeat left top;
+	background: #FFFFFF url("../images/untitled.jpg") no-repeat left top;
 	background-size: contain;
 }
 
 #u12774:hover
 {
+	width: 727px;
+	height: 642px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/untitled-u12774-fr.jpg") no-repeat left top;
+	background: transparent url("../images/untitled.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -422,11 +479,10 @@
 #u12906
 {
 	z-index: 58;
-	width: 427px;
-	margin-bottom: -99px;
+	width: 601px;
 	margin-right: -10000px;
-	margin-top: 296px;
-	left: 2px;
+	margin-top: 197px;
+	left: 89px;
 }
 
 #u12788
@@ -435,9 +491,12 @@
 	width: 427px;
 	height: 336px;
 	border-color: #000000;
+	margin-bottom: -99px;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../images/003479ec06467e8fcaa508f86770bfc7-2--u12788-fr.jpg") no-repeat center center;
+	margin-top: 99px;
+	left: -88px;
+	background: #FFFFFF url("../images/003479ec06467e8fcaa508f86770bfc7-2-.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -449,7 +508,7 @@
 	border-color: #000000;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../images/4bf8d3bd8ef0cf8f50b87976da75476d-1--u12781-fr.jpg") no-repeat left top;
+	background: #FFFFFF url("../images/4bf8d3bd8ef0cf8f50b87976da75476d-1-.jpg") no-repeat left top;
 	background-size: contain;
 }
 

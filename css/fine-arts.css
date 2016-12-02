@@ -1,7 +1,7 @@
 .version.fine_arts /* version checker */
 {
-	color: #0000EB;
-	background-color: #C6B4D1;
+	color: #000014;
+	background-color: #F4A702;
 }
 
 .html
@@ -13,14 +13,11 @@
 {
 	z-index: 1;
 	width: 1088px;
-	min-height: 2695.507210965435px;
+	min-height: 2695.875000000001px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	-moz-border-radius: 0px 0px 0px 10px ;
-	-webkit-border-radius: 0px 0px 0px 10px ;
-	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
 	padding-bottom: 0px;
 	margin-left: auto;
@@ -30,7 +27,8 @@
 #page_position_content
 {
 	margin-top: -267px;
-	padding-bottom: 1482px;
+	padding-bottom: 1383px;
+	width: 0.01px;
 }
 
 #pu12901
@@ -119,6 +117,15 @@
 
 #u12843:hover
 {
+	width: 276px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12843.MuseMenuActive
+{
+	width: 276px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -145,6 +152,13 @@
 	padding-bottom: 30px;
 }
 
+#u12838.MuseMenuActive
+{
+	width: 288px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u12841
 {
 	height: 22px;
@@ -169,6 +183,8 @@
 
 #u12825:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -189,6 +205,16 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 39px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12825.MuseMenuActive #u12827-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 39px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -201,6 +227,8 @@
 
 #u12825.MuseMenuActive,#u12832:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -216,11 +244,21 @@
 	left: 103px;
 }
 
-#u12825.MuseMenuActive #u12827-4,#u12832:hover #u12834-4
+#u12832:hover #u12834-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 58px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12832.MuseMenuActive #u12834-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 58px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -238,11 +276,15 @@
 
 #u12832.MuseMenuActive,#u12818:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u12818.MuseMenuActive
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -258,11 +300,12 @@
 	left: 100px;
 }
 
-#u12832.MuseMenuActive #u12834-4,#u12818:hover #u12820-4
+#u12818:hover #u12820-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -271,6 +314,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -286,6 +330,13 @@
 {
 	width: 249px;
 	padding-bottom: 30px;
+}
+
+#u12873.MuseMenuActive
+{
+	width: 249px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u12876
@@ -311,8 +362,10 @@
 	padding-bottom: 30px;
 }
 
-#u12843.MuseMenuActive,#u12838.MuseMenuActive,#u12873.MuseMenuActive,#u12810.MuseMenuActive
+#u12810.MuseMenuActive
 {
+	width: 269px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -355,6 +408,8 @@
 
 #u4756:hover
 {
+	width: 362px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background: #FFECA3 url("../images/uwt.jpg") no-repeat center bottom;
 	background-size: cover;
@@ -366,9 +421,9 @@
 	width: 360px;
 	min-height: 95px;
 	background-color: transparent;
+	text-align: center;
 	font-size: 18px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -9px;
 	position: relative;
@@ -410,6 +465,7 @@
 {
 	z-index: 104;
 	width: 5px;
+	background-color: transparent;
 	margin-left: 867px;
 	margin-top: 18px;
 	position: relative;
@@ -443,6 +499,9 @@
 	opacity: 0.99;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=99)";
 	filter: alpha(opacity=99);
+	width: 362px;
+	height: 54px;
+	min-height: 0px;
 	margin: 31px -10000px 0px 0px;
 	background-size: cover;
 }
@@ -453,9 +512,9 @@
 	width: 360px;
 	min-height: 95px;
 	background-color: transparent;
+	text-align: center;
 	font-size: 18px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -507,6 +566,8 @@
 
 #u7205:hover
 {
+	width: 362px;
+	min-height: 0px;
 	margin: 85px 0px 0px 327px;
 	background: #FEFFFF url("../images/txt2.jpg") no-repeat center bottom;
 	background-size: cover;
@@ -518,9 +579,9 @@
 	width: 360px;
 	min-height: 95px;
 	background-color: transparent;
+	text-align: center;
 	font-size: 18px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -13px;
 	position: relative;
@@ -560,6 +621,8 @@
 
 #u7187.MuseLinkActive
 {
+	width: 362px;
+	min-height: 0px;
 	margin: 72px 0px 0px 327px;
 	background: transparent url("../images/inanimate.jpg") no-repeat center center;
 	background-size: cover;
@@ -571,9 +634,9 @@
 	width: 360px;
 	min-height: 95px;
 	background-color: transparent;
+	text-align: center;
 	font-size: 18px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -9px;
 	position: relative;
@@ -625,6 +688,8 @@
 
 #u7162.MuseLinkActive
 {
+	width: 362px;
+	min-height: 0px;
 	margin: 71px 0px 0px 326px;
 	background: transparent url("../images/drw.jpg") no-repeat center bottom;
 	background-size: cover;
@@ -636,9 +701,9 @@
 	width: 360px;
 	min-height: 95px;
 	background-color: transparent;
+	text-align: center;
 	font-size: 18px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -13px;
 	position: relative;
@@ -692,6 +757,8 @@
 
 #u5557:hover
 {
+	width: 362px;
+	min-height: 0px;
 	margin: 72px 0px 0px 327px;
 	background: #D2CCC8 url("../images/mca.jpg") no-repeat left top;
 	background-size: cover;
@@ -703,9 +770,9 @@
 	width: 360px;
 	min-height: 95px;
 	background-color: transparent;
+	text-align: center;
 	font-size: 18px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -10px;
 	position: relative;
@@ -757,6 +824,8 @@
 
 #u7176.MuseLinkActive
 {
+	width: 361px;
+	min-height: 0px;
 	margin: 71px 0px 0px 327px;
 	background: transparent url("../images/history2.jpg") no-repeat center bottom;
 	background-size: cover;
@@ -768,9 +837,9 @@
 	width: 360px;
 	min-height: 95px;
 	background-color: transparent;
+	text-align: center;
 	font-size: 18px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -11px;
 	position: relative;
@@ -811,9 +880,15 @@
 #u12906
 {
 	z-index: 58;
-	width: 362px;
-	margin-left: 327px;
-	margin-top: 70px;
+	width: 601px;
+	margin-left: 410px;
+	margin-top: 33px;
+}
+
+#u12906_position_content
+{
+	padding-top: 37px;
+	padding-bottom: 99px;
 }
 
 #u7169
@@ -822,6 +897,7 @@
 	width: 362px;
 	border-style: none;
 	border-color: transparent;
+	left: -83px;
 	position: relative;
 	background: transparent url("../images/txt3.jpg") no-repeat center bottom;
 	background-size: cover;
@@ -829,6 +905,8 @@
 
 #u7169:hover
 {
+	width: 362px;
+	min-height: 0px;
 	margin: 0px;
 	background: #000000 url("../images/txt3.jpg") no-repeat center bottom;
 	background-size: cover;
@@ -840,9 +918,9 @@
 	width: 360px;
 	min-height: 95px;
 	background-color: transparent;
+	text-align: center;
 	font-size: 18px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -10px;
 	position: relative;
@@ -886,6 +964,7 @@
 	width: 362px;
 	border-style: none;
 	border-color: transparent;
+	left: -83px;
 	margin-top: 93px;
 	position: relative;
 	background: transparent url("../images/hdl.jpg") no-repeat center bottom;
@@ -894,6 +973,8 @@
 
 #u6634:hover
 {
+	width: 362px;
+	min-height: 0px;
 	margin: 93px 0px 0px;
 	background: #5BC0DD url("../images/hdl.jpg") no-repeat center bottom;
 	background-size: cover;
@@ -905,9 +986,9 @@
 	width: 360px;
 	min-height: 95px;
 	background-color: transparent;
+	text-align: center;
 	font-size: 18px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -6px;
 	position: relative;

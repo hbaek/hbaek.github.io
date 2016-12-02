@@ -1,7 +1,7 @@
 .version.rabit_furr_study /* version checker */
 {
-	color: #00000F;
-	background-color: #308A19;
+	color: #0000EA;
+	background-color: #A30E57;
 }
 
 .html
@@ -18,9 +18,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	-moz-border-radius: 0px 0px 0px 10px ;
-	-webkit-border-radius: 0px 0px 0px 10px ;
-	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
 	margin-left: auto;
 	margin-right: auto;
@@ -30,6 +27,7 @@
 {
 	margin-top: -267px;
 	padding-bottom: 676px;
+	width: 0.01px;
 }
 
 #pu12901
@@ -110,6 +108,15 @@
 
 #u12843:hover
 {
+	width: 276px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12843.MuseMenuActive
+{
+	width: 276px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -136,6 +143,13 @@
 	padding-bottom: 30px;
 }
 
+#u12838.MuseMenuActive
+{
+	width: 288px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u12841
 {
 	height: 22px;
@@ -160,6 +174,8 @@
 
 #u12825:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -180,6 +196,16 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 39px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12825.MuseMenuActive #u12827-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 39px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -192,6 +218,8 @@
 
 #u12825.MuseMenuActive,#u12832:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -207,11 +235,21 @@
 	left: 103px;
 }
 
-#u12825.MuseMenuActive #u12827-4,#u12832:hover #u12834-4
+#u12832:hover #u12834-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 58px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12832.MuseMenuActive #u12834-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 58px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -229,6 +267,15 @@
 
 #u12832.MuseMenuActive,#u12818:hover
 {
+	width: 271px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12818.MuseMenuActive
+{
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -244,11 +291,12 @@
 	left: 100px;
 }
 
-#u12832.MuseMenuActive #u12834-4,#u12818:hover #u12820-4
+#u12818:hover #u12820-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -257,6 +305,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -272,6 +321,13 @@
 {
 	width: 249px;
 	padding-bottom: 30px;
+}
+
+#u12873.MuseMenuActive
+{
+	width: 249px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u12876
@@ -297,8 +353,10 @@
 	padding-bottom: 30px;
 }
 
-#u12843.MuseMenuActive,#u12838.MuseMenuActive,#u12873.MuseMenuActive,#u12810.MuseMenuActive
+#u12810.MuseMenuActive
 {
+	width: 269px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -329,10 +387,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #191919;
-	background-color: rgba(0, 0, 0, 0.9);
+	background-color: rgba(0,0,0,0.9);
 	top: -24px;
 	left: -620px;
-	-pie-background: rgba(0, 0, 0, 0.9);
+	-pie-background: rgba(0,0,0,0.9);
 }
 
 #u17008popup
@@ -440,8 +498,10 @@
 #u17016
 {
 	position: absolute;
-	width: 462px;
-	left: 1px;
+	width: 465px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 }
 
 #u17016popup
@@ -459,10 +519,14 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	left: 1px;
 }
 
-#u12818.MuseMenuActive,#u17098:hover
+#u17098:hover
 {
+	width: 462px;
+	height: 315px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -483,10 +547,14 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 325px;
+	left: 1px;
 }
 
 #u17080:hover
 {
+	width: 462px;
+	height: 315px;
+	min-height: 0px;
 	margin: 325px -10000px 0px 0px;
 }
 
@@ -501,10 +569,14 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 650px;
+	left: 1px;
 }
 
 #u17017:hover
 {
+	width: 462px;
+	height: 315px;
+	min-height: 0px;
 	margin: 650px -10000px 0px 0px;
 }
 
@@ -525,10 +597,14 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 975px;
+	left: 1px;
 }
 
 #u17071:hover
 {
+	width: 462px;
+	height: 315px;
+	min-height: 0px;
 	margin: 975px -10000px 0px 0px;
 }
 
@@ -549,10 +625,14 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1300px;
+	left: 1px;
 }
 
 #u17062:hover
 {
+	width: 462px;
+	height: 315px;
+	min-height: 0px;
 	margin: 1300px -10000px 0px 0px;
 }
 
@@ -573,10 +653,14 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1625px;
+	left: 1px;
 }
 
 #u17089:hover
 {
+	width: 462px;
+	height: 315px;
+	min-height: 0px;
 	margin: 1625px -10000px 0px 0px;
 }
 
@@ -598,9 +682,10 @@
 	position: absolute;
 	width: 30px;
 	min-height: 30px;
+	background-color: transparent;
 	line-height: 1.4;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 429px;
 	left: 1100px;
@@ -616,9 +701,10 @@
 	position: absolute;
 	width: 30px;
 	min-height: 30px;
+	background-color: transparent;
 	line-height: 1.4;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 429px;
 	left: 1200px;
@@ -634,9 +720,10 @@
 	position: absolute;
 	width: 70px;
 	min-height: 30px;
+	background-color: transparent;
 	line-height: 1.4;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 429px;
 	left: 1130px;
@@ -662,12 +749,16 @@
 #u17002:hover
 {
 	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u17002:active
 {
 	background-color: #6B6B6B;
+	width: 30px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -676,9 +767,12 @@
 	z-index: 99;
 	width: 20px;
 	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	line-height: 1.4;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;

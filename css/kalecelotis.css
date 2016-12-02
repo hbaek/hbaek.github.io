@@ -1,7 +1,7 @@
 .version.kalecelotis /* version checker */
 {
-	color: #000011;
-	background-color: #43FB8F;
+	color: #0000F1;
+	background-color: #789306;
 }
 
 .html
@@ -18,9 +18,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	-moz-border-radius: 0px 0px 0px 10px ;
-	-webkit-border-radius: 0px 0px 0px 10px ;
-	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
 	padding-bottom: 0px;
 	margin-left: auto;
@@ -31,6 +28,7 @@
 {
 	margin-top: -267px;
 	padding-bottom: 1383px;
+	width: 0.01px;
 }
 
 #pu12901
@@ -111,6 +109,15 @@
 
 #u12843:hover
 {
+	width: 276px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12843.MuseMenuActive
+{
+	width: 276px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -137,6 +144,13 @@
 	padding-bottom: 30px;
 }
 
+#u12838.MuseMenuActive
+{
+	width: 288px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u12841
 {
 	height: 22px;
@@ -161,6 +175,8 @@
 
 #u12825:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -181,6 +197,16 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 39px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12825.MuseMenuActive #u12827-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 39px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -193,6 +219,8 @@
 
 #u12825.MuseMenuActive,#u12832:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -208,11 +236,21 @@
 	left: 103px;
 }
 
-#u12825.MuseMenuActive #u12827-4,#u12832:hover #u12834-4
+#u12832:hover #u12834-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 58px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12832.MuseMenuActive #u12834-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 58px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -230,11 +268,15 @@
 
 #u12832.MuseMenuActive,#u12818:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u12818.MuseMenuActive
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -250,11 +292,12 @@
 	left: 100px;
 }
 
-#u12832.MuseMenuActive #u12834-4,#u12818:hover #u12820-4
+#u12818:hover #u12820-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -263,6 +306,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -278,6 +322,13 @@
 {
 	width: 249px;
 	padding-bottom: 30px;
+}
+
+#u12873.MuseMenuActive
+{
+	width: 249px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u12876
@@ -303,8 +354,10 @@
 	padding-bottom: 30px;
 }
 
-#u12843.MuseMenuActive,#u12838.MuseMenuActive,#u12873.MuseMenuActive,#u12810.MuseMenuActive
+#u12810.MuseMenuActive
 {
+	width: 269px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -434,9 +487,11 @@
 #u23831
 {
 	position: absolute;
-	width: 495px;
+	width: 524px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	top: 604px;
-	left: 14px;
 }
 
 #u23831popup
@@ -453,6 +508,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	left: 14px;
 }
 
 #u23900
@@ -464,7 +520,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 101px;
+	left: 115px;
 }
 
 #u23909
@@ -476,7 +532,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 202px;
+	left: 216px;
 }
 
 #u23918
@@ -488,7 +544,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 303px;
+	left: 317px;
 }
 
 #u23927
@@ -500,13 +556,16 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 404px;
+	left: 418px;
 }
 
 #u23832.SSSlideLinkSelected,#u23900.SSSlideLinkSelected,#u23909.SSSlideLinkSelected,#u23918.SSSlideLinkSelected,#u23927.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
+	width: 91px;
+	height: 82px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -520,12 +579,16 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 92px;
+	left: 14px;
 }
 
 #u23936.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
+	width: 91px;
+	height: 82px;
+	min-height: 0px;
 	margin: 92px -10000px 0px 0px;
 }
 
@@ -559,9 +622,10 @@
 	z-index: 86;
 	width: 312px;
 	min-height: 36px;
+	background-color: transparent;
+	text-align: center;
 	font-size: 22px;
 	letter-spacing: 5px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -581,6 +645,7 @@
 	z-index: 90;
 	width: 302px;
 	min-height: 360px;
+	background-color: transparent;
 	font-size: 21px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;

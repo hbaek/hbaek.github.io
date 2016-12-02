@@ -1,7 +1,7 @@
 .version.flowers /* version checker */
 {
-	color: #000009;
-	background-color: #2A0B67;
+	color: #00001C;
+	background-color: #4D52FB;
 }
 
 .html
@@ -18,9 +18,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	-moz-border-radius: 0px 0px 0px 10px ;
-	-webkit-border-radius: 0px 0px 0px 10px ;
-	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
 	padding-bottom: 0px;
 	margin-left: auto;
@@ -31,6 +28,7 @@
 {
 	margin-top: -267px;
 	padding-bottom: 1509px;
+	width: 0.01px;
 }
 
 #pu12901
@@ -119,6 +117,15 @@
 
 #u12843:hover
 {
+	width: 276px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12843.MuseMenuActive
+{
+	width: 276px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -145,6 +152,13 @@
 	padding-bottom: 30px;
 }
 
+#u12838.MuseMenuActive
+{
+	width: 288px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u12841
 {
 	height: 22px;
@@ -169,6 +183,8 @@
 
 #u12825:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -189,6 +205,16 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 39px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12825.MuseMenuActive #u12827-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 39px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -201,6 +227,8 @@
 
 #u12825.MuseMenuActive,#u12832:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -216,11 +244,21 @@
 	left: 103px;
 }
 
-#u12825.MuseMenuActive #u12827-4,#u12832:hover #u12834-4
+#u12832:hover #u12834-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 58px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12832.MuseMenuActive #u12834-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 58px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -238,11 +276,15 @@
 
 #u12832.MuseMenuActive,#u12818:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u12818.MuseMenuActive
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -258,11 +300,12 @@
 	left: 100px;
 }
 
-#u12832.MuseMenuActive #u12834-4,#u12818:hover #u12820-4
+#u12818:hover #u12820-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -271,6 +314,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -286,6 +330,13 @@
 {
 	width: 249px;
 	padding-bottom: 30px;
+}
+
+#u12873.MuseMenuActive
+{
+	width: 249px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u12876
@@ -311,8 +362,10 @@
 	padding-bottom: 30px;
 }
 
-#u12843.MuseMenuActive,#u12838.MuseMenuActive,#u12873.MuseMenuActive,#u12810.MuseMenuActive
+#u12810.MuseMenuActive
 {
+	width: 269px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -364,6 +417,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 450px;
+	width: 412px;
 	margin: 26px -10000px 0px 0px;
 }
 
@@ -385,8 +439,8 @@
 	min-height: 581px;
 	border-color: #DCDFE1;
 	line-height: 1.31;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -405,6 +459,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 581px;
+	width: 581px;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
@@ -430,6 +485,7 @@
 {
 	z-index: 95;
 	width: 5px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
@@ -464,6 +520,7 @@
 {
 	z-index: 92;
 	width: 5px;
+	background-color: transparent;
 	margin-left: 251px;
 	margin-top: 5px;
 	position: relative;
@@ -491,7 +548,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/thumbnail-u25452-fr.jpg") no-repeat center bottom;
+	background: transparent url("../images/thumbnail16.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -502,6 +559,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 0px;
 	background-size: cover;
 }
@@ -519,8 +579,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 1px;
 	position: relative;
@@ -535,7 +595,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/4.gif") no-repeat center center;
+	background: transparent url("../images/42.gif") no-repeat center center;
 	background-size: cover;
 }
 
@@ -552,8 +612,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -567,7 +627,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/4-u25538-fr.jpg") no-repeat center center;
+	background: transparent url("../images/421.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -578,6 +638,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 19px 0px 0px;
 	background-size: cover;
 }
@@ -585,10 +648,11 @@
 #u12906
 {
 	z-index: 58;
-	width: 360px;
+	width: 601px;
+	padding-bottom: 101px;
 	margin-right: -10000px;
-	margin-top: 182px;
-	left: 221px;
+	margin-top: 87px;
+	left: 166px;
 }
 
 #u25449
@@ -600,7 +664,9 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/thumbnail-u25449-fr.jpg") no-repeat center center;
+	margin-top: 95px;
+	left: 55px;
+	background: transparent url("../images/thumbnail17.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -611,7 +677,10 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	margin: 0px -10000px 0px 0px;
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
+	margin: 95px -10000px 0px 0px;
 	background-size: cover;
 }
 
@@ -624,8 +693,23 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 220px;
-	background: transparent url("../images/thumbnail-u25523-fr.jpg") no-repeat left top;
+	margin-top: 95px;
+	left: 275px;
+	background: transparent url("../images/thumbnail18.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u25523:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
+	margin: 95px -10000px 0px 0px;
 	background-size: cover;
 }
 
@@ -639,17 +723,20 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 441px;
-	background: transparent url("../images/dsc03488-u25442-fr.jpg") no-repeat left top;
+	background: transparent url("../images/dsc034882.jpg") no-repeat left top;
 	background-size: cover;
 }
 
-#u25523:hover,#u25442:hover
+#u25442:hover
 {
 	background-repeat: no-repeat;
 	background-position: left top;
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
@@ -664,7 +751,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 221px;
-	background: transparent url("../images/insta-u25443-fr.jpg") no-repeat center bottom;
+	background: transparent url("../images/insta.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -675,6 +762,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
@@ -683,6 +773,7 @@
 {
 	z-index: 64;
 	width: 5px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 189px;
@@ -702,8 +793,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -724,8 +815,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -746,8 +837,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -768,8 +859,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -788,7 +879,7 @@
 	margin-right: -10000px;
 	margin-top: 364px;
 	left: 221px;
-	background: transparent url("../images/2-u25537-fr.jpg") no-repeat center center;
+	background: transparent url("../images/224.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -799,6 +890,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 364px -10000px 0px 0px;
 	background-size: cover;
 }
@@ -814,7 +908,7 @@
 	margin-right: -10000px;
 	margin-top: 364px;
 	left: 440px;
-	background: transparent url("../images/thumbnail-u25755-fr.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail19.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -825,6 +919,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 364px -10000px 0px 0px;
 	background-size: cover;
 }
@@ -848,8 +945,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -869,8 +966,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -891,8 +988,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -921,6 +1018,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
 	margin: 20px 0px 0px 243px;
 	background-size: contain;
 }
@@ -938,8 +1038,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 243px;
 	position: relative;

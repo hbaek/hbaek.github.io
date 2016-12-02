@@ -1,7 +1,7 @@
 .version.satin_buttercup /* version checker */
 {
-	color: #000019;
-	background-color: #7ABE46;
+	color: #0000E2;
+	background-color: #2CC8FD;
 }
 
 .html
@@ -18,9 +18,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	-moz-border-radius: 0px 0px 0px 10px ;
-	-webkit-border-radius: 0px 0px 0px 10px ;
-	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
 	padding-bottom: 0px;
 	margin-left: auto;
@@ -31,6 +28,7 @@
 {
 	margin-top: -267px;
 	padding-bottom: 1383px;
+	width: 0.01px;
 }
 
 #pu12901
@@ -111,6 +109,15 @@
 
 #u12843:hover
 {
+	width: 276px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u12843.MuseMenuActive
+{
+	width: 276px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -137,6 +144,13 @@
 	padding-bottom: 30px;
 }
 
+#u12838.MuseMenuActive
+{
+	width: 288px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u12841
 {
 	height: 22px;
@@ -161,6 +175,8 @@
 
 #u12825:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -181,6 +197,16 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 39px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12825.MuseMenuActive #u12827-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 39px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -193,6 +219,8 @@
 
 #u12825.MuseMenuActive,#u12832:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -208,11 +236,21 @@
 	left: 103px;
 }
 
-#u12825.MuseMenuActive #u12827-4,#u12832:hover #u12834-4
+#u12832:hover #u12834-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 58px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12832.MuseMenuActive #u12834-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 58px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -230,11 +268,15 @@
 
 #u12832.MuseMenuActive,#u12818:hover
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u12818.MuseMenuActive
 {
+	width: 271px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -250,11 +292,12 @@
 	left: 100px;
 }
 
-#u12832.MuseMenuActive #u12834-4,#u12818:hover #u12820-4
+#u12818:hover #u12820-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -263,6 +306,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 64px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -278,6 +322,13 @@
 {
 	width: 249px;
 	padding-bottom: 30px;
+}
+
+#u12873.MuseMenuActive
+{
+	width: 249px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u12876
@@ -303,8 +354,10 @@
 	padding-bottom: 30px;
 }
 
-#u12843.MuseMenuActive,#u12838.MuseMenuActive,#u12873.MuseMenuActive,#u12810.MuseMenuActive
+#u12810.MuseMenuActive
 {
+	width: 269px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -416,9 +469,12 @@
 #u23167
 {
 	position: absolute;
-	width: 394px;
+	width: 524px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 92px;
 	top: 604px;
-	left: 65px;
 }
 
 #u23167popup
@@ -435,6 +491,13 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	left: 65px;
+}
+
+#u23170_img
+{
+	margin-top: -27px;
+	margin-bottom: -28px;
 }
 
 #u23174
@@ -446,7 +509,13 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 101px;
+	left: 166px;
+}
+
+#u23174_img
+{
+	margin-top: -14px;
+	margin-bottom: -13px;
 }
 
 #u23172
@@ -458,10 +527,10 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 202px;
+	left: 267px;
 }
 
-#u23172_clip
+#u23170_clip,#u23174_clip,#u23172_clip
 {
 	overflow: hidden;
 	width: 91px;
@@ -483,13 +552,16 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 303px;
+	left: 368px;
 }
 
 #u23170.SSSlideLinkSelected,#u23174.SSSlideLinkSelected,#u23172.SSSlideLinkSelected,#u23168.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
+	width: 91px;
+	height: 82px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -523,9 +595,10 @@
 	z-index: 78;
 	width: 312px;
 	min-height: 36px;
+	background-color: transparent;
+	text-align: center;
 	font-size: 22px;
 	letter-spacing: 5px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -545,6 +618,7 @@
 	z-index: 82;
 	width: 302px;
 	min-height: 360px;
+	background-color: transparent;
 	font-size: 21px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;

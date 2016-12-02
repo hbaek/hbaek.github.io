@@ -11,12 +11,12 @@
 #u12879
 {
 	position: relative;
-	background: url("../images/u12879_states.png") no-repeat 0px 0px;
 }
 
 #u12879_states
 {
 	vertical-align: top;
+	background: url("../images/u12879_states.png") no-repeat 0px 0px;
 }
 
 #u12879:hover #u12879_states
@@ -31,7 +31,7 @@
 	filter: alpha(opacity=49);
 }
 
-#u12843
+#menuu12806,#u12843
 {
 	border-style: none;
 	border-color: transparent;
@@ -88,25 +88,16 @@
 	background: url("../images/u12841-a.png") no-repeat 0px 0px;
 }
 
-#u12816
-{
-	background-color: transparent;
-	position: relative;
-}
-
 #u12825
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-khtml-border-radius: 5px;
 	border-radius: 5px;
 	position: relative;
 }
 
-#u12825:hover
+#u12815,#u12825:hover
 {
 	background-color: transparent;
 }
@@ -115,9 +106,9 @@
 {
 	background-color: transparent;
 	line-height: 0.99;
+	text-align: center;
 	font-size: 16px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -137,9 +128,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-khtml-border-radius: 5px;
 	border-radius: 5px;
 	position: relative;
 }
@@ -153,9 +141,9 @@
 {
 	background-color: transparent;
 	line-height: 0.99;
+	text-align: center;
 	font-size: 16px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -175,9 +163,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	-khtml-border-radius: 5px;
 	border-radius: 5px;
 	position: relative;
 }
@@ -198,9 +183,9 @@
 {
 	background-color: transparent;
 	line-height: 0.99;
+	text-align: center;
 	font-size: 16px;
 	letter-spacing: 4px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -257,9 +242,6 @@
 {
 	border-color: #939495;
 	background-color: transparent;
-	-moz-border-radius: 0px;
-	-webkit-border-radius: 0px;
-	-khtml-border-radius: 0px;
 	border-radius: 0px;
 }
 
@@ -285,8 +267,17 @@
 	cursor: pointer;
 }
 
-#u12902-3,#menuu12806,#u12842,#u12814,#u12824,#u12831,#u12817,#u12849,#u12807,#u12903-3,#u12906
+#u12902-3,#u12842,#u12814,#u12816,#u12824,#u12831,#u12817,#u12849,#u12807,#u12903-3
 {
+	background-color: transparent;
+	position: relative;
+}
+
+#u12906
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 }
 

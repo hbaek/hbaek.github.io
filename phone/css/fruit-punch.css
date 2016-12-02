@@ -1,7 +1,7 @@
 .version.fruit_punch /* version checker */
 {
-	color: #00000C;
-	background-color: #EE59A0;
+	color: #00000A;
+	background-color: #6F315A;
 }
 
 @-ms-viewport
@@ -43,9 +43,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	-moz-border-radius: 0px 0px 0px 10px ;
-	-webkit-border-radius: 0px 0px 0px 10px ;
-	-khtml-border-radius: 0px 0px 0px 10px ;
 	border-radius: 0px 0px 0px 10px ;
 	padding-top: 71px;
 	padding-right: 380px;
