@@ -1,7 +1,7 @@
 .version.fine_arts /* version checker */
 {
-	color: #00000A;
-	background-color: #6F315A;
+	color: #0000EB;
+	background-color: #CB0975;
 }
 
 @-ms-viewport
@@ -41,12 +41,10 @@
 	min-height: 0px;
 	background-image: none;
 	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 0px 0px 0px 10px ;
-	padding-top: 71px;
+	border-color: #000000;
+	background-color: #FFFFFF;
 	padding-right: 380px;
-	padding-bottom: 499px;
+	padding-bottom: 570px;
 }
 
 body
