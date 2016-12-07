@@ -1,53 +1,13 @@
-#u26940
+#u26986
 {
-	background-color: #FFF7E7;
+	background: transparent url("../../images/upclose.gif") no-repeat left bottom;
+	background-size: cover;
 }
 
-#u26941
+#u26992-12
 {
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	position: relative;
-}
-
-#u26942
-{
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-}
-
-#u26942-4,#u26943-4
-{
-	background-color: transparent;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u26944-4
-{
-	background-color: transparent;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u26943-4:hover p,#u26944-4:hover p
-{
-	color: #000000;
-	visibility: inherit;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-}
-
-#u26943-2,#u26944-2
-{
-	visibility: hidden;/* 100% transparent text is hidden */
-}
-
-#u26947,#u26951
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
+	display: block;
+	vertical-align: top;
 	position: relative;
 }
 

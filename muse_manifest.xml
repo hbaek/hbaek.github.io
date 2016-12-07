@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481124991886" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481126882446" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -347,7 +347,7 @@
     <file name="merrygoraound1-crop-u21380.jpg" crc="408513945" ref="merry-goraound"/>
     <file name="merrygroudn2-crop-u21389.jpg" crc="495315785" ref="merry-goraound"/>
     <file name="merrygroudn6-crop-u21416.jpg" crc="519410954" ref="merry-goraound"/>
-    <file name="3.gif" crc="88492830" ref="satin-buttercup:phone>index"/>
+    <file name="3.gif" crc="88492830" ref="satin-buttercup"/>
     <file name="4.gif" crc="457870661" ref="satin-buttercup" seo="true"/>
     <file name="416.jpg" crc="264458805" ref="summer-under-the-pink-shade" seo="true"/>
     <file name="2-crop-u22033.jpg" crc="351852545" ref="summer-under-the-pink-shade"/>
@@ -552,11 +552,13 @@
     <file name="2-crop-u26889.jpg" crc="524056836" ref="boronia-spring"/>
     <file name="4-crop-u26898.jpg" crc="461945663" ref="boronia-spring"/>
     <file name="5-crop-u26907.jpg" crc="68198123" ref="boronia-spring"/>
+    <file name="upclose.gif" crc="3881191958" ref="phone>index"/>
+    <file name="u26992-12.png" crc="3904809517" ref="phone>index:phone>contact"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="contact.css" crc="3988855107" ref="phone>contact"/>
-      <file name="index.css" crc="4234307572" ref="phone>index"/>
+      <file name="contact.css" crc="249156945" ref="phone>contact"/>
+      <file name="index.css" crc="249156945" ref="phone>index"/>
       <file name="carnation-halo.css" crc="3955951989" ref="phone>carnation-halo"/>
       <file name="side-band-rose.css" crc="3955951989" ref="phone>side-band-rose"/>
       <file name="orange-and-white.css" crc="3955951989" ref="phone>orange-and-white"/>
@@ -581,10 +583,10 @@
       <file name="hemlock-angle.css" crc="3955951989" ref="phone>hemlock-angle"/>
       <file name="peanut-shell-study.css" crc="3955951989" ref="phone>peanut-shell-study"/>
       <file name="ivory-and-green.css" crc="3955951989" ref="phone>ivory-and-green"/>
-      <file name="master_a-master.css" crc="184372223" ref="phone>contact:phone>index"/>
+      <file name="master_a-master.css" crc="103103489" ref="phone>contact:phone>index"/>
     </folder>
-    <file name="index.html" crc="4241838789" mt="1481124432017" redirect="true" seo="true"/>
-    <file name="contact.html" crc="351749573" mt="1481124053547" redirect="true" seo="true"/>
+    <file name="index.html" crc="4084681214" mt="1481126822050" redirect="true" seo="true"/>
+    <file name="contact.html" crc="3956128814" mt="1481126711580" redirect="true" seo="true"/>
     <file name="fine-arts.html" crc="3905389893" mt="1481124488465" redirect="false" seo="true"/>
     <file name="sonic-playground.html" crc="12002043" mt="1481124488466" redirect="false" seo="true"/>
     <file name="under-the-willow-tree.html" crc="4036593539" mt="1481124488468" redirect="false" seo="true"/>
