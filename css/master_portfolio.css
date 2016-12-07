@@ -8,6 +8,11 @@
 	filter: alpha(opacity=79);
 }
 
+#u12879
+{
+	position: relative;
+}
+
 #u12879_states
 {
 	vertical-align: top;
@@ -268,8 +273,11 @@
 	position: relative;
 }
 
-#u12879,#u12906
+#u12906
 {
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 }
 

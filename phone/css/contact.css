@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00000E;
-	background-color: #D9D551;
+	color: #0000E4;
+	background-color: #552F14;
 }
 
 @-ms-viewport
@@ -46,25 +46,10 @@
 	border-radius: 0px 0px 0px 10px ;
 }
 
-#u26986
+#u26986,#u26986-bw
 {
 	z-index: 2;
-	min-height: 463px;
-	padding-bottom: 117px;
-}
-
-#u26992-12
-{
-	z-index: 3;
-	margin-right: -10000px;
-	margin-top: 117px;
-	left: 50px;
-}
-
-#u26986-bw
-{
-	z-index: 2;
-	min-height: 463px;
+	height: 580px;
 }
 
 body

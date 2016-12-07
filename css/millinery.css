@@ -1,7 +1,7 @@
 .version.millinery /* version checker */
 {
-	color: #000005;
-	background-color: #379A51;
+	color: #00000E;
+	background-color: #1D0610;
 }
 
 .html
@@ -391,8 +391,8 @@
 	width: 314px;
 	min-height: 75px;
 	background-color: transparent;
-	text-align: center;
 	font-size: 59px;
+	text-align: center;
 	letter-spacing: 27px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -415,8 +415,8 @@
 {
 	color: #000000;
 	visibility: inherit;
-	text-decoration: none;
 	line-height: 1.2;
+	text-decoration: none;
 }
 
 #u26788
@@ -454,8 +454,8 @@
 	width: 314px;
 	min-height: 75px;
 	background-color: transparent;
-	text-align: center;
 	font-size: 59px;
+	text-align: center;
 	letter-spacing: 27px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -498,8 +498,8 @@
 	width: 314px;
 	min-height: 75px;
 	background-color: transparent;
-	text-align: center;
 	font-size: 59px;
+	text-align: center;
 	letter-spacing: 27px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;

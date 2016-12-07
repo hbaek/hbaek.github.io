@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #D9D551;
+	color: #0000F5;
+	background-color: #4B67AB;
 }
 
 @-ms-viewport
@@ -38,33 +38,140 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 570px;
+	min-height: 555px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
+	padding-bottom: 15px;
 }
 
 #u26986
 {
 	z-index: 2;
-	min-height: 463px;
-	padding-bottom: 117px;
+	min-height: 524px;
+	padding-bottom: 56px;
 }
 
-#u26992-12
+#u26993-27
 {
 	z-index: 3;
+	display: block;
+	vertical-align: top;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 117px;
-	left: 50px;
+	margin-top: 61px;
+	left: 45px;
 }
 
 #u26986-bw
 {
 	z-index: 2;
-	min-height: 463px;
+	min-height: 524px;
+}
+
+#u26994
+{
+	z-index: 30;
+	width: 181px;
+	height: 28px;
+	background-color: transparent;
+	opacity: 0.15;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=15)";
+	filter: alpha(opacity=15);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 162px;
+	left: 106px;
+}
+
+.ie #u26994
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u26994:hover
+{
+	background-color: #FFFFFF;
+	width: 181px;
+	height: 28px;
+	min-height: 0px;
+	margin: 162px -10000px 0px 0px;
+}
+
+#u26995
+{
+	z-index: 31;
+	width: 181px;
+	height: 28px;
+	background-color: transparent;
+	opacity: 0.15;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=15)";
+	filter: alpha(opacity=15);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 278px;
+	left: 100px;
+}
+
+.ie #u26995
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u26995:hover
+{
+	background-color: #FFFFFF;
+	width: 181px;
+	height: 28px;
+	min-height: 0px;
+	margin: 278px -10000px 0px 0px;
+}
+
+#u26996
+{
+	z-index: 32;
+	width: 181px;
+	height: 28px;
+	background-color: transparent;
+	opacity: 0.15;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=15)";
+	filter: alpha(opacity=15);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 401px;
+	left: 100px;
+}
+
+.ie #u26996
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u26996:hover
+{
+	background-color: #FFFFFF;
+	width: 181px;
+	height: 28px;
+	min-height: 0px;
+	margin: 401px -10000px 0px 0px;
+}
+
+.ie #u26994:hover,.ie #u26995:hover,.ie #u26996:hover
+{
+	opacity: 0.15;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=15)";
+	filter: alpha(opacity=15);
 }
 
 body
