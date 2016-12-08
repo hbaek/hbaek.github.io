@@ -1,0 +1,18 @@
+#u27618
+{
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+	background: transparent url("../../images/dsc03134.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u27625
+{
+	background-color: #FFFFFF;
+	opacity: 0.71;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=71)";
+	filter: alpha(opacity=71);
+	position: relative;
+}
+
