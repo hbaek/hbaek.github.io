@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000004;
-	background-color: #BCF0BD;
+	color: #000003;
+	background-color: #B9857A;
 }
 
 @-ms-viewport
@@ -101,7 +101,39 @@
 	margin: 154px -10000px 0px 0px;
 }
 
-.ie #u27616:hover
+#u27642
+{
+	z-index: 26;
+	width: 245px;
+	height: 37px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 306px;
+	left: 66px;
+}
+
+.ie #u27642
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u27642:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.35;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
+	filter: alpha(opacity=35);
+	width: 245px;
+	height: 37px;
+	min-height: 0px;
+	margin: 306px -10000px 0px 0px;
+}
+
+.ie #u27616:hover,.ie #u27642:hover
 {
 	opacity: 0.35;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
