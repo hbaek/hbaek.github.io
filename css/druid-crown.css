@@ -1,7 +1,7 @@
 .version.druid_crown /* version checker */
 {
-	color: #000004;
-	background-color: #6E52B6;
+	color: #0000EF;
+	background-color: #DDFDAD;
 }
 
 .html
@@ -565,8 +565,8 @@
 	width: 52px;
 	min-height: 48px;
 	background-color: transparent;
-	text-align: left;
 	font-size: 21px;
+	text-align: left;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	-webkit-transform: matrix(0.9781,0.2079,-0.2079,0.9781,6,-5);
 	-ms-transform: matrix(0.9781,0.2079,-0.2079,0.9781,6,-5);
@@ -593,9 +593,9 @@
 	width: 356px;
 	min-height: 36px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
 	letter-spacing: 5px;
+	font-size: 22px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	margin-left: 377px;

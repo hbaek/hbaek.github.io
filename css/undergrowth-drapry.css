@@ -1,7 +1,7 @@
 .version.undergrowth_drapry /* version checker */
 {
-	color: #000000;
-	background-color: #82382E;
+	color: #00001A;
+	background-color: #79EEB0;
 }
 
 .html
@@ -589,9 +589,9 @@
 	width: 342px;
 	min-height: 36px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
 	letter-spacing: 5px;
+	font-size: 22px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;

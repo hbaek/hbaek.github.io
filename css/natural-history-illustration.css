@@ -1,7 +1,7 @@
 .version.natural_history_illustration /* version checker */
 {
-	color: #0000ED;
-	background-color: #245407;
+	color: #000019;
+	background-color: #089B2A;
 }
 
 .html
@@ -679,9 +679,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #999999;
 	line-height: 1;
 	text-align: center;
-	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -718,9 +718,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #999999;
 	line-height: 1;
 	text-align: center;
-	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -780,9 +780,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 1.4;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

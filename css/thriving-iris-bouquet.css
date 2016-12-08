@@ -1,7 +1,7 @@
 .version.thriving_iris_bouquet /* version checker */
 {
-	color: #000004;
-	background-color: #670362;
+	color: #0000F8;
+	background-color: #CAF05E;
 }
 
 .html
@@ -542,9 +542,9 @@
 	width: 312px;
 	min-height: 36px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
 	letter-spacing: 5px;
+	font-size: 22px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -565,8 +565,8 @@
 	width: 302px;
 	min-height: 360px;
 	background-color: transparent;
-	text-align: left;
 	font-size: 21px;
+	text-align: left;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;

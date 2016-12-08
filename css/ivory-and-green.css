@@ -1,7 +1,7 @@
 .version.ivory_and_green /* version checker */
 {
-	color: #0000FF;
-	background-color: #3DFAB3;
+	color: #000004;
+	background-color: #825DD8;
 }
 
 .html
@@ -522,8 +522,8 @@
 	width: 52px;
 	min-height: 48px;
 	background-color: transparent;
-	text-align: left;
 	font-size: 21px;
+	text-align: left;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	-webkit-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
 	-ms-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
@@ -550,9 +550,9 @@
 	width: 356px;
 	min-height: 36px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
 	letter-spacing: 5px;
+	font-size: 22px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	margin-left: 367px;

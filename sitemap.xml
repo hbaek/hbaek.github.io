@@ -26,19 +26,19 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/tablet/felt.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/tablet/floral-corwn.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/tablet/leaves.html</loc>
-    <lastmod>2015-07-06</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -80,6 +80,12 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/1.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/2.jpg</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -176,12 +182,6 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/45.jpg</loc>
-    <lastmod>2016-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/5.jpg</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -499,6 +499,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/12.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/39.jpg</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -554,6 +560,12 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/merrygroudn591x102.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/3.gif</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1129,21 +1141,76 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/fine-arts.html</loc>
+    <loc>http://www.hazelbaek.com/images/16.jpg</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/27.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/37.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/47.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/17.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/28.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/38.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/48.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/54.jpg</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/fine-arts.html</loc>
+    <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/fine-arts.html"/>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/contact.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/contact.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/index.html</loc>
-    <lastmod>2016-12-02</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/index.html"/>
@@ -1153,108 +1220,126 @@
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/under-the-willow-tree.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/textile-0.2.html</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/textile-0.2.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/sonic-playground.html</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/sonic-playground.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/how-do-i-love-thee.html</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/how-do-i-love-thee.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/carnation-crown.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/carnation-crown.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/straw.html</loc>
-    <lastmod>2016-09-20</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/straw.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/carnation-halo.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/carnation-halo.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/ivory-and-green.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/ivory-and-green.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/side-band-rose.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/side-band-rose.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/orange-and-white.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/orange-and-white.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/hemlock-angle.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/hemlock-angle.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/birthday-k.html</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/birthday-k.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/fruit-punch.html</loc>
     <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/fruit-punch.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/white-straw-and-black-crosses.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/white-straw-and-black-crosses.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/winzlear-gear.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/winzlear-gear.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/silver-beaded-night-casque.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/silver-beaded-night-casque.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/balck-acorn.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/balck-acorn.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/oragne-heaven-and-hell.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/oragne-heaven-and-hell.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/millinery.html</loc>
@@ -1265,212 +1350,247 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/double-side-band-floral.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/double-side-band-floral.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/nightcap-lilly.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/nightcap-lilly.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/wild-forget-me-not.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/wild-forget-me-not.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/burgendy-rose.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/burgendy-rose.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/bohemian-green-yy.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/bohemian-green-yy.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/bohemian-pink-yy.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/bohemian-pink-yy.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/bohemian-rose-yy.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/bohemian-rose-yy.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/dear-mother.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/dear-mother.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/textile-0.3.html</loc>
-    <lastmod>2016-11-09</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/textile-0.3.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/natural-history-illustration.html</loc>
-    <lastmod>2016-10-13</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/natural-history-illustration.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/textile-01.html</loc>
-    <lastmod>2016-11-09</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/textile-01.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/rabit-furr-study.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/rabit-furr-study.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/leave-corwn.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/leave-corwn.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/three-rose-band.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/three-rose-band.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/druid-crown.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/druid-crown.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/merry-goraound.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/merry-goraound.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/summer-under-the-pink-shade.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/summer-under-the-pink-shade.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/satin-buttercup.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/satin-buttercup.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/love_bird.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/love_bird.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/fall-burgundy-shade.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/fall-burgundy-shade.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/ribbon-beret.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/ribbon-beret.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/green-spring-bonet.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/green-spring-bonet.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/undergrowth-drapry.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/undergrowth-drapry.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/birthday-s.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/birthday-s.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/kalecelotis.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/kalecelotis.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/cinderella.html</loc>
-    <lastmod>2016-09-20</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/cinderella.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/waffle-cone.html</loc>
-    <lastmod>2016-04-05</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/waffle-cone.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/crown.html</loc>
-    <lastmod>2016-12-02</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/crown.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/fabric.html</loc>
-    <lastmod>2016-12-02</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/fabric.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/flowers.html</loc>
-    <lastmod>2016-09-21</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/flowers.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/chocolate-magnolia.html</loc>
-    <lastmod>2016-09-21</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/chocolate-magnolia.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/miller-wreath.html</loc>
-    <lastmod>2016-09-20</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/miller-wreath.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/iris-water.html</loc>
-    <lastmod>2016-09-20</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/iris-water.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/thriving-iris-bouquet.html</loc>
-    <lastmod>2016-09-21</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/thriving-iris-bouquet.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/boronia-spring.html</loc>
-    <lastmod>2016-12-02</lastmod>
+    <lastmod>2016-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/boronia-spring.html"/>
   </url>
 </urlset>

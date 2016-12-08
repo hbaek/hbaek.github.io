@@ -1,7 +1,7 @@
 .version.straw /* version checker */
 {
-	color: #00000F;
-	background-color: #35D374;
+	color: #0000F8;
+	background-color: #2B2C5B;
 }
 
 .html
@@ -431,8 +431,8 @@
 	min-height: 581px;
 	border-color: #DCDFE1;
 	line-height: 1.31;
-	text-align: center;
 	font-size: 18px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -571,8 +571,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -647,8 +647,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

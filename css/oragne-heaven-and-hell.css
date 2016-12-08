@@ -1,7 +1,7 @@
 .version.oragne_heaven_and_hell /* version checker */
 {
-	color: #000012;
-	background-color: #1223A4;
+	color: #0000FC;
+	background-color: #AAABD6;
 }
 
 .html
@@ -547,9 +547,9 @@
 	width: 312px;
 	min-height: 36px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
 	letter-spacing: 5px;
+	font-size: 22px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;

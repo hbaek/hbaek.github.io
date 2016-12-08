@@ -1,7 +1,7 @@
 .version.silver_beaded_night_casque /* version checker */
 {
-	color: #0000F8;
-	background-color: #ACA5D7;
+	color: #000002;
+	background-color: #5533DD;
 }
 
 .html
@@ -523,9 +523,9 @@
 	width: 312px;
 	min-height: 36px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
 	letter-spacing: 5px;
+	font-size: 22px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;

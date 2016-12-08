@@ -1,7 +1,7 @@
 .version.cinderella /* version checker */
 {
-	color: #0000F1;
-	background-color: #353C15;
+	color: #0000F5;
+	background-color: #61FDAF;
 }
 
 .html
@@ -602,9 +602,9 @@
 	width: 312px;
 	min-height: 36px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
 	letter-spacing: 5px;
+	font-size: 22px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.fabric /* version checker */
 {
-	color: #00000C;
-	background-color: #3CD3B0;
+	color: #00001B;
+	background-color: #FB3898;
 }
 
 .html
@@ -439,8 +439,8 @@
 	min-height: 581px;
 	border-color: #DCDFE1;
 	line-height: 1.31;
-	text-align: center;
 	font-size: 18px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -579,8 +579,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 1px;
 	position: relative;
@@ -626,8 +626,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -751,8 +751,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -773,8 +773,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -795,8 +795,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	line-height: 1.87;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

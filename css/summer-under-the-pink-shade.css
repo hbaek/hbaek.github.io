@@ -1,7 +1,7 @@
 .version.summer_under_the_pink_shade /* version checker */
 {
-	color: #00000B;
-	background-color: #FAC845;
+	color: #0000F4;
+	background-color: #DDECE5;
 }
 
 .html
@@ -535,9 +535,9 @@
 	width: 312px;
 	min-height: 36px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
 	letter-spacing: 5px;
+	font-size: 22px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.love_bird /* version checker */
 {
 	color: #00001D;
-	background-color: #699177;
+	background-color: #3C6943;
 }
 
 .html
@@ -578,9 +578,9 @@
 	width: 356px;
 	min-height: 36px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 22px;
 	letter-spacing: 5px;
+	font-size: 22px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -595,8 +595,8 @@
 	width: 52px;
 	min-height: 48px;
 	background-color: transparent;
-	text-align: left;
 	font-size: 21px;
+	text-align: left;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	-webkit-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
 	-ms-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
