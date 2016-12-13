@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481589465663" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481589790806" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -533,7 +533,7 @@
     <file name="4-crop-u26898.jpg" crc="482719831" ref="boronia-spring"/>
     <file name="5-crop-u26907.jpg" crc="140869795" ref="boronia-spring"/>
     <file name="dsc03128.jpg" crc="4129025203" ref="phone>index:phone>contact"/>
-    <file name="u27615-22.png" crc="4235728322" ref="phone>index"/>
+    <file name="u27615-22.png" crc="136000074" ref="phone>index"/>
     <file name="16.jpg" crc="4193292830" seo="true" ref="birthday-k"/>
     <file name="27.jpg" crc="498715986" seo="true" ref="birthday-k"/>
     <file name="37.jpg" crc="4267569102" seo="true" ref="birthday-k"/>
@@ -548,7 +548,7 @@
     <file name="dsc03134.jpg" crc="83764525" ref="phone>straw"/>
     <file name="u27667-20.png" crc="4004271038" ref="phone>straw"/>
     <file name="u27871-4.png" crc="3927301274" ref="phone>millinery"/>
-    <file name="u27662-21.png" crc="335471469" ref="phone>millinery"/>
+    <file name="u27662-21.png" crc="419595277" ref="phone>millinery"/>
     <file name="u27672-41.png" crc="476079618" ref="phone>floral"/>
     <file name="u27680-31.png" crc="493963418" ref="phone>fine-art"/>
     <file name="u27688-21.png" crc="4280587657" ref="phone>fabric"/>
@@ -560,7 +560,7 @@
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="4211218038" ref="phone>contact"/>
-      <file name="index.css" crc="348327973" ref="phone>index"/>
+      <file name="index.css" crc="4004362701" ref="phone>index"/>
       <file name="straw.css" crc="3820348740" ref="phone>straw"/>
       <file name="millinery.css" crc="50619467" ref="phone>millinery"/>
       <file name="fabric.css" crc="163732177" ref="phone>fabric"/>
@@ -572,10 +572,10 @@
       <file name="fine-art.css" crc="167791405" ref="phone>fine-art"/>
       <file name="shade-of-hue.css" crc="4186333711" ref="phone>shade-of-hue"/>
     </folder>
-    <file name="index.html" crc="484548854" mt="1481587869464" redirect="true" seo="true"/>
+    <file name="index.html" crc="3837443527" mt="1481589768304" redirect="true" seo="true"/>
     <file name="contact.html" crc="270063690" mt="1481588933774" redirect="true" seo="true"/>
     <file name="straw.html" crc="222308622" mt="1481589161222" redirect="true" seo="true"/>
-    <file name="millinery.html" crc="306643213" seo="true" mt="1481588086080" redirect="true"/>
+    <file name="millinery.html" crc="4245364528" seo="true" mt="1481589775250" redirect="true"/>
     <file name="crown.html" crc="3851843082" seo="true" mt="1481585193067" redirect="true"/>
     <file name="fabric.html" crc="3901415111" seo="true" mt="1481585016336" redirect="true"/>
     <file name="floral.html" crc="440093106" seo="true" mt="1481584447226" redirect="true"/>

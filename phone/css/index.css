@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000014;
-	background-color: #C31025;
+	color: #0000EE;
+	background-color: #ADB9CD;
 }
 
 @-ms-viewport
@@ -48,8 +48,8 @@
 #u27608
 {
 	z-index: 2;
-	min-height: 598px;
-	padding-bottom: 74px;
+	min-height: 599px;
+	padding-bottom: 73px;
 }
 
 #u27615-22
@@ -66,7 +66,7 @@
 #u27608-bw
 {
 	z-index: 2;
-	min-height: 598px;
+	min-height: 599px;
 }
 
 #u27616
