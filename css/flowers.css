@@ -1,7 +1,7 @@
 .version.flowers /* version checker */
 {
-	color: #0000F7;
-	background-color: #9F5D45;
+	color: #00000A;
+	background-color: #AE21E9;
 }
 
 .html
@@ -438,9 +438,9 @@
 	width: 581px;
 	min-height: 581px;
 	border-color: #DCDFE1;
-	line-height: 1.31;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
+	line-height: 1.31;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -548,7 +548,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/thumbnail16.jpg") no-repeat center bottom;
+	background: transparent url("../images/thumbnail14.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -578,9 +578,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 1px;
 	position: relative;
@@ -595,7 +595,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/42.gif") no-repeat center center;
+	background: transparent url("../images/4.gif") no-repeat center center;
 	background-size: cover;
 }
 
@@ -611,9 +611,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -627,7 +627,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/421.jpg") no-repeat center center;
+	background: transparent url("../images/42.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -666,7 +666,7 @@
 	margin-right: -10000px;
 	margin-top: 95px;
 	left: 55px;
-	background: transparent url("../images/thumbnail17.jpg") no-repeat center center;
+	background: transparent url("../images/thumbnail15.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -695,7 +695,7 @@
 	margin-right: -10000px;
 	margin-top: 95px;
 	left: 275px;
-	background: transparent url("../images/thumbnail18.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail16.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -723,7 +723,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 441px;
-	background: transparent url("../images/dsc034882.jpg") no-repeat left top;
+	background: transparent url("../images/dsc03488.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -751,7 +751,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 221px;
-	background: transparent url("../images/insta2.jpg") no-repeat center bottom;
+	background: transparent url("../images/insta.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -792,9 +792,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -814,9 +814,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -836,9 +836,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -858,9 +858,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -879,7 +879,7 @@
 	margin-right: -10000px;
 	margin-top: 364px;
 	left: 221px;
-	background: transparent url("../images/224.jpg") no-repeat center center;
+	background: transparent url("../images/22.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -908,7 +908,7 @@
 	margin-right: -10000px;
 	margin-top: 364px;
 	left: 440px;
-	background: transparent url("../images/thumbnail19.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail17.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -944,9 +944,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -965,9 +965,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -987,9 +987,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1037,9 +1037,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 243px;
 	position: relative;

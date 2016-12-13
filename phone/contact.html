@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "contact.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "contact.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -12,9 +12,9 @@
   <meta name="viewport" content="width=378"/>
   <link rel="canonical" href="http://www.hazelbaek.com/contact.html"/>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="../css/site_global.css?159499786"/>
-  <link rel="stylesheet" type="text/css" href="css/master_portfolio.css?3841925372"/>
-  <link rel="stylesheet" type="text/css" href="css/contact.css?124107700" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="../css/site_global.css?230690614"/>
+  <link rel="stylesheet" type="text/css" href="css/master_main.css?3841925372"/>
+  <link rel="stylesheet" type="text/css" href="css/contact.css?4211218038" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -22,9 +22,39 @@
    </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- column -->
-   <div class="browser_width colelem" id="u27608-bw">
-    <div id="u27608"><!-- simple frame --></div>
+  <div class="clearfix" id="page"><!-- group -->
+   <div class="browser_width grpelem" id="u27608-bw">
+    <div class="museBGSize clearfix" id="u27608"><!-- column -->
+     <div class="colelem" id="u27879"><!-- simple frame --></div>
+     <div class="colelem" id="u27880"><!-- simple frame --></div>
+     <div class="colelem" id="u27881"><!-- simple frame --></div>
+    </div>
+   </div>
+   <div class="browser_width grpelem" id="u27877-bw">
+    <div id="u27877"><!-- custom html -->
+     <div id="wufoo-w19pkk9t1i9xjr0">
+Fill out my <a href="https://hazelbaek.wufoo.com/forms/w19pkk9t1i9xjr0">online form</a>.
+</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/partners/">Wufoo integrations</a> and get your data to your favorite apps.</div>
+<script type="text/javascript">var w19pkk9t1i9xjr0;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'hazelbaek',
+'formHash':'w19pkk9t1i9xjr0',
+'autoResize':true,
+'height':'500',
+'async':true,
+'host':'wufoo.com',
+'header':'show',
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { w19pkk9t1i9xjr0 = new WufooForm();w19pkk9t1i9xjr0.initialize(options);w19pkk9t1i9xjr0.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
+
+
+</div>
    </div>
    <div class="verticalspacer"></div>
   </div>
@@ -36,6 +66,7 @@
    window.jQuery || document.write('\x3Cscript src="../scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="../scripts/museutils.js?183364071" type="text/javascript"></script>
+  <script src="../scripts/jquery.musepolyfill.bgsize.js?4004268962" type="text/javascript"></script>
   <script src="../scripts/jquery.watch.js?71412426" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">

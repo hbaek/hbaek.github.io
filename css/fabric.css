@@ -1,7 +1,7 @@
 .version.fabric /* version checker */
 {
-	color: #00001B;
-	background-color: #FB3898;
+	color: #0000E0;
+	background-color: #63A8C7;
 }
 
 .html
@@ -438,9 +438,9 @@
 	width: 581px;
 	min-height: 581px;
 	border-color: #DCDFE1;
-	line-height: 1.31;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
+	line-height: 1.31;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -548,7 +548,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/420.jpg") no-repeat center bottom;
+	background: transparent url("../images/4.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -578,9 +578,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 1px;
 	position: relative;
@@ -595,7 +595,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/thumbnail14.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail12.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -625,9 +625,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -653,7 +653,7 @@
 	margin-right: -10000px;
 	margin-top: 95px;
 	left: 55px;
-	background: transparent url("../images/thumbnail15.jpg") no-repeat center center;
+	background: transparent url("../images/thumbnail13.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -750,9 +750,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -772,9 +772,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -794,9 +794,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

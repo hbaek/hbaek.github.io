@@ -1,7 +1,7 @@
-.version.crown /* version checker */
+.version.floral /* version checker */
 {
-	color: #0000FB;
-	background-color: #A63B19;
+	color: #0000ED;
+	background-color: #4D5E5A;
 }
 
 @-ms-viewport
@@ -47,15 +47,15 @@
 	padding-bottom: 45px;
 }
 
-#u27703-39
+#u27672-41
 {
 	z-index: 7;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 85px;
-	left: 89px;
+	margin-top: 52px;
+	left: 40px;
 }
 
 #pu27618

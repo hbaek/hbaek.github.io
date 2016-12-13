@@ -1,13 +1,13 @@
-#u27630
+#u27618
 {
-	opacity: 0.9;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
-	filter: alpha(opacity=90);
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
 	background: transparent url("../../images/dsc03134.jpg") no-repeat left top;
 	background-size: cover;
 }
 
-#u27629
+#u27625
 {
 	background-color: #FFFFFF;
 	opacity: 0.71;
@@ -15,14 +15,9 @@
 	filter: alpha(opacity=71);
 }
 
-#u27641-26
+#u27666-3
 {
 	background-color: transparent;
-	line-height: 1.65;
-	font-size: 10px;
-	text-align: center;
-	letter-spacing: 4px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
 

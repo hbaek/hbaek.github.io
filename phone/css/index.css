@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #B9857A;
+	color: #000014;
+	background-color: #C31025;
 }
 
 @-ms-viewport
@@ -48,8 +48,8 @@
 #u27608
 {
 	z-index: 2;
-	min-height: 591px;
-	padding-bottom: 81px;
+	min-height: 598px;
+	padding-bottom: 74px;
 }
 
 #u27615-22
@@ -59,14 +59,14 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 80px;
-	left: 47px;
+	margin-top: 73px;
+	left: 40px;
 }
 
 #u27608-bw
 {
 	z-index: 2;
-	min-height: 591px;
+	min-height: 598px;
 }
 
 #u27616
@@ -133,7 +133,39 @@
 	margin: 306px -10000px 0px 0px;
 }
 
-.ie #u27616:hover,.ie #u27642:hover
+#u27665
+{
+	z-index: 27;
+	width: 245px;
+	height: 37px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 458px;
+	left: 66px;
+}
+
+.ie #u27665
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u27665:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.35;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
+	filter: alpha(opacity=35);
+	width: 245px;
+	height: 37px;
+	min-height: 0px;
+	margin: 458px -10000px 0px 0px;
+}
+
+.ie #u27616:hover,.ie #u27642:hover,.ie #u27665:hover
 {
 	opacity: 0.35;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
