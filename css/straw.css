@@ -1,7 +1,7 @@
 .version.straw /* version checker */
 {
-	color: #0000F8;
-	background-color: #2B2C5B;
+	color: #00001B;
+	background-color: #7A2DE6;
 }
 
 .html
@@ -430,14 +430,14 @@
 	width: 581px;
 	min-height: 581px;
 	border-color: #DCDFE1;
-	line-height: 1.31;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
+	line-height: 1.31;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	left: 115px;
-	background: #D2D6DC url("../images/test2.jpg") no-repeat center bottom;
+	background: #D2D6DC url("../images/test.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -540,7 +540,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/thumbnail12.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -570,9 +570,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -605,7 +605,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 221px;
-	background: transparent url("../images/thumbnail13.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail2.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -646,14 +646,65 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	font-size: 11px;
 	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 140px;
 	left: 220px;
+}
+
+#u27885
+{
+	z-index: 107;
+	width: 140px;
+	height: 140px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 441px;
+	background: transparent url("../images/dsc03837-%eb%b3%b5%ea%b5%ac%eb%90%a8-u27885-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u27885:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background-size: cover;
+}
+
+#u27886-4
+{
+	z-index: 108;
+	width: 138px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	text-align: center;
+	font-size: 11px;
+	line-height: 1.87;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 140px;
+	left: 441px;
 }
 
 body

@@ -97,6 +97,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/4.jpg</loc>
+    <lastmod>2016-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/32.jpg</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -649,12 +655,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/test.jpg</loc>
-    <lastmod>2016-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/33.jpg</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1153,6 +1153,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/dsc03837-%EB%B3%B5%EA%B5%AC%EB%90%A8.jpg</loc>
+    <lastmod>2016-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03798.jpg</loc>
+    <lastmod>2016-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03837-%EB%B3%B5%EA%B5%AC%EB%90%A891x91.jpg</loc>
+    <lastmod>2016-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc0379891x91.jpg</loc>
+    <lastmod>2016-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/phone/floral.html</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1216,13 +1240,13 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/carnation-crown.html</loc>
-    <lastmod>2016-12-08</lastmod>
+    <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/straw.html</loc>
-    <lastmod>2016-12-08</lastmod>
+    <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/straw.html"/>
@@ -1515,6 +1539,12 @@
   <url>
     <loc>http://www.hazelbaek.com/boronia-spring.html</loc>
     <lastmod>2016-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/cherry-bling.html</loc>
+    <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

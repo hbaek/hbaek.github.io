@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EE;
-	background-color: #ADB9CD;
+	color: #00000C;
+	background-color: #A3B7E0;
 }
 
 @-ms-viewport
@@ -78,7 +78,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 154px;
-	left: 66px;
+	left: 67px;
 }
 
 .ie #u27616
@@ -110,7 +110,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 306px;
-	left: 66px;
+	left: 67px;
 }
 
 .ie #u27642
@@ -142,7 +142,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 458px;
-	left: 66px;
+	left: 67px;
 }
 
 .ie #u27665

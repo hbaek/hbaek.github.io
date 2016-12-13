@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000FB;
-	background-color: #021676;
+	color: #00001F;
+	background-color: #C3DB66;
 }
 
 @-ms-viewport
@@ -46,62 +46,31 @@
 	padding-bottom: 1px;
 }
 
-#u27608
+#u27608,#u27608-bw
 {
 	z-index: 2;
-	min-height: 310.6px;
-	padding: 313px 18px 48.39999999999998px 5px;
-}
-
-#u27879
-{
-	z-index: 3;
-	width: 183px;
-	height: 28px;
-	background-color: #FFFFFF;
-	opacity: 0.38;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=38)";
-	filter: alpha(opacity=38);
-	margin-left: 1px;
-	position: relative;
-}
-
-#u27880
-{
-	z-index: 4;
-	width: 183px;
-	height: 28px;
-	background-color: #FFFFFF;
-	opacity: 0.38;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=38)";
-	filter: alpha(opacity=38);
-	margin-left: 1px;
-	margin-top: 43px;
-	position: relative;
+	height: 672px;
 }
 
 #u27881
 {
-	z-index: 5;
-	width: 355px;
-	height: 169px;
+	z-index: 3;
+	height: 672px;
 	background-color: #FFFFFF;
-	opacity: 0.38;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=38)";
-	filter: alpha(opacity=38);
-	margin-top: 43px;
-	position: relative;
+	opacity: 0.72;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=72)";
+	filter: alpha(opacity=72);
 }
 
-#u27608-bw
+#u27881-bw
 {
-	z-index: 2;
-	min-height: 310.6px;
+	z-index: 3;
+	height: 672px;
 }
 
 #u27877
 {
-	z-index: 6;
+	z-index: 4;
 	min-height: 765px;
 	border-style: none;
 	border-color: transparent;
@@ -110,8 +79,9 @@
 
 #u27877-bw
 {
-	z-index: 6;
+	z-index: 4;
 	min-height: 765px;
+	margin-top: -2px;
 }
 
 body
