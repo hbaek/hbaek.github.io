@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481591483477" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481593132028" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -56,12 +56,12 @@
   <folder name="css">
     <file name="site_global.css" crc="230690614"/>
     <file name="textile-0_2.css" crc="49775484" ref="textile-0.2"/>
-    <file name="index.css" crc="168139175" ref="index"/>
+    <file name="index.css" crc="43165057" ref="index"/>
     <file name="under-the-willow-tree.css" crc="520889182" ref="under-the-willow-tree"/>
     <file name="how-do-i-love-thee.css" crc="423527669" ref="how-do-i-love-thee"/>
     <file name="contact.css" crc="297126529" ref="contact"/>
     <file name="sonic-playground.css" crc="3885602746" ref="sonic-playground"/>
-    <file name="fine-arts.css" crc="351577858" ref="fine-arts"/>
+    <file name="fine-arts.css" crc="165706220" ref="fine-arts"/>
     <file name="side-band-rose.css" crc="373558618" ref="side-band-rose"/>
     <file name="hemlock-angle.css" crc="6331785" ref="hemlock-angle"/>
     <file name="carnation-crown.css" crc="169375143" ref="carnation-crown"/>
@@ -107,7 +107,7 @@
     <file name="waffle-cone.css" crc="370777634" ref="waffle-cone"/>
     <file name="chocolate-magnolia.css" crc="158562336" ref="chocolate-magnolia"/>
     <file name="flowers.css" crc="179184105" ref="flowers"/>
-    <file name="fabric.css" crc="3764627655" ref="fabric"/>
+    <file name="fabric.css" crc="3852811747" ref="fabric"/>
     <file name="crown.css" crc="3792403685" ref="crown"/>
     <file name="miller-wreath.css" crc="386439438" ref="miller-wreath"/>
     <file name="iris-water.css" crc="150761111" ref="iris-water"/>
@@ -126,7 +126,7 @@
     <file name="musewpslideshow.js" crc="242596657" ref="how-do-i-love-thee:carnation-crown:carnation-halo:ivory-and-green:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:white-straw-and-black-crosses:winzlear-gear:silver-beaded-night-casque:balck-acorn:oragne-heaven-and-hell:double-side-band-floral:nightcap-lilly:wild-forget-me-not:burgendy-rose:bohemian-green-yy:bohemian-pink-yy:bohemian-rose-yy:dear-mother:natural-history-illustration:rabit-furr-study:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:fall-burgundy-shade:ribbon-beret:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:phone>shade-of-hue:cherry-bling"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="how-do-i-love-thee:carnation-crown:carnation-halo:ivory-and-green:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:white-straw-and-black-crosses:winzlear-gear:silver-beaded-night-casque:balck-acorn:oragne-heaven-and-hell:double-side-band-floral:nightcap-lilly:wild-forget-me-not:burgendy-rose:bohemian-green-yy:bohemian-pink-yy:bohemian-rose-yy:dear-mother:natural-history-illustration:rabit-furr-study:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:fall-burgundy-shade:ribbon-beret:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:phone>shade-of-hue:cherry-bling"/>
     <file name="touchswipe.js" crc="4038331989" ref="how-do-i-love-thee:carnation-crown:carnation-halo:ivory-and-green:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:white-straw-and-black-crosses:winzlear-gear:silver-beaded-night-casque:balck-acorn:oragne-heaven-and-hell:double-side-band-floral:nightcap-lilly:wild-forget-me-not:burgendy-rose:bohemian-green-yy:bohemian-pink-yy:bohemian-rose-yy:dear-mother:natural-history-illustration:rabit-furr-study:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:fall-burgundy-shade:ribbon-beret:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:phone>shade-of-hue:cherry-bling"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="sonic-playground:under-the-willow-tree:textile-0.2:fine-arts:textile-0.3:natural-history-illustration:textile-01:index:straw:crown:fabric:flowers:double-side-band-floral:burgendy-rose:three-rose-band:love_bird:phone>index:phone>straw:phone>crown"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="sonic-playground:under-the-willow-tree:textile-0.2:fine-arts:textile-0.3:natural-history-illustration:textile-01:index:straw:crown:fabric:flowers:double-side-band-floral:burgendy-rose:three-rose-band:love_bird:phone>index:phone>straw:phone>crown:phone>floral"/>
     <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>contact:tablet>fine-arts:tablet>sonic-playground:tablet>under-the-willow-tree:tablet>how-do-i-love-thee:tablet>textile-0.2:tablet>straw:tablet>carnation-crown:tablet>carnation-halo:tablet>ivory-and-green:tablet>side-band-rose:tablet>hemlock-angle:tablet>orange-and-white:tablet>birthday-k:tablet>fruit-punch:contact:index:millinery:crown:straw:fabric"/>
   </folder>
   <folder name="images">
@@ -148,12 +148,11 @@
     <file name="txt3.jpg" crc="516986264" ref="fine-arts"/>
     <file name="sptdw.jpg" crc="480507470" ref="fine-arts"/>
     <file name="txt1.jpg" crc="125131792" ref="fine-arts"/>
-    <file name="pnt.jpg" crc="471885379" ref="fine-arts"/>
     <file name="txt2.jpg" crc="3990953601" ref="fine-arts"/>
-    <file name="1.jpg" crc="4152447554" ref="carnation-crown:phone>shade-of-hue" seo="true"/>
+    <file name="1.jpg" crc="4266566940" ref="carnation-crown:phone>shade-of-hue:fabric"/>
     <file name="2.jpg" crc="165610523" ref="carnation-crown:phone>shade-of-hue" seo="true"/>
     <file name="3.jpg" crc="80459334" ref="carnation-crown:phone>shade-of-hue" seo="true"/>
-    <file name="4.jpg" crc="3976274469" ref="carnation-crown:fabric" seo="true"/>
+    <file name="4.jpg" crc="3976274469" ref="carnation-crown" seo="true"/>
     <file name="22.jpg" crc="112786175" ref="carnation-halo:flowers"/>
     <file name="32.jpg" crc="346508464" ref="carnation-halo" seo="true"/>
     <file name="42.jpg" crc="536865576" ref="carnation-halo:flowers"/>
@@ -269,7 +268,6 @@
     <file name="pattern4469x315.jpg" crc="105501695" ref="rabit-furr-study" seo="true"/>
     <file name="pattern5462x317.jpg" crc="444110597" ref="rabit-furr-study" seo="true"/>
     <file name="patternstudy2464x315.jpg" crc="3935143159" ref="rabit-furr-study" seo="true"/>
-    <file name="inanimate.jpg" crc="4105992940" ref="fine-arts"/>
     <file name="1-crop-u20006.jpg" crc="232894219" ref="carnation-crown"/>
     <file name="2-crop-u20015.jpg" crc="4068151897" ref="carnation-crown"/>
     <file name="3-crop-u20024.jpg" crc="3786176528" ref="carnation-crown"/>
@@ -324,7 +322,7 @@
     <file name="3-crop-u20175.jpg" crc="86304316" ref="three-rose-band"/>
     <file name="4-crop-u20184.jpg" crc="4007427977" ref="three-rose-band"/>
     <file name="1.png" crc="3822332837" ref="druid-crown" seo="true"/>
-    <file name="5.png" crc="515675330" ref="druid-crown" seo="true"/>
+    <file name="5.png" crc="386712409" ref="druid-crown:index"/>
     <file name="12.jpg" crc="257927198" ref="carnation-halo" seo="true"/>
     <file name="39.jpg" crc="4289348549" ref="winzlear-gear" seo="true"/>
     <file name="29.jpg" crc="401413982" ref="winzlear-gear" seo="true"/>
@@ -466,8 +464,8 @@
     <file name="untitled.jpg" crc="3958857561" ref="sonic-playground"/>
     <file name="003479ec06467e8fcaa508f86770bfc7-2-.jpg" crc="212880546" ref="sonic-playground"/>
     <file name="4bf8d3bd8ef0cf8f50b87976da75476d-1-.jpg" crc="409697269" ref="sonic-playground"/>
-    <file name="thumbnail.jpg" crc="4043662671" ref="crown:straw"/>
-    <file name="thumbnail2.jpg" crc="3773885786" ref="crown:straw"/>
+    <file name="thumbnail.jpg" crc="3828718467" ref="crown:straw:fabric"/>
+    <file name="thumbnail2.jpg" crc="125850363" ref="crown:straw:fabric"/>
     <file name="thumbnail1.jpg" crc="3844004974" ref="crown"/>
     <file name="thumbnail3.jpg" crc="125670359" ref="crown"/>
     <file name="thumbnail4.jpg" crc="377222602" ref="crown"/>
@@ -513,8 +511,6 @@
     <file name="121.jpg" crc="440315418" seo="true" ref="ribbon-beret"/>
     <file name="223.jpg" crc="4183357014" seo="true" ref="ribbon-beret"/>
     <file name="dsc03661.jpg" crc="288843837" seo="true" ref="cinderella"/>
-    <file name="thumbnail12.jpg" crc="3828718467" ref="fabric"/>
-    <file name="thumbnail13.jpg" crc="125850363" ref="fabric"/>
     <file name="420.jpg" crc="145416959" ref="miller-wreath" seo="true"/>
     <file name="thumbnail14.jpg" crc="4022875760" ref="flowers"/>
     <file name="thumbnail15.jpg" crc="247301501" ref="flowers"/>
@@ -522,7 +518,7 @@
     <file name="thumbnail16.jpg" crc="3779565633" ref="flowers"/>
     <file name="421.jpg" crc="4020441837" ref="boronia-spring" seo="true"/>
     <file name="thumbnail17.jpg" crc="4186937208" ref="flowers"/>
-    <file name="insta.jpg" crc="4045569848" ref="index:flowers"/>
+    <file name="insta.jpg" crc="4045569848" ref="flowers"/>
     <file name="224.jpg" crc="4174270325" ref="boronia-spring" seo="true"/>
     <file name="510.jpg" crc="4122048019" seo="true" ref="boronia-spring"/>
     <file name="122.jpg" crc="117923057" seo="true" ref="miller-wreath"/>
@@ -545,12 +541,11 @@
     <file name="54.jpg" crc="3975257975" seo="true" ref="winzlear-gear"/>
     <file name="113.jpg" crc="4002332116" ref="textile-0.2"/>
     <file name="213.jpg" crc="200491267" ref="textile-0.2"/>
-    <file name="dsc03134.jpg" crc="83764525" ref="phone>straw:phone>crown"/>
+    <file name="dsc03134.jpg" crc="83764525" ref="phone>straw:phone>crown:phone>floral"/>
     <file name="u27667-20.png" crc="4004271038" ref="phone>straw"/>
     <file name="u27871-4.png" crc="3927301274" ref="phone>millinery"/>
     <file name="u27662-21.png" crc="419595277" ref="phone>millinery"/>
-    <file name="u27672-41.png" crc="476079618" ref="phone>floral"/>
-    <file name="u27680-31.png" crc="493963418" ref="phone>fine-art"/>
+    <file name="u27680-31.png" crc="4188921784" ref="phone>fine-art"/>
     <file name="u27688-21.png" crc="4280587657" ref="phone>fabric"/>
     <file name="u27703-39.png" crc="183564258" ref="phone>crown"/>
     <file name="cactus-crop-u27745.jpg" crc="3844532272" ref="phone>shade-of-hue"/>
@@ -561,6 +556,7 @@
     <file name="dsc03798.jpg" crc="4210602696" seo="true" ref="cherry-bling"/>
     <file name="dsc03837-복구됨91x91.jpg" crc="4186260990" seo="true" ref="cherry-bling"/>
     <file name="dsc0379891x91.jpg" crc="18107010" seo="true" ref="cherry-bling"/>
+    <file name="u27672-39.png" crc="3900610306" ref="phone>floral"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -573,8 +569,8 @@
       <file name="master_lista.css" crc="3872821225" ref="phone>fabric:phone>crown:phone>straw:phone>floral:phone>fine-art"/>
       <file name="master_main.css" crc="3841925372" ref="phone>index:phone>contact:phone>millinery"/>
       <file name="master_view.css" crc="466084948" ref="phone>shade-of-hue"/>
-      <file name="floral.css" crc="3981270618" ref="phone>floral"/>
-      <file name="fine-art.css" crc="167791405" ref="phone>fine-art"/>
+      <file name="floral.css" crc="4112807379" ref="phone>floral"/>
+      <file name="fine-art.css" crc="4091851571" ref="phone>fine-art"/>
       <file name="shade-of-hue.css" crc="4186333711" ref="phone>shade-of-hue"/>
     </folder>
     <file name="index.html" crc="3837443527" mt="1481590653913" redirect="true" seo="true"/>
@@ -583,13 +579,13 @@
     <file name="millinery.html" crc="4245364528" seo="true" mt="1481589775250" redirect="true"/>
     <file name="crown.html" crc="3857294650" seo="true" mt="1481591469968" redirect="true"/>
     <file name="fabric.html" crc="3951111298" seo="true" mt="1481590924040" redirect="true"/>
-    <file name="floral.html" crc="440093106" seo="true" mt="1481584447226" redirect="true"/>
-    <file name="fine-art.html" crc="4038691380" seo="true" mt="1481584645034" redirect="true"/>
+    <file name="floral.html" crc="426393845" seo="true" mt="1481592499183" redirect="true"/>
+    <file name="fine-art.html" crc="189537519" seo="true" mt="1481592943354" redirect="true"/>
     <file name="shade-of-hue.html" crc="3800941184" seo="true" mt="1481588432517" redirect="true"/>
   </folder>
-  <file name="fine-arts.html" crc="102056858" mt="1481584059067" redirect="true" seo="true"/>
+  <file name="fine-arts.html" crc="504162347" mt="1481592819233" redirect="true" seo="true"/>
   <file name="contact.html" crc="6299900" mt="1481160357347" redirect="true" seo="true"/>
-  <file name="index.html" crc="4276173928" mt="1481160357275" redirect="true" seo="true"/>
+  <file name="index.html" crc="451711666" mt="1481593036809" redirect="true" seo="true"/>
   <file name="under-the-willow-tree.html" crc="3761803478" mt="1481163117581" redirect="true" seo="true"/>
   <file name="textile-0.2.html" crc="272329269" mt="1481163118492" redirect="true" seo="true"/>
   <file name="sonic-playground.html" crc="477924161" mt="1481163116498" redirect="true" seo="true"/>
@@ -637,7 +633,7 @@
   <file name="cinderella.html" crc="342967011" mt="1481163159290" redirect="true" seo="true"/>
   <file name="waffle-cone.html" crc="77622948" mt="1481163160030" redirect="true" seo="true"/>
   <file name="crown.html" crc="520063062" mt="1481585031893" redirect="true" seo="true"/>
-  <file name="fabric.html" crc="363675555" mt="1481585016325" redirect="true" seo="true"/>
+  <file name="fabric.html" crc="3924794892" mt="1481593130040" redirect="true" seo="true"/>
   <file name="flowers.html" crc="4222096305" mt="1481583998306" redirect="true" seo="true"/>
   <file name="chocolate-magnolia.html" crc="385383530" mt="1481163163004" redirect="true" seo="true"/>
   <file name="miller-wreath.html" crc="3997722460" mt="1481163147975" redirect="true" seo="true"/>

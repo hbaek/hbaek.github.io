@@ -1,7 +1,7 @@
 .version.fabric /* version checker */
 {
-	color: #0000E0;
-	background-color: #63A8C7;
+	color: #0000E5;
+	background-color: #A53DE3;
 }
 
 .html
@@ -548,7 +548,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/4.jpg") no-repeat center bottom;
+	background: transparent url("../images/1.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -595,7 +595,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/thumbnail12.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -653,7 +653,7 @@
 	margin-right: -10000px;
 	margin-top: 95px;
 	left: 55px;
-	background: transparent url("../images/thumbnail13.jpg") no-repeat center center;
+	background: transparent url("../images/thumbnail2.jpg") no-repeat center center;
 	background-size: cover;
 }
 

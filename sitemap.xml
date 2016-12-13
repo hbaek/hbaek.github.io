@@ -79,12 +79,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/1.jpg</loc>
-    <lastmod>2016-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/2.jpg</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -476,12 +470,6 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/1.png</loc>
-    <lastmod>2016-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/5.png</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1209,7 +1197,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/index.html</loc>
-    <lastmod>2016-12-08</lastmod>
+    <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/index.html"/>

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #0599A7;
+	color: #000002;
+	background-color: #92A581;
 }
 
 .html
@@ -397,7 +397,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 226px;
-	background: #FFFFFF url("../images/insta.jpg") no-repeat center bottom;
+	background: #FFFFFF url("../images/5.png") no-repeat center bottom;
 	background-size: cover;
 }
 
