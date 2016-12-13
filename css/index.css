@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000002;
-	background-color: #92A581;
+	color: #000016;
+	background-color: #FA2E5B;
 }
 
 .html
@@ -398,6 +398,20 @@
 	margin-right: -10000px;
 	left: 226px;
 	background: #FFFFFF url("../images/5.png") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u16805:hover
+{
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	opacity: 0.25;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
+	filter: alpha(opacity=25);
+	width: 377px;
+	height: 484px;
+	min-height: 0px;
+	margin: 0px -10000px -1px 0px;
 	background-size: cover;
 }
 

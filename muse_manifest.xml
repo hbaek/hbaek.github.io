@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481593839408" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481593966491" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -56,7 +56,7 @@
   <folder name="css">
     <file name="site_global.css" crc="230690614"/>
     <file name="textile-0_2.css" crc="49775484" ref="textile-0.2"/>
-    <file name="index.css" crc="43165057" ref="index"/>
+    <file name="index.css" crc="385494619" ref="index"/>
     <file name="under-the-willow-tree.css" crc="520889182" ref="under-the-willow-tree"/>
     <file name="how-do-i-love-thee.css" crc="423527669" ref="how-do-i-love-thee"/>
     <file name="contact.css" crc="297126529" ref="contact"/>
@@ -77,7 +77,7 @@
     <file name="silver-beaded-night-casque.css" crc="39138269" ref="silver-beaded-night-casque"/>
     <file name="balck-acorn.css" crc="4100533715" ref="balck-acorn"/>
     <file name="millinery.css" crc="87530065" ref="millinery"/>
-    <file name="master_portfolio.css" crc="33501702" ref="under-the-willow-tree:textile-0.2:how-do-i-love-thee:sonic-playground:fine-arts:winzlear-gear:white-straw-and-black-crosses:straw:dear-mother:double-side-band-floral:fruit-punch:carnation-crown:birthday-k:bohemian-rose-yy:index:hemlock-angle:bohemian-pink-yy:orange-and-white:bohemian-green-yy:millinery:side-band-rose:wild-forget-me-not:oragne-heaven-and-hell:ivory-and-green:nightcap-lilly:balck-acorn:burgendy-rose:carnation-halo:contact:silver-beaded-night-casque:rabit-furr-study:textile-01:natural-history-illustration:textile-0.3:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:ribbon-beret:fall-burgundy-shade:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:flowers:fabric:crown:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:cherry-bling"/>
+    <file name="master_portfolio.css" crc="3835074789" ref="under-the-willow-tree:textile-0.2:how-do-i-love-thee:sonic-playground:fine-arts:winzlear-gear:white-straw-and-black-crosses:straw:dear-mother:double-side-band-floral:fruit-punch:carnation-crown:birthday-k:bohemian-rose-yy:index:hemlock-angle:bohemian-pink-yy:orange-and-white:bohemian-green-yy:millinery:side-band-rose:wild-forget-me-not:oragne-heaven-and-hell:ivory-and-green:nightcap-lilly:balck-acorn:burgendy-rose:carnation-halo:contact:silver-beaded-night-casque:rabit-furr-study:textile-01:natural-history-illustration:textile-0.3:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:ribbon-beret:fall-burgundy-shade:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:flowers:fabric:crown:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:cherry-bling"/>
     <file name="double-side-band-floral.css" crc="390749657" ref="double-side-band-floral"/>
     <file name="dear-mother.css" crc="3797912490" ref="dear-mother"/>
     <file name="burgendy-rose.css" crc="349099305" ref="burgendy-rose"/>
@@ -580,7 +580,7 @@
   </folder>
   <file name="fine-arts.html" crc="504162347" mt="1481592819233" redirect="true" seo="true"/>
   <file name="contact.html" crc="6299900" mt="1481160357347" redirect="true" seo="true"/>
-  <file name="index.html" crc="451711666" mt="1481593036809" redirect="true" seo="true"/>
+  <file name="index.html" crc="4284867221" mt="1481593911127" redirect="true" seo="true"/>
   <file name="under-the-willow-tree.html" crc="3761803478" mt="1481163117581" redirect="true" seo="true"/>
   <file name="textile-0.2.html" crc="272329269" mt="1481163118492" redirect="true" seo="true"/>
   <file name="sonic-playground.html" crc="477924161" mt="1481163116498" redirect="true" seo="true"/>
