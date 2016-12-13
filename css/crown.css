@@ -1,7 +1,7 @@
 .version.crown /* version checker */
 {
-	color: #0000E2;
-	background-color: #0B7CE5;
+	color: #00000D;
+	background-color: #9D8612;
 }
 
 .html
@@ -614,14 +614,14 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/thumbnail.jpg") no-repeat left top;
-	background-size: contain;
+	background: transparent url("../images/3.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 #u8133:hover
 {
 	background-repeat: no-repeat;
-	background-position: left top;
+	background-position: center center;
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
@@ -629,7 +629,7 @@
 	height: 140px;
 	min-height: 0px;
 	margin: 19px 0px 0px;
-	background-size: contain;
+	background-size: cover;
 }
 
 #u12906
@@ -655,7 +655,21 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/thumbnail2.jpg") no-repeat left top;
+	background: transparent url("../images/7.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u13816:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	width: 140px;
+	height: 140px;
+	min-height: 0px;
+	margin: 0px;
 	background-size: cover;
 }
 
@@ -700,11 +714,11 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/thumbnail3.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail.jpg") no-repeat left top;
 	background-size: cover;
 }
 
-#u13816:hover,#u13808:hover
+#u13808:hover
 {
 	background-repeat: no-repeat;
 	background-position: left top;
@@ -727,7 +741,7 @@
 	border-color: transparent;
 	margin-top: 42px;
 	position: relative;
-	background: transparent url("../images/thumbnail4.jpg") no-repeat center bottom;
+	background: transparent url("../images/thumbnail2.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -896,7 +910,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/thumbnail5.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail3.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -924,7 +938,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 220px;
-	background: transparent url("../images/thumbnail6.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail4.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -938,7 +952,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 441px;
-	background: transparent url("../images/thumbnail7.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail5.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -1023,7 +1037,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/thumbnail8.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail6.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -1037,7 +1051,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 220px;
-	background: transparent url("../images/thumbnail9.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail7.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -1203,7 +1217,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 217px;
-	background: transparent url("../images/thumbnail10.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail8.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -1217,7 +1231,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 439px;
-	background: transparent url("../images/thumbnail11.jpg") no-repeat left top;
+	background: transparent url("../images/thumbnail9.jpg") no-repeat left top;
 	background-size: cover;
 }
 

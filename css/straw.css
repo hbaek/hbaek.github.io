@@ -1,7 +1,7 @@
 .version.straw /* version checker */
 {
-	color: #00001B;
-	background-color: #7A2DE6;
+	color: #0000F8;
+	background-color: #13ECE0;
 }
 
 .html
@@ -540,14 +540,14 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/thumbnail.jpg") no-repeat left top;
+	background: transparent url("../images/21.jpg") no-repeat center top;
 	background-size: cover;
 }
 
 #u25107:hover
 {
 	background-repeat: no-repeat;
-	background-position: left top;
+	background-position: center top;
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
@@ -605,14 +605,14 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 221px;
-	background: transparent url("../images/thumbnail2.jpg") no-repeat left top;
+	background: transparent url("../images/5ddcb9f08d6eb3a54dae53d35b503aa8-1-.jpg") no-repeat center top;
 	background-size: cover;
 }
 
 #u25087:hover
 {
 	background-repeat: no-repeat;
-	background-position: left top;
+	background-position: center top;
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
@@ -667,7 +667,7 @@
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 441px;
-	background: transparent url("../images/dsc03837-%eb%b3%b5%ea%b5%ac%eb%90%a8-u27885-fr.jpg") no-repeat left top;
+	background: transparent url("../images/dsc03798-u27885-fr.jpg") no-repeat left top;
 	background-size: cover;
 }
 

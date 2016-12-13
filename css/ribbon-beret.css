@@ -1,7 +1,7 @@
 .version.ribbon_beret /* version checker */
 {
-	color: #000012;
-	background-color: #E42654;
+	color: #00000C;
+	background-color: #E02A1F;
 }
 
 .html
@@ -547,9 +547,9 @@
 	width: 312px;
 	min-height: 36px;
 	background-color: transparent;
-	letter-spacing: 5px;
-	font-size: 22px;
 	text-align: center;
+	font-size: 22px;
+	letter-spacing: 5px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -632,7 +632,7 @@
 #u22845
 {
 	z-index: 96;
-	width: 77px;
+	width: 79px;
 	min-height: 24px;
 	border-style: none;
 	border-color: transparent;

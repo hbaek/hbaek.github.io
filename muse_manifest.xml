@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481593132028" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1481593839408" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -65,7 +65,7 @@
     <file name="side-band-rose.css" crc="373558618" ref="side-band-rose"/>
     <file name="hemlock-angle.css" crc="6331785" ref="hemlock-angle"/>
     <file name="carnation-crown.css" crc="169375143" ref="carnation-crown"/>
-    <file name="straw.css" crc="460991974" ref="straw"/>
+    <file name="straw.css" crc="4162055392" ref="straw"/>
     <file name="orange-and-white.css" crc="4041022382" ref="orange-and-white"/>
     <file name="ivory-and-green.css" crc="75652568" ref="ivory-and-green"/>
     <file name="carnation-halo.css" crc="17451106" ref="carnation-halo"/>
@@ -97,7 +97,7 @@
     <file name="summer-under-the-pink-shade.css" crc="4108184805" ref="summer-under-the-pink-shade"/>
     <file name="satin-buttercup.css" crc="4174847587" ref="satin-buttercup"/>
     <file name="love_bird.css" crc="490498371" ref="love_bird"/>
-    <file name="ribbon-beret.css" crc="316941908" ref="ribbon-beret"/>
+    <file name="ribbon-beret.css" crc="216017439" ref="ribbon-beret"/>
     <file name="fall-burgundy-shade.css" crc="3881627314" ref="fall-burgundy-shade"/>
     <file name="green-spring-bonet.css" crc="4174973296" ref="green-spring-bonet"/>
     <file name="undergrowth-drapry.css" crc="444198576" ref="undergrowth-drapry"/>
@@ -108,7 +108,7 @@
     <file name="chocolate-magnolia.css" crc="158562336" ref="chocolate-magnolia"/>
     <file name="flowers.css" crc="179184105" ref="flowers"/>
     <file name="fabric.css" crc="3852811747" ref="fabric"/>
-    <file name="crown.css" crc="3792403685" ref="crown"/>
+    <file name="crown.css" crc="228427282" ref="crown"/>
     <file name="miller-wreath.css" crc="386439438" ref="miller-wreath"/>
     <file name="iris-water.css" crc="150761111" ref="iris-water"/>
     <file name="thriving-iris-bouquet.css" crc="4174049374" ref="thriving-iris-bouquet"/>
@@ -149,10 +149,10 @@
     <file name="sptdw.jpg" crc="480507470" ref="fine-arts"/>
     <file name="txt1.jpg" crc="125131792" ref="fine-arts"/>
     <file name="txt2.jpg" crc="3990953601" ref="fine-arts"/>
-    <file name="1.jpg" crc="4266566940" ref="carnation-crown:phone>shade-of-hue:fabric"/>
-    <file name="2.jpg" crc="165610523" ref="carnation-crown:phone>shade-of-hue" seo="true"/>
-    <file name="3.jpg" crc="80459334" ref="carnation-crown:phone>shade-of-hue" seo="true"/>
-    <file name="4.jpg" crc="3976274469" ref="carnation-crown" seo="true"/>
+    <file name="1.jpg" crc="440315418" ref="carnation-crown:phone>shade-of-hue:fabric:ribbon-beret" seo="true"/>
+    <file name="2.jpg" crc="4183357014" ref="carnation-crown:phone>shade-of-hue:ribbon-beret" seo="true"/>
+    <file name="3.jpg" crc="3867187858" ref="carnation-crown:phone>shade-of-hue:ribbon-beret:crown"/>
+    <file name="4.jpg" crc="174239303" ref="carnation-crown:ribbon-beret" seo="true"/>
     <file name="22.jpg" crc="112786175" ref="carnation-halo:flowers"/>
     <file name="32.jpg" crc="346508464" ref="carnation-halo" seo="true"/>
     <file name="42.jpg" crc="536865576" ref="carnation-halo:flowers"/>
@@ -179,7 +179,7 @@
     <file name="4-crop-u9474.jpg" crc="4221755146" ref="fruit-punch"/>
     <file name="5-crop-u9483.jpg" crc="3969227558" ref="fruit-punch"/>
     <file name="19.jpg" crc="4156238900" ref="winzlear-gear" seo="true"/>
-    <file name="21.jpg" crc="355285031" ref="white-straw-and-black-crosses" seo="true"/>
+    <file name="21.jpg" crc="4238527767" ref="white-straw-and-black-crosses:straw"/>
     <file name="1-crop-u9839.jpg" crc="321563226" ref="white-straw-and-black-crosses"/>
     <file name="21-crop-u9880.jpg" crc="3849430850" ref="white-straw-and-black-crosses"/>
     <file name="210.jpg" crc="473851664" ref="silver-beaded-night-casque" seo="true"/>
@@ -313,7 +313,7 @@
     <file name="172.jpg" crc="4051175468" ref="bohemian-pink-yy" seo="true"/>
     <file name="7-crop-u18674.jpg" crc="269485955" ref="bohemian-pink-yy"/>
     <file name="17-crop-u18710.jpg" crc="516517010" ref="bohemian-pink-yy"/>
-    <file name="7.gif" crc="3999995009" ref="bohemian-rose-yy" seo="true"/>
+    <file name="7.gif" crc="3999995009" ref="bohemian-rose-yy:crown"/>
     <file name="11.gif" crc="4072418339" ref="bohemian-rose-yy" seo="true"/>
     <file name="8-crop-u18853.jpg" crc="269748391" ref="bohemian-rose-yy"/>
     <file name="10-crop-u18871.jpg" crc="4146203478" ref="bohemian-rose-yy"/>
@@ -424,8 +424,6 @@
     <file name="418.jpg" crc="3793922299" ref="druid-crown" seo="true"/>
     <file name="119.jpg" crc="410447862" ref="undergrowth-drapry" seo="true"/>
     <file name="221.jpg" crc="451208678" ref="undergrowth-drapry" seo="true"/>
-    <file name="321.jpg" crc="150584498" ref="ribbon-beret" seo="true"/>
-    <file name="419.jpg" crc="174239303" ref="ribbon-beret" seo="true"/>
     <file name="120.jpg" crc="4229924872" ref="fall-burgundy-shade" seo="true"/>
     <file name="222.jpg" crc="3976119027" ref="fall-burgundy-shade" seo="true"/>
     <file name="322.jpg" crc="3897924044" ref="miller-wreath" seo="true"/>
@@ -464,18 +462,16 @@
     <file name="untitled.jpg" crc="3958857561" ref="sonic-playground"/>
     <file name="003479ec06467e8fcaa508f86770bfc7-2-.jpg" crc="212880546" ref="sonic-playground"/>
     <file name="4bf8d3bd8ef0cf8f50b87976da75476d-1-.jpg" crc="409697269" ref="sonic-playground"/>
-    <file name="thumbnail.jpg" crc="3828718467" ref="crown:straw:fabric"/>
-    <file name="thumbnail2.jpg" crc="125850363" ref="crown:straw:fabric"/>
+    <file name="thumbnail.jpg" crc="125670359" ref="crown:fabric"/>
+    <file name="thumbnail2.jpg" crc="377222602" ref="crown:fabric"/>
     <file name="thumbnail1.jpg" crc="3844004974" ref="crown"/>
-    <file name="thumbnail3.jpg" crc="125670359" ref="crown"/>
-    <file name="thumbnail4.jpg" crc="377222602" ref="crown"/>
-    <file name="thumbnail5.jpg" crc="381330248" ref="crown"/>
-    <file name="thumbnail6.jpg" crc="3996505953" ref="crown"/>
-    <file name="thumbnail7.jpg" crc="430488217" ref="crown"/>
-    <file name="thumbnail8.jpg" crc="224011692" ref="crown"/>
-    <file name="thumbnail9.jpg" crc="296386487" ref="crown"/>
-    <file name="thumbnail10.jpg" crc="4077284075" ref="crown"/>
-    <file name="thumbnail11.jpg" crc="61075158" ref="crown"/>
+    <file name="thumbnail3.jpg" crc="381330248" ref="crown"/>
+    <file name="thumbnail4.jpg" crc="3996505953" ref="crown"/>
+    <file name="thumbnail5.jpg" crc="430488217" ref="crown"/>
+    <file name="thumbnail6.jpg" crc="224011692" ref="crown"/>
+    <file name="thumbnail7.jpg" crc="296386487" ref="crown"/>
+    <file name="thumbnail8.jpg" crc="4077284075" ref="crown"/>
+    <file name="thumbnail9.jpg" crc="61075158" ref="crown"/>
     <file name="55.jpg" crc="72678077" seo="true" ref="double-side-band-floral"/>
     <file name="u26788_states.png" crc="446195791" ref="millinery"/>
     <file name="u26788_states-r.png" crc="3957377849" ref="millinery"/>
@@ -508,8 +504,6 @@
     <file name="415.jpg" crc="4262037969" seo="true" ref="love_bird"/>
     <file name="318.jpg" crc="4106935895" seo="true" ref="undergrowth-drapry"/>
     <file name="59.jpg" crc="334657680" seo="true" ref="miller-wreath"/>
-    <file name="121.jpg" crc="440315418" seo="true" ref="ribbon-beret"/>
-    <file name="223.jpg" crc="4183357014" seo="true" ref="ribbon-beret"/>
     <file name="dsc03661.jpg" crc="288843837" seo="true" ref="cinderella"/>
     <file name="420.jpg" crc="145416959" ref="miller-wreath" seo="true"/>
     <file name="thumbnail14.jpg" crc="4022875760" ref="flowers"/>
@@ -551,12 +545,13 @@
     <file name="cactus-crop-u27745.jpg" crc="3844532272" ref="phone>shade-of-hue"/>
     <file name="road-crop-u27747.jpg" crc="4106415434" ref="phone>shade-of-hue"/>
     <file name="trees-crop-u27749.jpg" crc="366658360" ref="phone>shade-of-hue"/>
-    <file name="dsc03837-복구됨-u27885-fr.jpg" crc="265813949" ref="straw"/>
     <file name="dsc03837-복구됨.jpg" crc="4162116215" seo="true" ref="cherry-bling"/>
     <file name="dsc03798.jpg" crc="4210602696" seo="true" ref="cherry-bling"/>
     <file name="dsc03837-복구됨91x91.jpg" crc="4186260990" seo="true" ref="cherry-bling"/>
     <file name="dsc0379891x91.jpg" crc="18107010" seo="true" ref="cherry-bling"/>
     <file name="u27672-39.png" crc="3900610306" ref="phone>floral"/>
+    <file name="5ddcb9f08d6eb3a54dae53d35b503aa8-1-.jpg" crc="3853560721" ref="straw"/>
+    <file name="dsc03798-u27885-fr.jpg" crc="3838380335" ref="straw"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -591,7 +586,7 @@
   <file name="sonic-playground.html" crc="477924161" mt="1481163116498" redirect="true" seo="true"/>
   <file name="how-do-i-love-thee.html" crc="4286526448" mt="1481163123535" redirect="true" seo="true"/>
   <file name="carnation-crown.html" crc="3973411851" mt="1481590472409" redirect="true" seo="true"/>
-  <file name="straw.html" crc="3992064086" mt="1481590936962" redirect="true" seo="true"/>
+  <file name="straw.html" crc="243054798" mt="1481593835985" redirect="true" seo="true"/>
   <file name="carnation-halo.html" crc="4276722283" mt="1481163134082" redirect="true" seo="true"/>
   <file name="ivory-and-green.html" crc="9870331" mt="1481163134915" redirect="true" seo="true"/>
   <file name="side-band-rose.html" crc="273667938" mt="1481163136925" redirect="true" seo="true"/>
@@ -625,14 +620,14 @@
   <file name="satin-buttercup.html" crc="3903637277" mt="1481163173454" redirect="true" seo="true"/>
   <file name="love_bird.html" crc="4012903173" mt="1481163145581" redirect="true" seo="true"/>
   <file name="fall-burgundy-shade.html" crc="297415689" mt="1481163125957" redirect="true" seo="true"/>
-  <file name="ribbon-beret.html" crc="375169348" mt="1481163157664" redirect="true" seo="true"/>
+  <file name="ribbon-beret.html" crc="190128873" mt="1481593263355" redirect="true" seo="true"/>
   <file name="green-spring-bonet.html" crc="3967679350" mt="1481163158456" redirect="true" seo="true"/>
   <file name="undergrowth-drapry.html" crc="458932788" mt="1481163172789" redirect="true" seo="true"/>
   <file name="birthday-s.html" crc="4261659697" mt="1481163167456" redirect="true" seo="true"/>
   <file name="kalecelotis.html" crc="465388778" mt="1481163174040" redirect="true" seo="true"/>
   <file name="cinderella.html" crc="342967011" mt="1481163159290" redirect="true" seo="true"/>
   <file name="waffle-cone.html" crc="77622948" mt="1481163160030" redirect="true" seo="true"/>
-  <file name="crown.html" crc="520063062" mt="1481585031893" redirect="true" seo="true"/>
+  <file name="crown.html" crc="3961816422" mt="1481593835921" redirect="true" seo="true"/>
   <file name="fabric.html" crc="3924794892" mt="1481593130040" redirect="true" seo="true"/>
   <file name="flowers.html" crc="4222096305" mt="1481583998306" redirect="true" seo="true"/>
   <file name="chocolate-magnolia.html" crc="385383530" mt="1481163163004" redirect="true" seo="true"/>

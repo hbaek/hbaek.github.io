@@ -79,13 +79,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/2.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/1.jpg</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/3.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/2.jpg</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -176,12 +176,6 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/19.jpg</loc>
-    <lastmod>2016-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/21.jpg</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -446,12 +440,6 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/172.jpg</loc>
-    <lastmod>2016-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/7.gif</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -781,18 +769,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/321.jpg</loc>
-    <lastmod>2016-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/419.jpg</loc>
-    <lastmod>2016-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/120.jpg</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1022,18 +998,6 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/59.jpg</loc>
-    <lastmod>2016-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/121.jpg</loc>
-    <lastmod>2016-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/223.jpg</loc>
     <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1440,7 +1404,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/ribbon-beret.html</loc>
-    <lastmod>2016-12-08</lastmod>
+    <lastmod>2016-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
