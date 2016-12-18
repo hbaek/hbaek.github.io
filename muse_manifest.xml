@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1482044904320" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1482045100587" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -566,7 +566,7 @@
       <file name="master_lista.css" crc="3872821225" ref="phone>fabric:phone>crown:phone>straw:phone>floral:phone>fine-art"/>
       <file name="master_main.css" crc="4209270752" ref="phone>index:phone>contact:phone>millinery:phone>main-screen"/>
       <file name="master_view.css" crc="466084948" ref="phone>shade-of-hue"/>
-      <file name="floral.css" crc="4112807379" ref="phone>floral"/>
+      <file name="floral.css" crc="4235662352" ref="phone>floral"/>
       <file name="fine-art.css" crc="4091851571" ref="phone>fine-art"/>
       <file name="shade-of-hue.css" crc="4186333711" ref="phone>shade-of-hue"/>
       <file name="main-screen.css" crc="4172730338" ref="phone>main-screen"/>
@@ -577,7 +577,7 @@
     <file name="millinery.html" crc="4245364528" seo="true" mt="1482042236093" redirect="true"/>
     <file name="crown.html" crc="3857294650" seo="true" mt="1481591469968" redirect="true"/>
     <file name="fabric.html" crc="3951111298" seo="true" mt="1481590924040" redirect="true"/>
-    <file name="floral.html" crc="426393845" seo="true" mt="1481592499183" redirect="true"/>
+    <file name="floral.html" crc="426393845" seo="true" mt="1482045085408" redirect="true"/>
     <file name="fine-art.html" crc="189537519" seo="true" mt="1481592943354" redirect="true"/>
     <file name="shade-of-hue.html" crc="3800941184" seo="true" mt="1481588432517" redirect="true"/>
     <file name="main-screen.html" crc="115268779" seo="true" mt="1482044783175" redirect="true"/>
