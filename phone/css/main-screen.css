@@ -1,7 +1,7 @@
 .version.main_screen /* version checker */
 {
-	color: #0000F8;
-	background-color: #B6CFE2;
+	color: #00001A;
+	background-color: #E3C123;
 }
 
 @-ms-viewport
@@ -48,8 +48,8 @@
 #u27608
 {
 	z-index: 2;
-	min-height: 549px;
-	padding: 71px 17px 52px;
+	min-height: 548px;
+	padding: 71px 17px 53px;
 }
 
 #u28101-6
@@ -61,11 +61,19 @@
 	position: relative;
 }
 
-#u28102-5
+#u28102-4
 {
 	z-index: 9;
-	display: block;
-	vertical-align: top;
+	width: 343px;
+	min-height: 53px;
+	background-color: #232857;
+	border-radius: 7px;
+	letter-spacing: 3px;
+	text-align: center;
+	font-size: 15px;
+	line-height: 3.17;
+	color: #FFFFFF;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-top: 413px;
 	position: relative;
 }
@@ -73,7 +81,7 @@
 #u27608-bw
 {
 	z-index: 2;
-	min-height: 549px;
+	min-height: 548px;
 }
 
 body

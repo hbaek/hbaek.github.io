@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "main-screen.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "main-screen.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -13,7 +13,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?180925202"/>
   <link rel="stylesheet" type="text/css" href="css/master_main.css?4209270752"/>
-  <link rel="stylesheet" type="text/css" href="css/main-screen.css?4172730338" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/main-screen.css?451133731" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -23,9 +23,11 @@
 
   <div class="clearfix" id="page"><!-- column -->
    <div class="browser_width colelem" id="u27608-bw">
-    <div class="clearfix" id="u27608"><!-- column -->
+    <div class="museBGSize clearfix" id="u27608"><!-- column -->
      <img class="colelem" id="u28101-6" alt="&nbsp;Hazel Baek" width="343" height="82" src="../images/u28101-6.png"/><!-- rasterized frame -->
-     <img class="colelem" id="u28102-5" alt="&nbsp;Millinery - Foral - Fine art" width="343" height="54" src="../images/u28102-5.png"/><!-- rasterized frame -->
+     <div class="rounded-corners clearfix colelem" id="u28102-4"><!-- content -->
+      <p>&nbsp;Millinery - Foral - Fine art</p>
+     </div>
     </div>
    </div>
    <div class="verticalspacer"></div>
@@ -38,6 +40,7 @@
    window.jQuery || document.write('\x3Cscript src="../scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="../scripts/museutils.js?183364071" type="text/javascript"></script>
+  <script src="../scripts/jquery.musepolyfill.bgsize.js?4004268962" type="text/javascript"></script>
   <script src="../scripts/jquery.watch.js?71412426" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
