@@ -1,0 +1,89 @@
+.version.main_screen /* version checker */
+{
+	color: #0000F8;
+	background-color: #B6CFE2;
+}
+
+@-ms-viewport
+{
+	width: 378px;
+}
+
+@-webkit-viewport
+{
+	width: 378px;
+}
+
+@-o-viewport
+{
+	width: 378px;
+}
+
+@-moz-viewport
+{
+	width: 378px;
+}
+
+@viewport
+{
+	width: 378px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 378px;
+	min-height: 672px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u27608
+{
+	z-index: 2;
+	min-height: 549px;
+	padding: 71px 17px 52px;
+}
+
+#u28101-6
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	margin-left: 1px;
+	position: relative;
+}
+
+#u28102-5
+{
+	z-index: 9;
+	display: block;
+	vertical-align: top;
+	margin-top: 413px;
+	position: relative;
+}
+
+#u27608-bw
+{
+	z-index: 2;
+	min-height: 549px;
+}
+
+body
+{
+	position: relative;
+	min-width: 378px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
