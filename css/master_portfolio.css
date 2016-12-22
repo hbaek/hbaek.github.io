@@ -8,6 +8,11 @@
 	filter: alpha(opacity=79);
 }
 
+#u12879
+{
+	position: relative;
+}
+
 #u12879_states
 {
 	vertical-align: top;
@@ -41,21 +46,24 @@
 	background-color: transparent;
 }
 
-#u12845
+#u12845-4
 {
-	vertical-align: top;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 1.31;
+	color: #39393A;
+	font-size: 18px;
+	letter-spacing: 6px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: bold;
 	position: relative;
-	background: url("../images/u12845.png") no-repeat 0px 0px;
 }
 
-#u12843:hover #u12845
+#u12843:hover #u12845-4 p
 {
-	background: url("../images/u12845-r.png") no-repeat 0px 0px;
-}
-
-#u12843.MuseMenuActive #u12845
-{
-	background: url("../images/u12845-a.png") no-repeat 0px 0px;
+	text-decoration: underline;
 }
 
 #u12838
@@ -66,21 +74,26 @@
 	position: relative;
 }
 
-#u12841
+#u12841-4
 {
-	vertical-align: top;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 1.31;
+	color: #39393A;
+	font-size: 18px;
+	letter-spacing: 6px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: bold;
 	position: relative;
-	background: url("../images/u12841.png") no-repeat 0px 0px;
 }
 
-#u12838:hover #u12841
+#u12838:hover #u12841-4 p
 {
-	background: url("../images/u12841-r.png") no-repeat 0px 0px;
-}
-
-#u12838.MuseMenuActive #u12841
-{
-	background: url("../images/u12841-a.png") no-repeat 0px 0px;
+	color: #000000;
+	visibility: inherit;
+	text-decoration: underline;
 }
 
 #u12825
@@ -100,10 +113,10 @@
 #u12827-4
 {
 	background-color: transparent;
-	letter-spacing: 4px;
-	text-align: center;
-	font-size: 16px;
 	line-height: 0.99;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -135,10 +148,10 @@
 #u12834-4
 {
 	background-color: transparent;
-	letter-spacing: 4px;
-	text-align: center;
-	font-size: 16px;
 	line-height: 0.99;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -177,10 +190,10 @@
 #u12820-4
 {
 	background-color: transparent;
-	letter-spacing: 4px;
-	text-align: center;
-	font-size: 16px;
 	line-height: 0.99;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -195,11 +208,6 @@
 	text-decoration: underline;
 }
 
-#u12818.MuseMenuActive #u12820-4 p
-{
-	text-decoration: underline;
-}
-
 #u12873
 {
 	border-style: none;
@@ -208,21 +216,35 @@
 	position: relative;
 }
 
-#u12876
+#u12876-4
 {
-	vertical-align: top;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 1.31;
+	color: #39393A;
+	font-size: 18px;
+	letter-spacing: 6px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: bold;
 	position: relative;
-	background: url("../images/u12876.png") no-repeat 0px 0px;
 }
 
-#u12873:hover #u12876
+#u12873:hover #u12876-4 p
 {
-	background: url("../images/u12876-r.png") no-repeat 0px 0px;
+	color: #484848;
+	visibility: inherit;
+	text-decoration: underline;
+	font-weight: bold;
 }
 
-#u12873.MuseMenuActive #u12876
+#u12838.MuseMenuActive #u12841-4 p,#u12873.MuseMenuActive #u12876-4 p
 {
-	background: url("../images/u12876-a.png") no-repeat 0px 0px;
+	color: #39393A;
+	visibility: inherit;
+	text-decoration: underline;
+	font-style: normal;
 }
 
 #u12810
@@ -240,21 +262,30 @@
 	border-radius: 0px;
 }
 
-#u12812
+#u12812-4
 {
-	vertical-align: top;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 1.31;
+	color: #39393A;
+	font-size: 18px;
+	letter-spacing: 6px;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: bold;
 	position: relative;
-	background: url("../images/u12812.png") no-repeat 0px 0px;
 }
 
-#u12810:hover #u12812
+#u12818.MuseMenuActive #u12820-4 p,#u12810:hover #u12812-4 p
 {
-	background: url("../images/u12812-r.png") no-repeat 0px 0px;
+	text-decoration: underline;
 }
 
-#u12810.MuseMenuActive #u12812
+#u12843.MuseMenuActive #u12845-4 p,#u12810.MuseMenuActive #u12812-4 p
 {
-	background: url("../images/u12812-a.png") no-repeat 0px 0px;
+	text-decoration: underline;
+	font-style: normal;
 }
 
 .MenuItem /* unifiedNavBar */
@@ -262,14 +293,17 @@
 	cursor: pointer;
 }
 
-#u12902-3,#u12842,#u12814,#u12816,#u12824,#u12831,#u12817,#u12849,#u12807,#u12903-3
+#u12842,#u12814,#u12816,#u12824,#u12831,#u12817,#u12849,#u12807,#u12903-3
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u12879,#u12906
+#u12906
 {
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 }
 

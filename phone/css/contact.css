@@ -1,32 +1,32 @@
 .version.contact /* version checker */
 {
-	color: #00001F;
-	background-color: #C3DB66;
+	color: #0000FA;
+	background-color: #5A7E75;
 }
 
 @-ms-viewport
 {
-	width: 378px;
+	width: 380px;
 }
 
 @-webkit-viewport
 {
-	width: 378px;
+	width: 380px;
 }
 
 @-o-viewport
 {
-	width: 378px;
+	width: 380px;
 }
 
 @-moz-viewport
 {
-	width: 378px;
+	width: 380px;
 }
 
 @viewport
 {
-	width: 378px;
+	width: 380px;
 }
 
 .html
@@ -37,57 +37,117 @@
 #page
 {
 	z-index: 1;
-	width: 378px;
-	min-height: 671px;
+	width: 380px;
+	min-height: 525px;
 	background-image: none;
-	border-style: none;
-	border-color: #000000;
-	background-color: #FFFFFF;
-	padding-bottom: 1px;
-}
-
-#u27608,#u27608-bw
-{
-	z-index: 2;
-	height: 672px;
-}
-
-#u27881
-{
-	z-index: 3;
-	height: 672px;
-	background-color: #FFFFFF;
-	opacity: 0.72;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=72)";
-	filter: alpha(opacity=72);
-}
-
-#u27881-bw
-{
-	z-index: 3;
-	height: 672px;
-}
-
-#u27877
-{
-	z-index: 4;
-	min-height: 765px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	border-radius: 0px 0px 0px 10px ;
+	padding-bottom: 45px;
 }
 
-#u27877-bw
+#u28146-6
+{
+	z-index: 7;
+	width: 47px;
+	min-height: 39px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 27px;
+}
+
+#u28146-6:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 39px;
+	width: 47px;
+	margin: 38px -10000px 0px 0px;
+}
+
+#u28163
+{
+	z-index: 13;
+	width: 242px;
+	min-height: 453px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 65px;
+	left: 76px;
+}
+
+#pu27618
+{
+	z-index: 2;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 50px;
+	margin-left: 51px;
+}
+
+#u27618
+{
+	z-index: 0;
+	width: 280px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#ppu27625
+{
+	width: 0.01px;
+	position: relative;
+	left: 8px;
+	padding-top: 7px;
+	z-index: 2;
+	padding-bottom: 13px;
+}
+
+#pu27625
+{
+	z-index: 3;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u27625
+{
+	z-index: 0;
+	width: 263px;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu27666-3
+{
+	width: 0.01px;
+	position: relative;
+	left: 8px;
+	padding-top: 8px;
+	z-index: 2;
+	padding-bottom: 6px;
+}
+
+#u27666-3
 {
 	z-index: 4;
-	min-height: 765px;
-	margin-top: -2px;
+	width: 250px;
+	min-height: 441px;
+	margin-right: -10000px;
 }
 
 body
 {
 	position: relative;
-	min-width: 378px;
+	min-width: 380px;
 }
 
 #page .verticalspacer

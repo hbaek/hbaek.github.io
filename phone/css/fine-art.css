@@ -1,7 +1,7 @@
 .version.fine_art /* version checker */
 {
-	color: #0000F3;
-	background-color: #E4B333;
+	color: #0000E4;
+	background-color: #B11C6F;
 }
 
 @-ms-viewport
@@ -47,9 +47,28 @@
 	padding-bottom: 45px;
 }
 
-#u27680-31
+#u28146-6
 {
 	z-index: 7;
+	width: 47px;
+	min-height: 39px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 27px;
+}
+
+#u28146-6:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 39px;
+	width: 47px;
+	margin: 38px -10000px 0px 0px;
+}
+
+#u27680-31
+{
+	z-index: 13;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -60,7 +79,7 @@
 
 #u28018
 {
-	z-index: 38;
+	z-index: 44;
 	width: 211px;
 	height: 1px;
 	border-color: #000000;
@@ -92,7 +111,7 @@
 
 #u28019
 {
-	z-index: 39;
+	z-index: 45;
 	width: 211px;
 	height: 1px;
 	border-color: #000000;
@@ -124,7 +143,7 @@
 
 #u28020
 {
-	z-index: 40;
+	z-index: 46;
 	width: 211px;
 	height: 1px;
 	border-color: #000000;
@@ -156,7 +175,7 @@
 
 #u28021
 {
-	z-index: 41;
+	z-index: 47;
 	width: 211px;
 	height: 1px;
 	border-color: #000000;
@@ -188,7 +207,7 @@
 
 #u28022
 {
-	z-index: 42;
+	z-index: 48;
 	width: 211px;
 	height: 1px;
 	border-color: #000000;
@@ -220,7 +239,7 @@
 
 #u28023
 {
-	z-index: 43;
+	z-index: 49;
 	width: 211px;
 	height: 1px;
 	border-color: #000000;
@@ -252,7 +271,7 @@
 
 #u28025
 {
-	z-index: 44;
+	z-index: 50;
 	width: 211px;
 	height: 1px;
 	border-color: #000000;
@@ -284,7 +303,7 @@
 
 #u28026
 {
-	z-index: 45;
+	z-index: 51;
 	width: 211px;
 	height: 1px;
 	border-color: #000000;
@@ -345,10 +364,10 @@
 {
 	width: 0.01px;
 	position: relative;
-	left: 33px;
-	padding-top: 28px;
+	left: 8px;
+	padding-top: 7px;
 	z-index: 2;
-	padding-bottom: 33px;
+	padding-bottom: 13px;
 }
 
 #pu27625
@@ -362,7 +381,7 @@
 #u27625
 {
 	z-index: 0;
-	width: 214px;
+	width: 263px;
 	position: absolute;
 	top: 0px;
 	bottom: 0px;
@@ -372,8 +391,8 @@
 {
 	width: 0.01px;
 	position: relative;
-	left: 4px;
-	padding-top: 5px;
+	left: 8px;
+	padding-top: 8px;
 	z-index: 2;
 	padding-bottom: 6px;
 }
@@ -381,8 +400,8 @@
 #u27666-3
 {
 	z-index: 4;
-	width: 205px;
-	min-height: 403px;
+	width: 250px;
+	min-height: 441px;
 	margin-right: -10000px;
 }
 

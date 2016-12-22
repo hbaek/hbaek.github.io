@@ -1,3 +1,21 @@
+#u28146-6
+{
+	background-color: transparent;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	-webkit-transform: matrix(0.7071,-0.7071,0.7071,0.7071,-7,22);
+	-ms-transform: matrix(0.7071,-0.7071,0.7071,0.7071,-7,22);
+	transform: matrix(0.7071,-0.7071,0.7071,0.7071,-7,22);
+	position: relative;
+}
+
+#u28146-6:hover
+{
+	opacity: 0.29;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=28.999999999999996)";
+	filter: alpha(opacity=28.999999999999996);
+}
+
 #u27618
 {
 	opacity: 0.75;
