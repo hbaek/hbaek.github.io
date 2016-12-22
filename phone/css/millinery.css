@@ -1,7 +1,7 @@
 .version.millinery /* version checker */
 {
-	color: #00000E;
-	background-color: #67EF50;
+	color: #0000F2;
+	background-color: #75B8A9;
 }
 
 @-ms-viewport
@@ -72,7 +72,7 @@
 	width: 186px;
 	min-height: 35px;
 	background-color: transparent;
-	font-size: 30px;
+	font-size: 25px;
 	text-align: center;
 	letter-spacing: 13px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -100,7 +100,7 @@
 	width: 186px;
 	min-height: 35px;
 	background-color: transparent;
-	font-size: 30px;
+	font-size: 25px;
 	text-align: center;
 	letter-spacing: 13px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -128,7 +128,7 @@
 	width: 186px;
 	min-height: 35px;
 	background-color: transparent;
-	font-size: 30px;
+	font-size: 25px;
 	text-align: center;
 	letter-spacing: 13px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
