@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1482727380176" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1482727626708" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -126,7 +126,7 @@
     <file name="musewpslideshow.js" crc="242596657" ref="how-do-i-love-thee:carnation-crown:carnation-halo:ivory-and-green:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:white-straw-and-black-crosses:winzlear-gear:silver-beaded-night-casque:balck-acorn:oragne-heaven-and-hell:double-side-band-floral:nightcap-lilly:wild-forget-me-not:burgendy-rose:bohemian-green-yy:bohemian-pink-yy:bohemian-rose-yy:dear-mother:natural-history-illustration:rabit-furr-study:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:fall-burgundy-shade:ribbon-beret:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:cherry-bling:phone>birthdayfork"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="how-do-i-love-thee:carnation-crown:carnation-halo:ivory-and-green:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:white-straw-and-black-crosses:winzlear-gear:silver-beaded-night-casque:balck-acorn:oragne-heaven-and-hell:double-side-band-floral:nightcap-lilly:wild-forget-me-not:burgendy-rose:bohemian-green-yy:bohemian-pink-yy:bohemian-rose-yy:dear-mother:natural-history-illustration:rabit-furr-study:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:fall-burgundy-shade:ribbon-beret:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:cherry-bling:phone>birthdayfork"/>
     <file name="touchswipe.js" crc="4038331989" ref="how-do-i-love-thee:carnation-crown:carnation-halo:ivory-and-green:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:white-straw-and-black-crosses:winzlear-gear:silver-beaded-night-casque:balck-acorn:oragne-heaven-and-hell:double-side-band-floral:nightcap-lilly:wild-forget-me-not:burgendy-rose:bohemian-green-yy:bohemian-pink-yy:bohemian-rose-yy:dear-mother:natural-history-illustration:rabit-furr-study:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:fall-burgundy-shade:ribbon-beret:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:cherry-bling:phone>birthdayfork"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="sonic-playground:under-the-willow-tree:textile-0.2:fine-arts:textile-0.3:natural-history-illustration:textile-01:index:straw:crown:fabric:flowers:double-side-band-floral:burgendy-rose:three-rose-band:love_bird:phone>main-menu"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="sonic-playground:under-the-willow-tree:textile-0.2:fine-arts:textile-0.3:natural-history-illustration:textile-01:index:straw:crown:fabric:flowers:double-side-band-floral:burgendy-rose:three-rose-band:love_bird:phone>main-menu:phone>floral"/>
     <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>contact:tablet>fine-arts:tablet>sonic-playground:tablet>under-the-willow-tree:tablet>how-do-i-love-thee:tablet>textile-0.2:tablet>straw:tablet>carnation-crown:tablet>carnation-halo:tablet>ivory-and-green:tablet>side-band-rose:tablet>hemlock-angle:tablet>orange-and-white:tablet>birthday-k:tablet>fruit-punch:contact:index:millinery:crown:straw:fabric"/>
   </folder>
   <folder name="images">
@@ -519,7 +519,7 @@
     <file name="54.jpg" crc="4021614783" seo="true" ref="fruit-punch"/>
     <file name="113.jpg" crc="4002332116" ref="textile-0.2"/>
     <file name="213.jpg" crc="200491267" ref="textile-0.2"/>
-    <file name="dsc03134.jpg" crc="83764525" ref="phone>main-menu"/>
+    <file name="dsc03134.jpg" crc="83764525" ref="phone>main-menu:phone>floral"/>
     <file name="u27667-20.png" crc="4004271038" ref="phone>straw"/>
     <file name="u27680-31.png" crc="4188921784" ref="phone>fine-art"/>
     <file name="u27688-21.png" crc="4280587657" ref="phone>fabric"/>
@@ -528,7 +528,7 @@
     <file name="dsc03798.jpg" crc="3956810472" seo="true" ref="cherry-bling"/>
     <file name="dsc03837-복구됨91x91.jpg" crc="4186260990" seo="true" ref="cherry-bling"/>
     <file name="dsc0379891x91.jpg" crc="153760325" seo="true" ref="cherry-bling"/>
-    <file name="u27672-39.png" crc="3887191268" ref="phone>floral"/>
+    <file name="u27672-39.png" crc="4173635958" ref="phone>floral"/>
     <file name="5ddcb9f08d6eb3a54dae53d35b503aa8-1-.jpg" crc="3853560721" ref="straw"/>
     <file name="dsc03798-u27885-fr.jpg" crc="3838380335" ref="straw"/>
     <file name="72.gif" crc="3999995009" seo="true" ref="bohemian-rose-yy"/>
@@ -561,7 +561,7 @@
       <file name="millinery.css" crc="4262415495" ref="phone>millinery"/>
       <file name="fabric.css" crc="4244822528" ref="phone>fabric"/>
       <file name="crown.css" crc="4154963026" ref="phone>crown"/>
-      <file name="floral.css" crc="4202574224" ref="phone>floral"/>
+      <file name="floral.css" crc="4161718120" ref="phone>floral"/>
       <file name="fine-art.css" crc="222464890" ref="phone>fine-art"/>
       <file name="main-menu.css" crc="77404984" ref="phone>main-menu"/>
       <file name="master_main.css" crc="4066301631" ref="phone>index:phone>millinery:phone>main-menu:phone>birthdayfork:phone>floral:phone>fine-art:phone>crown:phone>straw:phone>contact:phone>fabric"/>
@@ -573,7 +573,7 @@
     <file name="millinery.html" crc="4028465569" seo="true" mt="1482687858242" redirect="true"/>
     <file name="crown.html" crc="245646131" seo="true" mt="1482687858242" redirect="true"/>
     <file name="fabric.html" crc="373493839" seo="true" mt="1482687858242" redirect="true"/>
-    <file name="floral.html" crc="4249951327" seo="true" mt="1482687858242" redirect="true"/>
+    <file name="floral.html" crc="528646564" seo="true" mt="1482727599214" redirect="true"/>
     <file name="fine-art.html" crc="4272325573" seo="true" mt="1482687858242" redirect="true"/>
     <file name="main-menu.html" crc="3806096189" seo="true" mt="1482687858242" redirect="true"/>
     <file name="birthdayfork.html" crc="93632143" seo="true" mt="1482727347878" redirect="true"/>
