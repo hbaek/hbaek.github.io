@@ -1,7 +1,7 @@
 .version.floral /* version checker */
 {
-	color: #000014;
-	background-color: #DF5CF8;
+	color: #0000FA;
+	background-color: #7E3190;
 }
 
 @-ms-viewport
@@ -55,8 +55,8 @@
 	width: 47px;
 	min-height: 39px;
 	margin-right: -10000px;
-	margin-top: 38px;
-	left: 27px;
+	margin-top: 11px;
+	left: 7px;
 }
 
 #u28146-6:hover
@@ -65,7 +65,7 @@
 	padding-bottom: 0px;
 	min-height: 39px;
 	width: 47px;
-	margin: 38px -10000px 0px 0px;
+	margin: 11px -10000px 0px 0px;
 }
 
 #u27672-39
