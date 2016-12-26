@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1482767041186" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1482772798407" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -126,7 +126,7 @@
     <file name="musewpslideshow.js" crc="242596657" ref="how-do-i-love-thee:carnation-crown:carnation-halo:ivory-and-green:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:white-straw-and-black-crosses:winzlear-gear:silver-beaded-night-casque:balck-acorn:oragne-heaven-and-hell:double-side-band-floral:nightcap-lilly:wild-forget-me-not:burgendy-rose:bohemian-green-yy:bohemian-pink-yy:bohemian-rose-yy:dear-mother:natural-history-illustration:rabit-furr-study:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:fall-burgundy-shade:ribbon-beret:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:cherry-bling:phone>birthdayfork:phone>birthdayforss"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="how-do-i-love-thee:carnation-crown:carnation-halo:ivory-and-green:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:white-straw-and-black-crosses:winzlear-gear:silver-beaded-night-casque:balck-acorn:oragne-heaven-and-hell:double-side-band-floral:nightcap-lilly:wild-forget-me-not:burgendy-rose:bohemian-green-yy:bohemian-pink-yy:bohemian-rose-yy:dear-mother:natural-history-illustration:rabit-furr-study:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:fall-burgundy-shade:ribbon-beret:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:cherry-bling:phone>birthdayfork:phone>birthdayforss"/>
     <file name="touchswipe.js" crc="4038331989" ref="how-do-i-love-thee:carnation-crown:carnation-halo:ivory-and-green:side-band-rose:orange-and-white:hemlock-angle:birthday-k:fruit-punch:white-straw-and-black-crosses:winzlear-gear:silver-beaded-night-casque:balck-acorn:oragne-heaven-and-hell:double-side-band-floral:nightcap-lilly:wild-forget-me-not:burgendy-rose:bohemian-green-yy:bohemian-pink-yy:bohemian-rose-yy:dear-mother:natural-history-illustration:rabit-furr-study:leave-corwn:three-rose-band:druid-crown:merry-goraound:summer-under-the-pink-shade:satin-buttercup:love_bird:fall-burgundy-shade:ribbon-beret:green-spring-bonet:undergrowth-drapry:birthday-s:kalecelotis:cinderella:waffle-cone:chocolate-magnolia:miller-wreath:iris-water:thriving-iris-bouquet:boronia-spring:cherry-bling:phone>birthdayfork:phone>birthdayforss"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="sonic-playground:under-the-willow-tree:textile-0.2:fine-arts:textile-0.3:natural-history-illustration:textile-01:index:straw:crown:fabric:flowers:double-side-band-floral:burgendy-rose:three-rose-band:love_bird:phone>main-menu:phone>floral:phone>contact:phone>straw:phone>fabric"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="sonic-playground:under-the-willow-tree:textile-0.2:fine-arts:textile-0.3:natural-history-illustration:textile-01:index:straw:crown:fabric:flowers:double-side-band-floral:burgendy-rose:three-rose-band:love_bird:phone>main-menu:phone>floral:phone>contact:phone>straw:phone>fabric:phone>fine-art"/>
     <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>contact:tablet>fine-arts:tablet>sonic-playground:tablet>under-the-willow-tree:tablet>how-do-i-love-thee:tablet>textile-0.2:tablet>straw:tablet>carnation-crown:tablet>carnation-halo:tablet>ivory-and-green:tablet>side-band-rose:tablet>hemlock-angle:tablet>orange-and-white:tablet>birthday-k:tablet>fruit-punch:contact:index:millinery:crown:straw:fabric"/>
   </folder>
   <folder name="images">
@@ -149,9 +149,9 @@
     <file name="sptdw.jpg" crc="480507470" ref="fine-arts"/>
     <file name="txt1.jpg" crc="125131792" ref="fine-arts"/>
     <file name="txt2.jpg" crc="3990953601" ref="fine-arts"/>
-    <file name="1.jpg" crc="4259006333" ref="carnation-crown:phone>birthdayfork:phone>birthdayforss:phone>fabric"/>
-    <file name="2.jpg" crc="3817605154" ref="carnation-crown:phone>birthdayfork:phone>birthdayforss" seo="true"/>
-    <file name="3.jpg" crc="139324360" ref="carnation-crown:phone>birthdayfork:phone>birthdayforss" seo="true"/>
+    <file name="1.jpg" crc="524087738" ref="carnation-crown:phone>birthdayfork:phone>fabric" seo="true"/>
+    <file name="2.jpg" crc="3817605154" ref="carnation-crown:phone>birthdayfork" seo="true"/>
+    <file name="3.jpg" crc="139324360" ref="carnation-crown:phone>birthdayfork" seo="true"/>
     <file name="4.jpg" crc="3976274469" ref="carnation-crown" seo="true"/>
     <file name="22.jpg" crc="4168395157" ref="carnation-halo" seo="true"/>
     <file name="32.jpg" crc="3867187858" ref="crown"/>
@@ -364,9 +364,9 @@
     <file name="4-crop-u23253.jpg" crc="122468458" ref="undergrowth-drapry"/>
     <file name="5-crop-u23262.jpg" crc="3991305311" ref="undergrowth-drapry"/>
     <file name="closeup1-crop-u23168.jpg" crc="158235784" ref="satin-buttercup"/>
-    <file name="dsc03505.jpg" crc="30828018" ref="birthday-s" seo="true"/>
-    <file name="dsc03503.jpg" crc="3807568053" ref="birthday-s" seo="true"/>
-    <file name="dsc03508.jpg" crc="4268224230" ref="birthday-s" seo="true"/>
+    <file name="dsc03505.jpg" crc="3964918301" ref="birthday-s:phone>birthdayforss" seo="true"/>
+    <file name="dsc03503.jpg" crc="3961510855" ref="birthday-s:phone>birthdayforss" seo="true"/>
+    <file name="dsc03508.jpg" crc="3960856589" ref="birthday-s:phone>birthdayforss" seo="true"/>
     <file name="dsc03488-crop-u23628.jpg" crc="175718496" ref="birthday-s"/>
     <file name="dsc03503-crop-u23637.jpg" crc="390175770" ref="birthday-s"/>
     <file name="dsc03505-crop-u23646.jpg" crc="268915682" ref="birthday-s"/>
@@ -382,7 +382,7 @@
     <file name="dsc03537-crop-u23918.jpg" crc="4273518823" ref="kalecelotis"/>
     <file name="dsc03549-crop-u23927.jpg" crc="4251040326" ref="kalecelotis"/>
     <file name="dsc03555-crop-u23936.jpg" crc="4147452358" ref="kalecelotis"/>
-    <file name="dsc03488.jpg" crc="4207498296" ref="birthday-s" seo="true"/>
+    <file name="dsc03488.jpg" crc="54177329" ref="birthday-s:phone>birthdayforss" seo="true"/>
     <file name="dsc03632.jpg" crc="3892149955" ref="cinderella" seo="true"/>
     <file name="dsc03631-crop-u24185.jpg" crc="151226920" ref="cinderella"/>
     <file name="dsc03632-crop-u24194.jpg" crc="3840772203" ref="cinderella"/>
@@ -518,8 +518,8 @@
     <file name="54.jpg" crc="4021614783" seo="true" ref="fruit-punch"/>
     <file name="113.jpg" crc="4002332116" ref="textile-0.2"/>
     <file name="213.jpg" crc="200491267" ref="textile-0.2"/>
-    <file name="dsc03134.jpg" crc="83764525" ref="phone>main-menu:phone>floral:phone>contact:phone>straw"/>
-    <file name="u27680-31.png" crc="4188921784" ref="phone>fine-art"/>
+    <file name="dsc03134.jpg" crc="83764525" ref="phone>main-menu:phone>floral:phone>contact:phone>straw:phone>fine-art"/>
+    <file name="u27680-31.png" crc="4123383023" ref="phone>fine-art"/>
     <file name="u27703-39.png" crc="183564258" ref="phone>crown"/>
     <file name="dsc03837-복구됨.jpg" crc="4162116215" seo="true" ref="cherry-bling"/>
     <file name="dsc03798.jpg" crc="3956810472" seo="true" ref="cherry-bling"/>
@@ -547,13 +547,13 @@
     <file name="511.jpg" crc="4122048019" seo="true" ref="boronia-spring"/>
     <file name="thumbnail-crop-u28295.jpg" crc="4256442682" ref="phone>birthdayfork"/>
     <file name="u27672-34.png" crc="391245929" ref="phone>floral"/>
-    <file name="thumbnail-crop-u28312.jpg" crc="129526491" ref="phone>birthdayforss"/>
     <file name="u28445-4.png" crc="3914669973" ref="phone>contact:phone>millinery"/>
     <file name="u28531-4.png" crc="3892782014" ref="phone>straw"/>
     <file name="dsc03463.jpg" crc="496952500" ref="phone>fabric"/>
     <file name="cinderella1.jpg" crc="4271455417" ref="phone>fabric"/>
     <file name="dsc03621.jpg" crc="349511875" ref="phone>fabric"/>
     <file name="1-u25126-fr.jpg" crc="4269486021" ref="fabric"/>
+    <file name="dsc03510.jpg" crc="124859561" seo="true" ref="phone>birthdayforss"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -567,8 +567,8 @@
       <file name="fine-art.css" crc="222464890" ref="phone>fine-art"/>
       <file name="main-menu.css" crc="77404984" ref="phone>main-menu"/>
       <file name="master_main.css" crc="4066301631" ref="phone>index:phone>main-menu:phone>birthdayfork:phone>floral:phone>fine-art:phone>crown:phone>straw:phone>birthdayforss"/>
-      <file name="birthdayfork.css" crc="3919006663" ref="phone>birthdayfork"/>
-      <file name="birthdayforss.css" crc="3930835556" ref="phone>birthdayforss"/>
+      <file name="birthdayfork.css" crc="227741224" ref="phone>birthdayfork"/>
+      <file name="birthdayforss.css" crc="414846775" ref="phone>birthdayforss"/>
       <file name="master_vieewsample.css" crc="128407711" ref="phone>fabric"/>
       <file name="master_main-copy.css" crc="3949902082" ref="phone>millinery:phone>contact"/>
     </folder>
@@ -579,10 +579,10 @@
     <file name="crown.html" crc="245646131" seo="true" mt="1482687858242" redirect="true"/>
     <file name="fabric.html" crc="405036234" seo="true" mt="1482767039253" redirect="true"/>
     <file name="floral.html" crc="364885461" seo="true" mt="1482745683350" redirect="true"/>
-    <file name="fine-art.html" crc="4272325573" seo="true" mt="1482687858242" redirect="true"/>
+    <file name="fine-art.html" crc="52448772" seo="true" mt="1482767555129" redirect="true"/>
     <file name="main-menu.html" crc="3806096189" seo="true" mt="1482687858242" redirect="true"/>
-    <file name="birthdayfork.html" crc="93632143" seo="true" mt="1482727347878" redirect="true"/>
-    <file name="birthdayforss.html" crc="3787839226" seo="true" mt="1482741937770" redirect="true"/>
+    <file name="birthdayfork.html" crc="4080789537" seo="true" mt="1482768999867" redirect="true"/>
+    <file name="birthdayforss.html" crc="3949243253" seo="true" mt="1482770728925" redirect="true"/>
   </folder>
   <file name="fine-arts.html" crc="3999328625" mt="1482425316902" redirect="true" seo="true"/>
   <file name="contact.html" crc="4140313989" mt="1482425316902" redirect="true" seo="true"/>
