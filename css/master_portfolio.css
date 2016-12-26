@@ -8,6 +8,11 @@
 	filter: alpha(opacity=79);
 }
 
+#u12879
+{
+	position: relative;
+}
+
 #u12879_states
 {
 	vertical-align: top;
@@ -46,9 +51,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1.31;
 	color: #39393A;
 	font-size: 18px;
+	line-height: 1.31;
 	letter-spacing: 6px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -74,9 +79,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1.31;
 	color: #39393A;
 	font-size: 18px;
+	line-height: 1.31;
 	letter-spacing: 6px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -108,9 +113,9 @@
 #u12827-4
 {
 	background-color: transparent;
-	line-height: 0.99;
 	font-size: 16px;
 	text-align: center;
+	line-height: 0.99;
 	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -143,9 +148,9 @@
 #u12834-4
 {
 	background-color: transparent;
-	line-height: 0.99;
 	font-size: 16px;
 	text-align: center;
+	line-height: 0.99;
 	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -185,9 +190,9 @@
 #u12820-4
 {
 	background-color: transparent;
-	line-height: 0.99;
 	font-size: 16px;
 	text-align: center;
+	line-height: 0.99;
 	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -216,9 +221,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1.31;
 	color: #39393A;
 	font-size: 18px;
+	line-height: 1.31;
 	letter-spacing: 6px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -262,9 +267,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1.31;
 	color: #39393A;
 	font-size: 18px;
+	line-height: 1.31;
 	letter-spacing: 6px;
 	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
@@ -294,8 +299,11 @@
 	position: relative;
 }
 
-#u12879,#u12906
+#u12906
 {
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 }
 
