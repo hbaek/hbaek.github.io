@@ -1,7 +1,7 @@
 .version.birthdayforss /* version checker */
 {
-	color: #000018;
-	background-color: #BA0F37;
+	color: #0000E3;
+	background-color: #94661A;
 }
 
 @-ms-viewport
@@ -168,8 +168,8 @@
 	background-color: transparent;
 	padding: 15px;
 	color: #999999;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	left: 190px;
 }
@@ -189,8 +189,8 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	color: #000000;
-	font-size: 10px;
 	line-height: 1.4;
+	font-size: 10px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	top: 512px;
 	left: 17px;
