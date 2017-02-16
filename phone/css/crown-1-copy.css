@@ -1,7 +1,7 @@
-.version.crown_1 /* version checker */
+.version.crown_1_copy /* version checker */
 {
-	color: #00000B;
-	background-color: #937993;
+	color: #0000F4;
+	background-color: #D684F7;
 }
 
 @-ms-viewport
@@ -47,28 +47,27 @@
 	padding-bottom: 45px;
 }
 
-#slideshowu29084
+#slideshowu29227
 {
 	z-index: 78;
 	width: 0.01px;
-	height: 50px;
+	height: 51px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 11px;
 }
 
-#u29102
+#u29233
 {
 	position: absolute;
 	background-color: transparent;
 }
 
-#u29102popup
+#u29233popup
 {
 	z-index: 79;
 }
 
-#u29107
+#u29238
 {
 	z-index: 80;
 	border-style: none;
@@ -76,7 +75,7 @@
 	background-color: transparent;
 }
 
-#u29105
+#u29236
 {
 	z-index: 82;
 	border-style: none;
@@ -84,7 +83,7 @@
 	background-color: transparent;
 }
 
-#u29109
+#u29234
 {
 	z-index: 84;
 	border-style: none;
@@ -92,7 +91,7 @@
 	background-color: transparent;
 }
 
-#u29103
+#u29240
 {
 	z-index: 86;
 	border-style: none;
@@ -100,20 +99,21 @@
 	background-color: transparent;
 }
 
-#u29086
+#u29244
 {
 	position: absolute;
 	width: 268px;
 	background-color: transparent;
-	left: 99px;
+	top: 1px;
+	left: 111px;
 }
 
-#u29086popup
+#u29244popup
 {
 	z-index: 88;
 }
 
-#u29088-4
+#u29248-4
 {
 	z-index: 89;
 	width: 238px;
@@ -130,7 +130,7 @@
 	position: relative;
 }
 
-#u29089-4
+#u29246-4
 {
 	z-index: 93;
 	width: 238px;
@@ -147,7 +147,7 @@
 	position: relative;
 }
 
-#u29090-4
+#u29247-4
 {
 	z-index: 97;
 	width: 238px;
@@ -164,7 +164,7 @@
 	position: relative;
 }
 
-#u29087-4
+#u29245-4
 {
 	z-index: 101;
 	width: 238px;
@@ -181,29 +181,49 @@
 	position: relative;
 }
 
-#u29091-4
+#u29230-4
 {
 	position: absolute;
-	width: 81px;
+	width: 25px;
 	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
+	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
-	font-size: 9px;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
-#u29091-4popup
+#u29230-4popup
 {
 	z-index: 105;
 }
 
-#u29091
+#u29230
 {
 	color: #999999;
+}
+
+#u29228-4
+{
+	position: absolute;
+	width: 25px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	color: #999999;
+	line-height: 1.4;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	left: 56px;
+}
+
+#u29228-4popup
+{
+	z-index: 109;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
