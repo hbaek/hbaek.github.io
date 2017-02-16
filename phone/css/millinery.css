@@ -1,7 +1,7 @@
 .version.millinery /* version checker */
 {
-	color: #0000E2;
-	background-color: #5162FB;
+	color: #00001D;
+	background-color: #55301B;
 }
 
 @-ms-viewport
@@ -67,20 +67,6 @@
 {
 	width: 37px;
 	padding-bottom: 17px;
-}
-
-#u28443:hover
-{
-	width: 37px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u28443:active
-{
-	width: 37px;
-	min-height: 0px;
-	margin: 0px;
 }
 
 #u28443.MuseMenuActive
