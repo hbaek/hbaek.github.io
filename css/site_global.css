@@ -135,6 +135,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
+a,.White-on-Black a,.Orange-on-White a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Orange-on-White a:link
 {
 	color: #DE6530;
@@ -157,12 +163,6 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #DE6530;
 	text-decoration: underline;
-}
-
-a,.White-on-Black a,.Orange-on-White a,.Inquiry-Button a
-{
-	color: inherit;
-	text-decoration: inherit;
 }
 
 .Inquiry-Button a:link
@@ -245,7 +245,7 @@ a,.White-on-Black a,.Orange-on-White a,.Inquiry-Button a
 .Heading-1
 {
 	color: #39393A;
-	font-family: lobster, serif;
+	font-family: lobster, sans-serif;
 	font-size: 42px;
 	font-weight: 400;
 	letter-spacing: 0px;

@@ -1,7 +1,7 @@
 .version.chocolate_magnolia /* version checker */
 {
-	color: #00001B;
-	background-color: #935D1A;
+	color: #0000F1;
+	background-color: #6BB10D;
 }
 
 .html
@@ -31,52 +31,54 @@
 	width: 0.01px;
 }
 
-#pu12901
-{
-	width: 0.01px;
-	margin-left: -100px;
-}
-
 #u12901,#u12901-bw
 {
 	z-index: 2;
 	height: 215px;
 }
 
-#u12879
+#u28793-6
 {
-	z-index: 4;
-	width: 193px;
+	z-index: 53;
+	width: 360px;
+	min-height: 125px;
 	margin-right: -10000px;
-	margin-top: 39px;
-	left: 566px;
+	margin-top: 23px;
+	left: 455px;
 }
 
-#u12879_states
+#u28793-6:hover
 {
-	height: 198px;
-	width: 193px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 125px;
+	width: 360px;
+	margin: 23px -10000px 0px 0px;
+}
+
+#pu12901,#pu12900
+{
+	width: 0.01px;
+	margin-left: -100px;
 }
 
 #u12900
 {
-	z-index: 9;
+	z-index: 6;
 	height: 52px;
 }
 
 #u12900-bw
 {
-	z-index: 9;
-	margin-top: 215px;
+	z-index: 6;
 	height: 52px;
 }
 
 #menuu12806
 {
-	z-index: 10;
+	z-index: 7;
 	width: 1015px;
 	margin-right: -10000px;
-	margin-top: 215px;
 	left: 100px;
 }
 
@@ -430,7 +432,7 @@
 
 #slideshowu25561
 {
-	z-index: 56;
+	z-index: 59;
 	width: 0.01px;
 	height: 778px;
 	margin-left: 102px;
@@ -449,12 +451,12 @@
 
 #u25583popup
 {
-	z-index: 57;
+	z-index: 60;
 }
 
 #u25592
 {
-	z-index: 58;
+	z-index: 61;
 	width: 444px;
 	height: 582px;
 	border-style: none;
@@ -466,7 +468,7 @@
 
 #u25628
 {
-	z-index: 60;
+	z-index: 63;
 	width: 444px;
 	height: 582px;
 	border-style: none;
@@ -495,12 +497,12 @@
 
 #u25563popup
 {
-	z-index: 62;
+	z-index: 65;
 }
 
 #u25568
 {
-	z-index: 63;
+	z-index: 66;
 	width: 91px;
 	height: 82px;
 	border-color: #6B6B6B;
@@ -512,7 +514,7 @@
 
 #u25631
 {
-	z-index: 65;
+	z-index: 68;
 	width: 91px;
 	height: 82px;
 	border-color: #6B6B6B;
@@ -564,7 +566,7 @@
 
 #u12903-3
 {
-	z-index: 6;
+	z-index: 3;
 	width: 5px;
 	margin-right: -10000px;
 	margin-top: 4px;
@@ -572,7 +574,7 @@
 
 #u25559-4
 {
-	z-index: 67;
+	z-index: 70;
 	width: 312px;
 	min-height: 36px;
 	background-color: transparent;
@@ -595,7 +597,7 @@
 
 #u25560-10
 {
-	z-index: 71;
+	z-index: 74;
 	width: 302px;
 	min-height: 360px;
 	background-color: transparent;
@@ -620,7 +622,7 @@
 
 #u25599
 {
-	z-index: 81;
+	z-index: 84;
 	width: 77px;
 	min-height: 24px;
 	border-style: none;
@@ -634,7 +636,7 @@
 
 #u25597
 {
-	z-index: 82;
+	z-index: 85;
 	width: 44px;
 	min-height: 24px;
 	border-style: none;
@@ -648,7 +650,7 @@
 
 #u25557
 {
-	z-index: 83;
+	z-index: 86;
 	width: 77px;
 	min-height: 24px;
 	border-style: none;
@@ -661,7 +663,7 @@
 
 #u12906
 {
-	z-index: 55;
+	z-index: 52;
 	width: 601px;
 	height: 336px;
 	margin-left: 410px;

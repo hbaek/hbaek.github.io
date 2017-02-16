@@ -1,7 +1,7 @@
 .version.how_do_i_love_thee /* version checker */
 {
-	color: #000007;
-	background-color: #9564A6;
+	color: #00000B;
+	background-color: #4741BB;
 }
 
 .html
@@ -49,37 +49,22 @@
 	height: 215px;
 }
 
-#u12879
-{
-	z-index: 4;
-	width: 193px;
-	margin-right: -10000px;
-	margin-top: 445px;
-	left: 566px;
-}
-
-#u12879_states
-{
-	height: 198px;
-	width: 193px;
-}
-
 #u12900
 {
-	z-index: 9;
+	z-index: 6;
 	height: 52px;
 }
 
 #u12900-bw
 {
-	z-index: 9;
+	z-index: 6;
 	margin-top: 621px;
 	height: 52px;
 }
 
 #menuu12806
 {
-	z-index: 10;
+	z-index: 7;
 	width: 1015px;
 	margin-right: -10000px;
 	margin-top: 621px;
@@ -434,9 +419,28 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u28793-6
+{
+	z-index: 53;
+	width: 360px;
+	min-height: 125px;
+	margin-right: -10000px;
+	margin-top: 429px;
+	left: 455px;
+}
+
+#u28793-6:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 125px;
+	width: 360px;
+	margin: 429px -10000px 0px 0px;
+}
+
 #slideshowu6400
 {
-	z-index: 76;
+	z-index: 79;
 	width: 0.01px;
 	height: 1646px;
 	position: relative;
@@ -461,12 +465,12 @@
 
 #u6420popup
 {
-	z-index: 77;
+	z-index: 80;
 }
 
 #u6483
 {
-	z-index: 78;
+	z-index: 81;
 	width: 977px;
 	height: 753px;
 	background-color: transparent;
@@ -484,7 +488,7 @@
 
 #u6492
 {
-	z-index: 80;
+	z-index: 83;
 	width: 977px;
 	height: 753px;
 	background-color: transparent;
@@ -502,7 +506,7 @@
 
 #u6507
 {
-	z-index: 82;
+	z-index: 85;
 	width: 977px;
 	height: 753px;
 	background-color: transparent;
@@ -520,7 +524,7 @@
 
 #u6521
 {
-	z-index: 84;
+	z-index: 87;
 	width: 977px;
 	height: 753px;
 	background-color: transparent;
@@ -547,12 +551,12 @@
 
 #u6403popup
 {
-	z-index: 86;
+	z-index: 89;
 }
 
 #u6486
 {
-	z-index: 87;
+	z-index: 90;
 	width: 469px;
 	height: 404px;
 	border-style: none;
@@ -572,7 +576,7 @@
 
 #u6495
 {
-	z-index: 89;
+	z-index: 92;
 	width: 469px;
 	height: 404px;
 	border-style: none;
@@ -593,7 +597,7 @@
 
 #u6510
 {
-	z-index: 91;
+	z-index: 94;
 	width: 469px;
 	height: 404px;
 	border-style: none;
@@ -620,7 +624,7 @@
 
 #u6524
 {
-	z-index: 93;
+	z-index: 96;
 	width: 469px;
 	height: 404px;
 	border-style: none;
@@ -655,7 +659,7 @@
 
 #u6429-4popup
 {
-	z-index: 95;
+	z-index: 98;
 }
 
 #u6430-4
@@ -674,7 +678,7 @@
 
 #u6430-4popup
 {
-	z-index: 99;
+	z-index: 102;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -696,7 +700,7 @@
 
 #u12903-3
 {
-	z-index: 6;
+	z-index: 3;
 	width: 5px;
 	margin-right: -10000px;
 	margin-top: 55px;
@@ -704,7 +708,7 @@
 
 #u6652-20
 {
-	z-index: 56;
+	z-index: 59;
 	width: 229px;
 	min-height: 165px;
 	background-color: transparent;
@@ -745,7 +749,7 @@
 
 #u17236-4
 {
-	z-index: 103;
+	z-index: 106;
 	width: 266px;
 	min-height: 524px;
 	background-color: #FFFFFF;
@@ -772,7 +776,7 @@
 
 #u12906
 {
-	z-index: 55;
+	z-index: 52;
 	width: 601px;
 	height: 336px;
 	margin-left: 410px;
