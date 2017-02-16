@@ -1,15 +1,15 @@
-#u28146-6
+#u28146-4
 {
 	background-color: transparent;
+	line-height: 1.38;
+	font-size: 9px;
 	text-align: center;
+	letter-spacing: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	-webkit-transform: matrix(0.7071,-0.7071,0.7071,0.7071,-7,22);
-	-ms-transform: matrix(0.7071,-0.7071,0.7071,0.7071,-7,22);
-	transform: matrix(0.7071,-0.7071,0.7071,0.7071,-7,22);
 	position: relative;
 }
 
-#u28146-6:hover
+#u28146-4:hover
 {
 	opacity: 0.29;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=28.999999999999996)";
@@ -18,24 +18,19 @@
 
 #u27618
 {
+	background-color: #F7F6F4;
 	opacity: 0.75;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
 	filter: alpha(opacity=75);
-	background: transparent url("../../images/dsc03134.jpg") no-repeat left top;
-	background-size: cover;
+	position: relative;
 }
 
-#u27625
-{
-	background-color: #FFFFFF;
-	opacity: 0.71;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=71)";
-	filter: alpha(opacity=71);
-}
-
-#u27666-3
+#u29407-13
 {
 	background-color: transparent;
+	font-size: 9px;
+	letter-spacing: 12px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
 
