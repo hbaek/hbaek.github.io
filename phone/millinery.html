@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "jquery.watch.js", "millinery.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "millinery.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -48,7 +48,7 @@
    </nav>
    <div class="clearfix grpelem" id="ppu28371"><!-- group -->
     <div class="grpelem" id="pu28371"><!-- inclusion -->
-     <div id="u28371"><!-- simple frame --></div>
+     <div class="museBGSize" id="u28371"><!-- simple frame --></div>
      <div class="clearfix" id="ppu28373"><!-- group -->
       <div class="grpelem" id="pu28373"><!-- inclusion -->
        <div id="u28373"><!-- simple frame --></div>
@@ -62,7 +62,9 @@
     </div>
     <a class="nonblock nontext clearfix grpelem" id="u28142-4" href="straw.html"><!-- content --><p>straw</p></a>
     <a class="nonblock nontext clearfix grpelem" id="u28143-4" href="crown.html"><!-- content --><p>crown</p></a>
-    <a class="nonblock nontext clearfix grpelem" id="u28144-4" href="fabric.html"><!-- content --><p>fabric</p></a>
+    <div class="clearfix grpelem" id="u28144-4"><!-- content -->
+     <p>fabric</p>
+    </div>
    </div>
    <div class="verticalspacer"></div>
   </div>
@@ -75,6 +77,7 @@
 </script>
   <script src="../scripts/museutils.js?183364071" type="text/javascript"></script>
   <script src="../scripts/jquery.musemenu.js?3957776250" type="text/javascript"></script>
+  <script src="../scripts/jquery.musepolyfill.bgsize.js?4004268962" type="text/javascript"></script>
   <script src="../scripts/jquery.watch.js?71412426" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">

@@ -1,20 +1,3 @@
-#u28371
-{
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
-	background: transparent url("../../images/dsc03134.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#u28373
-{
-	background-color: #FFFFFF;
-	opacity: 0.71;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=71)";
-	filter: alpha(opacity=71);
-}
-
 #menuu28434
 {
 	border-style: none;
@@ -23,7 +6,7 @@
 	position: relative;
 }
 
-#u28374-3,#u28442,#u28443
+#u28442,#u28443
 {
 	background-color: transparent;
 	position: relative;
@@ -113,12 +96,6 @@
 	position: relative;
 }
 
-#u28448,#u28477,#u28488,#u28495,#u28502
-{
-	background-color: transparent;
-	position: relative;
-}
-
 #u28503
 {
 	border-color: #777777;
@@ -148,5 +125,28 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u28371
+{
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+	background: transparent url("../../images/dsc03134.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u28373
+{
+	background-color: #FFFFFF;
+	opacity: 0.71;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=71)";
+	filter: alpha(opacity=71);
+}
+
+#u28448,#u28477,#u28488,#u28495,#u28502,#u28374-3
+{
+	background-color: transparent;
+	position: relative;
 }
 
