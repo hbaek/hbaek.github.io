@@ -181,6 +181,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/5.jpg</loc>
+    <lastmod>2017-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/52.jpg</loc>
     <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -266,6 +272,12 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/410.jpg</loc>
+    <lastmod>2017-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/6.jpg</loc>
     <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1213,31 +1225,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/dsc03510.jpg</loc>
-    <lastmod>2017-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/122.jpg</loc>
-    <lastmod>2017-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/cactus.jpg</loc>
-    <lastmod>2017-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/road.jpg</loc>
-    <lastmod>2017-02-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/trees.jpg</loc>
     <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1261,13 +1249,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/phone/birthdayforss.html</loc>
+    <loc>http://www.hazelbaek.com/phone/crown-copy.html</loc>
     <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/phone/crown-copy.html</loc>
+    <loc>http://www.hazelbaek.com/phone/crown-1.html</loc>
+    <lastmod>2017-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/crown-2.html</loc>
+    <lastmod>2017-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/crown-2-copy.html</loc>
     <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
