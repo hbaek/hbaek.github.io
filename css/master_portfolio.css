@@ -304,5 +304,8 @@
 #u12906
 {
 	position: relative;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 }
 

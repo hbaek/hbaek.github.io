@@ -1,7 +1,7 @@
 .version.crown /* version checker */
 {
-	color: #000002;
-	background-color: #E061C8;
+	color: #000014;
+	background-color: #9C4450;
 }
 
 .html
@@ -498,14 +498,14 @@
 	width: 581px;
 	min-height: 581px;
 	border-color: #DCDFE1;
-	line-height: 1.31;
 	font-size: 18px;
 	text-align: center;
+	line-height: 1.31;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	left: 115px;
-	background: #D2D6DC url("../images/dsc03870.jpg") no-repeat center center;
+	background: #D2D6DC url("../images/1478607182564.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -575,6 +575,13 @@
 	position: relative;
 }
 
+#pu26312
+{
+	width: 0.01px;
+	margin-left: 465px;
+	margin-top: 125px;
+}
+
 #u26312
 {
 	z-index: 178;
@@ -582,14 +589,27 @@
 	height: 140px;
 	border-style: none;
 	border-color: transparent;
-	margin-left: 465px;
-	margin-top: 125px;
 	position: relative;
-	background: transparent url("../images/62.jpg") no-repeat center center;
+	margin-right: -10000px;
+	background: transparent url("../images/6.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u26312:hover
+#u33682
+{
+	z-index: 183;
+	width: 140px;
+	height: 140px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 221px;
+	background: transparent url("../images/dsc03870.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u26312:hover,#u33682:hover
 {
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -599,7 +619,7 @@
 	width: 140px;
 	height: 140px;
 	min-height: 0px;
-	margin: 125px 0px 0px 465px;
+	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
 
@@ -657,9 +677,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 2px;
 	position: relative;
@@ -674,7 +694,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/312.jpg") no-repeat center center;
+	background: transparent url("../images/3.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -715,7 +735,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/72.gif") no-repeat center center;
+	background: transparent url("../images/7.gif") no-repeat center center;
 	background-size: cover;
 }
 
@@ -842,9 +862,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -864,9 +884,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -886,14 +906,36 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
 	left: 220px;
+}
+
+#u33683-4
+{
+	z-index: 184;
+	width: 138px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	font-size: 11px;
+	text-align: center;
+	line-height: 1.87;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 441px;
 }
 
 #u24898-4
@@ -908,9 +950,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -929,9 +971,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -951,9 +993,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1028,9 +1070,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1049,9 +1091,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1071,9 +1113,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1125,7 +1167,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 441px;
-	background: transparent url("../images/53.jpg") no-repeat right bottom;
+	background: transparent url("../images/5.jpg") no-repeat right bottom;
 	background-size: cover;
 }
 
@@ -1161,9 +1203,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1182,9 +1224,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1204,9 +1246,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1226,9 +1268,9 @@
 	z-index: 99;
 	width: 140px;
 	min-height: 140px;
-	line-height: 1.31;
 	font-size: 18px;
 	text-align: center;
+	line-height: 1.31;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1327,9 +1369,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1348,9 +1390,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -1370,9 +1412,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
 	font-size: 11px;
 	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;

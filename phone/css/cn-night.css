@@ -1,7 +1,7 @@
 .version.cn_night /* version checker */
 {
-	color: #0000F9;
-	background-color: #7875C3;
+	color: #0000FB;
+	background-color: #5A0B7E;
 }
 
 @-ms-viewport
@@ -116,9 +116,9 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	color: #000000;
-	line-height: 1.4;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -135,9 +135,9 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	color: #000000;
-	line-height: 1.4;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -154,9 +154,9 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	color: #000000;
-	line-height: 1.4;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -211,8 +211,8 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	color: #999999;
-	line-height: 1.4;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 107px;
 	left: 81px;
