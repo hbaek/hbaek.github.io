@@ -643,6 +643,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/test.jpg</loc>
+    <lastmod>2017-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/33.jpg</loc>
     <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -781,12 +787,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/322.jpg</loc>
-    <lastmod>2017-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/fb3.jpg</loc>
     <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -919,6 +919,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/back.jpg</loc>
+    <lastmod>2017-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/411.jpg</loc>
     <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -992,12 +998,6 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/dsc03661.jpg</loc>
-    <lastmod>2017-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/224.jpg</loc>
     <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1093,12 +1093,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/419.jpg</loc>
-    <lastmod>2017-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/121.jpg</loc>
     <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1112,12 +1106,6 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/dsc034882.jpg</loc>
-    <lastmod>2017-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/122.jpg</loc>
     <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1369,7 +1357,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/phone/main-menu.html</loc>
+    <loc>http://www.hazelbaek.com/images/front1.jpg</loc>
+    <lastmod>2017-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03482.jpg</loc>
+    <lastmod>2017-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03837-%EB%B3%B5%EA%B5%AC%EB%90%A82.jpg</loc>
+    <lastmod>2017-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc037982.jpg</loc>
     <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1501,12 +1507,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/phone/menufloral-copy.html</loc>
-    <lastmod>2017-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/phone/menucrown.html</loc>
     <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1520,6 +1520,36 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/menustraw.html</loc>
+    <lastmod>2017-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/menumillinery.html</loc>
+    <lastmod>2017-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/shadeofhue.html</loc>
+    <lastmod>2017-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/shadeofhue-copy.html</loc>
+    <lastmod>2017-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/green-spring-bonnet.html</loc>
+    <lastmod>2017-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/mainmenu.html</loc>
     <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1637,9 +1667,10 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/winzlear-gear.html</loc>
-    <lastmod>2017-02-17</lastmod>
+    <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/winzlear-gear.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/silver-beaded-night-casque.html</loc>
@@ -1789,9 +1820,10 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/ribbon-beret.html</loc>
-    <lastmod>2017-02-17</lastmod>
+    <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/ribbon-beret.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/green-spring-bonet.html</loc>
@@ -1883,8 +1915,9 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/cherry-bling.html</loc>
-    <lastmod>2017-02-17</lastmod>
+    <lastmod>2017-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/cherry-bling.html"/>
   </url>
 </urlset>
