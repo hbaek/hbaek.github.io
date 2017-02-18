@@ -1,7 +1,7 @@
 .version.main_menu /* version checker */
 {
-	color: #0000ED;
-	background-color: #56A9B9;
+	color: #0000F5;
+	background-color: #3909BF;
 }
 
 @-ms-viewport
@@ -153,52 +153,53 @@
 #u29409
 {
 	z-index: 44;
-	height: 54px;
-	width: 248px;
-	vertical-align: top;
 	position: relative;
+	width: 248px;
 	margin-right: -10000px;
 	margin-top: 52px;
 	left: 42px;
 }
 
-#u29409:hover
+#u29409:hover #u29409_states
 {
-	background: url("../../images/u29409-r.png") no-repeat 0px 0px;
+	background: url("../../images/u29409_states-r.png") no-repeat 0px 0px;
 }
 
 #u29410
 {
 	z-index: 47;
-	height: 54px;
-	width: 248px;
-	vertical-align: top;
 	position: relative;
+	width: 248px;
 	margin-right: -10000px;
 	margin-top: 189px;
 	left: 42px;
 }
 
-#u29410:hover
+#u29410:hover #u29410_states
 {
-	background: url("../../images/u29410-r.png") no-repeat 0px 0px;
+	background: url("../../images/u29410_states-r.png") no-repeat 0px 0px;
 }
 
 #u29411
 {
 	z-index: 50;
-	height: 54px;
-	width: 248px;
-	vertical-align: top;
 	position: relative;
+	width: 248px;
 	margin-right: -10000px;
 	margin-top: 346px;
 	left: 42px;
 }
 
-#u29411:hover
+#u29409_states,#u29410_states,#u29411_states
 {
-	background: url("../../images/u29411-r.png") no-repeat 0px 0px;
+	height: 54px;
+	width: 248px;
+	vertical-align: top;
+}
+
+#u29411:hover #u29411_states
+{
+	background: url("../../images/u29411_states-r.png") no-repeat 0px 0px;
 }
 
 #u29450-5

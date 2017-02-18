@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1487432422242" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1487432571243" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -545,9 +545,6 @@
     <file name="u28148-r.png" crc="3974780842" ref="phone>main-menu"/>
     <file name="u28149.png" crc="4279251648" ref="phone>main-menu"/>
     <file name="u28149-r.png" crc="4166048054" ref="phone>main-menu"/>
-    <file name="u29409-r.png" crc="364011285" ref="phone>main-menu"/>
-    <file name="u29410-r.png" crc="364011285" ref="phone>main-menu"/>
-    <file name="u29411-r.png" crc="364011285" ref="phone>main-menu"/>
     <file name="u29476-4.png" crc="3892782014" ref="phone>menufloral"/>
     <file name="u29487-4.png" crc="3892782014" ref="phone>menufineart"/>
     <file name="u29498-4.png" crc="3892782014" ref="phone>fabric"/>
@@ -571,6 +568,9 @@
     <file name="dsc02755.jpg" crc="3798822356" seo="true" ref="phone>once-upon-a-time"/>
     <file name="dsc02769.jpg" crc="80748186" seo="true" ref="phone>once-upon-a-time"/>
     <file name="dsc035082.jpg" crc="4268224230" seo="true" ref="birthday-s"/>
+    <file name="u29409_states-r.png" crc="364011285" ref="phone>main-menu"/>
+    <file name="u29410_states-r.png" crc="364011285" ref="phone>main-menu"/>
+    <file name="u29411_states-r.png" crc="364011285" ref="phone>main-menu"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -578,8 +578,8 @@
       <file name="index.css" crc="251421309" ref="phone>index"/>
       <file name="straw.css" crc="257415398" ref="phone>straw"/>
       <file name="crown.css" crc="254004451" ref="phone>crown"/>
-      <file name="main-menu.css" crc="3981879737" ref="phone>main-menu"/>
-      <file name="master_main.css" crc="3970179085" ref="phone>index:phone>main-menu:phone>crown:phone>straw:phone>contact:phone>forget-me-not:phone>menumillinery:phone>fabric:phone>menufineart:phone>menufloral:phone>once-upon-a-time:phone>fruit-punch:phone>thriving-irist-bouquet:phone>butter-satin:phone>birthday-k:phone>for-mothers:phone>valentine-2017:phone>kale-celosia:phone>birthday-s:phone>white-mangolia"/>
+      <file name="main-menu.css" crc="4114155967" ref="phone>main-menu"/>
+      <file name="master_main.css" crc="4294190417" ref="phone>index:phone>main-menu:phone>crown:phone>straw:phone>contact:phone>forget-me-not:phone>menumillinery:phone>fabric:phone>menufineart:phone>menufloral:phone>once-upon-a-time:phone>fruit-punch:phone>thriving-irist-bouquet:phone>butter-satin:phone>birthday-k:phone>for-mothers:phone>valentine-2017:phone>kale-celosia:phone>birthday-s:phone>white-mangolia"/>
       <file name="forget-me-not.css" crc="3957800169" ref="phone>forget-me-not"/>
       <file name="menumillinery.css" crc="4151484117" ref="phone>menumillinery"/>
       <file name="fabric.css" crc="4056062565" ref="phone>fabric"/>
@@ -600,7 +600,7 @@
     <file name="contact.html" crc="222192405" mt="1487432376639" redirect="true" seo="true"/>
     <file name="straw.html" crc="67840387" mt="1487432376639" redirect="true" seo="true"/>
     <file name="crown.html" crc="363708502" seo="true" mt="1487432376639" redirect="true"/>
-    <file name="main-menu.html" crc="364010557" seo="true" mt="1487432412119" redirect="true"/>
+    <file name="main-menu.html" crc="4103678759" seo="true" mt="1487432570970" redirect="true"/>
     <file name="forget-me-not.html" crc="4096217329" seo="true" mt="1487432376639" redirect="true"/>
     <file name="menumillinery.html" crc="3848298283" seo="true" mt="1487432376639" redirect="true"/>
     <file name="menufloral.html" crc="4069522661" seo="true" mt="1487432376639" redirect="true"/>
