@@ -9,21 +9,21 @@
 	position: relative;
 }
 
-#u27618
-{
-	background-color: #F7F6F4;
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
-	position: relative;
-}
-
 #u29407-13
 {
 	background-color: transparent;
 	font-size: 9px;
 	letter-spacing: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u27618
+{
+	background-color: #F7F6F4;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
 	position: relative;
 }
 
