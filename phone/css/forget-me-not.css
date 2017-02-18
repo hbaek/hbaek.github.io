@@ -1,7 +1,7 @@
 .version.forget_me_not /* version checker */
 {
-	color: #0000F3;
-	background-color: #51A80E;
+	color: #0000EB;
+	background-color: #E73CE9;
 }
 
 @-ms-viewport
@@ -121,10 +121,7 @@
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
-	opacity: 0.38;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=38)";
-	filter: alpha(opacity=38);
+	background-color: #FFFFFF;
 	padding: 15px;
 	color: #000000;
 	line-height: 1.4;
@@ -143,10 +140,7 @@
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
-	opacity: 0.38;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=38)";
-	filter: alpha(opacity=38);
+	background-color: #FFFFFF;
 	padding: 15px;
 	color: #000000;
 	line-height: 1.4;
@@ -165,10 +159,7 @@
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
-	opacity: 0.38;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=38)";
-	filter: alpha(opacity=38);
+	background-color: #FFFFFF;
 	padding: 15px;
 	color: #000000;
 	line-height: 1.4;
@@ -187,10 +178,7 @@
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
-	opacity: 0.38;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=38)";
-	filter: alpha(opacity=38);
+	background-color: #FFFFFF;
 	padding: 15px;
 	color: #000000;
 	line-height: 1.4;
@@ -205,9 +193,9 @@
 #u29088-4:hover,#u29089-4:hover,#u29090-4:hover,#u29087-4:hover
 {
 	background-color: #FFFFFF;
-	opacity: 1;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	filter: alpha(opacity=100);
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
 	padding-top: 15px;
 	padding-bottom: 15px;
 	min-height: 17px;
@@ -277,13 +265,13 @@
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 16px;
-	margin-left: 24px;
+	margin-left: 10px;
 }
 
 #u28146-4
 {
 	z-index: 3;
-	width: 90px;
+	width: 109px;
 	min-height: 13px;
 }
 
@@ -292,21 +280,22 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 13px;
-	width: 90px;
+	width: 109px;
 	margin: 0px;
 }
 
 #pu29407-13
 {
 	width: 0.01px;
+	margin-left: 14px;
 	margin-top: 14px;
 }
 
 #u29407-13
 {
 	z-index: 7;
-	width: 10px;
-	min-height: 71px;
+	width: 19px;
+	min-height: 125px;
 	margin-right: -10000px;
 	margin-top: 2px;
 }
