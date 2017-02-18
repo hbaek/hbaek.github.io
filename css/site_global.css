@@ -87,7 +87,7 @@ body
 
 a:link
 {
-	color: #DE6530;
+	color: #000000;
 	text-decoration: underline;
 }
 
@@ -135,7 +135,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
-a,.White-on-Black a,.Orange-on-White a
+.White-on-Black a,.Orange-on-White a
 {
 	color: inherit;
 	text-decoration: inherit;
@@ -211,6 +211,30 @@ a,.White-on-Black a,.Orange-on-White a
 {
 	color: #FFFFFF;
 	text-decoration: underline;
+}
+
+.website a:link
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+.website a:visited
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+.website a:hover
+{
+	color: #2B2B2C;
+	text-decoration: none;
+}
+
+.website a:active
+{
+	color: #000000;
+	text-decoration: none;
 }
 
 .normal_text
