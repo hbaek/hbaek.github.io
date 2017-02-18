@@ -1,7 +1,7 @@
 .version.crown /* version checker */
 {
-	color: #00001A;
-	background-color: #F07B19;
+	color: #000002;
+	background-color: #E061C8;
 }
 
 .html
@@ -674,7 +674,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/3.jpg") no-repeat center center;
+	background: transparent url("../images/312.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -715,7 +715,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/7.gif") no-repeat center center;
+	background: transparent url("../images/72.gif") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1125,7 +1125,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 441px;
-	background: transparent url("../images/52.jpg") no-repeat right bottom;
+	background: transparent url("../images/53.jpg") no-repeat right bottom;
 	background-size: cover;
 }
 

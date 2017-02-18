@@ -1,7 +1,7 @@
 .version.straw /* version checker */
 {
-	color: #0000E5;
-	background-color: #90951B;
+	color: #0000EA;
+	background-color: #E07ED1;
 }
 
 .html
@@ -497,7 +497,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 115px;
-	background: #D2D6DC url("../images/test2.jpg") no-repeat center bottom;
+	background: #D2D6DC url("../images/test.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -600,7 +600,7 @@
 	border-style: none;
 	border-color: transparent;
 	position: relative;
-	background: transparent url("../images/2110.jpg") no-repeat center top;
+	background: transparent url("../images/215.jpg") no-repeat center top;
 	background-size: cover;
 }
 
