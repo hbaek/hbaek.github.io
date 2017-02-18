@@ -1,7 +1,7 @@
 .version.crown /* version checker */
 {
-	color: #000004;
-	background-color: #6C2C5C;
+	color: #00001A;
+	background-color: #F07B19;
 }
 
 .html
@@ -674,7 +674,7 @@
 	border-color: transparent;
 	margin-top: 19px;
 	position: relative;
-	background: transparent url("../images/32.jpg") no-repeat center center;
+	background: transparent url("../images/3.jpg") no-repeat center center;
 	background-size: cover;
 }
 

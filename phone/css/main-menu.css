@@ -1,7 +1,7 @@
 .version.main_menu /* version checker */
 {
-	color: #000008;
-	background-color: #DB530F;
+	color: #0000FF;
+	background-color: #B069F1;
 }
 
 @-ms-viewport
@@ -38,22 +38,21 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 521px;
+	min-height: 517px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 27px;
+	padding-bottom: 31px;
 }
 
 #pu28146-4
 {
 	width: 0.01px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-top: 28px;
-	margin-left: 29px;
+	margin-top: 16px;
+	margin-left: 24px;
 }
 
 #u28146-4
@@ -75,8 +74,7 @@
 #pu27618
 {
 	width: 0.01px;
-	margin-left: 8px;
-	margin-top: 2px;
+	margin-top: 14px;
 }
 
 #u27618
@@ -85,8 +83,7 @@
 	width: 271px;
 	height: 451px;
 	margin-right: -10000px;
-	margin-top: 5px;
-	left: 18px;
+	left: 31px;
 }
 
 #u29407-13
@@ -95,6 +92,7 @@
 	width: 10px;
 	min-height: 71px;
 	margin-right: -10000px;
+	margin-top: 2px;
 }
 
 #u28147
@@ -105,8 +103,8 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 57px;
-	left: 29px;
+	margin-top: 52px;
+	left: 42px;
 	background: url("../../images/u28147.png") no-repeat 0px 0px;
 }
 
@@ -118,99 +116,88 @@
 #u28148
 {
 	z-index: 38;
-	position: relative;
-	width: 186px;
-	margin-right: -10000px;
-	margin-top: 195px;
-	left: 58px;
-}
-
-#u28148_states
-{
 	height: 54px;
 	width: 186px;
 	vertical-align: top;
-	background: url("../../images/u28148_states.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 190px;
+	left: 71px;
+	background: url("../../images/u28148.png") no-repeat 0px 0px;
 }
 
-#u28148:hover #u28148_states
+#u28148:hover
 {
-	background: url("../../images/u28148_states-r.png") no-repeat 0px 0px;
+	background: url("../../images/u28148-r.png") no-repeat 0px 0px;
 }
 
 #u28149
 {
 	z-index: 41;
-	position: relative;
-	width: 187px;
-	margin-right: -10000px;
-	margin-top: 351px;
-	left: 58px;
-}
-
-#u28149_states
-{
-	height: 57px;
+	height: 56px;
 	width: 187px;
 	vertical-align: top;
-	background: url("../../images/u28149_states.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 346px;
+	left: 71px;
+	background: url("../../images/u28149.png") no-repeat 0px 0px;
 }
 
-#u28149:hover #u28149_states
+#u28149:hover
 {
-	background: url("../../images/u28149_states-r.png") no-repeat 0px 0px;
+	background: url("../../images/u28149-r.png") no-repeat 0px 0px;
 }
 
 #u29409
 {
 	z-index: 44;
-	position: relative;
+	height: 54px;
 	width: 248px;
+	vertical-align: top;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 57px;
-	left: 29px;
+	margin-top: 52px;
+	left: 42px;
 }
 
-#u29409:hover #u29409_states
+#u29409:hover
 {
-	background: url("../../images/u29409_states-r.png") no-repeat 0px 0px;
+	background: url("../../images/u29409-r.png") no-repeat 0px 0px;
 }
 
 #u29410
 {
 	z-index: 47;
-	position: relative;
+	height: 54px;
 	width: 248px;
+	vertical-align: top;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 194px;
-	left: 29px;
+	margin-top: 189px;
+	left: 42px;
 }
 
-#u29410:hover #u29410_states
+#u29410:hover
 {
-	background: url("../../images/u29410_states-r.png") no-repeat 0px 0px;
+	background: url("../../images/u29410-r.png") no-repeat 0px 0px;
 }
 
 #u29411
 {
 	z-index: 50;
-	position: relative;
-	width: 248px;
-	margin-right: -10000px;
-	margin-top: 351px;
-	left: 29px;
-}
-
-#u29409_states,#u29410_states,#u29411_states
-{
 	height: 54px;
 	width: 248px;
 	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 346px;
+	left: 42px;
 }
 
-#u29411:hover #u29411_states
+#u29411:hover
 {
-	background: url("../../images/u29411_states-r.png") no-repeat 0px 0px;
+	background: url("../../images/u29411-r.png") no-repeat 0px 0px;
 }
 
 #u29450-5
@@ -219,7 +206,7 @@
 	width: 103px;
 	min-height: 14px;
 	margin-right: -10000px;
-	margin-top: 527px;
+	margin-top: 517px;
 	left: 30px;
 }
 
@@ -229,8 +216,8 @@
 	width: 103px;
 	min-height: 14px;
 	margin-right: -10000px;
-	margin-top: 527px;
-	left: 133px;
+	margin-top: 517px;
+	left: 140px;
 }
 
 #u29454-5
@@ -239,8 +226,8 @@
 	width: 103px;
 	min-height: 14px;
 	margin-right: -10000px;
-	margin-top: 527px;
-	left: 236px;
+	margin-top: 517px;
+	left: 250px;
 }
 
 #u29450-5:hover,#u29455-4:hover,#u29454-5:hover
@@ -249,7 +236,7 @@
 	padding-bottom: 0px;
 	min-height: 14px;
 	width: 103px;
-	margin: 527px -10000px 0px 0px;
+	margin: 517px -10000px 0px 0px;
 }
 
 body
@@ -261,6 +248,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -526px;
+	margin-bottom: -516px;
 }
 

@@ -1,7 +1,7 @@
-.version.straw /* version checker */
+.version.menumillinery /* version checker */
 {
-	color: #000010;
-	background-color: #47014C;
+	color: #0000FE;
+	background-color: #A0626D;
 }
 
 @-ms-viewport
@@ -71,10 +71,19 @@
 	margin: 0px;
 }
 
-#ppu27618
+#pu29407-13
 {
 	width: 0.01px;
 	margin-top: 14px;
+}
+
+#u29407-13
+{
+	z-index: 7;
+	width: 10px;
+	min-height: 71px;
+	margin-right: -10000px;
+	margin-top: 2px;
 }
 
 #pu27618
@@ -95,64 +104,41 @@
 	bottom: 0px;
 }
 
-#pu28528-4
+#pu29468-4
 {
 	width: 0.01px;
+	padding-bottom: 101.05000000000013px;
 	position: relative;
 	left: 19px;
-	padding-top: 93px;
+	padding-top: 115px;
 	z-index: 2;
-	padding-bottom: 55px;
 }
 
-#u28528-4
+#u29468-4
 {
 	z-index: 34;
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 1.58;
-	font-size: 10px;
+	font-size: 14px;
 	text-align: center;
 	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u28531-4
+#u29468-4:hover
 {
-	z-index: 46;
-	display: block;
-	vertical-align: top;
-	margin-top: 104px;
-	position: relative;
-}
-
-#u28532-4
-{
-	z-index: 50;
-	width: 242px;
+	background-color: #FFFFFF;
+	padding-top: 0px;
+	padding-bottom: 0px;
 	min-height: 20px;
-	background-color: transparent;
-	line-height: 1.58;
-	font-size: 10px;
-	text-align: center;
-	letter-spacing: 4px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-top: 80px;
-	position: relative;
+	width: 242px;
+	margin: 0px;
 }
 
-#u29407-13
-{
-	z-index: 7;
-	width: 10px;
-	min-height: 71px;
-	margin-right: -10000px;
-	margin-top: 2px;
-}
-
-#u28529-4
+#u29467-4
 {
 	z-index: 38;
 	width: 242px;
@@ -162,13 +148,21 @@
 	text-align: center;
 	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	margin-top: 88px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 113px;
-	left: 49px;
 }
 
-#u28530-4
+#u29467-4:hover
+{
+	background-color: #FFFFFF;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 0px;
+	width: 242px;
+	margin: 88px 0px 0px;
+}
+
+#u29466-4
 {
 	z-index: 42;
 	width: 242px;
@@ -178,10 +172,18 @@
 	text-align: center;
 	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	margin-top: 90px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 130px;
-	left: 49px;
+}
+
+#u29466-4:hover
+{
+	background-color: #FFFFFF;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 0px;
+	width: 242px;
+	margin: 90px 0px 0px;
 }
 
 #u29450-5
