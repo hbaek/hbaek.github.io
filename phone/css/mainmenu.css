@@ -1,7 +1,7 @@
 .version.mainmenu /* version checker */
 {
-	color: #0000F1;
-	background-color: #C52316;
+	color: #000010;
+	background-color: #F4FCA7;
 }
 
 @-ms-viewport
@@ -128,7 +128,7 @@
 #u33631-4
 {
 	font-size: 14px;
-	letter-spacing: 42px;
+	letter-spacing: 36px;
 	font-weight: normal;
 }
 

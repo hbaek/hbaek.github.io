@@ -1,7 +1,7 @@
 .version.for_mothers /* version checker */
 {
-	color: #0000E0;
-	background-color: #30F8AE;
+	color: #00001C;
+	background-color: #CF45F1;
 }
 
 @-ms-viewport
@@ -77,17 +77,9 @@
 	background-color: transparent;
 }
 
-#u30161
+#u34168
 {
 	z-index: 38;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u30170
-{
-	z-index: 40;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -103,67 +95,48 @@
 
 #u30117popup
 {
-	z-index: 42;
+	z-index: 40;
 }
 
 #u30121-4
 {
-	z-index: 43;
+	z-index: 41;
 	width: 98px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
+	letter-spacing: 3px;
 	color: #000000;
-	line-height: 1.4;
 	font-size: 12px;
 	text-align: left;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
 }
 
-#u30167-4
+#u34174-4
 {
-	z-index: 47;
+	z-index: 45;
 	width: 98px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
+	letter-spacing: 3px;
 	color: #000000;
-	line-height: 1.4;
 	font-size: 12px;
 	text-align: left;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
 }
 
-#u30176-4
-{
-	z-index: 51;
-	width: 98px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 15px;
-	color: #000000;
-	line-height: 1.4;
-	font-size: 12px;
-	text-align: left;
-	letter-spacing: 3px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u30121-4:hover,#u30167-4:hover,#u30176-4:hover
+#u30121-4:hover,#u34174-4:hover
 {
 	background-color: #FFFFFF;
 	opacity: 0;
@@ -193,7 +166,7 @@
 
 #u30114-4popup
 {
-	z-index: 55;
+	z-index: 49;
 }
 
 #u30114
@@ -211,8 +184,8 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	color: #999999;
-	line-height: 1.4;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 107px;
 	left: 81px;
@@ -220,7 +193,7 @@
 
 #u30115-4popup
 {
-	z-index: 59;
+	z-index: 53;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */

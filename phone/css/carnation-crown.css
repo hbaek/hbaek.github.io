@@ -1,7 +1,7 @@
 .version.carnation_crown /* version checker */
 {
-	color: #000019;
-	background-color: #666381;
+	color: #000001;
+	background-color: #26FFEF;
 }
 
 @-ms-viewport
@@ -93,7 +93,7 @@
 	background-color: transparent;
 }
 
-#u31281
+#u34093
 {
 	z-index: 25;
 	border-style: none;
@@ -171,7 +171,7 @@
 	position: relative;
 }
 
-#u31287-4
+#u34099-4
 {
 	z-index: 40;
 	width: 142px;
@@ -190,7 +190,7 @@
 	position: relative;
 }
 
-#u31187-4:hover,#u31269-4:hover,#u31278-4:hover,#u31287-4:hover
+#u31187-4:hover,#u31269-4:hover,#u31278-4:hover,#u34099-4:hover
 {
 	background-color: #FFFFFF;
 	opacity: 0;
