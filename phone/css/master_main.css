@@ -1,19 +1,10 @@
 #u28146-4
 {
 	background-color: transparent;
+	letter-spacing: 12px;
 	font-size: 14px;
 	text-align: center;
 	line-height: 1.38;
-	letter-spacing: 12px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u29407-13
-{
-	background-color: transparent;
-	font-size: 14px;
-	letter-spacing: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -27,13 +18,22 @@
 	position: relative;
 }
 
+#u29407-13
+{
+	background-color: transparent;
+	font-size: 14px;
+	letter-spacing: 12px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+}
+
 #u29450-5
 {
 	background-color: transparent;
+	letter-spacing: 2px;
 	font-size: 9px;
 	text-align: center;
 	line-height: 1.49;
-	letter-spacing: 2px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -41,10 +41,10 @@
 #u29455-4
 {
 	background-color: transparent;
+	letter-spacing: 0px;
 	font-size: 11px;
 	text-align: center;
 	line-height: 1.49;
-	letter-spacing: 0px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -52,10 +52,10 @@
 #u29454-5
 {
 	background-color: transparent;
+	letter-spacing: 2px;
 	font-size: 9px;
 	text-align: center;
 	line-height: 1.49;
-	letter-spacing: 2px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -72,14 +72,14 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u29450-3  span,#u29450-3  a,#u29454-3  span,#u29454-3  a /* line-height set on spans of mixed font sized paras */
-{
-	line-height: 1.49;
-}
-
 #u29450,#u29454
 {
 	font-size: 11px;
 	letter-spacing: 0px;
+}
+
+#u29450-3  span,#u29450-3  a,#u29450-3  span,#u29450-3  a,#u29450-3  span,#u29450-3  a,#u29450-3  span,#u29450-3  a,#u29450-3  span,#u29450-3  a,#u29454-3  span,#u29454-3  a,#u29454-3  span,#u29454-3  a,#u29454-3  span,#u29454-3  a,#u29454-3  span,#u29454-3  a,#u29454-3  span,#u29454-3  a /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.49;
 }
 
