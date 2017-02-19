@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1487481019941" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1487481659387" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -150,13 +150,13 @@
     <file name="sptdw.jpg" crc="480507470" ref="fine-arts"/>
     <file name="txt1.jpg" crc="125131792" ref="fine-arts"/>
     <file name="txt2.jpg" crc="3990953601" ref="fine-arts"/>
-    <file name="1.jpg" crc="4279788402" ref="phone>forget-me-not:phone>double-band-floral:phone>shadeofhue" seo="true"/>
-    <file name="2.jpg" crc="4086319101" ref="phone>forget-me-not:phone>double-band-floral:phone>ribbon-beret" seo="true"/>
-    <file name="3.jpg" crc="4148291149" ref="phone>birthday-k:phone>three-band-rose:phone>shadeofhue:crown:phone>burgendy-rose" seo="true"/>
-    <file name="4.jpg" crc="470748998" ref="phone>birthday-k:phone>winzlear-gear:phone>burgendy-rose" seo="true"/>
-    <file name="22.jpg" crc="4265051711" ref="phone>boronia-spring:winzlear-gear:phone>burgendy-rose:phone>valentine-2017" seo="true"/>
-    <file name="42.jpg" crc="4183181280" ref="phone>fruit-punch:phone>boronia-spring:phone>ribbon-beret:phone>carnation-crown" seo="true"/>
-    <file name="13.jpg" crc="329970380" ref="phone>boronia-spring:phone>ribbon-beret:phone>carnation-crown:phone>valentine-2017" seo="true"/>
+    <file name="1.jpg" crc="3975314029" ref="phone>forget-me-not:phone>double-band-floral:phone>shadeofhue" seo="true"/>
+    <file name="2.jpg" crc="4231437770" ref="phone>forget-me-not:phone>double-band-floral:phone>shadeofhue" seo="true"/>
+    <file name="3.jpg" crc="4148291149" ref="phone>birthday-k:phone>three-band-rose:crown:phone>burgendy-rose" seo="true"/>
+    <file name="4.jpg" crc="4239111964" ref="phone>birthday-k:phone>burgendy-rose:phone>ribbon-beret" seo="true"/>
+    <file name="22.jpg" crc="530841189" ref="phone>boronia-spring:winzlear-gear:phone>burgendy-rose:phone>valentine-2017:phone>ribbon-beret" seo="true"/>
+    <file name="42.jpg" crc="4183181280" ref="phone>fruit-punch:phone>boronia-spring:phone>carnation-crown" seo="true"/>
+    <file name="13.jpg" crc="4240610603" ref="phone>boronia-spring:phone>ribbon-beret:phone>carnation-crown:phone>valentine-2017" seo="true"/>
     <file name="23.jpg" crc="4014415000" ref="ribbon-beret:phone>carnation-crown" seo="true"/>
     <file name="43.jpg" crc="470748998" ref="birthday-k:winzlear-gear" seo="true"/>
     <file name="14.jpg" crc="1964007" ref="phone>fruit-punch:winzlear-gear:phone>three-band-rose" seo="true"/>
@@ -167,7 +167,7 @@
     <file name="35.jpg" crc="3907930665" ref="fruit-punch:phone>carnation-halo" seo="true"/>
     <file name="44.jpg" crc="4183181280" ref="side-band-rose:fruit-punch:ribbon-beret" seo="true"/>
     <file name="45.jpg" crc="361833910" ref="phone>druid-crown" seo="true"/>
-    <file name="5.jpg" crc="4275586308" ref="phone>forget-me-not:phone>hemlock-angle:winzlear-gear:crown" seo="true"/>
+    <file name="5.jpg" crc="4119176097" ref="phone>forget-me-not:phone>hemlock-angle:winzlear-gear:crown:phone>winzlear-gear" seo="true"/>
     <file name="52.jpg" crc="217079843" ref="phone>fruit-punch:phone>miller-wreath" seo="true"/>
     <file name="1-crop-u9278.jpg" crc="4095999445" ref="birthday-k"/>
     <file name="2-crop-u9338.jpg" crc="125661684" ref="birthday-k"/>
@@ -308,7 +308,7 @@
     <file name="4-crop-u20184.jpg" crc="4007427977" ref="three-rose-band"/>
     <file name="1.png" crc="354647022" ref="phone>druid-crown" seo="true"/>
     <file name="5.png" crc="3849236268" ref="phone>druid-crown" seo="true"/>
-    <file name="12.jpg" crc="4154999589" ref="phone>birthday-k:phone>winzlear-gear:phone>for-mothers" seo="true"/>
+    <file name="12.jpg" crc="386615455" ref="phone>birthday-k:phone>winzlear-gear:phone>for-mothers" seo="true"/>
     <file name="114.jpg" crc="135956343" ref="textile-0.2:boronia-spring" seo="true"/>
     <file name="72.jpg" crc="161183623" ref="dear-mother" seo="true"/>
     <file name="413.jpg" crc="286154460" ref="dear-mother:burgendy-rose" seo="true"/>
@@ -621,7 +621,7 @@
     <folder name="css">
       <file name="contact.css" crc="434677560" ref="phone>contact"/>
       <file name="index.css" crc="4054284299" ref="phone>index"/>
-      <file name="master_main.css" crc="4018095507" ref="phone>index:phone>contact:phone>menufineart:phone>menufloral:phone>fruit-punch:phone>birthday-k:phone>white-mangolia:phone>menustraw:phone>menucrown:phone>menufabric:phone>ribbon-beret:phone>green-spring-bonnet:phone>winzlear-gear:phone>mainmenu:phone>cherry-bling:phone>shadeofhue:phone>menumillinery:phone>coral--alabaster"/>
+      <file name="master_main.css" crc="4018095507" ref="phone>index:phone>contact:phone>menufineart:phone>menufloral:phone>fruit-punch:phone>birthday-k:phone>menustraw:phone>menucrown:phone>menufabric:phone>mainmenu:phone>menumillinery"/>
       <file name="forget-me-not.css" crc="49537006" ref="phone>forget-me-not"/>
       <file name="menufineart.css" crc="96841527" ref="phone>menufineart"/>
       <file name="menufloral.css" crc="206958205" ref="phone>menufloral"/>
@@ -634,7 +634,7 @@
       <file name="valentine-2017.css" crc="4095424790" ref="phone>valentine-2017"/>
       <file name="kale-celosia.css" crc="452788326" ref="phone>kale-celosia"/>
       <file name="birthday-s.css" crc="233267914" ref="phone>birthday-s"/>
-      <file name="white-mangolia.css" crc="52706711" ref="phone>white-mangolia"/>
+      <file name="white-mangolia.css" crc="535000721" ref="phone>white-mangolia"/>
       <file name="magnolia-leaf.css" crc="4198384932" ref="phone>magnolia-leaf"/>
       <file name="carnation-band.css" crc="4203532584" ref="phone>carnation-band"/>
       <file name="burgendy-rose.css" crc="3760533608" ref="phone>burgendy-rose"/>
@@ -659,15 +659,15 @@
       <file name="menufabric.css" crc="4094187159" ref="phone>menufabric"/>
       <file name="boronia-spring.css" crc="4142272579" ref="phone>boronia-spring"/>
       <file name="cn-night.css" crc="16651063" ref="phone>cn-night"/>
-      <file name="ribbon-beret.css" crc="3856168138" ref="phone>ribbon-beret"/>
-      <file name="green-spring-bonnet.css" crc="184345017" ref="phone>green-spring-bonnet"/>
-      <file name="winzlear-gear.css" crc="528549007" ref="phone>winzlear-gear"/>
+      <file name="ribbon-beret.css" crc="483197353" ref="phone>ribbon-beret"/>
+      <file name="green-spring-bonnet.css" crc="393249775" ref="phone>green-spring-bonnet"/>
+      <file name="winzlear-gear.css" crc="3780620225" ref="phone>winzlear-gear"/>
       <file name="mainmenu.css" crc="284490919" ref="phone>mainmenu"/>
-      <file name="cherry-bling.css" crc="525240253" ref="phone>cherry-bling"/>
-      <file name="shadeofhue.css" crc="4003178099" ref="phone>shadeofhue"/>
+      <file name="cherry-bling.css" crc="244999113" ref="phone>cherry-bling"/>
+      <file name="shadeofhue.css" crc="3984460032" ref="phone>shadeofhue"/>
       <file name="menumillinery.css" crc="247522594" ref="phone>menumillinery"/>
-      <file name="coral--alabaster.css" crc="4157234770" ref="phone>coral--alabaster"/>
-      <file name="master_slide.css" crc="3951438278" ref="phone>druid-crown:phone>for-yy_rice:phone>magnolia-leaf:phone>merry-go-round:phone>ivory-and-green:phone>carnation-crown:phone>sideband-rose:phone>carnation-halo:phone>cn-night:phone>burgendy-rose:phone>hemlock-angle:phone>for-yy_rose:phone>carnation-band:phone>for-yy_fern:phone>lovebird:phone>three-band-rose:phone>iris-water:phone>double-band-floral:phone>orange-and-white:phone>boronia-spring:phone>miller-wreath:phone>butter-satin:phone>for-mothers:phone>kale-celosia:phone>forget-me-not:phone>valentine-2017:phone>once-upon-a-time:phone>birthday-s:phone>thriving-irist-bouquet"/>
+      <file name="coral--alabaster.css" crc="4046691179" ref="phone>coral--alabaster"/>
+      <file name="master_slide.css" crc="4190034854" ref="phone>druid-crown:phone>for-yy_rice:phone>magnolia-leaf:phone>merry-go-round:phone>ivory-and-green:phone>carnation-crown:phone>sideband-rose:phone>carnation-halo:phone>cn-night:phone>burgendy-rose:phone>hemlock-angle:phone>for-yy_rose:phone>carnation-band:phone>for-yy_fern:phone>lovebird:phone>three-band-rose:phone>iris-water:phone>double-band-floral:phone>orange-and-white:phone>boronia-spring:phone>miller-wreath:phone>butter-satin:phone>for-mothers:phone>kale-celosia:phone>forget-me-not:phone>valentine-2017:phone>once-upon-a-time:phone>birthday-s:phone>thriving-irist-bouquet:phone>white-mangolia:phone>shadeofhue:phone>ribbon-beret:phone>winzlear-gear:phone>cherry-bling:phone>coral--alabaster:phone>green-spring-bonnet"/>
     </folder>
     <file name="index.html" crc="3766065044" mt="1487448286295" redirect="true" seo="true"/>
     <file name="contact.html" crc="222192405" mt="1487432376639" redirect="true" seo="true"/>
@@ -683,7 +683,7 @@
     <file name="once-upon-a-time.html" crc="364018292" seo="true" mt="1487480988361" redirect="true"/>
     <file name="thriving-irist-bouquet.html" crc="413400164" seo="true" mt="1487480991498" redirect="true"/>
     <file name="valentine-2017.html" crc="54745382" seo="true" mt="1487480995620" redirect="true"/>
-    <file name="white-mangolia.html" crc="38630585" seo="true" mt="1487432376639" redirect="true"/>
+    <file name="white-mangolia.html" crc="3865964768" seo="true" mt="1487481562884" redirect="true"/>
     <file name="double-band-floral.html" crc="3849786290" seo="true" mt="1487479265979" redirect="true"/>
     <file name="three-band-rose.html" crc="241404364" seo="true" mt="1487480773097" redirect="true"/>
     <file name="boronia-spring.html" crc="26969438" seo="true" mt="1487479274097" redirect="true"/>
@@ -709,13 +709,13 @@
     <file name="menufabric.html" crc="510570567" seo="true" mt="1487477665504" redirect="true"/>
     <file name="menustraw.html" crc="503078669" seo="true" mt="1487446700865" redirect="true"/>
     <file name="menumillinery.html" crc="430892019" seo="true" mt="1487480867106" redirect="true"/>
-    <file name="shadeofhue.html" crc="4217696003" seo="true" mt="1487446038310" redirect="true"/>
-    <file name="cherry-bling.html" crc="4161619278" seo="true" mt="1487446206171" redirect="true"/>
-    <file name="winzlear-gear.html" crc="3819470735" seo="true" mt="1487446370864" redirect="true"/>
-    <file name="green-spring-bonnet.html" crc="506257125" seo="true" mt="1487447195435" redirect="true"/>
-    <file name="ribbon-beret.html" crc="3761637155" seo="true" mt="1487447441813" redirect="true"/>
+    <file name="shadeofhue.html" crc="218938694" seo="true" mt="1487481529183" redirect="true"/>
+    <file name="cherry-bling.html" crc="4097285381" seo="true" mt="1487481532162" redirect="true"/>
+    <file name="winzlear-gear.html" crc="405938374" seo="true" mt="1487481534835" redirect="true"/>
+    <file name="green-spring-bonnet.html" crc="4155199142" seo="true" mt="1487481540101" redirect="true"/>
+    <file name="ribbon-beret.html" crc="472397700" seo="true" mt="1487481621805" redirect="true"/>
     <file name="mainmenu.html" crc="3840249531" seo="true" mt="1487479715527" redirect="true"/>
-    <file name="coral--alabaster.html" crc="3763299147" seo="true" mt="1487477651776" redirect="true"/>
+    <file name="coral--alabaster.html" crc="4255329123" seo="true" mt="1487481537360" redirect="true"/>
   </folder>
   <file name="fine-arts.html" crc="9933020" mt="1487280748689" redirect="true" seo="true"/>
   <file name="contact.html" crc="4151495763" mt="1487280748689" redirect="true" seo="true"/>
