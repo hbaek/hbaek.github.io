@@ -1,7 +1,7 @@
 .version.hemlock_angle /* version checker */
 {
-	color: #000019;
-	background-color: #CB5541;
+	color: #00000A;
+	background-color: #F1CCF9;
 }
 
 @-ms-viewport
@@ -77,9 +77,17 @@
 	background-color: transparent;
 }
 
-#u32001
+#u34427
 {
 	z-index: 7;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u34436
+{
+	z-index: 9;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -95,12 +103,12 @@
 
 #u31941popup
 {
-	z-index: 9;
+	z-index: 11;
 }
 
 #u31942-4
 {
-	z-index: 10;
+	z-index: 12;
 	width: 129px;
 	min-height: 17px;
 	border-style: none;
@@ -117,9 +125,9 @@
 	position: relative;
 }
 
-#u32007-4
+#u34433-4
 {
-	z-index: 14;
+	z-index: 16;
 	width: 129px;
 	min-height: 17px;
 	border-style: none;
@@ -136,7 +144,26 @@
 	position: relative;
 }
 
-#u31942-4:hover,#u32007-4:hover
+#u34442-4
+{
+	z-index: 20;
+	width: 129px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	line-height: 1.4;
+	color: #000000;
+	font-size: 12px;
+	text-align: left;
+	letter-spacing: 3px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u31942-4:hover,#u34433-4:hover,#u34442-4:hover
 {
 	background-color: #FFFFFF;
 	opacity: 0;
@@ -166,7 +193,7 @@
 
 #u31964-4popup
 {
-	z-index: 18;
+	z-index: 24;
 }
 
 #u31964
@@ -193,7 +220,7 @@
 
 #u31952-4popup
 {
-	z-index: 22;
+	z-index: 28;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
