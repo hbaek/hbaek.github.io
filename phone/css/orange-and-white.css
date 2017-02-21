@@ -1,7 +1,7 @@
 .version.orange_and_white /* version checker */
 {
-	color: #000004;
-	background-color: #2EA8A8;
+	color: #000000;
+	background-color: #200AAF;
 }
 
 @-ms-viewport
@@ -38,18 +38,18 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 517px;
+	min-height: 305px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 31px;
+	padding-bottom: 243px;
 }
 
 #slideshowu32623
 {
-	z-index: 17;
+	z-index: 3;
 	width: 0.01px;
 	height: 157px;
 	position: relative;
@@ -66,12 +66,12 @@
 
 #u32625popup
 {
-	z-index: 18;
+	z-index: 4;
 }
 
 #u32630
 {
-	z-index: 19;
+	z-index: 5;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -79,7 +79,7 @@
 
 #u32696
 {
-	z-index: 21;
+	z-index: 7;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -87,7 +87,7 @@
 
 #u32705
 {
-	z-index: 23;
+	z-index: 9;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -103,23 +103,23 @@
 
 #u32645popup
 {
-	z-index: 25;
+	z-index: 11;
 }
 
 #u32647-4
 {
-	z-index: 26;
+	z-index: 12;
 	width: 153px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -127,18 +127,18 @@
 
 #u32702-4
 {
-	z-index: 30;
+	z-index: 16;
 	width: 153px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -146,18 +146,18 @@
 
 #u32711-4
 {
-	z-index: 34;
+	z-index: 20;
 	width: 153px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -193,7 +193,7 @@
 
 #u32641-4popup
 {
-	z-index: 38;
+	z-index: 24;
 }
 
 #u32641
@@ -210,9 +210,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 107px;
 	left: 81px;
@@ -220,7 +220,7 @@
 
 #u32642-4popup
 {
-	z-index: 42;
+	z-index: 28;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -236,50 +236,14 @@
 #u34070
 {
 	z-index: 2;
-	width: 271px;
-	height: 451px;
-	margin-right: -10000px;
-	margin-top: 48px;
-	left: 55px;
+	height: 63px;
 }
 
-#u34073-5
+#u34070-bw
 {
-	z-index: 3;
-	width: 103px;
-	min-height: 14px;
-	margin-right: -10000px;
-	margin-top: 517px;
-	left: 30px;
-}
-
-#u34072-4
-{
-	z-index: 13;
-	width: 103px;
-	min-height: 14px;
-	margin-right: -10000px;
-	margin-top: 517px;
-	left: 140px;
-}
-
-#u34071-5
-{
-	z-index: 8;
-	width: 103px;
-	min-height: 14px;
-	margin-right: -10000px;
-	margin-top: 517px;
-	left: 250px;
-}
-
-#u34073-5:hover,#u34072-4:hover,#u34071-5:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 14px;
-	width: 103px;
-	margin: 517px -10000px 0px 0px;
+	z-index: 2;
+	margin-top: 242px;
+	height: 63px;
 }
 
 body
@@ -291,6 +255,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -516px;
 }
 
