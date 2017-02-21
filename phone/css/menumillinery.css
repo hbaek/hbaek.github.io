@@ -1,7 +1,7 @@
 .version.menumillinery /* version checker */
 {
-	color: #00000E;
-	background-color: #C0E522;
+	color: #000011;
+	background-color: #69763B;
 }
 
 @-ms-viewport
@@ -74,7 +74,7 @@
 #ppu27618
 {
 	width: 0.01px;
-	margin-left: 14px;
+	margin-left: 4px;
 	margin-top: 14px;
 }
 
@@ -84,7 +84,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-left: 31px;
+	margin-left: 41px;
 }
 
 #u27618
@@ -112,9 +112,9 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	letter-spacing: 4px;
-	text-align: center;
 	line-height: 1.58;
+	text-align: center;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 2px;
 	position: relative;
@@ -136,8 +136,8 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 1.58;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 3px;
 	margin-top: 150px;
@@ -156,8 +156,8 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 1.58;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-top: 130px;
 	position: relative;
@@ -191,7 +191,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 43px;
-	left: 49px;
+	left: 59px;
 }
 
 #u33863:hover #u33863_states
@@ -206,7 +206,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 233px;
-	left: 49px;
+	left: 59px;
 }
 
 #u33864:hover #u33864_states
@@ -221,7 +221,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 402px;
-	left: 47px;
+	left: 57px;
 }
 
 #u33863_states,#u33864_states,#u33865_states

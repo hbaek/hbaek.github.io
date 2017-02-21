@@ -1,7 +1,7 @@
 .version.menufineart /* version checker */
 {
-	color: #000005;
-	background-color: #C5AF37;
+	color: #00001B;
+	background-color: #E1F01E;
 }
 
 @-ms-viewport
@@ -74,7 +74,7 @@
 #ppu27618
 {
 	width: 0.01px;
-	margin-left: 14px;
+	margin-left: 4px;
 	margin-top: 14px;
 }
 
@@ -84,7 +84,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-left: 31px;
+	margin-left: 41px;
 }
 
 #u27618
@@ -166,7 +166,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 113px;
-	left: 49px;
+	left: 59px;
 }
 
 #u29486-4
@@ -182,7 +182,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 130px;
-	left: 49px;
+	left: 59px;
 }
 
 #u29450-5

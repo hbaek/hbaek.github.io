@@ -1,7 +1,7 @@
 .version.menufloral /* version checker */
 {
-	color: #00000C;
-	background-color: #55EE7D;
+	color: #000003;
+	background-color: #1E00CE;
 }
 
 @-ms-viewport
@@ -74,7 +74,7 @@
 #ppu27618
 {
 	width: 0.01px;
-	margin-left: 14px;
+	margin-left: 4px;
 	margin-top: 14px;
 }
 
@@ -84,7 +84,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-left: 31px;
+	margin-left: 41px;
 }
 
 #u27618
@@ -111,10 +111,10 @@
 	z-index: 34;
 	width: 242px;
 	background-color: transparent;
-	letter-spacing: 4px;
+	line-height: 1.65;
 	font-size: 10px;
 	text-align: center;
-	line-height: 1.65;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 1px;
 	position: relative;
@@ -126,10 +126,10 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	letter-spacing: 4px;
+	line-height: 1.58;
 	font-size: 10px;
 	text-align: center;
-	line-height: 1.58;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 1px;
 	margin-top: 19px;
@@ -155,10 +155,10 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	letter-spacing: 4px;
+	line-height: 1.58;
 	font-size: 10px;
 	text-align: center;
-	line-height: 1.58;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 2px;
 	margin-top: 45px;
@@ -180,15 +180,15 @@
 	width: 242px;
 	min-height: 19px;
 	background-color: transparent;
-	letter-spacing: 4px;
+	line-height: 1.65;
 	font-size: 10px;
 	text-align: center;
-	line-height: 1.65;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 60px;
-	left: 49px;
+	left: 59px;
 }
 
 #u30633-4
@@ -197,15 +197,15 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	letter-spacing: 4px;
+	line-height: 1.58;
 	font-size: 10px;
 	text-align: center;
-	line-height: 1.58;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 99px;
-	left: 49px;
+	left: 59px;
 }
 
 #u30636-4
@@ -214,15 +214,15 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	letter-spacing: 4px;
+	line-height: 1.58;
 	font-size: 10px;
 	text-align: center;
-	line-height: 1.58;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 119px;
-	left: 51px;
+	left: 61px;
 }
 
 #u30638-4
@@ -231,15 +231,15 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	letter-spacing: 4px;
+	line-height: 1.58;
 	font-size: 10px;
 	text-align: center;
-	line-height: 1.58;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 139px;
-	left: 50px;
+	left: 60px;
 }
 
 #u30640-4
@@ -248,15 +248,15 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	letter-spacing: 4px;
+	line-height: 1.58;
 	font-size: 10px;
 	text-align: center;
-	line-height: 1.58;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 159px;
-	left: 50px;
+	left: 60px;
 }
 
 #u30641
@@ -266,7 +266,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 42px;
-	left: 49px;
+	left: 59px;
 }
 
 #u30641:hover #u30641_states
@@ -281,7 +281,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 59px;
-	left: 50px;
+	left: 60px;
 }
 
 #u30642:hover #u30642_states
@@ -296,7 +296,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 79px;
-	left: 49px;
+	left: 59px;
 }
 
 #u30644:hover #u30644_states
@@ -311,7 +311,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 98px;
-	left: 50px;
+	left: 60px;
 }
 
 #u30645:hover #u30645_states
@@ -326,7 +326,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 118px;
-	left: 51px;
+	left: 61px;
 }
 
 #u30648:hover #u30648_states
@@ -341,7 +341,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 138px;
-	left: 52px;
+	left: 62px;
 }
 
 #u30649:hover #u30649_states
@@ -356,7 +356,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 159px;
-	left: 51px;
+	left: 61px;
 }
 
 #u30641_states,#u30642_states,#u30644_states,#u30645_states,#u30648_states,#u30649_states,#u30650_states
@@ -378,7 +378,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 348px;
-	left: 50px;
+	left: 60px;
 }
 
 #u30651_states

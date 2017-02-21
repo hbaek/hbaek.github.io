@@ -1,7 +1,7 @@
 .version.mainmenu /* version checker */
 {
-	color: #000010;
-	background-color: #F4FCA7;
+	color: #000012;
+	background-color: #10BE64;
 }
 
 @-ms-viewport
@@ -74,7 +74,7 @@
 #ppu27618
 {
 	width: 0.01px;
-	margin-left: 14px;
+	margin-left: 4px;
 	margin-top: 14px;
 }
 
@@ -84,7 +84,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-left: 31px;
+	margin-left: 41px;
 }
 
 #u27618
@@ -112,8 +112,8 @@
 	width: 242px;
 	min-height: 38px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 1.58;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 2px;
 	position: relative;
@@ -165,9 +165,9 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	letter-spacing: 4px;
-	text-align: center;
 	line-height: 1.58;
+	text-align: center;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-top: 130px;
 	position: relative;
@@ -199,7 +199,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 47px;
-	left: 48px;
+	left: 58px;
 }
 
 #u33628_states
@@ -221,7 +221,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 192px;
-	left: 49px;
+	left: 59px;
 }
 
 #u33861:hover #u33861_states
@@ -236,7 +236,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 365px;
-	left: 47px;
+	left: 57px;
 }
 
 #u33861_states,#u33862_states
