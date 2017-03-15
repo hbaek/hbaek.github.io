@@ -1,7 +1,7 @@
 .version.three_rose_band /* version checker */
 {
-	color: #00000A;
-	background-color: #1EF41C;
+	color: #000009;
+	background-color: #47E8B3;
 }
 
 .html
@@ -465,7 +465,7 @@
 	position: relative;
 }
 
-#u20172
+#u34633
 {
 	z-index: 63;
 	width: 547px;
@@ -477,13 +477,13 @@
 	position: relative;
 }
 
-#u20154_img,#u20172_img
+#u20154_img,#u34633_img
 {
 	padding-left: 51px;
 	padding-right: 50px;
 }
 
-#u20181
+#u34642
 {
 	z-index: 65;
 	width: 547px;
@@ -495,13 +495,13 @@
 	position: relative;
 }
 
-#u20181_img
+#u34642_img
 {
 	padding-top: 9px;
 	padding-bottom: 8px;
 }
 
-#u20190
+#u34651
 {
 	z-index: 67;
 	width: 547px;
@@ -513,7 +513,7 @@
 	position: relative;
 }
 
-#u20190_img
+#u34651_img
 {
 	padding: 15px 29px 14px;
 }
@@ -547,7 +547,13 @@
 	left: 25px;
 }
 
-#u20175
+#u20157_img
+{
+	margin-top: -27px;
+	margin-bottom: -28px;
+}
+
+#u34636
 {
 	z-index: 72;
 	width: 91px;
@@ -559,7 +565,7 @@
 	left: 126px;
 }
 
-#u20184
+#u34645
 {
 	z-index: 74;
 	width: 91px;
@@ -571,7 +577,20 @@
 	left: 227px;
 }
 
-#u20193
+#u20157_clip,#u34645_clip
+{
+	overflow: hidden;
+	width: 91px;
+	height: 82px;
+}
+
+#u34645_img
+{
+	margin-top: -13px;
+	margin-bottom: -14px;
+}
+
+#u34654
 {
 	z-index: 76;
 	width: 91px;
@@ -583,7 +602,7 @@
 	left: 328px;
 }
 
-#u20157.SSSlideLinkSelected,#u20175.SSSlideLinkSelected,#u20184.SSSlideLinkSelected,#u20193.SSSlideLinkSelected
+#u20157.SSSlideLinkSelected,#u34636.SSSlideLinkSelected,#u34645.SSSlideLinkSelected,#u34654.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
@@ -591,19 +610,6 @@
 	height: 82px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-}
-
-#u20193_clip
-{
-	overflow: hidden;
-	width: 91px;
-	height: 82px;
-}
-
-#u20193_img
-{
-	margin-top: -19px;
-	margin-bottom: -18px;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -638,8 +644,8 @@
 	width: 52px;
 	min-height: 48px;
 	background-color: transparent;
-	font-size: 21px;
 	text-align: left;
+	font-size: 21px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	-webkit-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
 	-ms-transform: matrix(0.891,-0.454,0.454,0.891,-9,15);
@@ -694,9 +700,9 @@
 	width: 356px;
 	min-height: 36px;
 	background-color: transparent;
-	letter-spacing: 5px;
-	font-size: 22px;
 	text-align: center;
+	font-size: 22px;
+	letter-spacing: 5px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	margin-left: 377px;

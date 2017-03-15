@@ -1,7 +1,7 @@
 .version.fall_burgundy_shade /* version checker */
 {
-	color: #000009;
-	background-color: #54650B;
+	color: #000013;
+	background-color: #ACA9F9;
 }
 
 .html
@@ -607,9 +607,9 @@
 	width: 312px;
 	min-height: 36px;
 	background-color: transparent;
-	letter-spacing: 5px;
-	font-size: 22px;
 	text-align: center;
+	font-size: 22px;
+	letter-spacing: 5px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -679,7 +679,7 @@
 #u22762
 {
 	z-index: 95;
-	width: 77px;
+	width: 79px;
 	min-height: 24px;
 	border-style: none;
 	border-color: transparent;
