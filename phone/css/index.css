@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #BD7E2F;
+	color: #0000F4;
+	background-color: #B5382F;
 }
 
 @-ms-viewport
@@ -115,7 +115,7 @@
 	border-style: solid;
 	border-color: #000000;
 	position: relative;
-	background: transparent url("../../images/4-u34297-fr.jpg") no-repeat center bottom;
+	background: transparent url("../../images/4wb-u34297-fr.jpg") no-repeat right top;
 	background-size: cover;
 }
 
@@ -125,10 +125,10 @@
 	width: 216px;
 	min-height: 26px;
 	background-color: transparent;
-	line-height: 2.39;
-	font-size: 11px;
-	text-align: center;
 	letter-spacing: 2px;
+	text-align: center;
+	font-size: 11px;
+	line-height: 2.39;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 1px;
 	margin-top: 36px;
@@ -185,7 +185,6 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 1px;
 }
 
 .ie #u34550
