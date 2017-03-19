@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F4;
-	background-color: #B5382F;
+	color: #00001A;
+	background-color: #F7F29C;
 }
 
 @-ms-viewport
@@ -125,10 +125,10 @@
 	width: 216px;
 	min-height: 26px;
 	background-color: transparent;
-	letter-spacing: 2px;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
 	line-height: 2.39;
+	letter-spacing: 2px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 1px;
 	margin-top: 36px;

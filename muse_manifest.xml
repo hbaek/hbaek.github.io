@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1489607048088" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1489902802838" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -54,7 +54,7 @@
     <file name="fruit-punch.html" crc="70097998" mt="1487428885792" redirect="false" seo="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="29407460"/>
+    <file name="site_global.css" crc="4019994187"/>
     <file name="textile-0_2.css" crc="3837747115" ref="textile-0.2"/>
     <file name="index.css" crc="331824929" ref="index"/>
     <file name="under-the-willow-tree.css" crc="4171245498" ref="under-the-willow-tree"/>
@@ -639,8 +639,8 @@
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="388689978" ref="phone>contact"/>
-      <file name="index.css" crc="4105517103" ref="phone>index"/>
-      <file name="master_main.css" crc="4164700695" ref="phone>index:phone>contact:phone>menufineart:phone>menufloral:phone>fruit-punch:phone>birthday-k:phone>menustraw:phone>menucrown:phone>menufabric:phone>mainmenu:phone>menumillinery"/>
+      <file name="index.css" crc="452457116" ref="phone>index"/>
+      <file name="master_main.css" crc="4157331603" ref="phone>index:phone>contact:phone>menufineart:phone>menufloral:phone>fruit-punch:phone>birthday-k:phone>menustraw:phone>menucrown:phone>menufabric:phone>mainmenu:phone>menumillinery"/>
       <file name="forget-me-not.css" crc="130051541" ref="phone>forget-me-not"/>
       <file name="menufineart.css" crc="467791902" ref="phone>menufineart"/>
       <file name="menufloral.css" crc="159751559" ref="phone>menufloral"/>
@@ -690,7 +690,7 @@
       <file name="ballerian-rouge-.css" crc="4284658331" ref="phone>ballerian-rouge-"/>
       <file name="ballerian-rouge-_-2.css" crc="4081203014" ref="phone>ballerian-rouge-.-2"/>
     </folder>
-    <file name="index.html" crc="3825593995" mt="1489605422891" redirect="true" seo="true"/>
+    <file name="index.html" crc="4054272262" mt="1489902774759" redirect="true" seo="true"/>
     <file name="contact.html" crc="222192405" mt="1487674864590" redirect="true" seo="true"/>
     <file name="forget-me-not.html" crc="162586287" seo="true" mt="1487680480276" redirect="true"/>
     <file name="menufloral.html" crc="328880642" seo="true" mt="1489605981827" redirect="true"/>
