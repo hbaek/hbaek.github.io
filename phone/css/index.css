@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001A;
-	background-color: #F7F29C;
+	color: #0000E4;
+	background-color: #9F326E;
 }
 
 @-ms-viewport
@@ -115,7 +115,7 @@
 	border-style: solid;
 	border-color: #000000;
 	position: relative;
-	background: transparent url("../../images/4wb-u34297-fr.jpg") no-repeat right top;
+	background: transparent url("../../images/6wb-u34297-fr.jpg") no-repeat right top;
 	background-size: cover;
 }
 
@@ -125,10 +125,10 @@
 	width: 216px;
 	min-height: 26px;
 	background-color: transparent;
-	font-size: 11px;
-	text-align: center;
-	line-height: 2.39;
 	letter-spacing: 2px;
+	text-align: center;
+	font-size: 11px;
+	line-height: 2.39;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 1px;
 	margin-top: 36px;
