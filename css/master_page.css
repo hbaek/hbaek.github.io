@@ -32,7 +32,7 @@
 	position: relative;
 }
 
-#u36278.MuseMenuActive,#u36271:hover
+#u36271:hover
 {
 	background-color: #999999;
 }
@@ -42,9 +42,9 @@
 	background-color: #6B6B6B;
 }
 
-#u36271.MuseMenuActive
+#u36278.MuseMenuActive,#u36271.MuseMenuActive
 {
-	background-color: #999999;
+	background-color: transparent;
 }
 
 #u36273-4

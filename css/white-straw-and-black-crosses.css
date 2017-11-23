@@ -1,7 +1,7 @@
 .version.white_straw_and_black_crosses /* version checker */
 {
-	color: #0000E2;
-	background-color: #24037A;
+	color: #0000FD;
+	background-color: #0316F6;
 }
 
 .html
@@ -582,19 +582,24 @@
 #u37225
 {
 	z-index: 70;
-	height: 18px;
-	width: 217px;
-	vertical-align: top;
 	position: relative;
+	width: 217px;
 	margin-right: -10000px;
 	margin-top: 457px;
 	left: 44px;
-	background: url("../images/u37225.png") no-repeat 0px 0px;
 }
 
-#u37225:hover
+#u37225_states
 {
-	background: url("../images/u37225-r.png") no-repeat 0px 0px;
+	height: 18px;
+	width: 217px;
+	vertical-align: top;
+	background: url("../images/u37225_states.png") no-repeat 0px 0px;
+}
+
+#u37225:hover #u37225_states
+{
+	background: url("../images/u37225_states-r.png") no-repeat 0px 0px;
 }
 
 body

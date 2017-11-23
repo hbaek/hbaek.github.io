@@ -1,7 +1,7 @@
 .version.iris_water /* version checker */
 {
-	color: #000014;
-	background-color: #975A91;
+	color: #0000E2;
+	background-color: #F6ED48;
 }
 
 .html
@@ -358,51 +358,9 @@
 	left: 463px;
 }
 
-#u37243-5
-{
-	z-index: 40;
-	width: 217px;
-	min-height: 18px;
-	background-color: transparent;
-	font-size: 12px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 457px;
-	left: 44px;
-}
-
-#u37243
-{
-	font-weight: bold;
-}
-
-#u37243-2
-{
-	font-weight: normal;
-}
-
-#u37244
-{
-	z-index: 46;
-	height: 18px;
-	width: 217px;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 460px;
-	left: 44px;
-	background: url("../images/u37244.png") no-repeat 0px 0px;
-}
-
-#u37244:hover
-{
-	background: url("../images/u37244-r.png") no-repeat 0px 0px;
-}
-
 #slideshowu37249
 {
-	z-index: 48;
+	z-index: 40;
 	width: 0.01px;
 	height: 702px;
 	position: relative;
@@ -423,12 +381,12 @@
 
 #u37264popup
 {
-	z-index: 49;
+	z-index: 41;
 }
 
 #u37280
 {
-	z-index: 50;
+	z-index: 42;
 	width: 377px;
 	height: 346px;
 	border-style: none;
@@ -440,7 +398,7 @@
 
 #u37289
 {
-	z-index: 52;
+	z-index: 44;
 	width: 377px;
 	height: 346px;
 	border-style: none;
@@ -480,12 +438,12 @@
 
 #u37255popup
 {
-	z-index: 54;
+	z-index: 46;
 }
 
 #u37283
 {
-	z-index: 55;
+	z-index: 47;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -503,7 +461,7 @@
 
 #u37292
 {
-	z-index: 57;
+	z-index: 49;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -535,7 +493,7 @@
 
 #u37251-3popup
 {
-	z-index: 59;
+	z-index: 51;
 }
 
 #u37263-3
@@ -554,7 +512,7 @@
 
 #u37263-3popup
 {
-	z-index: 62;
+	z-index: 54;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -565,6 +523,53 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u37243-5
+{
+	z-index: 57;
+	width: 217px;
+	min-height: 18px;
+	background-color: transparent;
+	font-size: 12px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 457px;
+	left: 44px;
+}
+
+#u37243
+{
+	font-weight: bold;
+}
+
+#u37243-2
+{
+	font-weight: normal;
+}
+
+#u37244
+{
+	z-index: 63;
+	position: relative;
+	width: 217px;
+	margin-right: -10000px;
+	margin-top: 459px;
+	left: 43px;
+}
+
+#u37244_states
+{
+	height: 18px;
+	width: 217px;
+	vertical-align: top;
+	background: url("../images/u37244_states.png") no-repeat 0px 0px;
+}
+
+#u37244:hover #u37244_states
+{
+	background: url("../images/u37244_states-r.png") no-repeat 0px 0px;
 }
 
 #u37298-4

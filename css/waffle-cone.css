@@ -1,7 +1,7 @@
 .version.waffle_cone /* version checker */
 {
-	color: #0000EE;
-	background-color: #680ED4;
+	color: #00000D;
+	background-color: #E702E7;
 }
 
 .html
@@ -561,19 +561,24 @@
 #u37497
 {
 	z-index: 67;
+	position: relative;
+	width: 217px;
+	margin-right: -10000px;
+	margin-top: 456px;
+	left: 46px;
+}
+
+#u37497_states
+{
 	height: 18px;
 	width: 217px;
 	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 457px;
-	left: 46px;
-	background: url("../images/u37497.png") no-repeat 0px 0px;
+	background: url("../images/u37497_states.png") no-repeat 0px 0px;
 }
 
-#u37497:hover
+#u37497:hover #u37497_states
 {
-	background: url("../images/u37497-r.png") no-repeat 0px 0px;
+	background: url("../images/u37497_states-r.png") no-repeat 0px 0px;
 }
 
 body

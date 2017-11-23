@@ -1,7 +1,7 @@
 .version.green_spring_bonet /* version checker */
 {
-	color: #000014;
-	background-color: #645B6F;
+	color: #000015;
+	background-color: #23AC66;
 }
 
 .html
@@ -633,19 +633,24 @@
 #u37427
 {
 	z-index: 74;
-	height: 18px;
-	width: 217px;
-	vertical-align: top;
 	position: relative;
+	width: 217px;
 	margin-right: -10000px;
 	margin-top: 459px;
 	left: 44px;
-	background: url("../images/u37427.png") no-repeat 0px 0px;
 }
 
-#u37427:hover
+#u37427_states
 {
-	background: url("../images/u37427-r.png") no-repeat 0px 0px;
+	height: 18px;
+	width: 217px;
+	vertical-align: top;
+	background: url("../images/u37427_states.png") no-repeat 0px 0px;
+}
+
+#u37427:hover #u37427_states
+{
+	background: url("../images/u37427_states-r.png") no-repeat 0px 0px;
 }
 
 body

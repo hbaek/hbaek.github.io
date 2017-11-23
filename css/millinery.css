@@ -1,7 +1,7 @@
 .version.millinery /* version checker */
 {
-	color: #0000E2;
-	background-color: #C82344;
+	color: #000013;
+	background-color: #081296;
 }
 
 .html
@@ -204,7 +204,7 @@
 	border-color: #000000;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("../images/back-u37859-fr.jpg") no-repeat center center;
+	background: #7F7F7F url("../images/test-u37859-fr.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 

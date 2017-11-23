@@ -1,7 +1,7 @@
 .version.wild_forget_me_not /* version checker */
 {
-	color: #0000ED;
-	background-color: #F9BB36;
+	color: #0000FD;
+	background-color: #B71307;
 }
 
 .html
@@ -622,19 +622,24 @@
 #u37506
 {
 	z-index: 75;
+	position: relative;
+	width: 217px;
+	margin-right: -10000px;
+	margin-top: 458px;
+	left: 44px;
+}
+
+#u37506_states
+{
 	height: 18px;
 	width: 217px;
 	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 467px;
-	left: 44px;
-	background: url("../images/u37506.png") no-repeat 0px 0px;
+	background: url("../images/u37506_states.png") no-repeat 0px 0px;
 }
 
-#u37506:hover
+#u37506:hover #u37506_states
 {
-	background: url("../images/u37506-r.png") no-repeat 0px 0px;
+	background: url("../images/u37506_states-r.png") no-repeat 0px 0px;
 }
 
 body

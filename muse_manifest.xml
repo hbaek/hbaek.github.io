@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1511435892260" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1511437212914" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -56,24 +56,24 @@
   <folder name="css">
     <file name="site_global.css" crc="4019994187"/>
     <file name="index.css" crc="50472282" ref="index"/>
-    <file name="contact.css" crc="419982230" ref="contact"/>
+    <file name="contact.css" crc="368996059" ref="contact"/>
     <file name="fine-arts.css" crc="123571248" ref="fine-arts"/>
-    <file name="white-straw-and-black-crosses.css" crc="3794011002" ref="white-straw-and-black-crosses"/>
-    <file name="winzlear-gear.css" crc="205388315" ref="winzlear-gear"/>
-    <file name="millinery.css" crc="3804767044" ref="millinery"/>
-    <file name="wild-forget-me-not.css" crc="3992566582" ref="wild-forget-me-not"/>
+    <file name="white-straw-and-black-crosses.css" crc="4244838134" ref="white-straw-and-black-crosses"/>
+    <file name="winzlear-gear.css" crc="4057269899" ref="winzlear-gear"/>
+    <file name="millinery.css" crc="319296150" ref="millinery"/>
+    <file name="wild-forget-me-not.css" crc="4256633607" ref="wild-forget-me-not"/>
     <file name="textile-01.css" crc="75307562" ref="textile-01"/>
-    <file name="satin-buttercup.css" crc="3972275577" ref="satin-buttercup"/>
-    <file name="green-spring-bonet.css" crc="342121327" ref="green-spring-bonet"/>
-    <file name="waffle-cone.css" crc="3999796948" ref="waffle-cone"/>
+    <file name="satin-buttercup.css" crc="309826538" ref="satin-buttercup"/>
+    <file name="green-spring-bonet.css" crc="354659430" ref="green-spring-bonet"/>
+    <file name="waffle-cone.css" crc="233243367" ref="waffle-cone"/>
     <file name="flowers.css" crc="338405779" ref="flowers"/>
-    <file name="iris-water.css" crc="345463441" ref="iris-water"/>
-    <file name="cn-night.css" crc="4259546282" ref="cn-night"/>
-    <file name="ballerina-rouge.css" crc="4230986997" ref="ballerina-rouge"/>
-    <file name="master_2017submenu.css" crc="29961047" ref="millinery:flowers:fine-arts:contact"/>
-    <file name="master_page.css" crc="4055883858" ref="iris-water:cn-night:shade-of-hue:textile-01:winzlear-gear:wild-forget-me-not:green-spring-bonet:ballerina-rouge:satin-buttercup:waffle-cone:white-straw-and-black-crosses"/>
+    <file name="iris-water.css" crc="3807833416" ref="iris-water"/>
+    <file name="cn-night.css" crc="262090605" ref="cn-night"/>
+    <file name="ballerina-rouge.css" crc="4047669109" ref="ballerina-rouge"/>
+    <file name="master_2017submenu.css" crc="4257016939" ref="millinery:flowers:fine-arts:contact"/>
+    <file name="master_page.css" crc="4068722930" ref="iris-water:cn-night:shade-of-hue:textile-01:winzlear-gear:wild-forget-me-not:green-spring-bonet:ballerina-rouge:satin-buttercup:waffle-cone:white-straw-and-black-crosses"/>
     <file name="master_2017master.css" crc="112831487" ref="index"/>
-    <file name="shade-of-hue.css" crc="102484188" ref="shade-of-hue"/>
+    <file name="shade-of-hue.css" crc="82611616" ref="shade-of-hue"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>contact:fine-arts:contact:index:tablet>index:tablet>contact:tablet>fine-arts:tablet>sonic-playground:tablet>under-the-willow-tree:tablet>how-do-i-love-thee:tablet>textile-0.1:tablet>textile-0.2:tablet>peanut-shell-study:tablet>water-color-0.1:tablet>millinery---floral:tablet>straw:tablet>felt:tablet>floral-corwn:tablet>carnation-crown:tablet>carnation-halo:tablet>ivory-and-green:tablet>leaves:tablet>side-band-rose:tablet>hemlock-angle:tablet>orange-and-white:tablet>bouquet:tablet>birthday-k:tablet>center-piece:tablet>fruit-punch:white-straw-and-black-crosses:winzlear-gear:millinery:wild-forget-me-not:textile-01:satin-buttercup:green-spring-bonet:waffle-cone:flowers:iris-water:phone>forget-me-not:phone>menufloral:phone>menufineart:phone>birthday-k:phone>birthday-s:phone>butter-satin:phone>for-mothers:phone>fruit-punch:phone>kale-celosia:phone>once-upon-a-time:phone>thriving-irist-bouquet:phone>valentine-2017:phone>white-mangolia:phone>double-band-floral:phone>three-band-rose:phone>boronia-spring:phone>burgendy-rose:phone>druid-crown:phone>for-yy_fern:phone>for-yy_rice:phone>for-yy_rose:phone>hemlock-angle:phone>iris-water:phone>ivory-and-green:phone>magnolia-leaf:phone>lovebird:phone>merry-go-round:phone>miller-wreath:phone>orange-and-white:phone>carnation-band:phone>sideband-rose:phone>cn-night:phone>menucrown:phone>menufabric:phone>menustraw:phone>menumillinery:phone>shadeofhue:phone>cherry-bling:phone>winzlear-gear:phone>green-spring-bonnet:phone>ribbon-beret:phone>mainmenu:cn-night:phone>coral--alabaster:ballerina-rouge:phone>ballerian-rouge-:phone>ballerian-rouge-.-2:shade-of-hue"/>
@@ -265,13 +265,8 @@
     <file name="blank.jpg" crc="455817001" seo="true" ref="white-straw-and-black-crosses:winzlear-gear:textile-01:wild-forget-me-not:green-spring-bonet:satin-buttercup:waffle-cone:iris-water:cn-night:ballerina-rouge:shade-of-hue"/>
     <file name="21-crop-u36690.jpg" crc="304688463" ref="white-straw-and-black-crosses"/>
     <file name="21275x360.jpg" crc="46665341" seo="true" ref="white-straw-and-black-crosses"/>
-    <file name="u37225.png" crc="4054899600" ref="white-straw-and-black-crosses"/>
-    <file name="u37225-r.png" crc="4054899600" ref="white-straw-and-black-crosses"/>
     <file name="5-crop-u38071.jpg" crc="383975048" ref="winzlear-gear"/>
     <file name="5275x360.jpg" crc="244961445" seo="true" ref="winzlear-gear"/>
-    <file name="u37223.png" crc="132604047" ref="winzlear-gear"/>
-    <file name="u37223-r.png" crc="132604047" ref="winzlear-gear"/>
-    <file name="back-u37859-fr.jpg" crc="4122751460" ref="millinery"/>
     <file name="u37860-5.png" crc="356399328" ref="millinery"/>
     <file name="u37864-31.png" crc="3965405232" ref="millinery"/>
     <file name="u37921.png" crc="4000176171" ref="textile-01"/>
@@ -292,8 +287,6 @@
     <file name="asdf1252x360.jpg" crc="4024018683" seo="true" ref="wild-forget-me-not"/>
     <file name="5275x3602.jpg" crc="4279937671" seo="true" ref="wild-forget-me-not"/>
     <file name="6275x360.jpg" crc="239574873" seo="true" ref="wild-forget-me-not"/>
-    <file name="u37506.png" crc="132604047" ref="wild-forget-me-not"/>
-    <file name="u37506-r.png" crc="132604047" ref="wild-forget-me-not"/>
     <file name="dsc03467-crop-u37356.jpg" crc="3771738010" ref="green-spring-bonet"/>
     <file name="dsc03470-crop-u37365.jpg" crc="3836280177" ref="green-spring-bonet"/>
     <file name="dsc03471-crop-u37374.jpg" crc="184489718" ref="green-spring-bonet"/>
@@ -301,22 +294,14 @@
     <file name="dsc03467.jpg" crc="3881837761" seo="true" ref="green-spring-bonet"/>
     <file name="dsc03470.jpg" crc="3893002914" seo="true" ref="green-spring-bonet"/>
     <file name="dsc03471287x360.jpg" crc="516876950" seo="true" ref="green-spring-bonet"/>
-    <file name="u37427.png" crc="412097411" ref="green-spring-bonet"/>
-    <file name="u37427-r.png" crc="412097411" ref="green-spring-bonet"/>
     <file name="closeup1-crop-u37789.jpg" crc="317133345" ref="satin-buttercup"/>
     <file name="closeup1.jpg" crc="227495754" seo="true" ref="satin-buttercup"/>
-    <file name="u37744.png" crc="353492379" ref="satin-buttercup"/>
-    <file name="u37744-r.png" crc="353492379" ref="satin-buttercup"/>
     <file name="dsc03621-crop-u37471.jpg" crc="3815063791" ref="waffle-cone"/>
     <file name="dsc03644-crop-u37480.jpg" crc="4019459767" ref="waffle-cone"/>
     <file name="dsc03621360x360.jpg" crc="495479620" seo="true" ref="waffle-cone"/>
-    <file name="u37497.png" crc="3984548063" ref="waffle-cone"/>
-    <file name="u37497-r.png" crc="3984548063" ref="waffle-cone"/>
     <file name="1wb-u37973-fr.jpg" crc="3951519041" ref="flowers"/>
     <file name="u37974-5.png" crc="4281840872" ref="flowers"/>
     <file name="u37978-13.png" crc="311016761" ref="flowers"/>
-    <file name="u37244.png" crc="3887775945" ref="iris-water"/>
-    <file name="u37244-r.png" crc="3887775945" ref="iris-water"/>
     <file name="dsasdfasdfc03854-crop-u37280.jpg" crc="310373364" ref="iris-water"/>
     <file name="dsc03sdfsdf870-crop-u37289.jpg" crc="1503055" ref="iris-water"/>
     <file name="dsasdfasdfc03854258x360.jpg" crc="3894946605" seo="true" ref="iris-water"/>
@@ -328,8 +313,6 @@
     <file name="1478607182564480x316.jpg" crc="255283568" seo="true" ref="cn-night"/>
     <file name="1478607163813.jpg" crc="4131371885" seo="true" ref="cn-night"/>
     <file name="1478607144049240x360.jpg" crc="360476840" seo="true" ref="cn-night"/>
-    <file name="u37232.png" crc="4270171702" ref="cn-night"/>
-    <file name="u37232-r.png" crc="4270171702" ref="cn-night"/>
     <file name="2wb-crop-u37670.jpg" crc="3801218461" ref="ballerina-rouge"/>
     <file name="6wb-crop-u37679.jpg" crc="167043237" ref="ballerina-rouge"/>
     <file name="7wb-crop-u37688.jpg" crc="362801839" ref="ballerina-rouge"/>
@@ -338,8 +321,6 @@
     <file name="6wb360x360.jpg" crc="296198361" seo="true" ref="ballerina-rouge"/>
     <file name="7wb360x360.jpg" crc="94026469" seo="true" ref="ballerina-rouge"/>
     <file name="8wb360x360.jpg" crc="246125927" seo="true" ref="ballerina-rouge"/>
-    <file name="u37708.png" crc="4099721659" ref="ballerina-rouge"/>
-    <file name="u37708-r.png" crc="4099721659" ref="ballerina-rouge"/>
     <file name="1-crop-u36987.jpg" crc="87606294" ref="shade-of-hue"/>
     <file name="2-crop-u36996.jpg" crc="153099642" ref="shade-of-hue"/>
     <file name="test-crop-u37005.jpg" crc="412667936" ref="shade-of-hue"/>
@@ -350,8 +331,26 @@
     <file name="u37964-14.png" crc="3955805680" ref="index"/>
     <file name="u38093-13.png" crc="340607048" ref="contact"/>
     <file name="u38094-6.png" crc="3993843542" ref="contact"/>
-    <file name="u38095-6.png" crc="279187932" ref="contact"/>
-    <file name="u38096-6.png" crc="3900729367" ref="contact"/>
+    <file name="u38095-6.png" crc="265910117" ref="contact"/>
+    <file name="u38096-6.png" crc="222832787" ref="contact"/>
+    <file name="u37225_states.png" crc="4054899600" ref="white-straw-and-black-crosses"/>
+    <file name="u37225_states-r.png" crc="4054899600" ref="white-straw-and-black-crosses"/>
+    <file name="u37223_states.png" crc="132604047" ref="winzlear-gear"/>
+    <file name="u37223_states-r.png" crc="132604047" ref="winzlear-gear"/>
+    <file name="test-u37859-fr.jpg" crc="4162852936" ref="millinery"/>
+    <file name="u37506_states.png" crc="132604047" ref="wild-forget-me-not"/>
+    <file name="u37506_states-r.png" crc="132604047" ref="wild-forget-me-not"/>
+    <file name="u37427_states.png" crc="412097411" ref="green-spring-bonet"/>
+    <file name="u37427_states-r.png" crc="412097411" ref="green-spring-bonet"/>
+    <file name="u37744_states.png" crc="353492379" ref="satin-buttercup"/>
+    <file name="u37744_states-r.png" crc="353492379" ref="satin-buttercup"/>
+    <file name="u37497_states.png" crc="3984548063" ref="waffle-cone"/>
+    <file name="u37497_states-r.png" crc="3984548063" ref="waffle-cone"/>
+    <file name="u37244_states.png" crc="3887775945" ref="iris-water"/>
+    <file name="u37244_states-r.png" crc="3887775945" ref="iris-water"/>
+    <file name="u37232-5-a.png" crc="4270171702" ref="cn-night"/>
+    <file name="u37708_states.png" crc="4099721659" ref="ballerina-rouge"/>
+    <file name="u37708_states-r.png" crc="4099721659" ref="ballerina-rouge"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -453,20 +452,20 @@
     <file name="ballerian-rouge-.html" crc="3852224027" seo="true" mt="1489605654621" redirect="true"/>
     <file name="ballerian-rouge-.-2.html" crc="4195591748" seo="true" mt="1489605797076" redirect="true"/>
   </folder>
-  <file name="fine-arts.html" crc="414795501" mt="1511432323618" redirect="true" seo="true"/>
-  <file name="contact.html" crc="77522494" mt="1511433061876" redirect="true" seo="true"/>
+  <file name="fine-arts.html" crc="4205024574" mt="1511436387899" redirect="true" seo="true"/>
+  <file name="contact.html" crc="4131362277" mt="1511436387899" redirect="true" seo="true"/>
   <file name="index.html" crc="3987478198" mt="1511432323977" redirect="true" seo="true"/>
-  <file name="white-straw-and-black-crosses.html" crc="464997069" mt="1511432323689" redirect="true" seo="true"/>
-  <file name="winzlear-gear.html" crc="484687817" mt="1511432323689" redirect="true" seo="true"/>
-  <file name="millinery.html" crc="3989220324" mt="1511432323618" redirect="true" seo="true"/>
-  <file name="wild-forget-me-not.html" crc="3811409340" mt="1511432323689" redirect="true" seo="true"/>
-  <file name="textile-01.html" crc="3890561860" mt="1511432323689" redirect="true" seo="true"/>
-  <file name="satin-buttercup.html" crc="74502222" mt="1511432323689" redirect="true" seo="true"/>
-  <file name="green-spring-bonet.html" crc="414843739" mt="1511432323689" redirect="true" seo="true"/>
-  <file name="waffle-cone.html" crc="187424739" mt="1511432323689" redirect="true" seo="true"/>
-  <file name="flowers.html" crc="4049100896" mt="1511432323618" redirect="true" seo="true"/>
-  <file name="iris-water.html" crc="3907850927" mt="1511432323689" redirect="true" seo="true"/>
-  <file name="cn-night.html" crc="42853229" seo="true" mt="1511432323689" redirect="true"/>
-  <file name="ballerina-rouge.html" crc="4123399078" seo="true" mt="1511432323689" redirect="true"/>
-  <file name="shade-of-hue.html" crc="3849652832" seo="true" mt="1511432323689" redirect="true"/>
+  <file name="white-straw-and-black-crosses.html" crc="3921208022" mt="1511436672099" redirect="true" seo="true"/>
+  <file name="winzlear-gear.html" crc="496029630" mt="1511436639772" redirect="true" seo="true"/>
+  <file name="millinery.html" crc="506971002" mt="1511437166528" redirect="true" seo="true"/>
+  <file name="wild-forget-me-not.html" crc="522636489" mt="1511436889166" redirect="true" seo="true"/>
+  <file name="textile-01.html" crc="100326008" mt="1511436550179" redirect="true" seo="true"/>
+  <file name="satin-buttercup.html" crc="155506946" mt="1511436963887" redirect="true" seo="true"/>
+  <file name="green-spring-bonet.html" crc="172972799" mt="1511436714567" redirect="true" seo="true"/>
+  <file name="waffle-cone.html" crc="4278730055" mt="1511436737635" redirect="true" seo="true"/>
+  <file name="flowers.html" crc="333253" mt="1511437025849" redirect="true" seo="true"/>
+  <file name="iris-water.html" crc="4289074411" mt="1511436860247" redirect="true" seo="true"/>
+  <file name="cn-night.html" crc="237505079" seo="true" mt="1511436766630" redirect="true"/>
+  <file name="ballerina-rouge.html" crc="4294391130" seo="true" mt="1511436989940" redirect="true"/>
+  <file name="shade-of-hue.html" crc="4251148785" seo="true" mt="1511436585449" redirect="true"/>
 </manifest>

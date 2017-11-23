@@ -1,7 +1,7 @@
 .version.cn_night /* version checker */
 {
-	color: #0000FD;
-	background-color: #E384AA;
+	color: #00000F;
+	background-color: #9F2F6D;
 }
 
 .html
@@ -641,27 +641,25 @@
 	font-weight: normal;
 }
 
-#u37232
+#u37232-5
 {
-	z-index: 75;
-	height: 18px;
-	width: 217px;
-	vertical-align: top;
+	z-index: 74;
 	position: relative;
+	width: 217px;
 	margin-right: -10000px;
 	margin-top: 456px;
 	left: 44px;
-	background: url("../images/u37232.png") no-repeat 0px 0px;
 }
 
-#u37232:hover
+#u37232-5_img
 {
-	background: url("../images/u37232-r.png") no-repeat 0px 0px;
+	display: block;
+	vertical-align: top;
 }
 
 #u37233
 {
-	z-index: 77;
+	z-index: 79;
 	width: 69px;
 	height: 11px;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.winzlear_gear /* version checker */
 {
-	color: #00000C;
-	background-color: #3DFA1B;
+	color: #0000F1;
+	background-color: #D5068B;
 }
 
 .html
@@ -607,19 +607,24 @@
 #u37223
 {
 	z-index: 70;
-	height: 18px;
-	width: 217px;
-	vertical-align: top;
 	position: relative;
+	width: 217px;
 	margin-right: -10000px;
 	margin-top: 457px;
 	left: 45px;
-	background: url("../images/u37223.png") no-repeat 0px 0px;
 }
 
-#u37223:hover
+#u37223_states
 {
-	background: url("../images/u37223-r.png") no-repeat 0px 0px;
+	height: 18px;
+	width: 217px;
+	vertical-align: top;
+	background: url("../images/u37223_states.png") no-repeat 0px 0px;
+}
+
+#u37223:hover #u37223_states
+{
+	background: url("../images/u37223_states-r.png") no-repeat 0px 0px;
 }
 
 body

@@ -1,7 +1,7 @@
 .version.satin_buttercup /* version checker */
 {
-	color: #0000EC;
-	background-color: #C41D79;
+	color: #000012;
+	background-color: #7793EA;
 }
 
 .html
@@ -634,19 +634,24 @@
 #u37744
 {
 	z-index: 70;
+	position: relative;
+	width: 217px;
+	margin-right: -10000px;
+	margin-top: 452px;
+	left: 39px;
+}
+
+#u37744_states
+{
 	height: 18px;
 	width: 217px;
 	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 453px;
-	left: 39px;
-	background: url("../images/u37744.png") no-repeat 0px 0px;
+	background: url("../images/u37744_states.png") no-repeat 0px 0px;
 }
 
-#u37744:hover
+#u37744:hover #u37744_states
 {
-	background: url("../images/u37744-r.png") no-repeat 0px 0px;
+	background: url("../images/u37744_states-r.png") no-repeat 0px 0px;
 }
 
 #u37811-5

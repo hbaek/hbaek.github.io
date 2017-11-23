@@ -1,7 +1,7 @@
 .version.ballerina_rouge /* version checker */
 {
-	color: #0000FC;
-	background-color: #2FBCF5;
+	color: #0000F1;
+	background-color: #428775;
 }
 
 .html
@@ -626,19 +626,24 @@
 #u37708
 {
 	z-index: 75;
+	position: relative;
+	width: 217px;
+	margin-right: -10000px;
+	margin-top: 460px;
+	left: 35px;
+}
+
+#u37708_states
+{
 	height: 18px;
 	width: 217px;
 	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 461px;
-	left: 35px;
-	background: url("../images/u37708.png") no-repeat 0px 0px;
+	background: url("../images/u37708_states.png") no-repeat 0px 0px;
 }
 
-#u37708:hover
+#u37708:hover #u37708_states
 {
-	background: url("../images/u37708-r.png") no-repeat 0px 0px;
+	background: url("../images/u37708_states-r.png") no-repeat 0px 0px;
 }
 
 body
