@@ -1,7 +1,7 @@
 .version.three_band_rose /* version checker */
 {
-	color: #0000E4;
-	background-color: #3A8661;
+	color: #0000F2;
+	background-color: #851629;
 }
 
 @-ms-viewport
@@ -38,24 +38,106 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 305px;
+	min-height: 392px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 243px;
+	padding-bottom: 156px;
 }
 
 #slideshowu30796
 {
 	z-index: 3;
 	width: 0.01px;
-	height: 157px;
+	height: 371px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 21px;
 	left: -233px;
+}
+
+#u30806
+{
+	position: absolute;
+	width: 111px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 18px;
+	top: 132px;
+	left: 233px;
+}
+
+#u30806popup
+{
+	z-index: 4;
+}
+
+#u30882
+{
+	z-index: 5;
+	width: 111px;
+	height: 73px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u30882.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	width: 111px;
+	height: 73px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u38023
+{
+	z-index: 7;
+	width: 111px;
+	height: 73px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 74px;
+}
+
+#u38023.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	width: 111px;
+	height: 73px;
+	min-height: 0px;
+	margin: 74px -10000px 0px 0px;
+}
+
+#u30900
+{
+	z-index: 9;
+	width: 111px;
+	height: 73px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 148px;
+}
+
+#u30900.SSSlideLinkSelected
+{
+	border-style: none;
+	border-color: transparent;
+	width: 111px;
+	height: 73px;
+	min-height: 0px;
+	margin: 148px -10000px 0px 0px;
 }
 
 #u30797
@@ -66,20 +148,20 @@
 
 #u30797popup
 {
-	z-index: 4;
+	z-index: 11;
 }
 
-#u30804
+#u30879
 {
-	z-index: 5;
+	z-index: 12;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 }
 
-#u30879
+#u38020
 {
-	z-index: 7;
+	z-index: 14;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -87,7 +169,7 @@
 
 #u30897
 {
-	z-index: 9;
+	z-index: 16;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -103,14 +185,14 @@
 
 #u30819popup
 {
-	z-index: 11;
+	z-index: 18;
 }
 
-#u30822-4
+#u30885-4
 {
-	z-index: 12;
+	z-index: 19;
 	width: 149px;
-	min-height: 17px;
+	min-height: 34px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
@@ -125,11 +207,11 @@
 	position: relative;
 }
 
-#u30885-4
+#u38026-4
 {
-	z-index: 16;
+	z-index: 23;
 	width: 149px;
-	min-height: 17px;
+	min-height: 34px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
@@ -146,9 +228,9 @@
 
 #u30903-4
 {
-	z-index: 20;
+	z-index: 27;
 	width: 149px;
-	min-height: 17px;
+	min-height: 34px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
@@ -163,7 +245,7 @@
 	position: relative;
 }
 
-#u30822-4:hover,#u30885-4:hover,#u30903-4:hover
+#u30885-4:hover,#u38026-4:hover,#u30903-4:hover
 {
 	background-color: #FFFFFF;
 	opacity: 0;
@@ -171,7 +253,7 @@
 	filter: alpha(opacity=0);
 	padding-top: 15px;
 	padding-bottom: 15px;
-	min-height: 17px;
+	min-height: 34px;
 	width: 149px;
 	margin: 0px -10000px 0px 0px;
 }
@@ -193,7 +275,7 @@
 
 #u30825-4popup
 {
-	z-index: 24;
+	z-index: 31;
 }
 
 #u30825
@@ -220,7 +302,7 @@
 
 #u30824-4popup
 {
-	z-index: 28;
+	z-index: 35;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */

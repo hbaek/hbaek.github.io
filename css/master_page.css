@@ -1,0 +1,168 @@
+#u36275,#u36278
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u36278:hover
+{
+	background-color: #999999;
+}
+
+#u36278:active
+{
+	background-color: #6B6B6B;
+}
+
+#u36279-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	font-size: 10px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u36268,#u36271
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u36278.MuseMenuActive,#u36271:hover
+{
+	background-color: #999999;
+}
+
+#u36271:active
+{
+	background-color: #6B6B6B;
+}
+
+#u36271.MuseMenuActive
+{
+	background-color: #999999;
+}
+
+#u36273-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	font-size: 10px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u36263
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u36284-3
+{
+	background-color: transparent;
+	font-size: 12px;
+	text-align: left;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+}
+
+#u36294-4
+{
+	background-color: transparent;
+	font-size: 12px;
+	text-align: justify;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+}
+
+#u36623
+{
+	position: relative;
+	background: transparent url("../images/if_popular_social_media-09_2329262.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u36615
+{
+	position: relative;
+	background: transparent url("../images/if_popular_social_media-29_2329244.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u36622
+{
+	position: relative;
+	background: transparent url("../images/if_popular_social_media-05_2329235.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u36608,#slideshowu36434
+{
+	position: relative;
+}
+
+#u36442
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#menuu36267,#u36706
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u36450
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #191919;
+	background-color: rgba(0,0,0,0.9);
+	-pie-background: rgba(0,0,0,0.9);
+}
+
+#u36703
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u36436-3,#u36457-3
+{
+	position: absolute;
+	background-color: transparent;
+	line-height: 1.4;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+.MenuItem,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+

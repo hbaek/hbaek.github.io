@@ -1,7 +1,7 @@
 .version.menufabric /* version checker */
 {
-	color: #0000EF;
-	background-color: #28FC6A;
+	color: #000000;
+	background-color: #08CCF0;
 }
 
 @-ms-viewport
@@ -140,14 +140,10 @@
 #u33383-4
 {
 	z-index: 34;
-	margin-top: 24px;
-	position: relative;
-}
-
-#u33383-4_img
-{
 	display: block;
 	vertical-align: top;
+	margin-top: 24px;
+	position: relative;
 }
 
 #u33388-4
