@@ -1,7 +1,7 @@
 .version.white_straw_and_black_crosses /* version checker */
 {
-	color: #0000FD;
-	background-color: #0316F6;
+	color: #0000EA;
+	background-color: #FF64A8;
 }
 
 .html
@@ -13,71 +13,72 @@
 {
 	z-index: 1;
 	width: 953px;
-	min-height: 1000px;
+	min-height: 743.7px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-bottom: -219px;
+	margin-bottom: -249px;
 	padding-top: 24px;
 	width: 0.01px;
 }
 
-#pmenuu36267
+#pmenuu38121
 {
 	width: 0.01px;
 	margin-left: 58px;
 }
 
-#menuu36267
+#menuu38121
 {
 	z-index: 6;
 	width: 105px;
 	margin-right: -10000px;
 }
 
-#u36275
+#u38129
 {
 	width: 51px;
 	min-height: 34px;
 	margin-right: -10000px;
 }
 
-#u36278
+#u38132
 {
 	width: 51px;
 	padding-bottom: 22px;
 }
 
-#u36278:hover
+#u38132:hover
 {
 	width: 51px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u36278:active
+#u38132:active
 {
 	width: 51px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u36278.MuseMenuActive
+#u38132.MuseMenuActive
 {
 	width: 51px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u36279-4
+#u38135-4
 {
 	width: 51px;
 	min-height: 12px;
@@ -85,7 +86,7 @@
 	top: 11px;
 }
 
-#u36278:hover #u36279-4
+#u38132:hover #u38135-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -94,7 +95,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u36278:active #u36279-4
+#u38132:active #u38135-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -103,7 +104,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u36278.MuseMenuActive #u36279-4
+#u38132.MuseMenuActive #u38135-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -112,7 +113,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u36268
+#u38122
 {
 	width: 52px;
 	min-height: 34px;
@@ -120,34 +121,34 @@
 	left: 53px;
 }
 
-#u36271
+#u38125
 {
 	width: 52px;
 	padding-bottom: 22px;
 }
 
-#u36271:hover
+#u38125:hover
 {
 	width: 52px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u36271:active
+#u38125:active
 {
 	width: 52px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u36271.MuseMenuActive
+#u38125.MuseMenuActive
 {
 	width: 52px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u36273-4
+#u38126-4
 {
 	width: 52px;
 	min-height: 12px;
@@ -155,7 +156,7 @@
 	top: 11px;
 }
 
-#u36271:hover #u36273-4
+#u38125:hover #u38126-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -164,7 +165,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u36271:active #u36273-4
+#u38125:active #u38126-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -173,7 +174,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u36271.MuseMenuActive #u36273-4
+#u38125.MuseMenuActive #u38126-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -182,7 +183,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u36608
+#u38158
 {
 	z-index: 19;
 	width: 53px;
@@ -190,7 +191,7 @@
 	margin-right: -10000px;
 }
 
-.ie #u36608
+.ie #u38158
 {
 	background-color: #FFFFFF;
 	opacity: 0.01;
@@ -198,180 +199,49 @@
 	filter: alpha(opacity=1);
 }
 
-#pu36263
+#pu38136
 {
 	width: 0.01px;
-	padding-bottom: 276px;
+	padding-bottom: 249px;
 	margin-left: 58px;
 }
 
-#u36263
+#u38136
 {
 	z-index: 2;
-	width: 836px;
+	width: 493px;
 	margin-right: -10000px;
+	padding: 310px 301px 61.34999999999991px 42px;
 }
 
-#pu36284-3
+#u36635-3
 {
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 450px;
-	margin-left: 42px;
+	z-index: 25;
+	width: 5px;
+	background-color: transparent;
+	margin-left: 117px;
+	position: relative;
 }
 
-#u36284-3
+#u38157-3
 {
 	z-index: 3;
 	width: 217px;
 	min-height: 17px;
+	margin-top: 123px;
 }
 
-#u36294-4
+#u38137-4
 {
-	z-index: 23;
+	z-index: 20;
 	width: 493px;
 	min-height: 69px;
 	margin-top: 31px;
 }
 
-#u36623
-{
-	z-index: 22;
-	width: 51px;
-	height: 50px;
-	margin-right: -10000px;
-	margin-top: 833px;
-	left: 684px;
-}
-
-#u36615
-{
-	z-index: 20;
-	width: 51px;
-	height: 50px;
-	margin-right: -10000px;
-	margin-top: 833px;
-	left: 785px;
-}
-
-#u36622
-{
-	z-index: 21;
-	width: 51px;
-	height: 50px;
-	margin-right: -10000px;
-	margin-top: 834px;
-	left: 736px;
-}
-
-#slideshowu36434
-{
-	z-index: 27;
-	width: 0.01px;
-	height: 702px;
-	margin-right: -10000px;
-	margin-top: 41px;
-	left: 26px;
-}
-
-#u36442popup
-{
-	z-index: 28;
-}
-
-#u36442
-{
-	width: 765px;
-	padding-bottom: 356px;
-}
-
-#u36706
-{
-	z-index: 29;
-	width: 247px;
-	height: 346px;
-	margin-right: -10000px;
-	left: 259px;
-}
-
-#u36706:hover
-{
-	width: 247px;
-	height: 346px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u36450popup
-{
-	z-index: 31;
-}
-
-#u36450
-{
-	width: 524px;
-	height: 422px;
-	top: 697px;
-	left: 63px;
-}
-
-#u36703
-{
-	z-index: 32;
-	width: 480px;
-	height: 360px;
-	margin-right: -10000px;
-	top: 22px;
-	left: 22px;
-}
-
-#u36703_img
-{
-	padding-top: 45px;
-	padding-bottom: 45px;
-}
-
-#u36436-3popup
-{
-	z-index: 34;
-}
-
-#u36436-3
-{
-	width: 123px;
-	min-height: 422px;
-	top: 698px;
-	left: 64px;
-}
-
-#u36457-3popup
-{
-	z-index: 37;
-}
-
-#u36457-3
-{
-	width: 125px;
-	min-height: 422px;
-	top: 698px;
-	left: 463px;
-}
-
-#u36635-3
-{
-	z-index: 40;
-	width: 5px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 311px;
-	left: 160px;
-}
-
 #slideshowu36636
 {
-	z-index: 43;
+	z-index: 28;
 	width: 0.01px;
 	height: 702px;
 	position: relative;
@@ -392,12 +262,12 @@
 
 #u36651popup
 {
-	z-index: 44;
+	z-index: 29;
 }
 
 #u36681
 {
-	z-index: 45;
+	z-index: 30;
 	width: 361px;
 	height: 346px;
 	border-style: none;
@@ -423,7 +293,7 @@
 
 #u36690
 {
-	z-index: 47;
+	z-index: 32;
 	width: 361px;
 	height: 346px;
 	border-style: none;
@@ -458,12 +328,12 @@
 
 #u36639popup
 {
-	z-index: 49;
+	z-index: 34;
 }
 
 #u36678
 {
-	z-index: 50;
+	z-index: 35;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -475,7 +345,7 @@
 
 #u36687
 {
-	z-index: 52;
+	z-index: 37;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -507,7 +377,7 @@
 
 #u36638-3popup
 {
-	z-index: 54;
+	z-index: 39;
 }
 
 #u36637-3
@@ -526,7 +396,7 @@
 
 #u36637-3popup
 {
-	z-index: 57;
+	z-index: 42;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -541,7 +411,7 @@
 
 #u36752-4
 {
-	z-index: 60;
+	z-index: 45;
 	width: 491px;
 	min-height: 68px;
 	background-color: transparent;
@@ -562,7 +432,7 @@
 
 #u37224-5
 {
-	z-index: 64;
+	z-index: 49;
 	width: 217px;
 	min-height: 18px;
 	background-color: transparent;
@@ -581,7 +451,7 @@
 
 #u37225
 {
-	z-index: 70;
+	z-index: 55;
 	position: relative;
 	width: 217px;
 	margin-right: -10000px;
@@ -600,6 +470,16 @@
 #u37225:hover #u37225_states
 {
 	background: url("../images/u37225_states-r.png") no-repeat 0px 0px;
+}
+
+#u38201
+{
+	z-index: 24;
+	width: 51px;
+	height: 50px;
+	margin-left: 799px;
+	top: -357px;
+	margin-bottom: -50px;
 }
 
 body

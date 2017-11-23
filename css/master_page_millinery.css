@@ -1,0 +1,115 @@
+#menuu38121
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u38129,#u38132
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u38132:hover
+{
+	background-color: #999999;
+}
+
+#u38132:active
+{
+	background-color: #6B6B6B;
+}
+
+#u38135-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	font-size: 10px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u38122,#u38125
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u38125:hover
+{
+	background-color: #999999;
+}
+
+#u38125:active
+{
+	background-color: #6B6B6B;
+}
+
+#u38132.MuseMenuActive,#u38125.MuseMenuActive
+{
+	background-color: transparent;
+}
+
+#u38126-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	font-size: 10px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u38158
+{
+	position: relative;
+}
+
+#u38136
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u38157-3
+{
+	background-color: transparent;
+	font-size: 12px;
+	text-align: left;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+}
+
+#u38137-4
+{
+	background-color: transparent;
+	font-size: 12px;
+	text-align: justify;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+}
+
+#u38201
+{
+	position: relative;
+	background: transparent url("../images/if_popular_social_media-09_2329262.png") no-repeat left top;
+	background-size: contain;
+}
+
