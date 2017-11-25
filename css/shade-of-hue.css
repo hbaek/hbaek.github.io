@@ -1,7 +1,7 @@
 .version.shade_of_hue /* version checker */
 {
-	color: #000015;
-	background-color: #6F5529;
+	color: #00000A;
+	background-color: #670876;
 }
 
 .html
@@ -411,9 +411,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
+	text-align: center;
 	line-height: 1.4;
 	color: #FFFFFF;
-	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 5px;
 	left: 795px;
@@ -430,9 +430,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
+	text-align: center;
 	line-height: 1.4;
 	color: #FFFFFF;
-	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 5px;
 	left: 1194px;
