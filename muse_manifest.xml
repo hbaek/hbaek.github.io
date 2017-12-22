@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1513952282502" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1513952496783" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -415,7 +415,6 @@
     <file name="u39025_states-r.png" crc="159451267" ref="phone>floralccrown2"/>
     <file name="u39013_states-r.png" crc="159451267" ref="phone>floralccrown2"/>
     <file name="u39016_states-r.png" crc="159451267" ref="phone>floralccrown2"/>
-    <file name="u33863-r.png" crc="4014362018" ref="phone>menumillinery"/>
     <file name="u39045-6.png" crc="214539788" ref="phone>strawmenu"/>
     <file name="u39057-6.png" crc="3867030765" ref="phone>strawmenu"/>
     <file name="u39052-6.png" crc="4048649827" ref="phone>strawmenu"/>
@@ -435,12 +434,13 @@
     <file name="dsc03621.jpg" crc="127288982" seo="true" ref="phone>icecreamcone"/>
     <file name="dsc03626.jpg" crc="198311803" seo="true" ref="phone>icecreamcone"/>
     <file name="dsc03643.jpg" crc="211413215" seo="true" ref="phone>icecreamcone"/>
+    <file name="u33863_states-r.png" crc="4014362018" ref="phone>menumillinery"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="388689978" ref="phone>contact"/>
       <file name="index.css" crc="3811733428" ref="phone>index"/>
-      <file name="master_main.css" crc="4185201085" ref="phone>index:phone>contact:phone>menufineart:phone>menufloral:phone>fruit-punch:phone>birthday-k:phone>mainmenu:phone>menumillinery:phone>floralccrown3:phone>floralccrown4:phone>floralccrown1:phone>floralccrown2:phone>fabricmenu:phone>strawmenu"/>
+      <file name="master_main.css" crc="3924094675" ref="phone>index:phone>contact:phone>menufineart:phone>menufloral:phone>fruit-punch:phone>birthday-k:phone>mainmenu:phone>menumillinery:phone>floralccrown3:phone>floralccrown4:phone>floralccrown1:phone>floralccrown2:phone>fabricmenu:phone>strawmenu"/>
       <file name="forget-me-not.css" crc="130051541" ref="phone>forget-me-not"/>
       <file name="menufineart.css" crc="467791902" ref="phone>menufineart"/>
       <file name="menufloral.css" crc="3827034560" ref="phone>menufloral"/>
@@ -478,7 +478,7 @@
       <file name="mainmenu.css" crc="303087204" ref="phone>mainmenu"/>
       <file name="cherry-bling.css" crc="3816517687" ref="phone>cherry-bling"/>
       <file name="shadeofhue.css" crc="3981510745" ref="phone>shadeofhue"/>
-      <file name="menumillinery.css" crc="4123995346" ref="phone>menumillinery"/>
+      <file name="menumillinery.css" crc="450933461" ref="phone>menumillinery"/>
       <file name="coral--alabaster.css" crc="236945701" ref="phone>coral--alabaster"/>
       <file name="master_slide.css" crc="3898959799" ref="phone>druid-crown:phone>for-yy_rice:phone>magnolia-leaf:phone>merry-go-round:phone>ivory-and-green:phone>cn-night:phone>burgendy-rose:phone>hemlock-angle:phone>for-yy_rose:phone>carnation-band:phone>for-yy_fern:phone>lovebird:phone>three-band-rose:phone>iris-water:phone>double-band-floral:phone>orange-and-white:phone>boronia-spring:phone>miller-wreath:phone>butter-satin:phone>for-mothers:phone>kale-celosia:phone>forget-me-not:phone>valentine-2017:phone>once-upon-a-time:phone>birthday-s:phone>thriving-irist-bouquet:phone>white-mangolia:phone>shadeofhue:phone>ribbon-beret:phone>winzlear-gear:phone>cherry-bling:phone>coral--alabaster:phone>green-spring-bonnet:phone>ballerian-rouge-:phone>ballerian-rouge-.-2:phone>dark-rose-band:phone>icecreamcone:phone>whitestrawblackcrosses"/>
       <file name="ballerian-rouge-.css" crc="4284658331" ref="phone>ballerian-rouge-"/>
@@ -526,7 +526,7 @@
     <file name="orange-and-white.html" crc="45664677" seo="true" mt="1511331160541" redirect="true"/>
     <file name="carnation-band.html" crc="484769011" seo="true" mt="1487676799650" redirect="true"/>
     <file name="cn-night.html" crc="318439308" seo="true" mt="1487676799650" redirect="true"/>
-    <file name="menumillinery.html" crc="4108543613" seo="true" mt="1513950947934" redirect="true"/>
+    <file name="menumillinery.html" crc="301831279" seo="true" mt="1513952447067" redirect="true"/>
     <file name="shadeofhue.html" crc="175101319" seo="true" mt="1487676799650" redirect="true"/>
     <file name="cherry-bling.html" crc="3899268117" seo="true" mt="1511330938145" redirect="true"/>
     <file name="winzlear-gear.html" crc="3975843128" seo="true" mt="1487676799650" redirect="true"/>

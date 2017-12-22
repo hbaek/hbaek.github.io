@@ -1,7 +1,7 @@
 .version.menumillinery /* version checker */
 {
-	color: #0000F5;
-	background-color: #CF2CD2;
+	color: #00001A;
+	background-color: #E0B2D5;
 }
 
 @-ms-viewport
@@ -187,18 +187,16 @@
 #u33863
 {
 	z-index: 53;
-	height: 48px;
-	width: 242px;
-	vertical-align: top;
 	position: relative;
+	width: 242px;
 	margin-right: -10000px;
 	margin-top: 43px;
 	left: 59px;
 }
 
-#u33863:hover
+#u33863:hover #u33863_states
 {
-	background: url("../../images/u33863-r.png") no-repeat 0px 0px;
+	background: url("../../images/u33863_states-r.png") no-repeat 0px 0px;
 }
 
 #u33864
@@ -226,7 +224,7 @@
 	left: 57px;
 }
 
-#u33864_states,#u33865_states
+#u33863_states,#u33864_states,#u33865_states
 {
 	height: 48px;
 	width: 242px;
