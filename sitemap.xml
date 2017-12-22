@@ -234,6 +234,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/21.jpg</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/110.jpg</loc>
     <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1002,6 +1008,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/dsc03621.jpg</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03626.jpg</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03643.jpg</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/phone/forget-me-not.html</loc>
     <lastmod>2017-02-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -1146,18 +1170,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/phone/menufabric.html</loc>
-    <lastmod>2017-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/phone/menustraw.html</loc>
-    <lastmod>2017-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/phone/menumillinery.html</loc>
     <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1237,6 +1249,30 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/floralccrown2.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/strawmenu.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/whitestrawblackcrosses.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/fabricmenu.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/icecreamcone.html</loc>
     <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
