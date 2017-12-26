@@ -138,12 +138,6 @@
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/fruit-punch.html"/>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/1.jpg</loc>
-    <lastmod>2017-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/2.jpg</loc>
     <lastmod>2017-12-26</lastmod>
     <changefreq>weekly</changefreq>

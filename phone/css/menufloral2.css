@@ -1,7 +1,7 @@
 .version.menufloral2 /* version checker */
 {
-	color: #000011;
-	background-color: #830415;
+	color: #00000D;
+	background-color: #25CA6F;
 }
 
 @-ms-viewport
@@ -96,38 +96,25 @@
 	bottom: 0px;
 }
 
-#pu40035-6
+#pu40016-6
 {
 	width: 0.01px;
 	padding-bottom: 21.40000000000009px;
 	position: relative;
 	left: 15px;
-	padding-top: 18px;
+	padding-top: 84px;
 	z-index: 2;
-}
-
-#u40035-6
-{
-	z-index: 82;
-	display: block;
-	vertical-align: top;
-	position: relative;
 }
 
 #u40016-6
 {
 	z-index: 52;
-	display: block;
-	vertical-align: top;
-	margin-top: 33px;
 	position: relative;
 }
 
 #u40021-6
 {
 	z-index: 40;
-	display: block;
-	vertical-align: top;
 	margin-top: 70px;
 	position: relative;
 }
@@ -135,16 +122,12 @@
 #u40015-6
 {
 	z-index: 58;
-	display: block;
-	vertical-align: top;
 	position: relative;
 }
 
 #u40020-6
 {
 	z-index: 46;
-	display: block;
-	vertical-align: top;
 	margin-top: 35px;
 	position: relative;
 }
@@ -152,8 +135,6 @@
 #u40029-6
 {
 	z-index: 70;
-	display: block;
-	vertical-align: top;
 	margin-top: 1px;
 	position: relative;
 }
@@ -221,28 +202,22 @@
 #u40014-6
 {
 	z-index: 64;
-	display: block;
-	vertical-align: top;
 	position: relative;
+	width: 242px;
 	margin-right: -10000px;
 	margin-top: 254px;
 	left: 56px;
 }
 
-#u40034-6
+#u40016-6_img,#u40021-6_img,#u40015-6_img,#u40020-6_img,#u40029-6_img,#u40014-6_img
 {
-	z-index: 76;
 	display: block;
 	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 51px;
-	left: 56px;
 }
 
 #u40036-4
 {
-	z-index: 88;
+	z-index: 76;
 	display: block;
 	vertical-align: top;
 	position: relative;

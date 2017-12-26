@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E3;
-	background-color: #326FB4;
+	color: #000004;
+	background-color: #E9FF34;
 }
 
 @-ms-viewport
@@ -99,52 +99,54 @@
 #pu34297
 {
 	width: 0.01px;
+	padding-bottom: 70.59999999999997px;
 	position: relative;
 	left: 27px;
-	padding-top: 36px;
+	padding-top: 84px;
 	z-index: 2;
-	padding-bottom: 36px;
 }
 
 #u34297
 {
 	z-index: 34;
 	width: 216px;
-	height: 315px;
+	height: 219px;
 	border-width: 1px;
 	border-style: solid;
-	border-color: #000000;
+	border-color: #586F5F;
 	position: relative;
-	background: transparent url("../../images/4wb-u34297-fr.jpg") no-repeat right top;
-	background-size: cover;
+	background: transparent url("../../images/1.jpg") no-repeat center center;
+	background-size: contain;
 }
 
-#u34302-4
+#u34302-6
 {
 	z-index: 35;
 	width: 216px;
-	min-height: 26px;
+	min-height: 53px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #B32E30;
 	background-color: transparent;
 	line-height: 2.39;
 	font-size: 11px;
 	text-align: center;
 	letter-spacing: 2px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-left: 1px;
-	margin-top: 36px;
+	margin-top: 20px;
 	position: relative;
 }
 
-#u34302-4:hover
+#u34302-6:hover
 {
 	opacity: 0.29;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=28.999999999999996)";
 	filter: alpha(opacity=28.999999999999996);
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 26px;
+	min-height: 53px;
 	width: 216px;
-	margin: 36px 0px 0px 1px;
+	margin: 20px 0px 0px;
 }
 
 #u29407-13
@@ -156,35 +158,16 @@
 	margin-top: 2px;
 }
 
-#u34303
-{
-	z-index: 39;
-	width: 270px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 2px;
-	left: 41px;
-}
-
-#u34303:hover
-{
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	width: 269px;
-	min-height: 0px;
-	margin: 2px -10001px -1px 0px;
-}
-
 #u34550
 {
-	z-index: 40;
+	z-index: 41;
 	width: 270px;
 	height: 449px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 2px;
+	left: 41px;
 }
 
 .ie #u34550
@@ -203,7 +186,7 @@
 	width: 269px;
 	height: 448px;
 	min-height: 0px;
-	margin: 0px -10001px -1px 0px;
+	margin: 2px -10001px -1px 0px;
 }
 
 .ie #u34550:hover
