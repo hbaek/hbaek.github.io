@@ -1,0 +1,286 @@
+.version.howdoikovethee /* version checker */
+{
+	color: #0000F6;
+	background-color: #713116;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 305px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 0px 0px 0px 10px ;
+	padding-bottom: 243px;
+}
+
+#slideshowu40388
+{
+	z-index: 3;
+	width: 0.01px;
+	height: 162px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: -233px;
+}
+
+#u40398
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u40398popup
+{
+	z-index: 4;
+}
+
+#u40399
+{
+	z-index: 5;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u40451
+{
+	z-index: 7;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u40469
+{
+	z-index: 9;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u40483
+{
+	z-index: 11;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u40405
+{
+	position: absolute;
+	width: 200px;
+	background-color: transparent;
+	left: 233px;
+}
+
+#u40405popup
+{
+	z-index: 13;
+}
+
+#u40406-4
+{
+	z-index: 14;
+	width: 170px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	line-height: 1.4;
+	color: #000000;
+	font-size: 12px;
+	text-align: left;
+	letter-spacing: 3px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u40457-4
+{
+	z-index: 18;
+	width: 170px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	line-height: 1.4;
+	color: #000000;
+	font-size: 12px;
+	text-align: left;
+	letter-spacing: 3px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u40475-4
+{
+	z-index: 22;
+	width: 170px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	line-height: 1.4;
+	color: #000000;
+	font-size: 12px;
+	text-align: left;
+	letter-spacing: 3px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u40489-4
+{
+	z-index: 26;
+	width: 170px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	line-height: 1.4;
+	color: #000000;
+	font-size: 12px;
+	text-align: left;
+	letter-spacing: 3px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u40406-4:hover,#u40457-4:hover,#u40475-4:hover,#u40489-4:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	padding-top: 15px;
+	padding-bottom: 15px;
+	min-height: 17px;
+	width: 170px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u40413-4
+{
+	position: absolute;
+	width: 25px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	text-align: center;
+	line-height: 1.4;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 96px;
+}
+
+#u40413-4popup
+{
+	z-index: 30;
+}
+
+#u40413
+{
+	color: #999999;
+}
+
+#u40389-4
+{
+	position: absolute;
+	width: 25px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	line-height: 1.4;
+	color: #999999;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 112px;
+	left: 49px;
+}
+
+#u40389-4popup
+{
+	z-index: 34;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../../images/loading.gif") no-repeat center center;
+}
+
+#u34070
+{
+	z-index: 2;
+	height: 63px;
+}
+
+#u34070-bw
+{
+	z-index: 2;
+	margin-top: 242px;
+	height: 63px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

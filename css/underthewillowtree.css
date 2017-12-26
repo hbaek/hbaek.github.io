@@ -1,7 +1,7 @@
 .version.underthewillowtree /* version checker */
 {
-	color: #0000F5;
-	background-color: #FA70BF;
+	color: #0000ED;
+	background-color: #A1F128;
 }
 
 .html
@@ -318,9 +318,9 @@
 	width: 93px;
 	min-height: 569px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 1.4;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -57px;
 	left: 729px;
@@ -337,9 +337,9 @@
 	width: 96px;
 	min-height: 569px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 1.4;
 	color: #FFFFFF;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -57px;
 	left: 1127px;

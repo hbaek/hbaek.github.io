@@ -1,7 +1,7 @@
 .version.floralccrown3 /* version checker */
 {
-	color: #0000EA;
-	background-color: #B5BEFC;
+	color: #00000A;
+	background-color: #B3C851;
 }
 
 @-ms-viewport
@@ -190,7 +190,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 15px;
-	left: 86px;
+	left: 56px;
 }
 
 #u38994:hover #u38994_states
@@ -205,7 +205,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 63px;
-	left: 86px;
+	left: 56px;
 }
 
 #u38993:hover #u38993_states
@@ -220,7 +220,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 111px;
-	left: 86px;
+	left: 56px;
 }
 
 #u38989:hover #u38989_states
@@ -235,7 +235,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 159px;
-	left: 86px;
+	left: 55px;
 }
 
 #u39005:hover #u39005_states
@@ -250,7 +250,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 207px;
-	left: 86px;
+	left: 55px;
 }
 
 #u39000:hover #u39000_states
@@ -265,7 +265,7 @@
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 255px;
-	left: 86px;
+	left: 55px;
 }
 
 #u38994_states,#u38993_states,#u38989_states,#u39005_states,#u39000_states,#u38991_states
