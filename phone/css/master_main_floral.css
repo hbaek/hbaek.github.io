@@ -1,0 +1,84 @@
+#u39255-4
+{
+	background-color: transparent;
+	line-height: 1.38;
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 12px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u39259
+{
+	background-color: #F7F6F4;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+
+#u39256-13
+{
+	background-color: transparent;
+	font-size: 14px;
+	letter-spacing: 12px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u39257-5
+{
+	background-color: transparent;
+	line-height: 1.49;
+	font-size: 9px;
+	text-align: center;
+	letter-spacing: 2px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u39254-4
+{
+	background-color: transparent;
+	line-height: 1.49;
+	font-size: 11px;
+	text-align: center;
+	letter-spacing: 0px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u39258-5
+{
+	background-color: transparent;
+	line-height: 1.49;
+	font-size: 9px;
+	text-align: center;
+	letter-spacing: 2px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u39255-4:hover,#u39257-5:hover,#u39254-4:hover,#u39258-5:hover
+{
+	opacity: 0.29;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=28.999999999999996)";
+	filter: alpha(opacity=28.999999999999996);
+}
+
+#u39257-3,#u39258-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u39257-3  span,#u39257-3  a,#u39258-3  span,#u39258-3  a /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.49;
+}
+
+#u39257,#u39258
+{
+	font-size: 11px;
+	letter-spacing: 0px;
+}
+
