@@ -1,7 +1,7 @@
 .version.underthewillowtree /* version checker */
 {
-	color: #0000ED;
-	background-color: #A1F128;
+	color: #000009;
+	background-color: #ECD8E3;
 }
 
 .html
@@ -260,14 +260,14 @@
 #u38546
 {
 	position: absolute;
-	width: 495px;
-	height: 568px;
+	width: 607px;
+	height: 728px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #191919;
 	background-color: rgba(0,0,0,0.9);
 	top: -56px;
-	left: 728px;
+	left: 616px;
 	-pie-background: rgba(0,0,0,0.9);
 }
 
@@ -279,8 +279,8 @@
 #u38759
 {
 	z-index: 32;
-	width: 451px;
-	height: 506px;
+	width: 563px;
+	height: 666px;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
@@ -290,15 +290,14 @@
 
 #u38759_img
 {
-	padding-left: 17px;
-	padding-right: 16px;
+	padding: 17px 21px;
 }
 
 #u38768
 {
 	z-index: 34;
-	width: 451px;
-	height: 506px;
+	width: 563px;
+	height: 666px;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
@@ -308,22 +307,21 @@
 
 #u38768_img
 {
-	padding-left: 35px;
-	padding-right: 34px;
+	padding: 17px 44px 17px 43px;
 }
 
 #u38562-3
 {
 	position: absolute;
-	width: 93px;
-	min-height: 569px;
+	width: 228px;
+	min-height: 715px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -57px;
-	left: 729px;
+	left: 427px;
 }
 
 #u38562-3popup
@@ -334,15 +332,15 @@
 #u38555-3
 {
 	position: absolute;
-	width: 96px;
-	min-height: 569px;
+	width: 166px;
+	min-height: 635px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: -57px;
-	left: 1127px;
+	top: -22px;
+	left: 1152px;
 }
 
 #u38555-3popup

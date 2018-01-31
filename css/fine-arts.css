@@ -1,7 +1,7 @@
 .version.fine_arts /* version checker */
 {
-	color: #0000F1;
-	background-color: #261DD3;
+	color: #000011;
+	background-color: #41D1E8;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 926px;
+	width: 928px;
 	min-height: 930px;
 	background-image: none;
 	border-width: 1px;
@@ -21,7 +21,7 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 24px 20px 107px 7px;
+	padding: 24px 18px 107px 7px;
 }
 
 #menuu36245
@@ -203,19 +203,19 @@
 
 #u37892
 {
-	z-index: 43;
+	z-index: 48;
 	width: 207px;
 	height: 222px;
 	border-color: #000000;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("../images/millinery.jpg") no-repeat right bottom;
+	background: #7F7F7F url("../images/millinery-u37892-fr.jpg") no-repeat right bottom;
 	background-size: cover;
 }
 
 #u37894
 {
-	z-index: 49;
+	z-index: 54;
 	width: 436px;
 	border-color: #000000;
 	position: relative;
@@ -227,7 +227,7 @@
 
 #u37895
 {
-	z-index: 50;
+	z-index: 55;
 	width: 492px;
 	height: 222px;
 	position: relative;
@@ -237,7 +237,7 @@
 	background-size: cover;
 }
 
-#u37891-24
+#u37891-29
 {
 	z-index: 19;
 	width: 375px;
@@ -254,13 +254,13 @@
 	font-weight: bold;
 }
 
-#u37891-5,#u37891-7,#u37891-8,#u37891-9,#u37891-13,#u37891-15,#u37891-16,#u37891-20,#u37891-21
+#u37891-5,#u37891-7,#u37891-8,#u37891-9,#u37891-13,#u37891-15,#u37891-16,#u37891-20,#u37891-22,#u37891-24,#u37891-25,#u37891-26
 {
 	font-size: 13px;
 	line-height: 1.3;
 }
 
-#u37891-22
+#u37891-27
 {
 	font-size: 14px;
 	font-weight: bold;
@@ -268,7 +268,7 @@
 
 #u37893-5
 {
-	z-index: 44;
+	z-index: 49;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -279,17 +279,17 @@
 
 #u37896-5
 {
-	z-index: 51;
+	z-index: 56;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
 	color: #5A0804;
 	font-size: 15px;
 	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 421px;
@@ -307,9 +307,9 @@
 	margin: 421px -10000px 0px 0px;
 }
 
-#u37897-23
+#u37897-27
 {
-	z-index: 56;
+	z-index: 61;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -320,17 +320,17 @@
 
 #u37898-5
 {
-	z-index: 79;
+	z-index: 88;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
 	color: #5A0804;
 	font-size: 15px;
 	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 437px;
@@ -350,17 +350,17 @@
 
 #u37899-5
 {
-	z-index: 84;
+	z-index: 93;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
 	color: #5A0804;
 	font-size: 15px;
 	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 506px;
@@ -380,20 +380,20 @@
 
 #u38274-5
 {
-	z-index: 89;
+	z-index: 98;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
 	color: #5A0804;
 	font-size: 15px;
 	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 575px;
+	margin-top: 577px;
 }
 
 #u38274-5:hover
@@ -405,22 +405,22 @@
 	padding-bottom: 0px;
 	min-height: 16px;
 	width: 926px;
-	margin: 575px -10000px 0px 0px;
+	margin: 577px -10000px 0px 0px;
 }
 
 #u38275-5
 {
-	z-index: 94;
+	z-index: 103;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
 	color: #5A0804;
 	font-size: 15px;
 	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 525px;
@@ -438,23 +438,84 @@
 	margin: 525px -10000px 0px 0px;
 }
 
-#u37896-5:hover p,#u37896-5:hover span,#u37898-5:hover p,#u37898-5:hover span,#u37899-5:hover p,#u37899-5:hover span,#u38274-5:hover p,#u38274-5:hover span,#u38275-5:hover p,#u38275-5:hover span
+#u41256-5
+{
+	z-index: 108;
+	width: 926px;
+	min-height: 16px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #5A0804;
+	font-size: 15px;
+	text-align: left;
+	line-height: 0.9;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 595px;
+}
+
+#u41256-5:hover
+{
+	opacity: 0.64;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=64)";
+	filter: alpha(opacity=64);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 16px;
+	width: 926px;
+	margin: 595px -10000px 0px 0px;
+}
+
+#u41257-5
+{
+	z-index: 113;
+	width: 926px;
+	min-height: 16px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #5A0804;
+	font-size: 15px;
+	text-align: left;
+	line-height: 0.9;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 613px;
+	left: 2px;
+}
+
+#u41257-5:hover
+{
+	opacity: 0.64;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=64)";
+	filter: alpha(opacity=64);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 16px;
+	width: 926px;
+	margin: 613px -10000px 0px 0px;
+}
+
+#u37896-5:hover p,#u37896-5:hover span,#u37898-5:hover p,#u37898-5:hover span,#u37899-5:hover p,#u37899-5:hover span,#u38274-5:hover p,#u38274-5:hover span,#u38275-5:hover p,#u38275-5:hover span,#u41256-5:hover p,#u41256-5:hover span,#u41257-5:hover p,#u41257-5:hover span
 {
 	color: #5A0804;
 	visibility: inherit;
 }
 
-#u37896-3,#u37898-3,#u37899-3,#u38274-3,#u38275-3
+#u37896-3,#u37898-3,#u37899-3,#u38274-3,#u38275-3,#u41256-3,#u41257-3
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u37896-3  span,#u37898-3  span,#u37899-3  span,#u38274-3  span,#u38275-3  span /* line-height set on spans of mixed font sized paras */
+#u37896-3  span,#u37898-3  span,#u37899-3  span,#u38274-3  span,#u38275-3  span,#u41256-3  span,#u41257-3  span /* line-height set on spans of mixed font sized paras */
 {
 	line-height: 0.9;
 }
 
-#u37896-2,#u37898-2,#u37899-2,#u38274-2,#u38275-2
+#u37896-2,#u37898-2,#u37899-2,#u38274-2,#u38275-2,#u41256-2,#u41257-2
 {
 	font-size: 14px;
 }
