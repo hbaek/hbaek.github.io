@@ -183,12 +183,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
-.White-on-Black a,.Orange-on-White a,.White-on-Orange a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .White-on-Black a:active,.White-on-Orange a:link
 {
 	color: #FFFFFF;
@@ -211,6 +205,12 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #FFFFFF;
 	text-decoration: underline;
+}
+
+a,.White-on-Black a,.Orange-on-White a,.website a
+{
+	color: inherit;
+	text-decoration: inherit;
 }
 
 .website a:link

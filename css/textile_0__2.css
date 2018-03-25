@@ -1,7 +1,7 @@
 .version.textile_0__2 /* version checker */
 {
-	color: #00001C;
-	background-color: #D16A23;
+	color: #0000F6;
+	background-color: #82E026;
 }
 
 .html
@@ -511,20 +511,6 @@
 	min-height: 69px;
 	width: 485px;
 	margin: 499px -10000px 0px 0px;
-}
-
-#u41254
-{
-	z-index: 62;
-	width: 420px;
-	min-height: 244px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 214px;
-	left: 429px;
 }
 
 #u38201

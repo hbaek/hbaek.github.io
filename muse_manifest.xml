@@ -1,8 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1521978345728" iceMarkupVersion="2" domain="www.hazelbaek.com">
-  <folder name="assets">
-    <file name="video.mp4" crc="4083111147" seo="true" mt="1517405945000"/>
-    <file name="bandicam-2018-01-31-22-30-18-585.mp4" crc="3793729648" seo="true" mt="1517405464000"/>
-  </folder>
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1521979121079" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -58,7 +54,7 @@
     <file name="fruit-punch.html" crc="264834204" mt="1511331497259" redirect="false" seo="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="3804087716"/>
+    <file name="site_global.css" crc="484239522"/>
     <file name="index.css" crc="53351562" ref="index"/>
     <file name="contact.css" crc="368996059" ref="contact"/>
     <file name="fine-arts.css" crc="289526248" ref="fine-arts"/>
@@ -84,7 +80,7 @@
     <file name="strawberryfold.css" crc="3821897737" ref="strawberryfold"/>
     <file name="howdoilovethee.css" crc="4044830396" ref="howdoilovethee"/>
     <file name="rabitfurr.css" crc="301339560" ref="rabitfurr"/>
-    <file name="textile_0__2.css" crc="483486243" ref="textile.0._2"/>
+    <file name="textile_0__2.css" crc="4135772198" ref="textile.0._2"/>
     <file name="textile_0_3.css" crc="365436928" ref="textile.0.3"/>
     <file name="luck-and-eyes.css" crc="4270868525" ref="luck-and-eyes"/>
   </folder>
@@ -99,7 +95,7 @@
     <file name="musewpslideshow.js" crc="242596657" ref="white-straw-and-black-crosses:winzlear-gear:wild-forget-me-not:satin-buttercup:green-spring-bonet:waffle-cone:iris-water:phone>forget-me-not:phone>birthday-k:phone>birthday-s:phone>butter-satin:phone>for-mothers:phone>fruit-punch:phone>kale-celosia:phone>once-upon-a-time:phone>thriving-irist-bouquet:phone>valentine-2017:phone>white-mangolia:phone>double-band-floral:phone>three-band-rose:phone>boronia-spring:phone>burgendy-rose:phone>druid-crown:phone>for-yy_fern:phone>for-yy_rice:phone>for-yy_rose:phone>hemlock-angle:phone>iris-water:phone>ivory-and-green:phone>magnolia-leaf:phone>lovebird:phone>merry-go-round:phone>miller-wreath:phone>orange-and-white:phone>carnation-band:phone>cn-night:phone>shadeofhue:phone>cherry-bling:phone>winzlear-gear:phone>green-spring-bonnet:phone>ribbon-beret:cn-night:phone>coral--alabaster:ballerina-rouge:phone>ballerian-rouge-:phone>ballerian-rouge-.-2:shade-of-hue:howdoilovethee:sonicplaygroundmca:strawberryfold:rabitfurr:underthewillowtree:ohkchyundang:phone>dark-rose-band:phone>whitestrawblackcrosses:phone>icecreamcone:phone>crnationhalo:phone>winter-branch:phone>summerunderspring:phone>undergrowth-drapery:phone>underthewillowtree:phone>howdoikovethee:phone>rabitfurr:textile.0._2:textile.0.3:phone>luck-and-eyes:luck-and-eyes"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="white-straw-and-black-crosses:winzlear-gear:wild-forget-me-not:satin-buttercup:green-spring-bonet:waffle-cone:iris-water:phone>forget-me-not:phone>birthday-k:phone>birthday-s:phone>butter-satin:phone>for-mothers:phone>fruit-punch:phone>kale-celosia:phone>once-upon-a-time:phone>thriving-irist-bouquet:phone>valentine-2017:phone>white-mangolia:phone>double-band-floral:phone>three-band-rose:phone>boronia-spring:phone>burgendy-rose:phone>druid-crown:phone>for-yy_fern:phone>for-yy_rice:phone>for-yy_rose:phone>hemlock-angle:phone>iris-water:phone>ivory-and-green:phone>magnolia-leaf:phone>lovebird:phone>merry-go-round:phone>miller-wreath:phone>orange-and-white:phone>carnation-band:phone>cn-night:phone>shadeofhue:phone>cherry-bling:phone>winzlear-gear:phone>green-spring-bonnet:phone>ribbon-beret:cn-night:phone>coral--alabaster:ballerina-rouge:phone>ballerian-rouge-:phone>ballerian-rouge-.-2:shade-of-hue:howdoilovethee:sonicplaygroundmca:strawberryfold:rabitfurr:underthewillowtree:ohkchyundang:phone>dark-rose-band:phone>whitestrawblackcrosses:phone>icecreamcone:phone>crnationhalo:phone>winter-branch:phone>summerunderspring:phone>undergrowth-drapery:phone>underthewillowtree:phone>howdoikovethee:phone>rabitfurr:textile.0._2:textile.0.3:phone>luck-and-eyes:luck-and-eyes"/>
     <file name="touchswipe.js" crc="4038331989" ref="white-straw-and-black-crosses:winzlear-gear:wild-forget-me-not:satin-buttercup:green-spring-bonet:waffle-cone:iris-water:phone>forget-me-not:phone>birthday-k:phone>birthday-s:phone>butter-satin:phone>for-mothers:phone>fruit-punch:phone>kale-celosia:phone>once-upon-a-time:phone>thriving-irist-bouquet:phone>valentine-2017:phone>white-mangolia:phone>double-band-floral:phone>three-band-rose:phone>boronia-spring:phone>burgendy-rose:phone>druid-crown:phone>for-yy_fern:phone>for-yy_rice:phone>for-yy_rose:phone>hemlock-angle:phone>iris-water:phone>ivory-and-green:phone>magnolia-leaf:phone>lovebird:phone>merry-go-round:phone>miller-wreath:phone>orange-and-white:phone>carnation-band:phone>cn-night:phone>shadeofhue:phone>cherry-bling:phone>winzlear-gear:phone>green-spring-bonnet:phone>ribbon-beret:cn-night:phone>coral--alabaster:ballerina-rouge:phone>ballerian-rouge-:phone>ballerian-rouge-.-2:shade-of-hue:howdoilovethee:sonicplaygroundmca:strawberryfold:rabitfurr:underthewillowtree:ohkchyundang:phone>dark-rose-band:phone>whitestrawblackcrosses:phone>icecreamcone:phone>crnationhalo:phone>winter-branch:phone>summerunderspring:phone>undergrowth-drapery:phone>underthewillowtree:phone>howdoikovethee:phone>rabitfurr:textile.0._2:textile.0.3:phone>luck-and-eyes:luck-and-eyes"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="fine-arts:index:flowers:phone>index:white-straw-and-black-crosses:millinery:wild-forget-me-not:winzlear-gear:howdoilovethee:strawberryfold:luck-and-eyes"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="fine-arts:index:flowers:phone>index:white-straw-and-black-crosses:millinery:wild-forget-me-not:winzlear-gear:howdoilovethee:strawberryfold:luck-and-eyes:textile.0._2"/>
     <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>contact:tablet>fine-arts:tablet>ivory-and-green:tablet>hemlock-angle:tablet>orange-and-white:tablet>birthday-k:tablet>fruit-punch:contact:index:iris-water:winzlear-gear:cn-night:rabitfurr:underthewillowtree:luck-and-eyes"/>
   </folder>
   <folder name="images">
@@ -222,7 +218,7 @@
     <file name="35.jpg" crc="344380154" seo="true" ref="phone>burgendy-rose"/>
     <file name="fwb_group3.jpg" crc="4161857148" ref="fine-arts:howdoilovethee"/>
     <file name="u37893-5.png" crc="142193320" ref="fine-arts"/>
-    <file name="if_popular_social_media-09_2329262.png" crc="4080556734" ref="white-straw-and-black-crosses:wild-forget-me-not:winzlear-gear:howdoilovethee:strawberryfold:luck-and-eyes"/>
+    <file name="if_popular_social_media-09_2329262.png" crc="4080556734" ref="white-straw-and-black-crosses:wild-forget-me-not:winzlear-gear:howdoilovethee:strawberryfold:luck-and-eyes:textile.0._2"/>
     <file name="21-crop-u36690.jpg" crc="304688463" ref="white-straw-and-black-crosses"/>
     <file name="21275x360.jpg" crc="46665341" seo="true" ref="white-straw-and-black-crosses"/>
     <file name="5-crop-u38071.jpg" crc="383975048" ref="winzlear-gear"/>
@@ -725,7 +721,7 @@
   <file name="rabitfurr.html" crc="382063347" seo="true" mt="1517397148736" redirect="true"/>
   <file name="underthewillowtree.html" crc="3842570444" seo="true" mt="1517397246181" redirect="true"/>
   <file name="ohkchyundang.html" crc="277115382" seo="true" mt="1511624937523" redirect="true"/>
-  <file name="textile.0._2.html" crc="3789946086" seo="true" mt="1517407818716" redirect="true"/>
+  <file name="textile.0._2.html" crc="30114776" seo="true" mt="1521978916383" redirect="true"/>
   <file name="textile.0.3.html" crc="297328346" seo="true" mt="1517407824432" redirect="true"/>
   <file name="luck-and-eyes.html" crc="3824435059" seo="true" mt="1521976975053" redirect="true"/>
 </manifest>

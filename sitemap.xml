@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.hazelbaek.com/assets/video.mp4</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/assets/bandicam-2018-01-31-22-30-18-585.mp4</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/tablet/sonic-playground.html</loc>
     <lastmod>2017-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1868,7 +1856,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/textile.0._2.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <lastmod>2018-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
