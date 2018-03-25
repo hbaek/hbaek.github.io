@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1521979121079" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1521979968719" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -54,7 +54,7 @@
     <file name="fruit-punch.html" crc="264834204" mt="1511331497259" redirect="false" seo="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="484239522"/>
+    <file name="site_global.css" crc="29407460"/>
     <file name="index.css" crc="53351562" ref="index"/>
     <file name="contact.css" crc="368996059" ref="contact"/>
     <file name="fine-arts.css" crc="289526248" ref="fine-arts"/>
@@ -82,7 +82,7 @@
     <file name="rabitfurr.css" crc="301339560" ref="rabitfurr"/>
     <file name="textile_0__2.css" crc="4135772198" ref="textile.0._2"/>
     <file name="textile_0_3.css" crc="365436928" ref="textile.0.3"/>
-    <file name="luck-and-eyes.css" crc="4270868525" ref="luck-and-eyes"/>
+    <file name="luck-and-eyes.css" crc="3787931822" ref="luck-and-eyes"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>contact:fine-arts:contact:index:tablet>index:tablet>contact:tablet>fine-arts:tablet>sonic-playground:tablet>under-the-willow-tree:tablet>how-do-i-love-thee:tablet>textile-0.1:tablet>textile-0.2:tablet>peanut-shell-study:tablet>water-color-0.1:tablet>millinery---floral:tablet>straw:tablet>felt:tablet>floral-corwn:tablet>carnation-crown:tablet>carnation-halo:tablet>ivory-and-green:tablet>leaves:tablet>side-band-rose:tablet>hemlock-angle:tablet>orange-and-white:tablet>bouquet:tablet>birthday-k:tablet>center-piece:tablet>fruit-punch:white-straw-and-black-crosses:winzlear-gear:millinery:wild-forget-me-not:satin-buttercup:green-spring-bonet:waffle-cone:flowers:iris-water:phone>forget-me-not:phone>menufloral:phone>birthday-k:phone>birthday-s:phone>butter-satin:phone>for-mothers:phone>fruit-punch:phone>kale-celosia:phone>once-upon-a-time:phone>thriving-irist-bouquet:phone>valentine-2017:phone>white-mangolia:phone>double-band-floral:phone>three-band-rose:phone>boronia-spring:phone>burgendy-rose:phone>druid-crown:phone>for-yy_fern:phone>for-yy_rice:phone>for-yy_rose:phone>hemlock-angle:phone>iris-water:phone>ivory-and-green:phone>magnolia-leaf:phone>lovebird:phone>merry-go-round:phone>miller-wreath:phone>orange-and-white:phone>carnation-band:phone>cn-night:phone>menumillinery:phone>shadeofhue:phone>cherry-bling:phone>winzlear-gear:phone>green-spring-bonnet:phone>ribbon-beret:phone>mainmenu:cn-night:phone>coral--alabaster:ballerina-rouge:phone>ballerian-rouge-:phone>ballerian-rouge-.-2:shade-of-hue:howdoilovethee:sonicplaygroundmca:strawberryfold:rabitfurr:underthewillowtree:ohkchyundang:phone>dark-rose-band:phone>floralccrown1:phone>floralccrown4:phone>floralccrown3:phone>floralccrown2:phone>strawmenu:phone>whitestrawblackcrosses:phone>fabricmenu:phone>icecreamcone:phone>crnationhalo:phone>winter-branch:phone>menufloral2:phone>menufloral3:phone>summerunderspring:phone>undergrowth-drapery:phone>menufineart1:phone>menufineart2:phone>underthewillowtree:phone>howdoikovethee:phone>rabitfurr:textile.0._2:textile.0.3:phone>traditionalmillinerymenu:phone>luck-and-eyes:luck-and-eyes"/>
@@ -519,10 +519,9 @@
     <file name="u41091-4.png" crc="525622004" ref="textile.0.3"/>
     <file name="u41088_states.png" crc="313091299" ref="textile.0.3"/>
     <file name="u41088_states-r.png" crc="313091299" ref="textile.0.3"/>
-    <file name="kakaotalk_20171127_160411371.jpg" crc="3981525540" ref="phone>index"/>
     <file name="u41271_states-r.png" crc="4014362018" ref="phone>menumillinery"/>
     <file name="u41277-6.png" crc="3813640243" ref="phone>traditionalmillinerymenu"/>
-    <file name="u41281_states-r.png" crc="159451267" ref="phone>traditionalmillinerymenu"/>
+    <file name="u41281_states-r.png" crc="3880982650" ref="phone>traditionalmillinerymenu"/>
     <file name="복과눈2.jpg" crc="3861575394" seo="true" ref="phone>luck-and-eyes"/>
     <file name="복과눈5.jpg" crc="316678454" seo="true" ref="phone>luck-and-eyes"/>
     <file name="복과눈6.jpg" crc="3901944106" seo="true" ref="phone>luck-and-eyes"/>
@@ -546,7 +545,7 @@
     <file name="복과눈16-crop-u41855.jpg" crc="3795897778" ref="luck-and-eyes"/>
     <file name="복과눈234x34.jpg" crc="275098742" seo="true" ref="luck-and-eyes"/>
     <file name="복과눈4-crop-u41873.jpg" crc="4279214588" ref="luck-and-eyes"/>
-    <file name="복과눈134x34.jpg" crc="94376025" seo="true" ref="luck-and-eyes"/>
+    <file name="복과눈134x34.jpg" crc="4181070247" seo="true" ref="luck-and-eyes"/>
     <file name="복과눈8360x360.jpg" crc="297988348" seo="true" ref="luck-and-eyes"/>
     <file name="복과눈9360x360.jpg" crc="3948396412" seo="true" ref="luck-and-eyes"/>
     <file name="복과눈10360x360.jpg" crc="4275460138" seo="true" ref="luck-and-eyes"/>
@@ -558,17 +557,18 @@
     <file name="복과눈16360x360.jpg" crc="4007648326" seo="true" ref="luck-and-eyes"/>
     <file name="복과눈2360x360.jpg" crc="428129482" seo="true" ref="luck-and-eyes"/>
     <file name="복과눈4.jpg" crc="4266760371" seo="true" ref="luck-and-eyes"/>
-    <file name="복과눈1.jpg" crc="27832208" seo="true" ref="luck-and-eyes"/>
+    <file name="복과눈1.jpg" crc="439100545" seo="true" ref="luck-and-eyes"/>
     <file name="u41731_states.png" crc="4255307308" ref="luck-and-eyes"/>
     <file name="u41731_states-r.png" crc="4255307308" ref="luck-and-eyes"/>
     <file name="복과눈1-u37859-fr.jpg" crc="3943636705" ref="millinery"/>
     <file name="복과눈9-u37862-fr.jpg" crc="3993546400" ref="millinery"/>
     <file name="u37864-33.png" crc="81679158" ref="millinery"/>
+    <file name="복과눈10-u34297-fr.jpg" crc="287889329" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="388689978" ref="phone>contact"/>
-      <file name="index.css" crc="280736794" ref="phone>index"/>
+      <file name="index.css" crc="390010147" ref="phone>index"/>
       <file name="master_main.css" crc="3924094675" ref="phone>contact:phone>fruit-punch:phone>birthday-k:phone>floralccrown4:phone>floralccrown1:phone>floralccrown2:phone>fabricmenu:phone>strawmenu"/>
       <file name="forget-me-not.css" crc="288303926" ref="phone>forget-me-not"/>
       <file name="menufloral.css" crc="3946347583" ref="phone>menufloral"/>
@@ -620,7 +620,7 @@
       <file name="icecreamcone.css" crc="429660834" ref="phone>icecreamcone"/>
       <file name="whitestrawblackcrosses.css" crc="283725999" ref="phone>whitestrawblackcrosses"/>
       <file name="strawmenu.css" crc="230849421" ref="phone>strawmenu"/>
-      <file name="master_main_art.css" crc="229978071" ref="phone>menufloral2:phone>menufloral3:phone>mainmenu:phone>menufloral:phone>floralccrown3:phone>menufineart1:phone>menufineart2:phone>index:phone>menumillinery:phone>traditionalmillinerymenu"/>
+      <file name="master_main_art.css" crc="3901307833" ref="phone>menufloral2:phone>menufloral3:phone>mainmenu:phone>menufloral:phone>floralccrown3:phone>menufineart1:phone>menufineart2:phone>index:phone>menumillinery:phone>traditionalmillinerymenu"/>
       <file name="menufloral2.css" crc="220580463" ref="phone>menufloral2"/>
       <file name="menufloral3.css" crc="483351679" ref="phone>menufloral3"/>
       <file name="undergrowth-drapery.css" crc="7061427" ref="phone>undergrowth-drapery"/>
@@ -633,9 +633,9 @@
       <file name="howdoikovethee.css" crc="4134613270" ref="phone>howdoikovethee"/>
       <file name="menufineart2.css" crc="3775746927" ref="phone>menufineart2"/>
       <file name="luck-and-eyes.css" crc="4029796182" ref="phone>luck-and-eyes"/>
-      <file name="traditionalmillinerymenu.css" crc="3840540578" ref="phone>traditionalmillinerymenu"/>
+      <file name="traditionalmillinerymenu.css" crc="289004987" ref="phone>traditionalmillinerymenu"/>
     </folder>
-    <file name="index.html" crc="487203405" mt="1521976781126" redirect="true" seo="true"/>
+    <file name="index.html" crc="487203405" mt="1521979913429" redirect="true" seo="true"/>
     <file name="contact.html" crc="222192405" mt="1487674864590" redirect="true" seo="true"/>
     <file name="forget-me-not.html" crc="3778576018" seo="true" mt="1514277748355" redirect="true"/>
     <file name="menufloral.html" crc="3968859507" seo="true" mt="1514289608268" redirect="true"/>
@@ -697,7 +697,7 @@
     <file name="underthewillowtree.html" crc="437376700" seo="true" mt="1514296442580" redirect="true"/>
     <file name="howdoikovethee.html" crc="274941915" seo="true" mt="1514296885498" redirect="true"/>
     <file name="rabitfurr.html" crc="4162232967" seo="true" mt="1514298818874" redirect="true"/>
-    <file name="traditionalmillinerymenu.html" crc="79350667" seo="true" mt="1521970894821" redirect="true"/>
+    <file name="traditionalmillinerymenu.html" crc="4252959509" seo="true" mt="1521979944965" redirect="true"/>
     <file name="luck-and-eyes.html" crc="520627372" seo="true" mt="1521971336480" redirect="true"/>
   </folder>
   <file name="fine-arts.html" crc="4164966422" mt="1517407823282" redirect="true" seo="true"/>
@@ -723,5 +723,5 @@
   <file name="ohkchyundang.html" crc="277115382" seo="true" mt="1511624937523" redirect="true"/>
   <file name="textile.0._2.html" crc="30114776" seo="true" mt="1521978916383" redirect="true"/>
   <file name="textile.0.3.html" crc="297328346" seo="true" mt="1517407824432" redirect="true"/>
-  <file name="luck-and-eyes.html" crc="3824435059" seo="true" mt="1521976975053" redirect="true"/>
+  <file name="luck-and-eyes.html" crc="5466160" seo="true" mt="1521979851014" redirect="true"/>
 </manifest>

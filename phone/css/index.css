@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000010;
-	background-color: #BBB41A;
+	color: #000017;
+	background-color: #3F1523;
 }
 
 @-ms-viewport
@@ -108,11 +108,11 @@
 #pu34297
 {
 	width: 0.01px;
-	padding-bottom: 36.599999999999966px;
 	position: relative;
 	left: 27px;
-	padding-top: 84px;
+	padding-top: 78px;
 	z-index: 2;
+	padding-bottom: 37px;
 }
 
 #u34297
@@ -124,7 +124,7 @@
 	border-style: solid;
 	border-color: #586F5F;
 	position: relative;
-	background: transparent url("../../images/kakaotalk_20171127_160411371.jpg") no-repeat center center;
+	background: transparent url("../../images/%eb%b3%b5%ea%b3%bc%eb%88%8810-u34297-fr.jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -142,7 +142,7 @@
 	text-align: center;
 	letter-spacing: 2px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-top: 28px;
+	margin-top: 35px;
 	position: relative;
 }
 
@@ -155,7 +155,7 @@
 	padding-bottom: 0px;
 	min-height: 53px;
 	width: 216px;
-	margin: 28px 0px 0px;
+	margin: 35px 0px 0px;
 }
 
 #u29450-5
