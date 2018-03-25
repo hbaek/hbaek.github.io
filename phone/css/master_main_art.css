@@ -9,14 +9,6 @@
 	position: relative;
 }
 
-#u27618
-{
-	background-color: #F7F6F4;
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
-}
-
 #u29407-13
 {
 	background-color: transparent;
@@ -24,6 +16,14 @@
 	letter-spacing: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
+}
+
+#u27618
+{
+	background-color: #F7F6F4;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
 }
 
 #u29450-5
@@ -77,7 +77,7 @@
 	letter-spacing: 0px;
 }
 
-#u29450-3  span,#u29450-3  a,#u29450-3  span,#u29450-3  a,#u29454-3  span,#u29454-3  a,#u29454-3  span,#u29454-3  a /* line-height set on spans of mixed font sized paras */
+#u29450-3  span,#u29450-3  a,#u29450-3  span,#u29450-3  a,#u29450-3  span,#u29450-3  a,#u29454-3  span,#u29454-3  a,#u29454-3  span,#u29454-3  a,#u29454-3  span,#u29454-3  a /* line-height set on spans of mixed font sized paras */
 {
 	line-height: 1.49;
 }

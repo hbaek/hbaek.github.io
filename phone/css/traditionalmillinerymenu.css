@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.traditionalmillinerymenu /* version checker */
 {
-	color: #000010;
-	background-color: #BBB41A;
+	color: #0000E4;
+	background-color: #E9FFA2;
 }
 
 @-ms-viewport
@@ -71,20 +71,11 @@
 	margin: 0px;
 }
 
-#pu29407-13
+#ppu27618
 {
 	width: 0.01px;
 	margin-left: 4px;
 	margin-top: 14px;
-}
-
-#u29407-13
-{
-	z-index: 7;
-	width: 19px;
-	min-height: 125px;
-	margin-right: -10000px;
-	margin-top: 2px;
 }
 
 #pu27618
@@ -105,57 +96,54 @@
 	bottom: 0px;
 }
 
-#pu34297
+#pu41277-6
 {
 	width: 0.01px;
-	padding-bottom: 36.599999999999966px;
 	position: relative;
-	left: 27px;
-	padding-top: 84px;
+	left: 15px;
+	padding-top: 15px;
 	z-index: 2;
+	padding-bottom: 388px;
 }
 
-#u34297
+#u41277-6
 {
 	z-index: 34;
-	width: 216px;
-	height: 219px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #586F5F;
+	display: block;
+	vertical-align: top;
 	position: relative;
-	background: transparent url("../../images/kakaotalk_20171127_160411371.jpg") no-repeat center center;
-	background-size: contain;
+	margin-right: -10000px;
 }
 
-#u34302-8
+#u29407-13
 {
-	z-index: 35;
-	width: 216px;
-	min-height: 53px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	line-height: 2.39;
-	font-size: 11px;
-	text-align: center;
-	letter-spacing: 2px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-top: 28px;
-	position: relative;
+	z-index: 7;
+	width: 19px;
+	min-height: 125px;
+	margin-right: -10000px;
+	margin-top: 2px;
 }
 
-#u34302-8:hover
+#u41281
 {
-	opacity: 0.29;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=28.999999999999996)";
-	filter: alpha(opacity=28.999999999999996);
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 53px;
-	width: 216px;
-	margin: 28px 0px 0px;
+	z-index: 41;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 55px;
+}
+
+#u41281_states
+{
+	height: 48px;
+	width: 242px;
+	vertical-align: top;
+}
+
+#u41281:hover #u41281_states
+{
+	background: url("../../images/u41281_states-r.png") no-repeat 0px 0px;
 }
 
 #u29450-5
