@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000015;
-	background-color: #FE6EDB;
+	color: #0000E0;
+	background-color: #EC2A2D;
 }
 
 .html
@@ -189,7 +189,7 @@
 	left: 22px;
 }
 
-#u38092-16
+#u38092-13
 {
 	z-index: 16;
 	width: 261px;
@@ -207,7 +207,7 @@
 
 #u38093-13
 {
-	z-index: 32;
+	z-index: 29;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -217,7 +217,7 @@
 
 #u38094-6
 {
-	z-index: 45;
+	z-index: 42;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -228,7 +228,7 @@
 
 #u38095-6
 {
-	z-index: 51;
+	z-index: 48;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -239,7 +239,7 @@
 
 #u38096-6
 {
-	z-index: 57;
+	z-index: 54;
 	display: block;
 	vertical-align: top;
 	position: relative;

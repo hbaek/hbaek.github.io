@@ -1,7 +1,7 @@
 .version.satin_buttercup /* version checker */
 {
-	color: #000012;
-	background-color: #2FB69E;
+	color: #0000E3;
+	background-color: #95F264;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 953px;
-	min-height: 748.5999999999999px;
+	min-height: 748.5999999999995px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
@@ -369,14 +369,14 @@
 #u37715
 {
 	position: absolute;
-	width: 524px;
-	height: 422px;
+	width: 608px;
+	height: 485px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #191919;
 	background-color: rgba(0,0,0,0.9);
-	top: 198px;
-	left: 821px;
+	top: 134px;
+	left: 737px;
 	-pie-background: rgba(0,0,0,0.9);
 }
 
@@ -388,8 +388,8 @@
 #u37801
 {
 	z-index: 36;
-	width: 480px;
-	height: 360px;
+	width: 564px;
+	height: 423px;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
@@ -400,8 +400,8 @@
 #u37774
 {
 	z-index: 38;
-	width: 480px;
-	height: 360px;
+	width: 564px;
+	height: 423px;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
@@ -411,15 +411,15 @@
 
 #u37774_img
 {
-	padding-left: 90px;
-	padding-right: 90px;
+	padding-left: 106px;
+	padding-right: 106px;
 }
 
 #u37783
 {
 	z-index: 40;
-	width: 480px;
-	height: 360px;
+	width: 564px;
+	height: 423px;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
@@ -429,15 +429,15 @@
 
 #u37801_img,#u37783_img
 {
-	padding-left: 120px;
-	padding-right: 120px;
+	padding-left: 141px;
+	padding-right: 142px;
 }
 
 #u37792
 {
 	z-index: 42;
-	width: 480px;
-	height: 360px;
+	width: 564px;
+	height: 423px;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
@@ -447,22 +447,21 @@
 
 #u37792_img
 {
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding: 52px 42px 51px;
 }
 
 #u37714-3
 {
 	position: absolute;
-	width: 123px;
-	min-height: 422px;
+	width: 141px;
+	min-height: 484px;
 	background-color: transparent;
-	line-height: 1.4;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 198px;
-	left: 821px;
+	top: 136px;
+	left: 803px;
 }
 
 #u37714-3popup
@@ -473,15 +472,15 @@
 #u37725-3
 {
 	position: absolute;
-	width: 125px;
-	min-height: 422px;
+	width: 143px;
+	min-height: 484px;
 	background-color: transparent;
-	line-height: 1.4;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 198px;
-	left: 1220px;
+	top: 136px;
+	left: 1202px;
 }
 
 #u37725-3popup

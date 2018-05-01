@@ -1,7 +1,7 @@
-.version.ballerina_rouge /* version checker */
+.version.birthday_for_s /* version checker */
 {
-	color: #0000FA;
-	background-color: #626044;
+	color: #0000FD;
+	background-color: #C56D29;
 }
 
 .html
@@ -24,7 +24,7 @@
 	padding: 24px 58px 58.04999999999984px;
 }
 
-#slideshowu37619
+#slideshowu41969
 {
 	z-index: 25;
 	width: 0.01px;
@@ -34,7 +34,7 @@
 	position: relative;
 }
 
-#u37634
+#u41989
 {
 	position: absolute;
 	width: 765px;
@@ -44,12 +44,12 @@
 	padding-bottom: 245px;
 }
 
-#u37634popup
+#u41989popup
 {
 	z-index: 26;
 }
 
-#u37670
+#u42029
 {
 	z-index: 27;
 	width: 372px;
@@ -62,7 +62,7 @@
 	left: 5px;
 }
 
-#u37679
+#u42038
 {
 	z-index: 29;
 	width: 372px;
@@ -75,7 +75,7 @@
 	left: 387px;
 }
 
-#u37670:hover,#u37679:hover
+#u42029:hover,#u42038:hover
 {
 	width: 372px;
 	height: 169px;
@@ -83,12 +83,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u37679_img
-{
-	padding-left: 109px;
-}
-
-#u37688
+#u42047
 {
 	z-index: 31;
 	width: 372px;
@@ -102,7 +97,7 @@
 	left: 5px;
 }
 
-#u37697
+#u42056
 {
 	z-index: 33;
 	width: 372px;
@@ -116,7 +111,7 @@
 	left: 387px;
 }
 
-#u37688:hover,#u37697:hover
+#u42047:hover,#u42056:hover
 {
 	width: 372px;
 	height: 169px;
@@ -124,12 +119,7 @@
 	margin: 179px -10000px 0px 0px;
 }
 
-#u37697_img
-{
-	padding-left: 105px;
-}
-
-#u37622
+#u41972
 {
 	position: absolute;
 	width: 720px;
@@ -143,12 +133,12 @@
 	-pie-background: rgba(0,0,0,0.9);
 }
 
-#u37622popup
+#u41972popup
 {
 	z-index: 35;
 }
 
-#u37673
+#u42032
 {
 	z-index: 36;
 	width: 676px;
@@ -160,7 +150,13 @@
 	left: 22px;
 }
 
-#u37682
+#u42032_img
+{
+	padding-left: 146px;
+	padding-right: 145px;
+}
+
+#u42041
 {
 	z-index: 38;
 	width: 676px;
@@ -172,7 +168,13 @@
 	left: 22px;
 }
 
-#u37691
+#u42041_img
+{
+	padding-left: 148px;
+	padding-right: 149px;
+}
+
+#u42050
 {
 	z-index: 40;
 	width: 676px;
@@ -184,7 +186,7 @@
 	left: 22px;
 }
 
-#u37700
+#u42059
 {
 	z-index: 42;
 	width: 676px;
@@ -196,13 +198,13 @@
 	left: 22px;
 }
 
-#u37673_img,#u37682_img,#u37691_img,#u37700_img
+#u42050_img,#u42059_img
 {
 	padding-left: 85px;
 	padding-right: 84px;
 }
 
-#u37621-3
+#u41971-3
 {
 	position: absolute;
 	width: 320px;
@@ -216,12 +218,12 @@
 	left: 662px;
 }
 
-#u37621-3popup
+#u41971-3popup
 {
 	z-index: 44;
 }
 
-#u37632-3
+#u41981-3
 {
 	position: absolute;
 	width: 322px;
@@ -235,7 +237,7 @@
 	left: 1061px;
 }
 
-#u37632-3popup
+#u41981-3popup
 {
 	z-index: 47;
 }
@@ -459,7 +461,7 @@
 	margin-top: 16px;
 }
 
-#u37706-4
+#u41968-4
 {
 	z-index: 50;
 	width: 485px;
@@ -473,7 +475,7 @@
 	left: 35px;
 }
 
-#u37707-5
+#u41966-5
 {
 	z-index: 54;
 	width: 217px;
@@ -487,17 +489,17 @@
 	left: 35px;
 }
 
-#u37707
+#u41966
 {
 	font-weight: bold;
 }
 
-#u37707-2
+#u41966-2
 {
 	font-weight: normal;
 }
 
-#u37708
+#u41967
 {
 	z-index: 60;
 	position: relative;
@@ -507,17 +509,17 @@
 	left: 35px;
 }
 
-#u37708_states
+#u41967_states
 {
 	height: 18px;
 	width: 217px;
 	vertical-align: top;
-	background: url("../images/u37708_states.png") no-repeat 0px 0px;
+	background: url("../images/u41967_states.png") no-repeat 0px 0px;
 }
 
-#u37708:hover #u37708_states
+#u41967:hover #u41967_states
 {
-	background: url("../images/u37708_states-r.png") no-repeat 0px 0px;
+	background: url("../images/u41967_states-r.png") no-repeat 0px 0px;
 }
 
 body
