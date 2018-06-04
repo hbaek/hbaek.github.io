@@ -1,7 +1,7 @@
 .version.winzlear_gear /* version checker */
 {
-	color: #0000F1;
-	background-color: #240863;
+	color: #0000E1;
+	background-color: #5F98A9;
 }
 
 .html
@@ -302,7 +302,7 @@
 	z-index: 29;
 }
 
-#u36812
+#u38071
 {
 	z-index: 30;
 	width: 366px;
@@ -315,21 +315,7 @@
 	left: 11px;
 }
 
-#u36812_clip
-{
-	overflow: hidden;
-	width: 366px;
-	height: 346px;
-}
-
-#u36812_img
-{
-	margin-top: -19px;
-	margin-right: 91px;
-	margin-bottom: 5px;
-}
-
-#u38071
+#u42373
 {
 	z-index: 32;
 	width: 366px;
@@ -342,7 +328,7 @@
 	left: 387px;
 }
 
-#u36812:hover,#u38071:hover
+#u38071:hover,#u42373:hover
 {
 	width: 366px;
 	height: 346px;
@@ -369,7 +355,7 @@
 	z-index: 34;
 }
 
-#u36815
+#u38074
 {
 	z-index: 35;
 	width: 480px;
@@ -381,7 +367,7 @@
 	left: 22px;
 }
 
-#u38074
+#u42376
 {
 	z-index: 37;
 	width: 480px;
@@ -393,7 +379,7 @@
 	left: 22px;
 }
 
-#u36815_img,#u38074_img
+#u38074_img,#u42376_img
 {
 	padding-left: 103px;
 	padding-right: 102px;
@@ -405,8 +391,8 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 69px;
@@ -424,8 +410,8 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
 	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 69px;
