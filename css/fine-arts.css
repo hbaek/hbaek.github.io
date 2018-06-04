@@ -1,7 +1,7 @@
 .version.fine_arts /* version checker */
 {
-	color: #0000E1;
-	background-color: #202B72;
+	color: #00000A;
+	background-color: #47CD77;
 }
 
 .html
@@ -170,6 +170,11 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#pu6640-3
+{
+	width: 0.01px;
+}
+
 #u6640-3
 {
 	z-index: 15;
@@ -181,10 +186,11 @@
 	left: 860px;
 }
 
-#u37890
+#u42688-3
 {
 	z-index: 18;
-	width: 749px;
+	width: 836px;
+	min-height: 895px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -193,59 +199,19 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 48px;
-	padding: 40px 44px 54px 43px;
 }
 
-#pu6640-3,#pu37892
+#u37891-34
 {
-	width: 0.01px;
-}
-
-#u37892
-{
-	z-index: 50;
-	width: 207px;
-	height: 222px;
-	border-color: #000000;
-	position: relative;
-	margin-right: -10000px;
-	background: #7F7F7F url("../images/millinery-u37892-fr.jpg") no-repeat right bottom;
-	background-size: cover;
-}
-
-#u37894
-{
-	z-index: 56;
-	width: 436px;
-	border-color: #000000;
-	position: relative;
-	margin-right: -10000px;
-	left: 313px;
-	background: #7F7F7F url("../images/history5.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u37895
-{
-	z-index: 57;
-	width: 492px;
-	height: 222px;
-	position: relative;
-	margin-right: -10000px;
-	left: -56px;
-	background: transparent url("../images/fwb_group3.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u37891-31
-{
-	z-index: 19;
+	z-index: 21;
 	width: 375px;
 	min-height: 455px;
 	background-color: transparent;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-top: 125px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 387px;
+	left: 92px;
 }
 
 #u37891-3,#u37891-11,#u37891-18
@@ -273,9 +239,30 @@
 	font-weight: normal;
 }
 
+#u37891-31,#u37891-32
+{
+	font-size: 13px;
+	line-height: 1.3;
+	font-weight: normal;
+}
+
+#u37892
+{
+	z-index: 55;
+	width: 207px;
+	height: 222px;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 41px;
+	left: 92px;
+	background: #7F7F7F url("../images/millinery-u37892-fr.jpg") no-repeat right bottom;
+	background-size: cover;
+}
+
 #u37893-5
 {
-	z-index: 51;
+	z-index: 56;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -284,19 +271,44 @@
 	left: 74px;
 }
 
+#u37894
+{
+	z-index: 61;
+	width: 436px;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 41px;
+	left: 405px;
+	background: #7F7F7F url("../images/history5.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u37895
+{
+	z-index: 62;
+	width: 492px;
+	height: 222px;
+	position: relative;
+	margin-right: -10000px;
+	left: -56px;
+	background: transparent url("../images/fwb_group3.jpg") no-repeat center center;
+	background-size: cover;
+}
+
 #u37896-5
 {
-	z-index: 58;
+	z-index: 63;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 0.9;
 	text-align: left;
 	font-size: 15px;
 	color: #5A0804;
-	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 421px;
@@ -314,9 +326,9 @@
 	margin: 421px -10000px 0px 0px;
 }
 
-#u37897-31
+#u37897-33
 {
-	z-index: 63;
+	z-index: 68;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -327,17 +339,17 @@
 
 #u37898-5
 {
-	z-index: 94;
+	z-index: 101;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 0.9;
 	text-align: left;
 	font-size: 15px;
 	color: #5A0804;
-	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 437px;
@@ -357,17 +369,17 @@
 
 #u37899-5
 {
-	z-index: 99;
+	z-index: 106;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 0.9;
 	text-align: left;
 	font-size: 15px;
 	color: #5A0804;
-	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 506px;
@@ -387,17 +399,17 @@
 
 #u38274-5
 {
-	z-index: 104;
+	z-index: 111;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 0.9;
 	text-align: left;
 	font-size: 15px;
 	color: #5A0804;
-	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 577px;
@@ -417,17 +429,17 @@
 
 #u38275-5
 {
-	z-index: 109;
+	z-index: 116;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 0.9;
 	text-align: left;
 	font-size: 15px;
 	color: #5A0804;
-	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 525px;
@@ -447,17 +459,17 @@
 
 #u41256-5
 {
-	z-index: 114;
+	z-index: 121;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 0.9;
 	text-align: left;
 	font-size: 15px;
 	color: #5A0804;
-	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 595px;
@@ -477,17 +489,17 @@
 
 #u41257-5
 {
-	z-index: 119;
+	z-index: 126;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 0.9;
 	text-align: left;
 	font-size: 15px;
 	color: #5A0804;
-	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 613px;
@@ -508,17 +520,17 @@
 
 #u42073-5
 {
-	z-index: 124;
+	z-index: 131;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 0.9;
 	text-align: left;
 	font-size: 15px;
 	color: #5A0804;
-	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 662px;
@@ -537,23 +549,54 @@
 	margin: 662px -10000px 0px 0px;
 }
 
-#u37896-5:hover p,#u37896-5:hover span,#u37898-5:hover p,#u37898-5:hover span,#u37899-5:hover p,#u37899-5:hover span,#u38274-5:hover p,#u38274-5:hover span,#u38275-5:hover p,#u38275-5:hover span,#u41256-5:hover p,#u41256-5:hover span,#u41257-5:hover p,#u41257-5:hover span,#u42073-5:hover p,#u42073-5:hover span
+#u42689-5
+{
+	z-index: 136;
+	width: 926px;
+	min-height: 20px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	line-height: 0.9;
+	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 678px;
+	left: 4px;
+}
+
+#u42689-5:hover
+{
+	opacity: 0.64;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=64)";
+	filter: alpha(opacity=64);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 20px;
+	width: 926px;
+	margin: 678px -10000px 0px 0px;
+}
+
+#u37896-5:hover p,#u37896-5:hover span,#u37898-5:hover p,#u37898-5:hover span,#u37899-5:hover p,#u37899-5:hover span,#u38274-5:hover p,#u38274-5:hover span,#u38275-5:hover p,#u38275-5:hover span,#u41256-5:hover p,#u41256-5:hover span,#u41257-5:hover p,#u41257-5:hover span,#u42073-5:hover p,#u42073-5:hover span,#u42689-5:hover p,#u42689-5:hover span
 {
 	color: #5A0804;
 	visibility: inherit;
 }
 
-#u37896-3,#u37898-3,#u37899-3,#u38274-3,#u38275-3,#u41256-3,#u41257-3,#u42073-3
+#u37896-3,#u37898-3,#u37899-3,#u38274-3,#u38275-3,#u41256-3,#u41257-3,#u42073-3,#u42689-3
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u37896-3  span,#u37898-3  span,#u37899-3  span,#u38274-3  span,#u38275-3  span,#u41256-3  span,#u41257-3  span,#u42073-3  span /* line-height set on spans of mixed font sized paras */
+#u37896-3  span,#u37898-3  span,#u37899-3  span,#u38274-3  span,#u38275-3  span,#u41256-3  span,#u41257-3  span,#u42073-3  span,#u42689-3  span /* line-height set on spans of mixed font sized paras */
 {
 	line-height: 0.9;
 }
 
-#u37896-2,#u37898-2,#u37899-2,#u38274-2,#u38275-2,#u41256-2,#u41257-2,#u42073-2
+#u37896-2,#u37898-2,#u37899-2,#u38274-2,#u38275-2,#u41256-2,#u41257-2,#u42073-2,#u42689-2
 {
 	font-size: 14px;
 }

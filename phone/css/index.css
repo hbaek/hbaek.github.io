@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #3F1523;
+	color: #00001C;
+	background-color: #E3B2AA;
 }
 
 @-ms-viewport
@@ -71,20 +71,11 @@
 	margin: 0px;
 }
 
-#pu29407-13
+#ppu27618
 {
 	width: 0.01px;
 	margin-left: 4px;
 	margin-top: 14px;
-}
-
-#u29407-13
-{
-	z-index: 7;
-	width: 19px;
-	min-height: 125px;
-	margin-right: -10000px;
-	margin-top: 2px;
 }
 
 #pu27618
@@ -112,7 +103,7 @@
 	left: 27px;
 	padding-top: 78px;
 	z-index: 2;
-	padding-bottom: 37px;
+	padding-bottom: 152px;
 }
 
 #u34297
@@ -124,38 +115,41 @@
 	border-style: solid;
 	border-color: #586F5F;
 	position: relative;
-	background: transparent url("../../images/%eb%b3%b5%ea%b3%bc%eb%88%8810-u34297-fr.jpg") no-repeat center center;
+	margin-right: -10000px;
+	background: transparent url("../../images/s_6-u34297-fr.jpg") no-repeat center center;
 	background-size: contain;
 }
 
-#u34302-8
+#u29407-13
 {
-	z-index: 35;
-	width: 216px;
-	min-height: 53px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	line-height: 2.39;
-	font-size: 11px;
-	text-align: center;
-	letter-spacing: 2px;
-	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
-	margin-top: 35px;
-	position: relative;
+	z-index: 7;
+	width: 19px;
+	min-height: 125px;
+	margin-right: -10000px;
+	margin-top: 2px;
 }
 
-#u34302-8:hover
+#u34302
 {
-	opacity: 0.29;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=28.999999999999996)";
-	filter: alpha(opacity=28.999999999999996);
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 53px;
-	width: 216px;
-	margin: 35px 0px 0px;
+	z-index: 36;
+	position: relative;
+	width: 218px;
+	margin-right: -10000px;
+	margin-top: 334px;
+	left: 68px;
+}
+
+#u34302_states
+{
+	height: 55px;
+	width: 218px;
+	vertical-align: top;
+	background: url("../../images/u34302_states.png") no-repeat 0px 0px;
+}
+
+#u34302:hover #u34302_states
+{
+	background: url("../../images/u34302_states-r.png") no-repeat 0px 0px;
 }
 
 #u29450-5

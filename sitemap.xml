@@ -1560,6 +1560,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/s_6.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/s_1.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/s_2.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/s_3.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/s_4.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/s_5.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/phone/forget-me-not.html</loc>
     <lastmod>2017-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -1849,13 +1885,19 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/traditionalmillinerymenu.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/layeroverlayeroverlayer.html</loc>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/fine-arts.html</loc>
-    <lastmod>2018-05-01</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
