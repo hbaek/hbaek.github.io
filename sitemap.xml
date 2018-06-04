@@ -468,6 +468,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/dsc03798.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/dsc03510.jpg</loc>
     <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -1500,6 +1506,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/dsc03798361x361.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03837-%EB%B3%B5%EA%B5%AC%EB%90%A8361x361.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03798360x360.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03837-%EB%B3%B5%EA%B5%AC%EB%90%A8360x360.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/phone/forget-me-not.html</loc>
     <lastmod>2017-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -1646,12 +1676,6 @@
   <url>
     <loc>http://www.hazelbaek.com/phone/shadeofhue.html</loc>
     <lastmod>2017-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/phone/cherry-bling.html</loc>
-    <lastmod>2017-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1827,7 +1851,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/white-straw-and-black-crosses.html</loc>
-    <lastmod>2017-11-23</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1974,5 +1998,12 @@
     <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/cherry-bling.html</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/cherry-bling.html"/>
   </url>
 </urlset>

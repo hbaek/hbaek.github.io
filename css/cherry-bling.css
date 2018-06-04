@@ -1,7 +1,7 @@
-.version.white_straw_and_black_crosses /* version checker */
+.version.cherry_bling /* version checker */
 {
-	color: #00000A;
-	background-color: #3FF14C;
+	color: #0000E0;
+	background-color: #251A36;
 }
 
 .html
@@ -214,7 +214,7 @@
 	padding: 310px 301px 61.34999999999991px 42px;
 }
 
-#u36635-3
+#u42388-3
 {
 	z-index: 25;
 	width: 5px;
@@ -239,7 +239,7 @@
 	margin-top: 31px;
 }
 
-#slideshowu36636
+#slideshowu42390
 {
 	z-index: 28;
 	width: 0.01px;
@@ -250,7 +250,7 @@
 	left: 29px;
 }
 
-#u36651
+#u42393
 {
 	position: absolute;
 	width: 765px;
@@ -260,12 +260,12 @@
 	padding-bottom: 356px;
 }
 
-#u36651popup
+#u42393popup
 {
 	z-index: 29;
 }
 
-#u36690
+#u42424
 {
 	z-index: 30;
 	width: 361px;
@@ -278,7 +278,7 @@
 	left: 16px;
 }
 
-#u42461
+#u42433
 {
 	z-index: 32;
 	width: 361px;
@@ -291,7 +291,7 @@
 	left: 387px;
 }
 
-#u36690:hover,#u42461:hover
+#u42424:hover,#u42433:hover
 {
 	width: 361px;
 	height: 346px;
@@ -299,7 +299,20 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u36639
+#u42424_clip,#u42433_clip
+{
+	overflow: hidden;
+	width: 361px;
+	height: 346px;
+}
+
+#u42424_img,#u42433_img
+{
+	margin-top: -7px;
+	margin-bottom: -8px;
+}
+
+#u42405
 {
 	position: absolute;
 	width: 524px;
@@ -313,12 +326,12 @@
 	-pie-background: rgba(0,0,0,0.9);
 }
 
-#u36639popup
+#u42405popup
 {
 	z-index: 34;
 }
 
-#u36687
+#u42427
 {
 	z-index: 35;
 	width: 480px;
@@ -330,7 +343,7 @@
 	left: 22px;
 }
 
-#u42464
+#u42436
 {
 	z-index: 37;
 	width: 480px;
@@ -342,13 +355,13 @@
 	left: 22px;
 }
 
-#u36687_img,#u42464_img
+#u42427_img,#u42436_img
 {
-	padding-left: 103px;
-	padding-right: 102px;
+	padding-left: 60px;
+	padding-right: 60px;
 }
 
-#u36638-3
+#u42392-3
 {
 	position: absolute;
 	width: 123px;
@@ -362,12 +375,12 @@
 	left: 88px;
 }
 
-#u36638-3popup
+#u42392-3popup
 {
 	z-index: 39;
 }
 
-#u36637-3
+#u42391-3
 {
 	position: absolute;
 	width: 125px;
@@ -381,7 +394,7 @@
 	left: 487px;
 }
 
-#u36637-3popup
+#u42391-3popup
 {
 	z-index: 42;
 }
@@ -396,7 +409,7 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#u36752-4
+#u42387-4
 {
 	z-index: 45;
 	width: 491px;
@@ -412,12 +425,12 @@
 	left: 44px;
 }
 
-#u36752
+#u42387
 {
 	font-weight: normal;
 }
 
-#u37224-5
+#u42389-5
 {
 	z-index: 49;
 	width: 217px;
@@ -431,12 +444,12 @@
 	left: 44px;
 }
 
-#u37224
+#u42389
 {
 	font-weight: bold;
 }
 
-#u37225
+#u42386
 {
 	z-index: 55;
 	position: relative;
@@ -446,17 +459,17 @@
 	left: 44px;
 }
 
-#u37225_states
+#u42386_states
 {
 	height: 18px;
 	width: 217px;
 	vertical-align: top;
-	background: url("../images/u37225_states.png") no-repeat 0px 0px;
+	background: url("../images/u42386_states.png") no-repeat 0px 0px;
 }
 
-#u37225:hover #u37225_states
+#u42386:hover #u42386_states
 {
-	background: url("../images/u37225_states-r.png") no-repeat 0px 0px;
+	background: url("../images/u42386_states-r.png") no-repeat 0px 0px;
 }
 
 #u38201

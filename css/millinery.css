@@ -1,7 +1,7 @@
 .version.millinery /* version checker */
 {
-	color: #000007;
-	background-color: #F7BA8A;
+	color: #000002;
+	background-color: #98CECF;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 927px;
+	width: 928px;
 	min-height: 930px;
 	background-image: none;
 	border-width: 1px;
@@ -21,7 +21,7 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 24px 13px 107px;
+	padding: 24px 12px 107px 13px;
 }
 
 #menuu36245
@@ -198,7 +198,7 @@
 
 #u37859
 {
-	z-index: 49;
+	z-index: 50;
 	width: 207px;
 	height: 222px;
 	border-color: #000000;
@@ -210,7 +210,7 @@
 
 #u37861
 {
-	z-index: 55;
+	z-index: 56;
 	width: 436px;
 	border-color: #000000;
 	position: relative;
@@ -222,7 +222,7 @@
 
 #u37862
 {
-	z-index: 56;
+	z-index: 57;
 	width: 492px;
 	height: 222px;
 	position: relative;
@@ -234,14 +234,14 @@
 
 #u37860-5
 {
-	z-index: 50;
+	z-index: 51;
 	display: block;
 	vertical-align: top;
 	margin-top: 19px;
 	position: relative;
 }
 
-#u37858-33
+#u37858-34
 {
 	z-index: 16;
 	width: 375px;
@@ -252,19 +252,19 @@
 	position: relative;
 }
 
-#u37858-5,#u37858-7,#u37858-9,#u37858-10,#u37858-11,#u37858-15,#u37858-17,#u37858-18,#u37858-19,#u37858-23,#u37858-25,#u37858-26,#u37858-27
+#u37858-5,#u37858-7,#u37858-9,#u37858-11,#u37858-12,#u37858-16,#u37858-18,#u37858-19,#u37858-20,#u37858-24,#u37858-26,#u37858-27,#u37858-28
 {
 	font-size: 13px;
 	line-height: 1.3;
 }
 
-#u37858-3,#u37858-13,#u37858-21,#u37858-29
+#u37858-3,#u37858-14,#u37858-22,#u37858-30
 {
 	line-height: 1.3;
 	font-weight: bold;
 }
 
-#u37858-31
+#u37858-32
 {
 	font-size: 13px;
 	line-height: 1.3;
@@ -273,7 +273,7 @@
 
 #u37863-5
 {
-	z-index: 57;
+	z-index: 58;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -301,9 +301,9 @@
 	margin: 421px -10000px 0px 0px;
 }
 
-#u37864-33
+#u37864-34
 {
-	z-index: 62;
+	z-index: 63;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -314,7 +314,7 @@
 
 #u37865-5
 {
-	z-index: 95;
+	z-index: 97;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -344,7 +344,7 @@
 
 #u37866-5
 {
-	z-index: 100;
+	z-index: 102;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -374,7 +374,7 @@
 
 #u37867-5
 {
-	z-index: 105;
+	z-index: 107;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -404,7 +404,7 @@
 
 #u37868-5
 {
-	z-index: 110;
+	z-index: 112;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -434,7 +434,7 @@
 
 #u37869-5
 {
-	z-index: 115;
+	z-index: 117;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -464,7 +464,7 @@
 
 #u37870-5
 {
-	z-index: 120;
+	z-index: 122;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -494,7 +494,7 @@
 
 #u41940-5
 {
-	z-index: 125;
+	z-index: 127;
 	width: 926px;
 	min-height: 24px;
 	background-color: transparent;
@@ -522,23 +522,54 @@
 	margin: 692px -10000px 0px 0px;
 }
 
-#u37863-5:hover p,#u37863-5:hover span,#u37865-5:hover p,#u37865-5:hover span,#u37866-5:hover p,#u37866-5:hover span,#u37867-5:hover p,#u37867-5:hover span,#u37868-5:hover p,#u37868-5:hover span,#u37869-5:hover p,#u37869-5:hover span,#u37870-5:hover p,#u37870-5:hover span,#u41940-5:hover p,#u41940-5:hover span
+#u42442-5
+{
+	z-index: 132;
+	width: 926px;
+	min-height: 16px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	line-height: 0.9;
+	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 471px;
+	left: 1px;
+}
+
+#u42442-5:hover
+{
+	opacity: 0.64;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=64)";
+	filter: alpha(opacity=64);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 16px;
+	width: 926px;
+	margin: 471px -10000px 0px 0px;
+}
+
+#u37863-5:hover p,#u37863-5:hover span,#u37865-5:hover p,#u37865-5:hover span,#u37866-5:hover p,#u37866-5:hover span,#u37867-5:hover p,#u37867-5:hover span,#u37868-5:hover p,#u37868-5:hover span,#u37869-5:hover p,#u37869-5:hover span,#u37870-5:hover p,#u37870-5:hover span,#u41940-5:hover p,#u41940-5:hover span,#u42442-5:hover p,#u42442-5:hover span
 {
 	color: #5A0804;
 	visibility: inherit;
 }
 
-#u37863-3,#u37865-3,#u37866-3,#u37867-3,#u37868-3,#u37869-3,#u37870-3,#u41940-3
+#u37863-3,#u37865-3,#u37866-3,#u37867-3,#u37868-3,#u37869-3,#u37870-3,#u41940-3,#u42442-3
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u37863-3  span,#u37865-3  span,#u37866-3  span,#u37867-3  span,#u37868-3  span,#u37869-3  span,#u37870-3  span,#u41940-3  span /* line-height set on spans of mixed font sized paras */
+#u37863-3  span,#u37865-3  span,#u37866-3  span,#u37867-3  span,#u37868-3  span,#u37869-3  span,#u37870-3  span,#u41940-3  span,#u42442-3  span /* line-height set on spans of mixed font sized paras */
 {
 	line-height: 0.9;
 }
 
-#u37863-2,#u37865-2,#u37866-2,#u37867-2,#u37868-2,#u37869-2,#u37870-2,#u41940-2
+#u37863-2,#u37865-2,#u37866-2,#u37867-2,#u37868-2,#u37869-2,#u37870-2,#u41940-2,#u42442-2
 {
 	font-size: 14px;
 }
