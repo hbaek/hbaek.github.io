@@ -216,12 +216,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/45.jpg</loc>
-    <lastmod>2018-06-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/5.jpg</loc>
     <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,12 +235,6 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/6.jpg</loc>
-    <lastmod>2018-06-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/36.jpg</loc>
     <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1530,6 +1518,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/merrygoraound1271x360.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/merrygroudn5324x360.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/merrygroudn6244x360.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/merrygroudn2254x360.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/5311x360.png</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/1319x360.png</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/4272x360.jpg</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/phone/forget-me-not.html</loc>
     <lastmod>2017-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -1609,12 +1639,6 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/burgendy-rose.html</loc>
-    <lastmod>2017-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/phone/druid-crown.html</loc>
     <lastmod>2017-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1844,7 +1868,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/index.html</loc>
-    <lastmod>2018-03-25</lastmod>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/index.html"/>
@@ -2005,5 +2029,18 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/cherry-bling.html"/>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/merrygoround.html</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/druid-crown.html</loc>
+    <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/druid-crown.html"/>
   </url>
 </urlset>

@@ -27,9 +27,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
-	font-size: 10px;
 	text-align: center;
+	font-size: 10px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -60,9 +60,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
-	font-size: 10px;
 	text-align: center;
+	font-size: 10px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -78,7 +78,7 @@
 	border-style: solid;
 	border-color: #000000;
 	position: relative;
-	background: #7F7F7F url("../images/%eb%b3%b5%ea%b3%bc%eb%88%889-u36042-fr.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/img_20180117_122127.jpg") no-repeat left top;
 	background-size: cover;
 }
 
