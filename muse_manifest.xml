@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528109043279" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1528163375800" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -54,13 +54,13 @@
     <file name="fruit-punch.html" crc="264834204" mt="1511331497259" redirect="false" seo="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="29407460"/>
+    <file name="site_global.css" crc="484239522"/>
     <file name="index.css" crc="53351562" ref="index"/>
     <file name="contact.css" crc="3773573677" ref="contact"/>
     <file name="fine-arts.css" crc="172477815" ref="fine-arts"/>
     <file name="white-straw-and-black-crosses.css" crc="171962700" ref="white-straw-and-black-crosses"/>
     <file name="winzlear-gear.css" crc="3781138601" ref="winzlear-gear"/>
-    <file name="millinery.css" crc="196116670" ref="millinery"/>
+    <file name="millinery.css" crc="185379325" ref="millinery"/>
     <file name="wild-forget-me-not.css" crc="4233521885" ref="wild-forget-me-not"/>
     <file name="satin-buttercup.css" crc="3818254948" ref="satin-buttercup"/>
     <file name="green-spring-bonet.css" crc="4104084004" ref="green-spring-bonet"/>
@@ -69,7 +69,7 @@
     <file name="iris-water.css" crc="3988380849" ref="iris-water"/>
     <file name="cn-night.css" crc="229197550" ref="cn-night"/>
     <file name="ballerina-rouge.css" crc="4200751172" ref="ballerina-rouge"/>
-    <file name="master_2017submenu.css" crc="4107632314" ref="millinery:flowers:fine-arts:contact"/>
+    <file name="master_2017submenu.css" crc="4257016939" ref="millinery:flowers:fine-arts:contact"/>
     <file name="master_2017master.css" crc="3939581800" ref="index"/>
     <file name="shade-of-hue.css" crc="174524534" ref="shade-of-hue"/>
     <file name="master_page_millinery.css" crc="4145755604" ref="shade-of-hue:iris-water:green-spring-bonet:winzlear-gear:cn-night:waffle-cone:white-straw-and-black-crosses:ohkchyundang:underthewillowtree:sonicplaygroundmca:strawberryfold:howdoilovethee:rabitfurr:textile.0._2:textile.0.3:luck-and-eyes:cherry-bling:druid-crown:merrygoround"/>
@@ -608,7 +608,6 @@
     <file name="u42386_states.png" crc="4054899600" ref="cherry-bling"/>
     <file name="u42386_states-r.png" crc="4054899600" ref="cherry-bling"/>
     <file name="1-u37859-fr.png" crc="3833110318" ref="millinery"/>
-    <file name="u37864-44.png" crc="4237072931" ref="millinery"/>
     <file name="img_20180117_122127.jpg" crc="473859004" ref="index"/>
     <file name="merrygoraound1-crop-u42484.jpg" crc="4190344742" ref="merrygoround"/>
     <file name="merrygroudn5-crop-u42518.jpg" crc="3834168478" ref="merrygoround"/>
@@ -641,6 +640,7 @@
     <file name="s_3.jpg" crc="4018508659" seo="true" ref="phone>layeroverlayeroverlayer"/>
     <file name="s_4.jpg" crc="3900343145" seo="true" ref="phone>layeroverlayeroverlayer"/>
     <file name="s_5.jpg" crc="403149319" seo="true" ref="phone>layeroverlayeroverlayer"/>
+    <file name="u37864-43.png" crc="7809387" ref="millinery"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -784,7 +784,7 @@
   <file name="index.html" crc="4172662291" mt="1528107982445" redirect="true" seo="true"/>
   <file name="white-straw-and-black-crosses.html" crc="219792212" mt="1528104119213" redirect="true" seo="true"/>
   <file name="winzlear-gear.html" crc="381479099" mt="1528102841007" redirect="true" seo="true"/>
-  <file name="millinery.html" crc="4184416621" mt="1528107981614" redirect="true" seo="true"/>
+  <file name="millinery.html" crc="3804619709" mt="1528163357637" redirect="true" seo="true"/>
   <file name="wild-forget-me-not.html" crc="4273297126" mt="1522424218152" redirect="true" seo="true"/>
   <file name="satin-buttercup.html" crc="4043241013" mt="1522424379827" redirect="true" seo="true"/>
   <file name="green-spring-bonet.html" crc="4199591912" mt="1511444354370" redirect="true" seo="true"/>
