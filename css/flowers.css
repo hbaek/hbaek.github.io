@@ -1,7 +1,7 @@
 .version.flowers /* version checker */
 {
-	color: #000001;
-	background-color: #481BDE;
+	color: #000014;
+	background-color: #AD9D59;
 }
 
 .html
@@ -290,10 +290,10 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
-	text-align: left;
-	font-size: 15px;
 	color: #5A0804;
+	font-size: 15px;
+	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 143px;
@@ -370,10 +370,10 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
-	text-align: left;
-	font-size: 15px;
 	color: #5A0804;
+	font-size: 15px;
+	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 598px;
@@ -400,10 +400,10 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
-	text-align: left;
-	font-size: 15px;
 	color: #5A0804;
+	font-size: 15px;
+	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 615px;
@@ -430,10 +430,10 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
-	text-align: left;
-	font-size: 15px;
 	color: #5A0804;
+	font-size: 15px;
+	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 582px;
@@ -460,10 +460,10 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
-	text-align: left;
-	font-size: 15px;
 	color: #5A0804;
+	font-size: 15px;
+	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 633px;
@@ -491,10 +491,10 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
-	text-align: left;
-	font-size: 15px;
 	color: #5A0804;
+	font-size: 15px;
+	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 439px;
@@ -521,10 +521,10 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
-	text-align: left;
-	font-size: 15px;
 	color: #5A0804;
+	font-size: 15px;
+	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 423px;
@@ -592,9 +592,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -613,9 +613,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;
@@ -635,9 +635,9 @@
 	opacity: 0.7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
-	line-height: 1.87;
-	text-align: center;
 	font-size: 11px;
+	text-align: center;
+	line-height: 1.87;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-bottom: -1px;
 	position: relative;

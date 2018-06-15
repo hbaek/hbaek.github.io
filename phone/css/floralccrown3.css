@@ -1,7 +1,7 @@
 .version.floralccrown3 /* version checker */
 {
-	color: #00000A;
-	background-color: #B3C851;
+	color: #000017;
+	background-color: #5A3971;
 }
 
 @-ms-viewport
@@ -133,7 +133,7 @@
 
 #u38997-4
 {
-	z-index: 88;
+	z-index: 70;
 	display: block;
 	vertical-align: top;
 	margin-left: 55px;
@@ -183,106 +183,9 @@
 	left: 55px;
 }
 
-#u38994
-{
-	z-index: 71;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 15px;
-	left: 56px;
-}
-
-#u38994:hover #u38994_states
-{
-	background: url("../../images/u38994_states-r.png") no-repeat 0px 0px;
-}
-
-#u38993
-{
-	z-index: 74;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 63px;
-	left: 56px;
-}
-
-#u38993:hover #u38993_states
-{
-	background: url("../../images/u38993_states-r.png") no-repeat 0px 0px;
-}
-
-#u38989
-{
-	z-index: 77;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 111px;
-	left: 56px;
-}
-
-#u38989:hover #u38989_states
-{
-	background: url("../../images/u38989_states-r.png") no-repeat 0px 0px;
-}
-
-#u39005
-{
-	z-index: 80;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 159px;
-	left: 55px;
-}
-
-#u39005:hover #u39005_states
-{
-	background: url("../../images/u39005_states-r.png") no-repeat 0px 0px;
-}
-
-#u39000
-{
-	z-index: 83;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 207px;
-	left: 55px;
-}
-
-#u39000:hover #u39000_states
-{
-	background: url("../../images/u39000_states-r.png") no-repeat 0px 0px;
-}
-
-#u38991
-{
-	z-index: 86;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 255px;
-	left: 55px;
-}
-
-#u38994_states,#u38993_states,#u38989_states,#u39005_states,#u39000_states,#u38991_states
-{
-	height: 48px;
-	width: 242px;
-	vertical-align: top;
-}
-
-#u38991:hover #u38991_states
-{
-	background: url("../../images/u38991_states-r.png") no-repeat 0px 0px;
-}
-
 #u38996
 {
-	z-index: 92;
+	z-index: 74;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -297,7 +200,7 @@
 
 #u38987
 {
-	z-index: 93;
+	z-index: 75;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -323,7 +226,7 @@
 
 #u39004
 {
-	z-index: 94;
+	z-index: 76;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -338,7 +241,7 @@
 
 #u38998
 {
-	z-index: 95;
+	z-index: 77;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -349,6 +252,103 @@
 	margin-right: -10000px;
 	margin-top: 403px;
 	left: 227px;
+}
+
+#u38994
+{
+	z-index: 79;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 56px;
+}
+
+#u38994:hover #u38994_states
+{
+	background: url("../../images/u38994_states-r.png") no-repeat 0px 0px;
+}
+
+#u38993
+{
+	z-index: 82;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 63px;
+	left: 56px;
+}
+
+#u38993:hover #u38993_states
+{
+	background: url("../../images/u38993_states-r.png") no-repeat 0px 0px;
+}
+
+#u38989
+{
+	z-index: 85;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 111px;
+	left: 56px;
+}
+
+#u38989:hover #u38989_states
+{
+	background: url("../../images/u38989_states-r.png") no-repeat 0px 0px;
+}
+
+#u39005
+{
+	z-index: 88;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 159px;
+	left: 55px;
+}
+
+#u39005:hover #u39005_states
+{
+	background: url("../../images/u39005_states-r.png") no-repeat 0px 0px;
+}
+
+#u39000
+{
+	z-index: 91;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 207px;
+	left: 55px;
+}
+
+#u39000:hover #u39000_states
+{
+	background: url("../../images/u39000_states-r.png") no-repeat 0px 0px;
+}
+
+#u38991
+{
+	z-index: 94;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 255px;
+	left: 55px;
+}
+
+#u38994_states,#u38993_states,#u38989_states,#u39005_states,#u39000_states,#u38991_states
+{
+	height: 48px;
+	width: 242px;
+	vertical-align: top;
+}
+
+#u38991:hover #u38991_states
+{
+	background: url("../../images/u38991_states-r.png") no-repeat 0px 0px;
 }
 
 #u29450-5

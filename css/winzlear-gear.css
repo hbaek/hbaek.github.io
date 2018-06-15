@@ -1,7 +1,7 @@
 .version.winzlear_gear /* version checker */
 {
-	color: #0000E1;
-	background-color: #5F98A9;
+	color: #0000E3;
+	background-color: #538B79;
 }
 
 .html
@@ -13,13 +13,12 @@
 {
 	z-index: 1;
 	width: 953px;
-	min-height: 743.9500000000003px;
+	min-height: 744px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -27,7 +26,6 @@
 #page_position_content
 {
 	padding-top: 24px;
-	padding-bottom: 57px;
 	width: 0.01px;
 }
 
@@ -256,7 +254,6 @@
 {
 	z-index: 2;
 	width: 493px;
-	margin-bottom: -1px;
 	margin-right: -10000px;
 	padding: 450px 301px 61px 42px;
 }
@@ -280,7 +277,7 @@
 {
 	z-index: 28;
 	width: 0.01px;
-	height: 566px;
+	height: 702px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 42px;
@@ -294,7 +291,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 220px;
+	padding-bottom: 360px;
 }
 
 #u36777popup
@@ -306,7 +303,7 @@
 {
 	z-index: 30;
 	width: 366px;
-	height: 346px;
+	height: 166px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -315,11 +312,11 @@
 	left: 11px;
 }
 
-#u42373
+#u42961
 {
 	z-index: 32;
 	width: 366px;
-	height: 346px;
+	height: 166px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -328,12 +325,48 @@
 	left: 387px;
 }
 
-#u38071:hover,#u42373:hover
+#u38071:hover,#u42961:hover
 {
 	width: 366px;
-	height: 346px;
+	height: 166px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u42970
+{
+	z-index: 34;
+	width: 366px;
+	height: 166px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 176px;
+	left: 11px;
+}
+
+#u42984
+{
+	z-index: 36;
+	width: 366px;
+	height: 166px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 176px;
+	left: 387px;
+}
+
+#u42970:hover,#u42984:hover
+{
+	width: 366px;
+	height: 166px;
+	min-height: 0px;
+	margin: 176px -10000px 0px 0px;
 }
 
 #u36782
@@ -352,12 +385,12 @@
 
 #u36782popup
 {
-	z-index: 34;
+	z-index: 38;
 }
 
 #u38074
 {
-	z-index: 35;
+	z-index: 39;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -367,22 +400,64 @@
 	left: 22px;
 }
 
-#u42376
-{
-	z-index: 37;
-	width: 480px;
-	height: 360px;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#u38074_img,#u42376_img
+#u38074_img
 {
 	padding-left: 103px;
 	padding-right: 102px;
+}
+
+#u42964
+{
+	z-index: 41;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u42964_img
+{
+	padding-left: 102px;
+	padding-right: 103px;
+}
+
+#u42973
+{
+	z-index: 43;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u42973_img
+{
+	padding-left: 91px;
+	padding-right: 91px;
+}
+
+#u42987
+{
+	z-index: 45;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u42987_img
+{
+	padding-left: 114px;
+	padding-right: 114px;
 }
 
 #u36788-3
@@ -391,9 +466,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 69px;
 	left: 817px;
@@ -401,7 +476,7 @@
 
 #u36788-3popup
 {
-	z-index: 39;
+	z-index: 47;
 }
 
 #u36790-3
@@ -410,9 +485,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 69px;
 	left: 1216px;
@@ -420,12 +495,12 @@
 
 #u36790-3popup
 {
-	z-index: 42;
+	z-index: 50;
 }
 
 #u36822-4
 {
-	z-index: 45;
+	z-index: 53;
 	width: 485px;
 	min-height: 69px;
 	background-color: transparent;
@@ -439,7 +514,7 @@
 
 #u37222-5
 {
-	z-index: 49;
+	z-index: 57;
 	width: 217px;
 	min-height: 18px;
 	background-color: transparent;
@@ -463,7 +538,7 @@
 
 #u37223
 {
-	z-index: 55;
+	z-index: 63;
 	position: relative;
 	width: 217px;
 	margin-right: -10000px;
@@ -490,7 +565,7 @@
 	width: 51px;
 	height: 50px;
 	margin-left: 799px;
-	top: -51px;
+	top: -108px;
 	margin-bottom: -50px;
 }
 

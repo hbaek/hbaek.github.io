@@ -1,7 +1,7 @@
 .version.shade_of_hue /* version checker */
 {
-	color: #00000A;
-	background-color: #670876;
+	color: #0000FF;
+	background-color: #643A77;
 }
 
 .html
@@ -249,27 +249,23 @@
 	z-index: 26;
 }
 
-#u36987
+#u37014
 {
 	z-index: 27;
-	width: 377px;
+	width: 365px;
 	height: 165px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	left: 12px;
 }
 
-#u36987_img
-{
-	padding-right: 45px;
-}
-
-#u36996
+#u42909
 {
 	z-index: 29;
-	width: 377px;
+	width: 365px;
 	height: 165px;
 	border-style: none;
 	border-color: transparent;
@@ -279,18 +275,18 @@
 	left: 387px;
 }
 
-#u36987:hover,#u36996:hover
+#u37014:hover,#u42909:hover
 {
-	width: 377px;
+	width: 365px;
 	height: 165px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u37005
+#u42918
 {
 	z-index: 31;
-	width: 377px;
+	width: 365px;
 	height: 165px;
 	border-style: none;
 	border-color: transparent;
@@ -298,17 +294,13 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 175px;
+	left: 12px;
 }
 
-#u37005_img
-{
-	padding-right: 44px;
-}
-
-#u37014
+#u42927
 {
 	z-index: 33;
-	width: 377px;
+	width: 365px;
 	height: 165px;
 	border-style: none;
 	border-color: transparent;
@@ -319,17 +311,12 @@
 	left: 387px;
 }
 
-#u37005:hover,#u37014:hover
+#u42918:hover,#u42927:hover
 {
-	width: 377px;
+	width: 365px;
 	height: 165px;
 	min-height: 0px;
 	margin: 175px -10000px 0px 0px;
-}
-
-#u36996_img,#u37014_img
-{
-	padding-left: 98px;
 }
 
 #u36950
@@ -351,7 +338,7 @@
 	z-index: 35;
 }
 
-#u36990
+#u37017
 {
 	z-index: 36;
 	width: 480px;
@@ -363,7 +350,7 @@
 	left: 22px;
 }
 
-#u36999
+#u42912
 {
 	z-index: 38;
 	width: 480px;
@@ -375,7 +362,7 @@
 	left: 22px;
 }
 
-#u37008
+#u42921
 {
 	z-index: 40;
 	width: 480px;
@@ -387,7 +374,7 @@
 	left: 22px;
 }
 
-#u37017
+#u42930
 {
 	z-index: 42;
 	width: 480px;
@@ -399,7 +386,7 @@
 	left: 22px;
 }
 
-#u36990_img,#u36999_img,#u37008_img,#u37017_img
+#u37017_img,#u42912_img,#u42921_img,#u42930_img
 {
 	padding-left: 103px;
 	padding-right: 102px;
@@ -411,9 +398,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
+	color: #FFFFFF;
 	text-align: center;
 	line-height: 1.4;
-	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 5px;
 	left: 795px;
@@ -430,9 +417,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
+	color: #FFFFFF;
 	text-align: center;
 	line-height: 1.4;
-	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 5px;
 	left: 1194px;

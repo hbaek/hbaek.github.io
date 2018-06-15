@@ -135,6 +135,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
+.White-on-Black a,.Orange-on-White a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Orange-on-White a:link
 {
 	color: #DE6530;
@@ -205,12 +211,6 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #FFFFFF;
 	text-decoration: underline;
-}
-
-a,.White-on-Black a,.Orange-on-White a,.website a
-{
-	color: inherit;
-	text-decoration: inherit;
 }
 
 .website a:link

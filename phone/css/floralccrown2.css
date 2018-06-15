@@ -1,7 +1,7 @@
 .version.floralccrown2 /* version checker */
 {
-	color: #0000FB;
-	background-color: #C74872;
+	color: #0000E8;
+	background-color: #D4B7B6;
 }
 
 @-ms-viewport
@@ -141,7 +141,7 @@
 
 #u39022-4
 {
-	z-index: 97;
+	z-index: 76;
 	display: block;
 	vertical-align: top;
 	margin-left: 55px;
@@ -191,121 +191,9 @@
 	left: 55px;
 }
 
-#u39019
-{
-	z-index: 77;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 15px;
-	left: 55px;
-}
-
-#u39019:hover #u39019_states
-{
-	background: url("../../images/u39019_states-r.png") no-repeat 0px 0px;
-}
-
-#u39018
-{
-	z-index: 80;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 63px;
-	left: 55px;
-}
-
-#u39018:hover #u39018_states
-{
-	background: url("../../images/u39018_states-r.png") no-repeat 0px 0px;
-}
-
-#u39014
-{
-	z-index: 83;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 111px;
-	left: 55px;
-}
-
-#u39014:hover #u39014_states
-{
-	background: url("../../images/u39014_states-r.png") no-repeat 0px 0px;
-}
-
-#u39030
-{
-	z-index: 86;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 159px;
-	left: 55px;
-}
-
-#u39030:hover #u39030_states
-{
-	background: url("../../images/u39030_states-r.png") no-repeat 0px 0px;
-}
-
-#u39025
-{
-	z-index: 89;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 207px;
-	left: 55px;
-}
-
-#u39025:hover #u39025_states
-{
-	background: url("../../images/u39025_states-r.png") no-repeat 0px 0px;
-}
-
-#u39013
-{
-	z-index: 92;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 303px;
-	left: 55px;
-}
-
-#u39013:hover #u39013_states
-{
-	background: url("../../images/u39013_states-r.png") no-repeat 0px 0px;
-}
-
-#u39016
-{
-	z-index: 95;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 255px;
-	left: 55px;
-}
-
-#u39019_states,#u39018_states,#u39014_states,#u39030_states,#u39025_states,#u39013_states,#u39016_states
-{
-	height: 48px;
-	width: 242px;
-	vertical-align: top;
-}
-
-#u39016:hover #u39016_states
-{
-	background: url("../../images/u39016_states-r.png") no-repeat 0px 0px;
-}
-
 #u39021
 {
-	z-index: 101;
+	z-index: 80;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -320,7 +208,7 @@
 
 #u39012
 {
-	z-index: 102;
+	z-index: 81;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -335,7 +223,7 @@
 
 #u39029
 {
-	z-index: 103;
+	z-index: 82;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -350,7 +238,7 @@
 
 #u39023
 {
-	z-index: 104;
+	z-index: 83;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -361,6 +249,118 @@
 	margin-right: -10000px;
 	margin-top: 403px;
 	left: 227px;
+}
+
+#u39019
+{
+	z-index: 85;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 55px;
+}
+
+#u39019:hover #u39019_states
+{
+	background: url("../../images/u39019_states-r.png") no-repeat 0px 0px;
+}
+
+#u39018
+{
+	z-index: 88;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 63px;
+	left: 55px;
+}
+
+#u39018:hover #u39018_states
+{
+	background: url("../../images/u39018_states-r.png") no-repeat 0px 0px;
+}
+
+#u39014
+{
+	z-index: 91;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 111px;
+	left: 55px;
+}
+
+#u39014:hover #u39014_states
+{
+	background: url("../../images/u39014_states-r.png") no-repeat 0px 0px;
+}
+
+#u39030
+{
+	z-index: 94;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 159px;
+	left: 54px;
+}
+
+#u39030:hover #u39030_states
+{
+	background: url("../../images/u39030_states-r.png") no-repeat 0px 0px;
+}
+
+#u39025
+{
+	z-index: 97;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 207px;
+	left: 55px;
+}
+
+#u39025:hover #u39025_states
+{
+	background: url("../../images/u39025_states-r.png") no-repeat 0px 0px;
+}
+
+#u39016
+{
+	z-index: 100;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 255px;
+	left: 55px;
+}
+
+#u39016:hover #u39016_states
+{
+	background: url("../../images/u39016_states-r.png") no-repeat 0px 0px;
+}
+
+#u39013
+{
+	z-index: 103;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 303px;
+	left: 55px;
+}
+
+#u39019_states,#u39018_states,#u39014_states,#u39030_states,#u39025_states,#u39016_states,#u39013_states
+{
+	height: 48px;
+	width: 242px;
+	vertical-align: top;
+}
+
+#u39013:hover #u39013_states
+{
+	background: url("../../images/u39013_states-r.png") no-repeat 0px 0px;
 }
 
 #u29450-5

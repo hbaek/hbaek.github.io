@@ -1,7 +1,7 @@
 .version.floralccrown1 /* version checker */
 {
-	color: #0000E5;
-	background-color: #158766;
+	color: #000001;
+	background-color: #AC3D52;
 }
 
 @-ms-viewport
@@ -141,7 +141,7 @@
 
 #u38951-4
 {
-	z-index: 97;
+	z-index: 91;
 	display: block;
 	vertical-align: top;
 	margin-left: 55px;
@@ -191,39 +191,9 @@
 	left: 55px;
 }
 
-#u38944
-{
-	z-index: 77;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 15px;
-	left: 55px;
-}
-
-#u38944:hover #u38944_states
-{
-	background: url("../../images/u38944_states-r.png") no-repeat 0px 0px;
-}
-
-#u38945
-{
-	z-index: 80;
-	position: relative;
-	width: 242px;
-	margin-right: -10000px;
-	margin-top: 63px;
-	left: 56px;
-}
-
-#u38945:hover #u38945_states
-{
-	background: url("../../images/u38945_states-r.png") no-repeat 0px 0px;
-}
-
 #u38946
 {
-	z-index: 83;
+	z-index: 77;
 	position: relative;
 	width: 242px;
 	margin-right: -10000px;
@@ -238,7 +208,7 @@
 
 #u38947
 {
-	z-index: 86;
+	z-index: 80;
 	position: relative;
 	width: 242px;
 	margin-right: -10000px;
@@ -253,7 +223,7 @@
 
 #u38948
 {
-	z-index: 89;
+	z-index: 83;
 	position: relative;
 	width: 242px;
 	margin-right: -10000px;
@@ -268,7 +238,7 @@
 
 #u38949
 {
-	z-index: 92;
+	z-index: 86;
 	position: relative;
 	width: 242px;
 	margin-right: -10000px;
@@ -283,19 +253,12 @@
 
 #u38950
 {
-	z-index: 95;
+	z-index: 89;
 	position: relative;
 	width: 242px;
 	margin-right: -10000px;
 	margin-top: 255px;
 	left: 55px;
-}
-
-#u38944_states,#u38945_states,#u38946_states,#u38947_states,#u38948_states,#u38949_states,#u38950_states
-{
-	height: 48px;
-	width: 242px;
-	vertical-align: top;
 }
 
 #u38950:hover #u38950_states
@@ -305,7 +268,7 @@
 
 #u38955
 {
-	z-index: 101;
+	z-index: 95;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -320,7 +283,7 @@
 
 #u38956
 {
-	z-index: 102;
+	z-index: 96;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -346,7 +309,7 @@
 
 #u38957
 {
-	z-index: 103;
+	z-index: 97;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -361,7 +324,7 @@
 
 #u38958
 {
-	z-index: 104;
+	z-index: 98;
 	width: 32px;
 	height: 28px;
 	background-color: #F9F8F7;
@@ -372,6 +335,43 @@
 	margin-right: -10000px;
 	margin-top: 403px;
 	left: 224px;
+}
+
+#u42894
+{
+	z-index: 100;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 55px;
+}
+
+#u42894:hover #u42894_states
+{
+	background: url("../../images/u42894_states-r.png") no-repeat 0px 0px;
+}
+
+#u38945
+{
+	z-index: 103;
+	position: relative;
+	width: 242px;
+	margin-right: -10000px;
+	margin-top: 63px;
+	left: 55px;
+}
+
+#u38946_states,#u38947_states,#u38948_states,#u38949_states,#u38950_states,#u42894_states,#u38945_states
+{
+	height: 48px;
+	width: 242px;
+	vertical-align: top;
+}
+
+#u38945:hover #u38945_states
+{
+	background: url("../../images/u38945_states-r.png") no-repeat 0px 0px;
 }
 
 #u29450-5
