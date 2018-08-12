@@ -1644,6 +1644,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/img_20180117_122055.jpg</loc>
+    <lastmod>2018-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/img_20180117_122111.jpg</loc>
+    <lastmod>2018-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/img_20180117_122120.jpg</loc>
+    <lastmod>2018-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/img_20180117_122127.jpg</loc>
+    <lastmod>2018-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/img_20180117_122133.jpg</loc>
+    <lastmod>2018-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/%EC%98%A5%EC%B6%98%EB%8B%B91.jpg</loc>
+    <lastmod>2018-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/%EC%98%A5%EC%B6%98%EB%8B%B92.jpg</loc>
+    <lastmod>2018-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/phone/forget-me-not.html</loc>
     <lastmod>2017-12-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -1933,13 +1975,19 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/traditionalmillinerymenu.html</loc>
-    <lastmod>2018-06-04</lastmod>
+    <lastmod>2018-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/layeroverlayeroverlayer.html</loc>
     <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/phone/ohkchundang.html</loc>
+    <lastmod>2018-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
