@@ -1,7 +1,7 @@
 .version.millinery /* version checker */
 {
-	color: #00000B;
-	background-color: #0CA9FD;
+	color: #0000F1;
+	background-color: #02F1FB;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 926px;
-	min-height: 930px;
+	min-height: 940px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
@@ -21,7 +21,7 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 24px 13px 107px 14px;
+	padding: 24px 13px 97px 14px;
 }
 
 #menuu36245
@@ -186,8 +186,8 @@
 	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	left: 48px;
-	padding: 40px 44px 54px 25px;
+	left: 45px;
+	padding: 40px 41px 54.25000000000023px 28px;
 }
 
 #pu37859
@@ -198,7 +198,7 @@
 
 #u37859
 {
-	z-index: 59;
+	z-index: 61;
 	width: 207px;
 	height: 222px;
 	border-color: #000000;
@@ -210,7 +210,7 @@
 
 #u37861
 {
-	z-index: 65;
+	z-index: 67;
 	width: 436px;
 	border-color: #000000;
 	position: relative;
@@ -222,7 +222,7 @@
 
 #u37862
 {
-	z-index: 66;
+	z-index: 68;
 	width: 492px;
 	height: 222px;
 	position: relative;
@@ -234,14 +234,14 @@
 
 #u37860-5
 {
-	z-index: 60;
+	z-index: 62;
 	display: block;
 	vertical-align: top;
 	margin-top: 19px;
 	position: relative;
 }
 
-#u37858-43
+#u37858-45
 {
 	z-index: 16;
 	width: 375px;
@@ -249,6 +249,7 @@
 	background-color: transparent;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 18px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -264,7 +265,7 @@
 	font-weight: bold;
 }
 
-#u37858-39,#u37858-41
+#u37858-39,#u37858-41,#u37858-43
 {
 	font-size: 13px;
 	line-height: 1.3;
@@ -273,7 +274,7 @@
 
 #u37863-3
 {
-	z-index: 67;
+	z-index: 69;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -281,9 +282,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 421px;
@@ -304,9 +305,9 @@
 	margin: 421px -10001px -1px 0px;
 }
 
-#u37864-43
+#u37864-45
 {
-	z-index: 70;
+	z-index: 72;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -317,7 +318,7 @@
 
 #u42883-3
 {
-	z-index: 113;
+	z-index: 117;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -325,9 +326,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 437px;
@@ -350,7 +351,7 @@
 
 #u42884-3
 {
-	z-index: 116;
+	z-index: 120;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -358,9 +359,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 457px;
@@ -383,7 +384,7 @@
 
 #u42885-3
 {
-	z-index: 119;
+	z-index: 123;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -391,9 +392,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 473px;
@@ -416,7 +417,7 @@
 
 #u42886-3
 {
-	z-index: 122;
+	z-index: 126;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -424,9 +425,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 542px;
@@ -449,7 +450,7 @@
 
 #u42887-3
 {
-	z-index: 125;
+	z-index: 129;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -457,9 +458,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 558px;
@@ -482,7 +483,7 @@
 
 #u42888-3
 {
-	z-index: 128;
+	z-index: 132;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -490,9 +491,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 627px;
@@ -515,7 +516,7 @@
 
 #u42889-3
 {
-	z-index: 131;
+	z-index: 135;
 	width: 926px;
 	min-height: 16px;
 	background-color: transparent;
@@ -523,9 +524,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 643px;
@@ -548,7 +549,7 @@
 
 #u42890-3
 {
-	z-index: 134;
+	z-index: 138;
 	width: 926px;
 	min-height: 18px;
 	background-color: transparent;
@@ -556,9 +557,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 659px;
@@ -581,7 +582,7 @@
 
 #u42891-3
 {
-	z-index: 137;
+	z-index: 141;
 	width: 926px;
 	min-height: 18px;
 	background-color: transparent;
@@ -589,9 +590,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 677px;
@@ -614,7 +615,7 @@
 
 #u42892-3
 {
-	z-index: 140;
+	z-index: 144;
 	width: 926px;
 	min-height: 18px;
 	background-color: transparent;
@@ -622,9 +623,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 781px;
@@ -647,7 +648,7 @@
 
 #u42893-3
 {
-	z-index: 143;
+	z-index: 147;
 	width: 926px;
 	min-height: 18px;
 	background-color: transparent;
@@ -655,9 +656,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 0.9;
-	color: #5A0804;
-	font-size: 15px;
 	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 799px;
@@ -678,10 +679,75 @@
 	margin: 799px -10001px -1px 0px;
 }
 
-#u37863-3:hover p,#u42883-3:hover p,#u42884-3:hover p,#u42885-3:hover p,#u42886-3:hover p,#u42887-3:hover p,#u42888-3:hover p,#u42889-3:hover p,#u42890-3:hover p,#u42891-3:hover p,#u42892-3:hover p,#u42893-3:hover p
+#u43270-3
+{
+	z-index: 150;
+	width: 926px;
+	min-height: 18px;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	line-height: 0.9;
+	text-align: left;
+	font-size: 15px;
+	color: #5A0804;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 817px;
+}
+
+#u43270-3:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #603813;
+	opacity: 0.64;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=64)";
+	filter: alpha(opacity=64);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 925px;
+	margin: 817px -10001px -1px 0px;
+}
+
+#u37863-3:hover p,#u42883-3:hover p,#u42884-3:hover p,#u42885-3:hover p,#u42886-3:hover p,#u42887-3:hover p,#u42888-3:hover p,#u42889-3:hover p,#u42890-3:hover p,#u42891-3:hover p,#u42892-3:hover p,#u42893-3:hover p,#u43270-3:hover p
 {
 	color: #5A0804;
 	visibility: inherit;
+}
+
+#u43271-4
+{
+	z-index: 153;
+	-webkit-transform: matrix(0.9272,-0.3746,0.3746,0.9272,-2,5);
+	-ms-transform: matrix(0.9272,-0.3746,0.3746,0.9272,-2,5);
+	transform: matrix(0.9272,-0.3746,0.3746,0.9272,-2,5);
+	position: relative;
+	width: 26px;
+	margin-right: -10000px;
+	margin-top: 823px;
+	left: 65px;
+}
+
+#u43273-4
+{
+	z-index: 157;
+	-webkit-transform: matrix(0.9272,-0.3746,0.3746,0.9272,-2,5);
+	-ms-transform: matrix(0.9272,-0.3746,0.3746,0.9272,-2,5);
+	transform: matrix(0.9272,-0.3746,0.3746,0.9272,-2,5);
+	position: relative;
+	width: 26px;
+	margin-right: -10000px;
+	margin-top: 818px;
+	left: 777px;
+}
+
+#u43271-4_img,#u43273-4_img
+{
+	display: block;
+	vertical-align: top;
 }
 
 body
