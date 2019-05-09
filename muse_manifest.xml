@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1534078628585" iceMarkupVersion="2" domain="www.hazelbaek.com">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1557394775012" iceMarkupVersion="2" domain="www.hazelbaek.com">
   <folder name="tablet">
     <folder name="css">
       <file name="birthday-k.css" crc="4137624634" ref="tablet>birthday-k"/>
@@ -54,7 +54,7 @@
     <file name="fruit-punch.html" crc="264834204" mt="1511331497259" redirect="false" seo="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="484239522"/>
+    <file name="site_global.css" crc="4064471951"/>
     <file name="index.css" crc="4158535129" ref="index"/>
     <file name="contact.css" crc="3773573677" ref="contact"/>
     <file name="fine-arts.css" crc="172477815" ref="fine-arts"/>
@@ -72,7 +72,7 @@
     <file name="master_2017submenu.css" crc="4107632314" ref="millinery:flowers:fine-arts:contact"/>
     <file name="master_2017master.css" crc="3783211274" ref="index"/>
     <file name="shade-of-hue.css" crc="4284758647" ref="shade-of-hue"/>
-    <file name="master_page_millinery.css" crc="4145755604" ref="shade-of-hue:iris-water:green-spring-bonet:winzlear-gear:cn-night:waffle-cone:white-straw-and-black-crosses:ohkchyundang:underthewillowtree:sonicplaygroundmca:strawberryfold:howdoilovethee:rabitfurr:textile.0._2:textile.0.3:luck-and-eyes:cherry-bling:druid-crown:merrygoround:layer-over-layer"/>
+    <file name="master_page_millinery.css" crc="19672863" ref="shade-of-hue:iris-water:green-spring-bonet:winzlear-gear:cn-night:waffle-cone:white-straw-and-black-crosses:ohkchyundang:underthewillowtree:sonicplaygroundmca:strawberryfold:howdoilovethee:rabitfurr:textile.0._2:textile.0.3:luck-and-eyes:cherry-bling:druid-crown:merrygoround:layer-over-layer"/>
     <file name="master_page_floral.css" crc="367689560" ref="satin-buttercup:ballerina-rouge:wild-forget-me-not:birthday-for-s:bamboo-greenery:ballerina-roug"/>
     <file name="ohkchyundang.css" crc="41178388" ref="ohkchyundang"/>
     <file name="underthewillowtree.css" crc="166516963" ref="underthewillowtree"/>
@@ -87,7 +87,7 @@
     <file name="bamboo-greenery.css" crc="3797010583" ref="bamboo-greenery"/>
     <file name="ballerina-roug.css" crc="195152531" ref="ballerina-roug"/>
     <file name="cherry-bling.css" crc="3760527926" ref="cherry-bling"/>
-    <file name="druid-crown.css" crc="204524908" ref="druid-crown"/>
+    <file name="druid-crown.css" crc="3810048270" ref="druid-crown"/>
     <file name="merrygoround.css" crc="4086470881" ref="merrygoround"/>
     <file name="layer-over-layer.css" crc="4198959976" ref="layer-over-layer"/>
   </folder>
@@ -102,7 +102,7 @@
     <file name="musewpslideshow.js" crc="242596657" ref="white-straw-and-black-crosses:winzlear-gear:wild-forget-me-not:satin-buttercup:green-spring-bonet:waffle-cone:iris-water:phone>forget-me-not:phone>birthday-k:phone>birthday-s:phone>butter-satin:phone>for-mothers:phone>fruit-punch:phone>kale-celosia:phone>once-upon-a-time:phone>thriving-irist-bouquet:phone>valentine-2017:phone>white-mangolia:phone>double-band-floral:phone>three-band-rose:phone>boronia-spring:phone>burgendy-rose:phone>druid-crown:phone>for-yy_fern:phone>for-yy_rice:phone>for-yy_rose:phone>hemlock-angle:phone>iris-water:phone>ivory-and-green:phone>magnolia-leaf:phone>lovebird:phone>merry-go-round:phone>miller-wreath:phone>orange-and-white:phone>carnation-band:phone>cn-night:phone>shadeofhue:phone>cherry-bling:phone>winzlear-gear:phone>green-spring-bonnet:phone>ribbon-beret:cn-night:phone>coral--alabaster:ballerina-rouge:phone>ballerian-rouge-:phone>ballerian-rouge-.-2:shade-of-hue:howdoilovethee:sonicplaygroundmca:strawberryfold:rabitfurr:underthewillowtree:ohkchyundang:phone>dark-rose-band:phone>whitestrawblackcrosses:phone>icecreamcone:phone>crnationhalo:phone>winter-branch:phone>summerunderspring:phone>undergrowth-drapery:phone>underthewillowtree:phone>howdoikovethee:phone>rabitfurr:textile.0._2:textile.0.3:phone>luck-and-eyes:luck-and-eyes:birthday-for-s:bamboo-greenery:ballerina-roug:cherry-bling:merrygoround:druid-crown:phone>layeroverlayeroverlayer:layer-over-layer:phone>ohkchundang"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="white-straw-and-black-crosses:winzlear-gear:wild-forget-me-not:satin-buttercup:green-spring-bonet:waffle-cone:iris-water:phone>forget-me-not:phone>birthday-k:phone>birthday-s:phone>butter-satin:phone>for-mothers:phone>fruit-punch:phone>kale-celosia:phone>once-upon-a-time:phone>thriving-irist-bouquet:phone>valentine-2017:phone>white-mangolia:phone>double-band-floral:phone>three-band-rose:phone>boronia-spring:phone>burgendy-rose:phone>druid-crown:phone>for-yy_fern:phone>for-yy_rice:phone>for-yy_rose:phone>hemlock-angle:phone>iris-water:phone>ivory-and-green:phone>magnolia-leaf:phone>lovebird:phone>merry-go-round:phone>miller-wreath:phone>orange-and-white:phone>carnation-band:phone>cn-night:phone>shadeofhue:phone>cherry-bling:phone>winzlear-gear:phone>green-spring-bonnet:phone>ribbon-beret:cn-night:phone>coral--alabaster:ballerina-rouge:phone>ballerian-rouge-:phone>ballerian-rouge-.-2:shade-of-hue:howdoilovethee:sonicplaygroundmca:strawberryfold:rabitfurr:underthewillowtree:ohkchyundang:phone>dark-rose-band:phone>whitestrawblackcrosses:phone>icecreamcone:phone>crnationhalo:phone>winter-branch:phone>summerunderspring:phone>undergrowth-drapery:phone>underthewillowtree:phone>howdoikovethee:phone>rabitfurr:textile.0._2:textile.0.3:phone>luck-and-eyes:luck-and-eyes:birthday-for-s:bamboo-greenery:ballerina-roug:cherry-bling:merrygoround:druid-crown:phone>layeroverlayeroverlayer:layer-over-layer:phone>ohkchundang"/>
     <file name="touchswipe.js" crc="4038331989" ref="white-straw-and-black-crosses:winzlear-gear:wild-forget-me-not:satin-buttercup:green-spring-bonet:waffle-cone:iris-water:phone>forget-me-not:phone>birthday-k:phone>birthday-s:phone>butter-satin:phone>for-mothers:phone>fruit-punch:phone>kale-celosia:phone>once-upon-a-time:phone>thriving-irist-bouquet:phone>valentine-2017:phone>white-mangolia:phone>double-band-floral:phone>three-band-rose:phone>boronia-spring:phone>burgendy-rose:phone>druid-crown:phone>for-yy_fern:phone>for-yy_rice:phone>for-yy_rose:phone>hemlock-angle:phone>iris-water:phone>ivory-and-green:phone>magnolia-leaf:phone>lovebird:phone>merry-go-round:phone>miller-wreath:phone>orange-and-white:phone>carnation-band:phone>cn-night:phone>shadeofhue:phone>cherry-bling:phone>winzlear-gear:phone>green-spring-bonnet:phone>ribbon-beret:cn-night:phone>coral--alabaster:ballerina-rouge:phone>ballerian-rouge-:phone>ballerian-rouge-.-2:shade-of-hue:howdoilovethee:sonicplaygroundmca:strawberryfold:rabitfurr:underthewillowtree:ohkchyundang:phone>dark-rose-band:phone>whitestrawblackcrosses:phone>icecreamcone:phone>crnationhalo:phone>winter-branch:phone>summerunderspring:phone>undergrowth-drapery:phone>underthewillowtree:phone>howdoikovethee:phone>rabitfurr:textile.0._2:textile.0.3:phone>luck-and-eyes:luck-and-eyes:birthday-for-s:bamboo-greenery:ballerina-roug:cherry-bling:merrygoround:druid-crown:phone>layeroverlayeroverlayer:layer-over-layer:phone>ohkchundang"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="fine-arts:index:flowers:phone>index:white-straw-and-black-crosses:millinery:wild-forget-me-not:winzlear-gear:howdoilovethee:strawberryfold:luck-and-eyes:textile.0._2:bamboo-greenery:merrygoround:shade-of-hue:layer-over-layer"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="fine-arts:index:flowers:phone>index:white-straw-and-black-crosses:millinery:wild-forget-me-not:winzlear-gear:howdoilovethee:strawberryfold:luck-and-eyes:textile.0._2:bamboo-greenery:merrygoround:shade-of-hue:layer-over-layer:druid-crown"/>
     <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>contact:tablet>fine-arts:tablet>ivory-and-green:tablet>hemlock-angle:tablet>orange-and-white:tablet>birthday-k:tablet>fruit-punch:contact:index:iris-water:winzlear-gear:cn-night:rabitfurr:underthewillowtree:luck-and-eyes:cherry-bling:druid-crown"/>
   </folder>
   <folder name="images">
@@ -223,14 +223,14 @@
     <file name="35.jpg" crc="344380154" seo="true" ref="phone>burgendy-rose"/>
     <file name="fwb_group3.jpg" crc="4161857148" ref="fine-arts:howdoilovethee"/>
     <file name="u37893-5.png" crc="142193320" ref="fine-arts"/>
-    <file name="if_popular_social_media-09_2329262.png" crc="4080556734" ref="white-straw-and-black-crosses:wild-forget-me-not:winzlear-gear:howdoilovethee:strawberryfold:luck-and-eyes:textile.0._2:bamboo-greenery:merrygoround:shade-of-hue:layer-over-layer"/>
+    <file name="if_popular_social_media-09_2329262.png" crc="4080556734" ref="white-straw-and-black-crosses:wild-forget-me-not:winzlear-gear:howdoilovethee:strawberryfold:luck-and-eyes:textile.0._2:bamboo-greenery:merrygoround:shade-of-hue:layer-over-layer:druid-crown"/>
     <file name="21-crop-u36690.jpg" crc="304688463" ref="white-straw-and-black-crosses"/>
     <file name="21275x360.jpg" crc="46665341" seo="true" ref="white-straw-and-black-crosses"/>
     <file name="u37860-5.png" crc="356399328" ref="millinery"/>
     <file name="1275x360.jpg" crc="389430201" seo="true" ref="shade-of-hue:white-straw-and-black-crosses"/>
     <file name="2275x360.jpg" crc="3790461306" seo="true" ref="shade-of-hue"/>
     <file name="test275x360.jpg" crc="211799582" seo="true" ref="shade-of-hue"/>
-    <file name="3275x360.jpg" crc="4022174193" seo="true" ref="shade-of-hue:druid-crown"/>
+    <file name="3275x360.jpg" crc="147448361" seo="true" ref="shade-of-hue:druid-crown"/>
     <file name="2-crop-u37548.jpg" crc="3824682018" ref="wild-forget-me-not"/>
     <file name="asdf1-crop-u37557.jpg" crc="4183622639" ref="wild-forget-me-not"/>
     <file name="5-crop-u37566.jpg" crc="245028078" ref="wild-forget-me-not"/>
@@ -673,6 +673,8 @@
     <file name="img_20180117_122133.jpg" crc="4189464446" seo="true" ref="phone>ohkchundang"/>
     <file name="옥춘당1.jpg" crc="312358251" seo="true" ref="phone>ohkchundang"/>
     <file name="옥춘당2.jpg" crc="4081780519" seo="true" ref="phone>ohkchundang"/>
+    <file name="-crop-u43483.jpg" crc="531667722" ref="druid-crown"/>
+    <file name="387x360.jpg" crc="4104275358" seo="true" ref="druid-crown"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -842,6 +844,6 @@
   <file name="ballerina-roug.html" crc="276789382" seo="true" mt="1528102605611" redirect="true"/>
   <file name="cherry-bling.html" crc="164112523" seo="true" mt="1528103510118" redirect="true"/>
   <file name="merrygoround.html" crc="20221624" seo="true" mt="1528106250955" redirect="true"/>
-  <file name="druid-crown.html" crc="3853870065" seo="true" mt="1528107716657" redirect="true"/>
+  <file name="druid-crown.html" crc="4147397584" seo="true" mt="1557394723311" redirect="true"/>
   <file name="layer-over-layer.html" crc="229127951" seo="true" mt="1534077659878" redirect="true"/>
 </manifest>

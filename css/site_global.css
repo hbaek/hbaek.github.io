@@ -207,7 +207,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: underline;
 }
 
-a,.White-on-Black a,.Orange-on-White a,.website a
+a,.White-on-Black a,.Orange-on-White a,.White-on-Orange a,.website a
 {
 	color: inherit;
 	text-decoration: inherit;

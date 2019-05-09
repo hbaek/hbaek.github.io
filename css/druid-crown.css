@@ -1,7 +1,7 @@
 .version.druid_crown /* version checker */
 {
-	color: #00000C;
-	background-color: #30CD6C;
+	color: #0000E3;
+	background-color: #18B90E;
 }
 
 .html
@@ -238,7 +238,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 358px;
+	padding-bottom: 181px;
 }
 
 #u42574popup
@@ -259,7 +259,7 @@
 	left: 8px;
 }
 
-#u42638
+#u43483
 {
 	z-index: 29;
 	width: 369px;
@@ -272,7 +272,7 @@
 	left: 387px;
 }
 
-#u42629:hover,#u42638:hover
+#u42629:hover,#u43483:hover
 {
 	width: 369px;
 	height: 167px;
@@ -280,7 +280,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u42647
+#u42638
 {
 	z-index: 31;
 	width: 369px;
@@ -294,7 +294,7 @@
 	left: 8px;
 }
 
-#u42656
+#u42647
 {
 	z-index: 33;
 	width: 369px;
@@ -308,12 +308,34 @@
 	left: 387px;
 }
 
-#u42647:hover,#u42656:hover
+#u42638:hover,#u42647:hover
 {
 	width: 369px;
 	height: 167px;
 	min-height: 0px;
 	margin: 177px -10000px 0px 0px;
+}
+
+#u42656
+{
+	z-index: 35;
+	width: 369px;
+	height: 167px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 354px;
+	left: 8px;
+}
+
+#u42656:hover
+{
+	width: 369px;
+	height: 167px;
+	min-height: 0px;
+	margin: 354px -10000px 0px 0px;
 }
 
 #u42586
@@ -332,12 +354,12 @@
 
 #u42586popup
 {
-	z-index: 35;
+	z-index: 37;
 }
 
 #u42632
 {
-	z-index: 36;
+	z-index: 38;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -353,9 +375,27 @@
 	padding-right: 84px;
 }
 
+#u43486
+{
+	z-index: 40;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u43486_img
+{
+	padding-left: 47px;
+	padding-right: 47px;
+}
+
 #u42641
 {
-	z-index: 38;
+	z-index: 42;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -373,7 +413,7 @@
 
 #u42650
 {
-	z-index: 40;
+	z-index: 44;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -391,7 +431,7 @@
 
 #u42659
 {
-	z-index: 42;
+	z-index: 46;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -413,9 +453,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 127px;
 	left: 819px;
@@ -423,7 +463,7 @@
 
 #u42584-3popup
 {
-	z-index: 44;
+	z-index: 48;
 }
 
 #u42585-3
@@ -432,9 +472,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 127px;
 	left: 1218px;
@@ -442,7 +482,7 @@
 
 #u42585-3popup
 {
-	z-index: 47;
+	z-index: 51;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -457,7 +497,7 @@
 
 #u42604-5
 {
-	z-index: 50;
+	z-index: 54;
 	width: 217px;
 	min-height: 18px;
 	background-color: transparent;
@@ -481,7 +521,7 @@
 
 #u42571
 {
-	z-index: 56;
+	z-index: 60;
 	position: relative;
 	width: 217px;
 	margin-right: -10000px;
@@ -504,7 +544,7 @@
 
 #u42572-4
 {
-	z-index: 58;
+	z-index: 62;
 	width: 485px;
 	min-height: 69px;
 	background-color: transparent;
