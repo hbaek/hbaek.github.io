@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hazelbaek.com" resolutions="1x" timestamp="1557395924356">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hazelbaek.com" resolutions="1x" timestamp="1557396862347">
   <folder name="css">
     <file name="site_global.css" crc="4064471951"/>
     <file name="master_2017submenu.css" crc="4257016939" ref="millinery:contact:fine-arts:flowers"/>
@@ -22,7 +22,7 @@
     <file name="ballerina-rouge.css" crc="249706439" ref="ballerina-rouge"/>
     <file name="rabitfurr.css" crc="301339560" ref="rabitfurr"/>
     <file name="cn-night.css" crc="308540621" ref="cn-night"/>
-    <file name="druid-crown.css" crc="3810048270" ref="druid-crown"/>
+    <file name="druid-crown.css" crc="87838599" ref="druid-crown"/>
     <file name="cherry-bling.css" crc="4091195832" ref="cherry-bling"/>
     <file name="satin-buttercup.css" crc="3961695226" ref="satin-buttercup"/>
     <file name="green-spring-bonet.css" crc="3842087316" ref="green-spring-bonet"/>
@@ -637,12 +637,10 @@
     <file name="u42476_states.png" crc="4036279140" ref="merrygoround"/>
     <file name="u42476_states-r.png" crc="4036279140" ref="merrygoround"/>
     <file name="5-crop-u42629.png" crc="455965293" ref="druid-crown"/>
-    <file name="-crop-u43483.jpg" crc="531667722" ref="druid-crown"/>
     <file name="1-crop-u42638.png" crc="4097164857" ref="druid-crown"/>
     <file name="3-crop-u42647.jpg" crc="3963845470" ref="druid-crown"/>
     <file name="4-crop-u42656.jpg" crc="4223536335" ref="druid-crown"/>
     <file name="5311x360.png" crc="4058352465" seo="true" ref="druid-crown"/>
-    <file name="387x360.jpg" crc="4104275358" seo="true" ref="druid-crown"/>
     <file name="1319x360.png" crc="499737517" seo="true" ref="druid-crown"/>
     <file name="3275x3602.jpg" crc="147448361" seo="true" ref="druid-crown"/>
     <file name="4272x360.jpg" crc="4129756379" seo="true" ref="druid-crown"/>
@@ -885,6 +883,6 @@
   <file name="ballerina-roug.html" crc="3951208298" seo="true" mt="1528102605611" redirect="true"/>
   <file name="cherry-bling.html" crc="3891459029" seo="true" mt="1528103510118" redirect="true"/>
   <file name="merrygoround.html" crc="172260121" seo="true" mt="1528106250955" redirect="true"/>
-  <file name="druid-crown.html" crc="398666691" seo="true" mt="1557394723311" redirect="true"/>
+  <file name="druid-crown.html" crc="4222717913" seo="true" mt="1557396700107" redirect="true"/>
   <file name="layer-over-layer.html" crc="331021916" seo="true" mt="1534077659878" redirect="true"/>
 </manifest>
