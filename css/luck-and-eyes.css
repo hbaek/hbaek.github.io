@@ -1,7 +1,7 @@
 .version.luck_and_eyes /* version checker */
 {
-	color: #0000E1;
-	background-color: #C740AE;
+	color: #00000A;
+	background-color: #A03E61;
 }
 
 .html
@@ -640,9 +640,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 5px;
 	left: 795px;
@@ -659,9 +659,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 5px;
 	left: 1194px;

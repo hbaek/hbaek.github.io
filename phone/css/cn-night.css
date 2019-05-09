@@ -1,7 +1,7 @@
 .version.cn_night /* version checker */
 {
-	color: #00001C;
-	background-color: #607092;
+	color: #000019;
+	background-color: #6478AF;
 }
 
 @-ms-viewport
@@ -115,10 +115,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -134,10 +134,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -153,10 +153,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -210,9 +210,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #999999;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 107px;
 	left: 81px;

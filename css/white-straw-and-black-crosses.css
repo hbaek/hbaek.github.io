@@ -1,7 +1,7 @@
 .version.white_straw_and_black_crosses /* version checker */
 {
-	color: #00000A;
-	background-color: #3FF14C;
+	color: #000019;
+	background-color: #C05AC2;
 }
 
 .html
@@ -354,9 +354,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 529px;
 	left: 88px;
@@ -373,9 +373,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 529px;
 	left: 487px;
@@ -402,8 +402,8 @@
 	width: 491px;
 	min-height: 68px;
 	background-color: transparent;
-	text-align: left;
 	font-size: 12px;
+	text-align: left;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;

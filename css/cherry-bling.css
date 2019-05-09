@@ -1,7 +1,7 @@
 .version.cherry_bling /* version checker */
 {
-	color: #0000E0;
-	background-color: #251A36;
+	color: #0000F3;
+	background-color: #DAB1B8;
 }
 
 .html
@@ -367,9 +367,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 529px;
 	left: 88px;
@@ -386,9 +386,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 529px;
 	left: 487px;
@@ -415,8 +415,8 @@
 	width: 491px;
 	min-height: 68px;
 	background-color: transparent;
-	text-align: left;
 	font-size: 12px;
+	text-align: left;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;

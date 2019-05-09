@@ -1,7 +1,7 @@
 .version.iris_water /* version checker */
 {
-	color: #0000ED;
-	background-color: #B9DCB1;
+	color: #000004;
+	background-color: #B15AFA;
 }
 
 .html
@@ -348,9 +348,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 127px;
 	left: 812px;
@@ -367,9 +367,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 127px;
 	left: 1211px;

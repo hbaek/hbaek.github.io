@@ -1,7 +1,7 @@
 .version.satin_buttercup /* version checker */
 {
-	color: #0000E3;
-	background-color: #95F264;
+	color: #0000EC;
+	background-color: #22ABFA;
 }
 
 .html
@@ -456,8 +456,8 @@
 	width: 141px;
 	min-height: 484px;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 136px;
@@ -475,8 +475,8 @@
 	width: 143px;
 	min-height: 484px;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 136px;

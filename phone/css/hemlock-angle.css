@@ -1,7 +1,7 @@
 .version.hemlock_angle /* version checker */
 {
-	color: #00000A;
-	background-color: #F1CCF9;
+	color: #0000ED;
+	background-color: #2826A2;
 }
 
 @-ms-viewport
@@ -115,10 +115,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -134,10 +134,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -153,10 +153,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -210,9 +210,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #999999;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 107px;
 	left: 81px;

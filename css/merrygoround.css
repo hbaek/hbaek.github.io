@@ -1,7 +1,7 @@
 .version.merrygoround /* version checker */
 {
-	color: #0000F3;
-	background-color: #9298E1;
+	color: #0000FA;
+	background-color: #9E1A0A;
 }
 
 .html
@@ -413,9 +413,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 127px;
 	left: 819px;
@@ -432,9 +432,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 127px;
 	left: 1218px;

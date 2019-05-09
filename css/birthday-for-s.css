@@ -1,7 +1,7 @@
 .version.birthday_for_s /* version checker */
 {
-	color: #0000FD;
-	background-color: #C56D29;
+	color: #000009;
+	background-color: #453AAA;
 }
 
 .html
@@ -210,8 +210,8 @@
 	width: 320px;
 	min-height: 1098px;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -565px;
@@ -229,8 +229,8 @@
 	width: 322px;
 	min-height: 1087px;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -554px;

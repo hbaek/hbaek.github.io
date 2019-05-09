@@ -1,7 +1,7 @@
 .version.wild_forget_me_not /* version checker */
 {
-	color: #0000FC;
-	background-color: #566ADD;
+	color: #000008;
+	background-color: #D63D5E;
 }
 
 .html
@@ -202,8 +202,8 @@
 	width: 330px;
 	min-height: 1132px;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -567px;
@@ -221,8 +221,8 @@
 	width: 332px;
 	min-height: 1121px;
 	background-color: transparent;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -556px;

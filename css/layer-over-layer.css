@@ -1,7 +1,7 @@
 .version.layer_over_layer /* version checker */
 {
-	color: #0000FA;
-	background-color: #470B68;
+	color: #00001E;
+	background-color: #B682CE;
 }
 
 .html
@@ -455,9 +455,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 5px;
 	left: 795px;
@@ -474,9 +474,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 5px;
 	left: 1194px;

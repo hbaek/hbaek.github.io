@@ -1,7 +1,7 @@
 .version.shadeofhue /* version checker */
 {
-	color: #0000E7;
-	background-color: #7D95D4;
+	color: #000016;
+	background-color: #4A6546;
 }
 
 @-ms-viewport
@@ -123,10 +123,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -142,10 +142,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -161,10 +161,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -180,10 +180,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -237,9 +237,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #999999;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 107px;
 	left: 81px;

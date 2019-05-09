@@ -1,7 +1,7 @@
 .version.valentine_2017 /* version checker */
 {
-	color: #0000F9;
-	background-color: #AF5EE0;
+	color: #000011;
+	background-color: #37C84D;
 }
 
 @-ms-viewport
@@ -107,10 +107,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -126,10 +126,10 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
+	line-height: 1.4;
 	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
@@ -183,9 +183,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	line-height: 1.4;
 	color: #999999;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 112px;
 	left: 49px;

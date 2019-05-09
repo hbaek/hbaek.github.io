@@ -1,7 +1,7 @@
 .version.menumillinery /* version checker */
 {
-	color: #000012;
-	background-color: #59308D;
+	color: #000002;
+	background-color: #BE4554;
 }
 
 @-ms-viewport
@@ -112,8 +112,8 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 1.58;
 	text-align: center;
+	line-height: 1.58;
 	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 5px;
@@ -136,8 +136,8 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 1.58;
 	text-align: center;
+	line-height: 1.58;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 5px;
 	margin-top: 29px;
@@ -156,8 +156,8 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 1.58;
 	text-align: center;
+	line-height: 1.58;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 5px;
 	margin-top: 30px;
@@ -170,8 +170,8 @@
 	width: 255px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 1.58;
 	text-align: center;
+	line-height: 1.58;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-top: 29px;
 	position: relative;
