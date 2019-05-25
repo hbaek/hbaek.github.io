@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hazelbaek.com" resolutions="1x" timestamp="1558758155045">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hazelbaek.com" resolutions="1x" timestamp="1558760340223">
   <folder name="css">
     <file name="site_global.css" crc="29407460"/>
-    <file name="master_2017master.css" crc="403263768" ref="index"/>
+    <file name="master_2017master.css" crc="350832798" ref="index"/>
     <file name="master_page_floral.css" crc="3894536056" ref="ballerina-roug:bamboo-greenery:birthday-for-s:ballerina-rouge:satin-buttercup:wild-forget-me-not"/>
     <file name="master_page_millinery.css" crc="157998152" ref="layer-over-layer:druid-crown:cherry-bling:merrygoround:textile.0.3:luck-and-eyes:textile.0._2:ohkchyundang:underthewillowtree:rabitfurr:strawberryfold:sonicplaygroundmca:shade-of-hue:iris-water:cn-night:waffle-cone:green-spring-bonet:winzlear-gear:howdoilovethee:white-straw-and-black-crosses:manggunheadband:gokkalcollab"/>
     <file name="layer-over-layer.css" crc="3926213626" ref="layer-over-layer"/>
@@ -906,7 +906,7 @@
   <file name="cn-night.html" crc="65757956" seo="true" mt="1557574291427" redirect="true"/>
   <file name="ballerina-rouge.html" crc="3831431840" seo="true" mt="1557574309491" redirect="true"/>
   <file name="shade-of-hue.html" crc="3912264909" seo="true" mt="1557575973053" redirect="true"/>
-  <file name="index.html" crc="4257884826" seo="true" mt="1558757970002" redirect="true"/>
+  <file name="index.html" crc="219433281" seo="true" mt="1558759804935" redirect="true"/>
   <file name="sonicplaygroundmca.html" crc="250972456" seo="true" mt="1557574291427" redirect="true"/>
   <file name="strawberryfold.html" crc="4225328016" seo="true" mt="1557574291427" redirect="true"/>
   <file name="rabitfurr.html" crc="255055438" seo="true" mt="1557574291427" redirect="true"/>

@@ -52,7 +52,7 @@
 	background-color: #B9B8FF;
 }
 
-#u36197.MuseMenuActive,#u43500:active
+#u43500:active
 {
 	background-color: #F0B8BA;
 }
@@ -134,11 +134,6 @@
 	background-color: #F085FF;
 }
 
-#u36241.MuseMenuActive,#u43493.MuseMenuActive
-{
-	background-color: #F0B8BA;
-}
-
 #u43496-4
 {
 	border-style: none;
@@ -151,7 +146,7 @@
 	position: relative;
 }
 
-#u36201,#u36239,#u43497
+#u36197.MuseMenuActive,#u36201,#u36241.MuseMenuActive,#u36239,#u43493.MuseMenuActive,#u43497
 {
 	background-color: transparent;
 }
