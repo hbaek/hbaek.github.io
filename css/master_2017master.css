@@ -14,12 +14,12 @@
 
 #u36197:hover
 {
-	background-color: #999999;
+	background-color: #F0B8FF;
 }
 
 #u36197:active
 {
-	background-color: #6B6B6B;
+	background-color: #F085FF;
 }
 
 #u36199-4
@@ -27,32 +27,55 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
-	font-size: 10px;
 	text-align: center;
+	font-size: 16px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u36238,#u36241
+#u36202
+{
+	background-color: #F079FF;
+	position: relative;
+}
+
+#u43500
+{
+	border-color: #777777;
+	background-color: #F0CED6;
+	position: relative;
+}
+
+#u43500:hover
+{
+	background-color: #B9B8FF;
+}
+
+#u36197.MuseMenuActive,#u43500:active
+{
+	background-color: #F0B8BA;
+}
+
+#u43500.MuseMenuActive
+{
+	background-color: #76B8FF;
+}
+
+#u43499,#u36238,#u36241
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u36197.MuseMenuActive,#u36241:hover
+#u36241:hover
 {
-	background-color: #999999;
+	background-color: #F0B8FF;
 }
 
 #u36241:active
 {
-	background-color: #6B6B6B;
-}
-
-#u36241.MuseMenuActive
-{
-	background-color: #999999;
+	background-color: #F085FF;
 }
 
 #u36244-4
@@ -60,10 +83,117 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
-	font-size: 10px;
 	text-align: center;
+	font-size: 16px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u36240
+{
+	background-color: #F0B888;
+	position: relative;
+}
+
+#u36240:hover
+{
+	background-color: #F0B8D6;
+}
+
+#u43520
+{
+	border-color: #777777;
+	background-color: #F09486;
+	position: relative;
+}
+
+#u43520:hover
+{
+	background-color: #F0607F;
+}
+
+#u43520.MuseMenuActive
+{
+	background-color: #F0E8FF;
+}
+
+#u43519,#u43492,#u43493
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u43493:hover
+{
+	background-color: #F0B8FF;
+}
+
+#u43493:active
+{
+	background-color: #F085FF;
+}
+
+#u36241.MuseMenuActive,#u43493.MuseMenuActive
+{
+	background-color: #F0B8BA;
+}
+
+#u43496-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 16px;
+	color: #000000;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u36201,#u36239,#u43497
+{
+	background-color: transparent;
+}
+
+#u43498
+{
+	background-color: #F096D7;
+	position: relative;
+}
+
+#u43509
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u43510
+{
+	border-color: #777777;
+	background-color: #97B88C;
+	position: relative;
+}
+
+#u43510:hover
+{
+	background-color: #7CB8FF;
+}
+
+#u43510:active
+{
+	background-color: #D1B8FF;
+}
+
+#u43510.MuseMenuActive
+{
+	background-color: #F0B87D;
+}
+
+#u43502-4,#u43522-4,#u43512-4
+{
+	display: block;
+	vertical-align: top;
 	position: relative;
 }
 
