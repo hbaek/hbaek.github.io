@@ -1,7 +1,7 @@
 .version.undergrowth_drapery /* version checker */
 {
-	color: #000000;
-	background-color: #6BBFB3;
+	color: #00000C;
+	background-color: #41AD78;
 }
 
 @-ms-viewport
@@ -140,10 +140,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -159,10 +159,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -178,10 +178,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -197,10 +197,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -216,10 +216,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -235,10 +235,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -292,8 +292,8 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #999999;
 	text-align: center;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 112px;
 	left: 49px;

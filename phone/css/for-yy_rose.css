@@ -1,7 +1,7 @@
 .version.for_yy_rose /* version checker */
 {
-	color: #0000F2;
-	background-color: #9314E7;
+	color: #0000ED;
+	background-color: #BCFCDA;
 }
 
 @-ms-viewport
@@ -132,10 +132,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -151,10 +151,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -170,10 +170,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -189,10 +189,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -208,10 +208,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -265,8 +265,8 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #999999;
 	text-align: center;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 107px;
 	left: 81px;

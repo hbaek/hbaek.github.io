@@ -1,7 +1,7 @@
 .version.orange_and_white /* version checker */
 {
-	color: #000000;
-	background-color: #200AAF;
+	color: #0000E4;
+	background-color: #8ECEC1;
 }
 
 @-ms-viewport
@@ -116,10 +116,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -135,10 +135,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -154,10 +154,10 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #000000;
-	font-size: 12px;
 	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -211,8 +211,8 @@
 	background-color: #FFFFFF;
 	padding: 15px;
 	line-height: 1.4;
-	color: #999999;
 	text-align: center;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 107px;
 	left: 81px;
