@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hazelbaek.com" resolutions="1x" timestamp="1559177022876">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hazelbaek.com" resolutions="1x" timestamp="1559178101161">
   <folder name="css">
     <file name="site_global.css" crc="484239522"/>
     <file name="master_page_floral.css" crc="292545286" ref="ballerina-roug:wild-forget-me-not:satin-buttercup:ballerina-rouge:birthday-for-s:bamboo-greenery"/>
@@ -16,7 +16,7 @@
     <file name="westernmillinery.css" crc="4110902521" ref="westernmillinery"/>
     <file name="traditionalkorean.css" crc="39337536" ref="traditionalkorean"/>
     <file name="crownband.css" crc="3760878299" ref="crownband"/>
-    <file name="manggunheadband.css" crc="4172690712" ref="manggunheadband"/>
+    <file name="manggunheadband.css" crc="472260887" ref="manggunheadband"/>
     <file name="gokkalcollab.css" crc="443342868" ref="gokkalcollab"/>
     <file name="cn-night.css" crc="3897010124" ref="cn-night"/>
     <file name="wild-forget-me-not.css" crc="3957082952" ref="wild-forget-me-not"/>
@@ -710,6 +710,8 @@
     <file name="u44013-r.png" crc="501110267" ref="gokkalcollab"/>
     <file name="dsc05624-crop-u44128.jpg" crc="3993951938" ref="manggunheadband"/>
     <file name="dsc05624.jpg" crc="389884495" seo="true" ref="manggunheadband"/>
+    <file name="dsc05631-crop-u44142.jpg" crc="514607212" ref="manggunheadband"/>
+    <file name="dsc05631.jpg" crc="286037219" seo="true" ref="manggunheadband"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -935,6 +937,6 @@
   <file name="traditionalkorean.html" crc="93528091" seo="true" mt="1558758025437" redirect="true"/>
   <file name="westernmillinery.html" crc="4258075646" seo="true" mt="1557573784882" redirect="true"/>
   <file name="crownband.html" crc="3976116615" seo="true" mt="1557573791683" redirect="true"/>
-  <file name="manggunheadband.html" crc="4106519536" seo="true" mt="1559177009475" redirect="true"/>
+  <file name="manggunheadband.html" crc="288723657" seo="true" mt="1559178086972" redirect="true"/>
   <file name="gokkalcollab.html" crc="510258945" seo="true" mt="1558758004746" redirect="true"/>
 </manifest>

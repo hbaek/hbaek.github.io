@@ -1,7 +1,7 @@
 .version.manggunheadband /* version checker */
 {
-	color: #0000F8;
-	background-color: #B63518;
+	color: #00001C;
+	background-color: #262117;
 }
 
 .html
@@ -360,7 +360,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 987px;
+	padding-bottom: 868px;
 }
 
 #u43960popup
@@ -402,7 +402,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u44105
+#u44142
 {
 	z-index: 61;
 	width: 270px;
@@ -416,7 +416,7 @@
 	left: 107px;
 }
 
-#u44114
+#u44105
 {
 	z-index: 63;
 	width: 270px;
@@ -430,12 +430,34 @@
 	left: 387px;
 }
 
-#u44105:hover,#u44114:hover
+#u44142:hover,#u44105:hover
 {
 	width: 270px;
 	height: 109px;
 	min-height: 0px;
 	margin: 119px -10000px 0px 0px;
+}
+
+#u44114
+{
+	z-index: 65;
+	width: 270px;
+	height: 109px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 238px;
+	left: 107px;
+}
+
+#u44114:hover
+{
+	width: 270px;
+	height: 109px;
+	min-height: 0px;
+	margin: 238px -10000px 0px 0px;
 }
 
 #u43975
@@ -454,12 +476,12 @@
 
 #u43975popup
 {
-	z-index: 65;
+	z-index: 67;
 }
 
 #u44099
 {
-	z-index: 66;
+	z-index: 68;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -477,18 +499,6 @@
 
 #u44131
 {
-	z-index: 68;
-	width: 480px;
-	height: 360px;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#u44108
-{
 	z-index: 70;
 	width: 480px;
 	height: 360px;
@@ -499,7 +509,7 @@
 	left: 22px;
 }
 
-#u44117
+#u44145
 {
 	z-index: 72;
 	width: 480px;
@@ -511,7 +521,31 @@
 	left: 22px;
 }
 
-#u44131_img,#u44108_img,#u44117_img
+#u44108
+{
+	z-index: 74;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u44117
+{
+	z-index: 76;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u44131_img,#u44145_img,#u44108_img,#u44117_img
 {
 	padding-top: 46px;
 	padding-bottom: 45px;
@@ -533,7 +567,7 @@
 
 #u43973-3popup
 {
-	z-index: 74;
+	z-index: 78;
 }
 
 #u43974-3
@@ -552,7 +586,7 @@
 
 #u43974-3popup
 {
-	z-index: 77;
+	z-index: 81;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -567,7 +601,7 @@
 
 #u43954-5
 {
-	z-index: 80;
+	z-index: 84;
 	width: 266px;
 	min-height: 18px;
 	background-color: transparent;
@@ -586,7 +620,7 @@
 
 #u43953-7
 {
-	z-index: 85;
+	z-index: 89;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -597,7 +631,7 @@
 
 #u43952
 {
-	z-index: 93;
+	z-index: 97;
 	height: 18px;
 	width: 280px;
 	vertical-align: top;
