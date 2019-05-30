@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hazelbaek.com" resolutions="1x" timestamp="1559173739553">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hazelbaek.com" resolutions="1x" timestamp="1559175431744">
   <folder name="css">
     <file name="site_global.css" crc="484239522"/>
     <file name="master_page_floral.css" crc="292545286" ref="ballerina-roug:wild-forget-me-not:satin-buttercup:ballerina-rouge:birthday-for-s:bamboo-greenery"/>
@@ -16,7 +16,7 @@
     <file name="westernmillinery.css" crc="4110902521" ref="westernmillinery"/>
     <file name="traditionalkorean.css" crc="39337536" ref="traditionalkorean"/>
     <file name="crownband.css" crc="3760878299" ref="crownband"/>
-    <file name="manggunheadband.css" crc="316828722" ref="manggunheadband"/>
+    <file name="manggunheadband.css" crc="4250071326" ref="manggunheadband"/>
     <file name="gokkalcollab.css" crc="443342868" ref="gokkalcollab"/>
     <file name="cn-night.css" crc="3897010124" ref="cn-night"/>
     <file name="wild-forget-me-not.css" crc="3957082952" ref="wild-forget-me-not"/>
@@ -690,12 +690,12 @@
     <file name="u43656-4.png" crc="4143222273" ref="crownband"/>
     <file name="u43666-4.png" crc="4067735133" ref="crownband"/>
     <file name="u43684-4.png" crc="381772366" ref="crownband"/>
-    <file name="s_5-crop-u43969.jpg" crc="4277410245" ref="manggunheadband"/>
-    <file name="s_1-crop-u43963.jpg" crc="288386490" ref="manggunheadband"/>
-    <file name="s_2-crop-u43965.jpg" crc="3992398127" ref="manggunheadband"/>
-    <file name="s_3-crop-u43967.jpg" crc="417486005" ref="manggunheadband"/>
-    <file name="s_4-crop-u43971.jpg" crc="186435548" ref="manggunheadband"/>
-    <file name="s_6-crop-u43961.jpg" crc="127080151" ref="manggunheadband"/>
+    <file name="dsc05620-crop-u44096.jpg" crc="179792106" ref="manggunheadband"/>
+    <file name="dsc05622-crop-u44105.jpg" crc="286512497" ref="manggunheadband"/>
+    <file name="dsc05623-crop-u44114.jpg" crc="3877836282" ref="manggunheadband"/>
+    <file name="dsc05620.jpg" crc="4105286345" seo="true" ref="manggunheadband"/>
+    <file name="dsc05622.jpg" crc="4104416494" seo="true" ref="manggunheadband"/>
+    <file name="dsc05623.jpg" crc="3926592082" seo="true" ref="manggunheadband"/>
     <file name="u43953-7.png" crc="355687394" ref="manggunheadband"/>
     <file name="u43952.png" crc="501110267" ref="manggunheadband"/>
     <file name="u43952-r.png" crc="501110267" ref="manggunheadband"/>
@@ -933,6 +933,6 @@
   <file name="traditionalkorean.html" crc="93528091" seo="true" mt="1558758025437" redirect="true"/>
   <file name="westernmillinery.html" crc="4258075646" seo="true" mt="1557573784882" redirect="true"/>
   <file name="crownband.html" crc="3976116615" seo="true" mt="1557573791683" redirect="true"/>
-  <file name="manggunheadband.html" crc="3764169822" seo="true" mt="1558757360919" redirect="true"/>
+  <file name="manggunheadband.html" crc="4256772784" seo="true" mt="1559175053837" redirect="true"/>
   <file name="gokkalcollab.html" crc="510258945" seo="true" mt="1558758004746" redirect="true"/>
 </manifest>

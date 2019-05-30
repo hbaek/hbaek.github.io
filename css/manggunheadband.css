@@ -1,7 +1,7 @@
 .version.manggunheadband /* version checker */
 {
-	color: #000012;
-	background-color: #E26C32;
+	color: #0000FD;
+	background-color: #52F11E;
 }
 
 .html
@@ -360,7 +360,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 868px;
+	padding-bottom: 987px;
 }
 
 #u43960popup
@@ -368,7 +368,7 @@
 	z-index: 56;
 }
 
-#u43969
+#u44096
 {
 	z-index: 57;
 	width: 270px;
@@ -381,7 +381,7 @@
 	left: 107px;
 }
 
-#u43963
+#u44105
 {
 	z-index: 59;
 	width: 270px;
@@ -394,7 +394,7 @@
 	left: 387px;
 }
 
-#u43969:hover,#u43963:hover
+#u44096:hover,#u44105:hover
 {
 	width: 270px;
 	height: 109px;
@@ -402,7 +402,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43965
+#u44114
 {
 	z-index: 61;
 	width: 270px;
@@ -416,62 +416,12 @@
 	left: 107px;
 }
 
-#u43967
-{
-	z-index: 63;
-	width: 270px;
-	height: 109px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 119px;
-	left: 387px;
-}
-
-#u43965:hover,#u43967:hover
+#u44114:hover
 {
 	width: 270px;
 	height: 109px;
 	min-height: 0px;
 	margin: 119px -10000px 0px 0px;
-}
-
-#u43971
-{
-	z-index: 65;
-	width: 270px;
-	height: 109px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 238px;
-	left: 107px;
-}
-
-#u43961
-{
-	z-index: 67;
-	width: 270px;
-	height: 109px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 238px;
-	left: 387px;
-}
-
-#u43971:hover,#u43961:hover
-{
-	width: 270px;
-	height: 109px;
-	min-height: 0px;
-	margin: 238px -10000px 0px 0px;
 }
 
 #u43975
@@ -490,12 +440,12 @@
 
 #u43975popup
 {
-	z-index: 69;
+	z-index: 63;
 }
 
-#u43982
+#u44099
 {
-	z-index: 70;
+	z-index: 64;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -505,70 +455,40 @@
 	left: 22px;
 }
 
-#u43976
-{
-	z-index: 72;
-	width: 480px;
-	height: 360px;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#u43978
-{
-	z-index: 74;
-	width: 480px;
-	height: 360px;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#u43986
-{
-	z-index: 76;
-	width: 480px;
-	height: 360px;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#u43984
-{
-	z-index: 78;
-	width: 480px;
-	height: 360px;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#u43980
-{
-	z-index: 80;
-	width: 480px;
-	height: 360px;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#u43982_img,#u43976_img,#u43978_img,#u43986_img,#u43984_img,#u43980_img
+#u44099_img
 {
 	padding-left: 60px;
 	padding-right: 60px;
+}
+
+#u44108
+{
+	z-index: 66;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u44117
+{
+	z-index: 68;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u44108_img,#u44117_img
+{
+	padding-top: 46px;
+	padding-bottom: 45px;
 }
 
 #u43973-3
@@ -587,7 +507,7 @@
 
 #u43973-3popup
 {
-	z-index: 82;
+	z-index: 70;
 }
 
 #u43974-3
@@ -606,7 +526,7 @@
 
 #u43974-3popup
 {
-	z-index: 85;
+	z-index: 73;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -621,7 +541,7 @@
 
 #u43954-5
 {
-	z-index: 88;
+	z-index: 76;
 	width: 266px;
 	min-height: 18px;
 	background-color: transparent;
@@ -640,7 +560,7 @@
 
 #u43953-7
 {
-	z-index: 93;
+	z-index: 81;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -651,7 +571,7 @@
 
 #u43952
 {
-	z-index: 101;
+	z-index: 89;
 	height: 18px;
 	width: 280px;
 	vertical-align: top;
