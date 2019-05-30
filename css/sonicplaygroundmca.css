@@ -1,7 +1,7 @@
 .version.sonicplaygroundmca /* version checker */
 {
-	color: #0000EB;
-	background-color: #75DEA2;
+	color: #0000EF;
+	background-color: #3DAA0E;
 }
 
 .html
@@ -510,9 +510,9 @@
 	width: 93px;
 	min-height: 569px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -57px;
 	left: 725px;
@@ -529,9 +529,9 @@
 	width: 96px;
 	min-height: 569px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -57px;
 	left: 1123px;

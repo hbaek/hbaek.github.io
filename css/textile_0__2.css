@@ -1,7 +1,7 @@
 .version.textile_0__2 /* version checker */
 {
-	color: #000003;
-	background-color: #0361A3;
+	color: #000014;
+	background-color: #F4C488;
 }
 
 .html
@@ -509,9 +509,9 @@
 	width: 136px;
 	min-height: 740px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 72px;
 	left: 793px;
@@ -528,9 +528,9 @@
 	width: 224px;
 	min-height: 689px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 88px;
 	left: 1378px;

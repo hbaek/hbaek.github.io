@@ -1,7 +1,7 @@
 .version.ohkchyundang /* version checker */
 {
-	color: #000003;
-	background-color: #63E3E5;
+	color: #00001D;
+	background-color: #C8ED00;
 }
 
 .html
@@ -438,9 +438,9 @@
 	width: 93px;
 	min-height: 569px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -52px;
 	left: 868px;
@@ -457,9 +457,9 @@
 	width: 96px;
 	min-height: 569px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -52px;
 	left: 1266px;

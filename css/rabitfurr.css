@@ -1,7 +1,7 @@
 .version.rabitfurr /* version checker */
 {
-	color: #000009;
-	background-color: #BFF364;
+	color: #000015;
+	background-color: #34C1CC;
 }
 
 .html
@@ -653,9 +653,9 @@
 	width: 93px;
 	min-height: 569px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -35px;
 	left: 764px;
@@ -672,9 +672,9 @@
 	width: 96px;
 	min-height: 569px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -57px;
 	left: 1138px;

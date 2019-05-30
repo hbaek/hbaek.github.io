@@ -1,7 +1,7 @@
 .version.traditionalkorean /* version checker */
 {
-	color: #0000F6;
-	background-color: #FB2472;
+	color: #000002;
+	background-color: #583E40;
 }
 
 .html
@@ -437,11 +437,11 @@
 	width: 94px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 0.5;
-	text-align: center;
-	font-size: 15px;
 	color: #FFFFFF;
+	font-size: 15px;
+	text-align: center;
 	letter-spacing: 1px;
+	line-height: 0.5;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	-webkit-transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);
@@ -459,11 +459,11 @@
 	width: 94px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 0.5;
-	text-align: center;
-	font-size: 15px;
 	color: #FFFFFF;
+	font-size: 15px;
+	text-align: center;
 	letter-spacing: 1px;
+	line-height: 0.5;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	-webkit-transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);

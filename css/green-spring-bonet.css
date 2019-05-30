@@ -1,7 +1,7 @@
 .version.green_spring_bonet /* version checker */
 {
-	color: #0000F9;
-	background-color: #7EE4C6;
+	color: #0000EC;
+	background-color: #4EA141;
 }
 
 .html
@@ -542,9 +542,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 135px;
 	left: 832px;
@@ -561,9 +561,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 135px;
 	left: 1231px;

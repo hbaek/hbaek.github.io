@@ -1,7 +1,7 @@
 .version.winzlear_gear /* version checker */
 {
-	color: #0000EB;
-	background-color: #BF4B5F;
+	color: #00000F;
+	background-color: #1336E6;
 }
 
 .html
@@ -588,9 +588,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 69px;
 	left: 817px;
@@ -607,9 +607,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 69px;
 	left: 1216px;

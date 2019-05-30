@@ -1,7 +1,7 @@
 .version.waffle_cone /* version checker */
 {
-	color: #00001B;
-	background-color: #4E5E3F;
+	color: #000010;
+	background-color: #B82454;
 }
 
 .html
@@ -465,9 +465,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 69px;
 	left: 817px;
@@ -484,9 +484,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 69px;
 	left: 1216px;

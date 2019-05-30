@@ -1,7 +1,7 @@
 .version.gokkalcollab /* version checker */
 {
-	color: #0000FA;
-	background-color: #20B7D8;
+	color: #00001A;
+	background-color: #6CE014;
 }
 
 .html
@@ -577,9 +577,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 5px;
 	left: 795px;
@@ -596,9 +596,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 5px;
 	left: 1194px;
