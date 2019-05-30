@@ -1,7 +1,7 @@
 .version.manggunheadband /* version checker */
 {
-	color: #0000FD;
-	background-color: #52F11E;
+	color: #0000F8;
+	background-color: #B63518;
 }
 
 .html
@@ -381,7 +381,7 @@
 	left: 107px;
 }
 
-#u44105
+#u44128
 {
 	z-index: 59;
 	width: 270px;
@@ -394,7 +394,7 @@
 	left: 387px;
 }
 
-#u44096:hover,#u44105:hover
+#u44096:hover,#u44128:hover
 {
 	width: 270px;
 	height: 109px;
@@ -402,7 +402,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u44114
+#u44105
 {
 	z-index: 61;
 	width: 270px;
@@ -416,7 +416,21 @@
 	left: 107px;
 }
 
-#u44114:hover
+#u44114
+{
+	z-index: 63;
+	width: 270px;
+	height: 109px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 119px;
+	left: 387px;
+}
+
+#u44105:hover,#u44114:hover
 {
 	width: 270px;
 	height: 109px;
@@ -440,12 +454,12 @@
 
 #u43975popup
 {
-	z-index: 63;
+	z-index: 65;
 }
 
 #u44099
 {
-	z-index: 64;
+	z-index: 66;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -461,19 +475,7 @@
 	padding-right: 60px;
 }
 
-#u44108
-{
-	z-index: 66;
-	width: 480px;
-	height: 360px;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-	top: 22px;
-	left: 22px;
-}
-
-#u44117
+#u44131
 {
 	z-index: 68;
 	width: 480px;
@@ -485,7 +487,31 @@
 	left: 22px;
 }
 
-#u44108_img,#u44117_img
+#u44108
+{
+	z-index: 70;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u44117
+{
+	z-index: 72;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u44131_img,#u44108_img,#u44117_img
 {
 	padding-top: 46px;
 	padding-bottom: 45px;
@@ -507,7 +533,7 @@
 
 #u43973-3popup
 {
-	z-index: 70;
+	z-index: 74;
 }
 
 #u43974-3
@@ -526,7 +552,7 @@
 
 #u43974-3popup
 {
-	z-index: 73;
+	z-index: 77;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -541,7 +567,7 @@
 
 #u43954-5
 {
-	z-index: 76;
+	z-index: 80;
 	width: 266px;
 	min-height: 18px;
 	background-color: transparent;
@@ -560,7 +586,7 @@
 
 #u43953-7
 {
-	z-index: 81;
+	z-index: 85;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -571,7 +597,7 @@
 
 #u43952
 {
-	z-index: 89;
+	z-index: 93;
 	height: 18px;
 	width: 280px;
 	vertical-align: top;
