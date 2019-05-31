@@ -1,7 +1,7 @@
 .version.traditionalkorean /* version checker */
 {
-	color: #000002;
-	background-color: #583E40;
+	color: #00000F;
+	background-color: #AE00BC;
 }
 
 .html
@@ -385,32 +385,9 @@
 	background: url("../images/u43625-r.png") no-repeat 0px 0px;
 }
 
-#u43626
-{
-	z-index: 59;
-	position: relative;
-	width: 369px;
-	margin-right: -10000px;
-	margin-top: 143px;
-	left: 236px;
-}
-
-#u43626_states
-{
-	height: 99px;
-	width: 369px;
-	vertical-align: top;
-	background: url("../images/u43626_states.png") no-repeat 0px 0px;
-}
-
-#u43626:hover #u43626_states
-{
-	background: url("../images/u43626_states-r.png") no-repeat 0px 0px;
-}
-
 #u43627
 {
-	z-index: 62;
+	z-index: 59;
 	position: relative;
 	width: 369px;
 	margin-right: -10000px;
@@ -433,15 +410,15 @@
 
 #u43628-4
 {
-	z-index: 64;
+	z-index: 61;
 	width: 94px;
 	min-height: 20px;
 	background-color: transparent;
 	color: #FFFFFF;
 	font-size: 15px;
-	text-align: center;
 	letter-spacing: 1px;
 	line-height: 0.5;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	-webkit-transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);
@@ -455,15 +432,15 @@
 
 #u43629-4
 {
-	z-index: 68;
+	z-index: 65;
 	width: 94px;
 	min-height: 20px;
 	background-color: transparent;
 	color: #FFFFFF;
 	font-size: 15px;
-	text-align: center;
 	letter-spacing: 1px;
 	line-height: 0.5;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	-webkit-transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);

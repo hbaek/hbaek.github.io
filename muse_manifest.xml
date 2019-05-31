@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hazelbaek.com" resolutions="1x" timestamp="1559178101161">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.hazelbaek.com" resolutions="1x" timestamp="1559280549891">
   <folder name="css">
-    <file name="site_global.css" crc="484239522"/>
+    <file name="site_global.css" crc="4064471951"/>
     <file name="master_page_floral.css" crc="292545286" ref="ballerina-roug:wild-forget-me-not:satin-buttercup:ballerina-rouge:birthday-for-s:bamboo-greenery"/>
     <file name="master_flowermenu.css" crc="327147433" ref="flowers"/>
     <file name="master_traditionalkoreanmenu.css" crc="4046498732" ref="traditionalkorean"/>
@@ -14,7 +14,7 @@
     <file name="druid-crown.css" crc="3964041352" ref="druid-crown"/>
     <file name="layer-over-layer.css" crc="172561462" ref="layer-over-layer"/>
     <file name="westernmillinery.css" crc="4110902521" ref="westernmillinery"/>
-    <file name="traditionalkorean.css" crc="39337536" ref="traditionalkorean"/>
+    <file name="traditionalkorean.css" crc="263061692" ref="traditionalkorean"/>
     <file name="crownband.css" crc="3760878299" ref="crownband"/>
     <file name="manggunheadband.css" crc="472260887" ref="manggunheadband"/>
     <file name="gokkalcollab.css" crc="443342868" ref="gokkalcollab"/>
@@ -679,8 +679,6 @@
     <file name="u43624_states-r.png" crc="124810155" ref="traditionalkorean"/>
     <file name="u43625.png" crc="3768452502" ref="traditionalkorean"/>
     <file name="u43625-r.png" crc="119621821" ref="traditionalkorean"/>
-    <file name="u43626_states.png" crc="127198766" ref="traditionalkorean"/>
-    <file name="u43626_states-r.png" crc="489555166" ref="traditionalkorean"/>
     <file name="u43627_states.png" crc="256046554" ref="traditionalkorean"/>
     <file name="u43627_states-r.png" crc="128712695" ref="traditionalkorean"/>
     <file name="u43709-4.png" crc="4143222273" ref="westernmillinery"/>
@@ -934,7 +932,7 @@
   <file name="merrygoround.html" crc="3969248609" seo="true" mt="1557574291427" redirect="true"/>
   <file name="druid-crown.html" crc="3948531842" seo="true" mt="1557574291427" redirect="true"/>
   <file name="layer-over-layer.html" crc="4062504928" seo="true" mt="1557574291427" redirect="true"/>
-  <file name="traditionalkorean.html" crc="93528091" seo="true" mt="1558758025437" redirect="true"/>
+  <file name="traditionalkorean.html" crc="4289613744" seo="true" mt="1559280507261" redirect="true"/>
   <file name="westernmillinery.html" crc="4258075646" seo="true" mt="1557573784882" redirect="true"/>
   <file name="crownband.html" crc="3976116615" seo="true" mt="1557573791683" redirect="true"/>
   <file name="manggunheadband.html" crc="288723657" seo="true" mt="1559178086972" redirect="true"/>
