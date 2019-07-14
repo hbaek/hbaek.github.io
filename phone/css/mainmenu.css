@@ -1,7 +1,7 @@
 .version.mainmenu /* version checker */
 {
-	color: #0000EE;
-	background-color: #AA85B5;
+	color: #000018;
+	background-color: #07AEF0;
 }
 
 @-ms-viewport
@@ -165,9 +165,9 @@
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	letter-spacing: 4px;
 	text-align: center;
 	line-height: 1.58;
+	letter-spacing: 4px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-top: 130px;
 	position: relative;

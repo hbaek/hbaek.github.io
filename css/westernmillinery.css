@@ -1,7 +1,7 @@
 .version.westernmillinery /* version checker */
 {
-	color: #0000F5;
-	background-color: #0764F9;
+	color: #00000F;
+	background-color: #6F445B;
 }
 
 .html
@@ -290,11 +290,35 @@
 	left: 2px;
 }
 
+#pu43740
+{
+	width: 0.01px;
+}
+
 #u43740
 {
 	z-index: 45;
 	width: 837px;
 	height: 1481px;
+	margin-right: -10000px;
+}
+
+#u44176
+{
+	z-index: 47;
+	height: 99px;
+	width: 369px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 354px;
+	left: 207px;
+	background: url("../images/u44176.png") no-repeat 0px 0px;
+}
+
+#u44176:hover
+{
+	background: url("../images/u44176-r.png") no-repeat 0px 0px;
 }
 
 body
