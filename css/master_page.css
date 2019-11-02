@@ -1,4 +1,47 @@
-#menuu36195
+#u44249
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u44250
+{
+	border-width: 4px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#u44247-3
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u44246-3
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	line-height: 1.4;
+	text-align: center;
+	color: #999999;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#menuu44181
 {
 	border-style: none;
 	border-color: transparent;
@@ -6,23 +49,23 @@
 	position: relative;
 }
 
-#u36196,#u36197
+#u44182,#u44183
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u36197:hover
+#u44183:hover
 {
 	background-color: #F0B8FF;
 }
 
-#u36197:active
+#u44183:active
 {
 	background-color: #F085FF;
 }
 
-#u36199-4
+#u44184-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -34,51 +77,51 @@
 	position: relative;
 }
 
-#u36202
+#u44188
 {
 	background-color: #F079FF;
 	position: relative;
 }
 
-#u43500
+#u44190
 {
 	border-color: #777777;
 	background-color: #F0CED6;
 	position: relative;
 }
 
-#u43500:hover
+#u44190:hover
 {
 	background-color: #B9B8FF;
 }
 
-#u43500:active
+#u44190:active
 {
 	background-color: #F0B8BA;
 }
 
-#u43500.MuseMenuActive
+#u44190.MuseMenuActive
 {
 	background-color: #76B8FF;
 }
 
-#u43499,#u36238,#u36241
+#u44189,#u44196,#u44206
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u36241:hover
+#u44206:hover
 {
 	background-color: #F0B8FF;
 }
 
-#u36241:active
+#u44206:active
 {
 	background-color: #F085FF;
 }
 
-#u36244-4
+#u44209-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -90,51 +133,51 @@
 	position: relative;
 }
 
-#u36240
+#u44198
 {
 	background-color: #F0B888;
 	position: relative;
 }
 
-#u36240:hover
+#u44198:hover
 {
 	background-color: #F0B8D6;
 }
 
-#u43520
+#u44202
 {
 	border-color: #777777;
 	background-color: #F09486;
 	position: relative;
 }
 
-#u43520:hover
+#u44202:hover
 {
 	background-color: #F0607F;
 }
 
-#u43520.MuseMenuActive
+#u44202.MuseMenuActive
 {
 	background-color: #F0E8FF;
 }
 
-#u43519,#u43492,#u43493
+#u44199,#u44210,#u44220
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u43493:hover
+#u44220:hover
 {
 	background-color: #F0B8FF;
 }
 
-#u43493:active
+#u44220:active
 {
 	background-color: #F085FF;
 }
 
-#u43496-4
+#u44221-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -146,102 +189,99 @@
 	position: relative;
 }
 
-#u36197.MuseMenuActive,#u36201,#u36241.MuseMenuActive,#u36239,#u43493.MuseMenuActive,#u43497
+#u44183.MuseMenuActive,#u44187,#u44206.MuseMenuActive,#u44197,#u44220.MuseMenuActive,#u44211
 {
 	background-color: transparent;
 }
 
-#u43498
+#u44212
 {
 	background-color: #F096D7;
 	position: relative;
 }
 
-#u43509
+#u44213
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u43510
+#u44214
 {
 	border-color: #777777;
 	background-color: #97B88C;
 	position: relative;
 }
 
-#u43510:hover
+#u44214:hover
 {
 	background-color: #7CB8FF;
 }
 
-#u43510:active
+#u44214:active
 {
 	background-color: #D1B8FF;
 }
 
-#u43510.MuseMenuActive
+#u44214.MuseMenuActive
 {
 	background-color: #F0B87D;
 }
 
-#u43502-4,#u43522-4,#u43512-4
+#u44192-4,#u44203-4,#u44215-4
 {
 	display: block;
 	vertical-align: top;
 	position: relative;
 }
 
-.MenuItem /* unifiedNavBar */
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.MenuItem /* slideshowFreeStyle */
 {
 	cursor: pointer;
 }
 
-#u36042
+#u44180
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+}
+
+#slideshowu44238,#u44224
+{
+	position: relative;
+}
+
+#u44224_states
+{
+	vertical-align: top;
+	background: url("../images/u44224_states.png") no-repeat 0px 0px;
+}
+
+#u44224:hover #u44224_states
+{
+	background: url("../images/u44224_states-r.png") no-repeat 0px 0px;
+}
+
+#u44179-3
 {
 	border-width: 3px;
 	border-style: solid;
 	border-color: #000000;
-	position: relative;
-	background: #7F7F7F url("../images/dsc05630.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u36562_states
-{
-	vertical-align: top;
-	background: url("../images/u36562_states.png") no-repeat 0px 0px;
-}
-
-#u36562:hover #u36562_states
-{
-	background: url("../images/u36562_states-r.png") no-repeat 0px 0px;
-}
-
-#u38205_states
-{
-	vertical-align: top;
-	background: url("../images/u38205_states.png") no-repeat 0px 0px;
-}
-
-#u38205:hover #u38205_states
-{
-	background: url("../images/u38205_states-r.png") no-repeat 0px 0px;
-}
-
-#u36562,#u38205,#u38206
-{
+	background-color: transparent;
+	line-height: 0.5;
+	text-align: center;
+	font-size: 23px;
+	letter-spacing: 1px;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: normal;
 	position: relative;
 }
 
-#u38206_states
+#u44179
 {
-	vertical-align: top;
-	background: url("../images/u38206_states.png") no-repeat 0px 0px;
-}
-
-#u38206:hover #u38206_states
-{
-	background: url("../images/u38206_states-r.png") no-repeat 0px 0px;
+	visibility: hidden;/* 100% transparent text is hidden */
 }
 

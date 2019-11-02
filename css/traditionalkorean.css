@@ -1,7 +1,7 @@
 .version.traditionalkorean /* version checker */
 {
-	color: #0000F9;
-	background-color: #95E444;
+	color: #000014;
+	background-color: #C78C5A;
 }
 
 .html
@@ -306,65 +306,60 @@
 #u43622
 {
 	z-index: 47;
-	height: 99px;
-	width: 369px;
-	vertical-align: top;
 	position: relative;
+	width: 369px;
 	margin-right: -10000px;
 	margin-top: 404px;
 	left: 236px;
-	background: url("../images/u43622.png") no-repeat 0px 0px;
 }
 
-#u43622:hover
+#u43622_states
 {
-	background: url("../images/u43622-r.png") no-repeat 0px 0px;
+	height: 99px;
+	width: 369px;
+	vertical-align: top;
+	background: url("../images/u43622_states.png") no-repeat 0px 0px;
+}
+
+#u43622:hover #u43622_states
+{
+	background: url("../images/u43622_states-r.png") no-repeat 0px 0px;
 }
 
 #u43623
 {
 	z-index: 50;
-	position: relative;
-	width: 369px;
-	margin-right: -10000px;
-	margin-top: 503px;
-	left: 236px;
-}
-
-#u43623_states
-{
 	height: 99px;
 	width: 369px;
 	vertical-align: top;
-	background: url("../images/u43623_states.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 503px;
+	left: 236px;
+	background: url("../images/u43623.png") no-repeat 0px 0px;
 }
 
-#u43623:hover #u43623_states
+#u43623:hover
 {
-	background: url("../images/u43623_states-r.png") no-repeat 0px 0px;
+	background: url("../images/u43623-r.png") no-repeat 0px 0px;
 }
 
 #u43624
 {
 	z-index: 53;
-	position: relative;
-	width: 369px;
-	margin-right: -10000px;
-	margin-top: 602px;
-	left: 236px;
-}
-
-#u43624_states
-{
 	height: 99px;
 	width: 369px;
 	vertical-align: top;
-	background: url("../images/u43624_states.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 602px;
+	left: 236px;
+	background: url("../images/u43624.png") no-repeat 0px 0px;
 }
 
-#u43624:hover #u43624_states
+#u43624:hover
 {
-	background: url("../images/u43624_states-r.png") no-repeat 0px 0px;
+	background: url("../images/u43624-r.png") no-repeat 0px 0px;
 }
 
 #u43625
@@ -388,24 +383,19 @@
 #u43627
 {
 	z-index: 59;
-	position: relative;
-	width: 369px;
-	margin-right: -10000px;
-	margin-top: 242px;
-	left: 236px;
-}
-
-#u43627_states
-{
 	height: 99px;
 	width: 369px;
 	vertical-align: top;
-	background: url("../images/u43627_states.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 242px;
+	left: 236px;
+	background: url("../images/u43627.png") no-repeat 0px 0px;
 }
 
-#u43627:hover #u43627_states
+#u43627:hover
 {
-	background: url("../images/u43627_states-r.png") no-repeat 0px 0px;
+	background: url("../images/u43627-r.png") no-repeat 0px 0px;
 }
 
 #u43629-4
@@ -414,11 +404,11 @@
 	width: 94px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #FFFFFF;
+	text-align: center;
 	font-size: 15px;
+	color: #FFFFFF;
 	line-height: 0.5;
 	letter-spacing: 1px;
-	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	-webkit-transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);
@@ -433,6 +423,29 @@
 #u43629
 {
 	text-decoration: underline;
+}
+
+#u44809
+{
+	z-index: 66;
+	position: relative;
+	width: 369px;
+	margin-right: -10000px;
+	margin-top: 800px;
+	left: 236px;
+}
+
+#u44809_states
+{
+	height: 99px;
+	width: 369px;
+	vertical-align: top;
+	background: url("../images/u44809_states.png") no-repeat 0px 0px;
+}
+
+#u44809:hover #u44809_states
+{
+	background: url("../images/u44809_states-r.png") no-repeat 0px 0px;
 }
 
 body
