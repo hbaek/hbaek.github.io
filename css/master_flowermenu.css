@@ -27,9 +27,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -69,9 +69,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -116,9 +116,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -168,7 +168,55 @@
 #u43817
 {
 	position: relative;
-	background: transparent url("../images/img_20160622_181755.jpg") no-repeat center center;
+	background: transparent url("../images/dsc03741.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+#u48401
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u48401.png") no-repeat 0px 0px;
+}
+
+#u48401:hover
+{
+	background: url("../images/u48401-r.png") no-repeat 0px 0px;
+}
+
+#u48404
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u48404.png") no-repeat 0px 0px;
+}
+
+#u48404:hover
+{
+	background: url("../images/u48404-r.png") no-repeat 0px 0px;
+}
+
+#u48405
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u48405.png") no-repeat 0px 0px;
+}
+
+#u48405:hover
+{
+	background: url("../images/u48405-r.png") no-repeat 0px 0px;
+}
+
+#u48406
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u48406.png") no-repeat 0px 0px;
+}
+
+#u48406:hover
+{
+	background: url("../images/u48406-r.png") no-repeat 0px 0px;
 }
 

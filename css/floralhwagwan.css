@@ -1,7 +1,7 @@
 .version.floralhwagwan /* version checker */
 {
-	color: #000005;
-	background-color: #D3FAB7;
+	color: #0000F8;
+	background-color: #822FD3;
 }
 
 .html
@@ -603,7 +603,7 @@
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 58px;
-	margin-left: 1190px;
+	margin-left: 970px;
 }
 
 #u44179-3
@@ -623,7 +623,8 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	left: -1px;
+	margin-top: 3px;
+	left: 10px;
 }
 
 body

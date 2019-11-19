@@ -1,7 +1,7 @@
 .version.westernmillinery /* version checker */
 {
-	color: #00000F;
-	background-color: #6F445B;
+	color: #000012;
+	background-color: #7845EA;
 }
 
 .html
@@ -306,19 +306,173 @@
 #u44176
 {
 	z-index: 47;
-	height: 99px;
-	width: 369px;
+	height: 103px;
+	width: 494px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 354px;
-	left: 207px;
-	background: url("../images/u44176.png") no-repeat 0px 0px;
+	margin-top: 271px;
+	left: 233px;
+	background: url("../images/u44176.png") no-repeat 2px 2px;
 }
 
 #u44176:hover
 {
 	background: url("../images/u44176-r.png") no-repeat 0px 0px;
+}
+
+#u46611
+{
+	z-index: 50;
+	position: relative;
+	width: 495px;
+	margin-right: -10000px;
+	margin-top: 469px;
+	left: 232px;
+}
+
+#u46611_states
+{
+	height: 110px;
+	width: 495px;
+	vertical-align: top;
+	background: url("../images/u46611_states.png") no-repeat 2px 2px;
+}
+
+#u46611:hover #u46611_states
+{
+	background: url("../images/u46611_states-r.png") no-repeat 0px 0px;
+}
+
+#u46615
+{
+	z-index: 53;
+	height: 110px;
+	width: 514px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 789px;
+	left: 196px;
+	background: url("../images/u46615.png") no-repeat 2px 2px;
+}
+
+#u46615:hover
+{
+	background: url("../images/u46615-r.png") no-repeat 0px 0px;
+}
+
+#u46616
+{
+	z-index: 56;
+	height: 110px;
+	width: 494px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 691px;
+	left: 206px;
+	background: url("../images/u46616.png") no-repeat 2px 2px;
+}
+
+#u46616:hover
+{
+	background: url("../images/u46616-r.png") no-repeat 0px 0px;
+}
+
+#u46618
+{
+	z-index: 59;
+	height: 110px;
+	width: 494px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 567px;
+	left: 233px;
+	background: url("../images/u46618.png") no-repeat 2px 2px;
+}
+
+#u46618:hover
+{
+	background: url("../images/u46618-r.png") no-repeat 0px 0px;
+}
+
+#u46625
+{
+	z-index: 62;
+	position: relative;
+	width: 494px;
+	margin-right: -10000px;
+	margin-top: 887px;
+	left: 206px;
+}
+
+#u46625_states
+{
+	height: 110px;
+	width: 494px;
+	vertical-align: top;
+	background: url("../images/u46625_states.png") no-repeat 2px 2px;
+}
+
+#u46625:hover #u46625_states
+{
+	background: url("../images/u46625_states-r.png") no-repeat 0px 0px;
+}
+
+#u46626
+{
+	z-index: 65;
+	height: 110px;
+	width: 494px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 173px;
+	left: 233px;
+	background: url("../images/u46626.png") no-repeat 2px 2px;
+}
+
+#u46626:hover
+{
+	background: url("../images/u46626-r.png") no-repeat 0px 0px;
+}
+
+#u46627
+{
+	z-index: 68;
+	height: 110px;
+	width: 494px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 75px;
+	left: 233px;
+	background: url("../images/u46627.png") no-repeat 2px 2px;
+}
+
+#u46627:hover
+{
+	background: url("../images/u46627-r.png") no-repeat 0px 0px;
+}
+
+#u46628
+{
+	z-index: 71;
+	height: 103px;
+	width: 494px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 370px;
+	left: 233px;
+	background: url("../images/u46628.png") no-repeat 2px 2px;
+}
+
+#u46628:hover
+{
+	background: url("../images/u46628-r.png") no-repeat 0px 0px;
 }
 
 body

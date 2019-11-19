@@ -1,7 +1,7 @@
 .version.ohkchundang /* version checker */
 {
-	color: #000017;
-	background-color: #0A9E30;
+	color: #000016;
+	background-color: #DB2A25;
 }
 
 .html
@@ -103,7 +103,7 @@
 	z-index: 62;
 }
 
-#u44683
+#u44745
 {
 	z-index: 63;
 	width: 828px;
@@ -115,7 +115,7 @@
 	position: relative;
 }
 
-#u44679
+#u44754
 {
 	z-index: 65;
 	width: 828px;
@@ -127,7 +127,7 @@
 	position: relative;
 }
 
-#u44681
+#u44763
 {
 	z-index: 67;
 	width: 828px;
@@ -139,7 +139,7 @@
 	position: relative;
 }
 
-#u44675
+#u44772
 {
 	z-index: 69;
 	width: 828px;
@@ -151,7 +151,7 @@
 	position: relative;
 }
 
-#u44745
+#u44781
 {
 	z-index: 71;
 	width: 828px;
@@ -163,7 +163,7 @@
 	position: relative;
 }
 
-#u44754
+#u44790
 {
 	z-index: 73;
 	width: 828px;
@@ -175,7 +175,7 @@
 	position: relative;
 }
 
-#u44763
+#u44799
 {
 	z-index: 75;
 	width: 828px;
@@ -187,7 +187,7 @@
 	position: relative;
 }
 
-#u44772
+#u44685
 {
 	z-index: 77;
 	width: 828px;
@@ -199,74 +199,14 @@
 	position: relative;
 }
 
-#u44781
-{
-	z-index: 79;
-	width: 828px;
-	height: 881px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u44790
-{
-	z-index: 81;
-	width: 828px;
-	height: 881px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u44799
-{
-	z-index: 83;
-	width: 828px;
-	height: 881px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u44677
-{
-	z-index: 85;
-	width: 828px;
-	height: 881px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u44685
-{
-	z-index: 87;
-	width: 828px;
-	height: 881px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u44683_clip,#u44679_clip,#u44681_clip,#u44675_clip,#u44745_clip,#u44754_clip,#u44763_clip,#u44772_clip,#u44781_clip,#u44790_clip,#u44799_clip,#u44677_clip,#u44685_clip
+#u44745_clip,#u44754_clip,#u44763_clip,#u44772_clip,#u44781_clip,#u44790_clip,#u44799_clip,#u44685_clip
 {
 	overflow: hidden;
 	width: 828px;
 	height: 881px;
 }
 
-#u44683_img,#u44679_img,#u44681_img,#u44675_img,#u44745_img,#u44754_img,#u44763_img,#u44772_img,#u44781_img,#u44790_img,#u44799_img,#u44677_img,#u44685_img
+#u44745_img,#u44754_img,#u44763_img,#u44772_img,#u44781_img,#u44790_img,#u44799_img,#u44685_img
 {
 	margin-left: -26px;
 	margin-right: -27px;
@@ -288,7 +228,7 @@
 
 #u44672-3popup
 {
-	z-index: 89;
+	z-index: 79;
 }
 
 #u44687-3
@@ -310,7 +250,7 @@
 
 #u44687-3popup
 {
-	z-index: 92;
+	z-index: 82;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -661,7 +601,7 @@
 
 #u44721
 {
-	z-index: 106;
+	z-index: 96;
 	height: 99px;
 	width: 369px;
 	vertical-align: top;
@@ -682,7 +622,7 @@
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 58px;
-	margin-left: 1190px;
+	margin-left: 970px;
 }
 
 #u44179-3
@@ -697,11 +637,12 @@
 
 #u44662-10
 {
-	z-index: 95;
+	z-index: 85;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
+	left: 11px;
 }
 
 body
