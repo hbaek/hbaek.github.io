@@ -1,7 +1,7 @@
 .version.coral__alabaster /* version checker */
 {
-	color: #0000E6;
-	background-color: #871788;
+	color: #0000F4;
+	background-color: #6AA4CF;
 }
 
 @-ms-viewport
@@ -107,11 +107,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	color: #000000;
-	font-size: 12px;
-	text-align: left;
 	line-height: 1.4;
+	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -126,11 +126,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	color: #000000;
-	font-size: 12px;
-	text-align: left;
 	line-height: 1.4;
+	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -183,9 +183,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	color: #999999;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 107px;
 	left: 81px;

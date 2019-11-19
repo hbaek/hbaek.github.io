@@ -1,7 +1,7 @@
 .version.westernmillinery /* version checker */
 {
-	color: #000012;
-	background-color: #7845EA;
+	color: #0000F4;
+	background-color: #6AFC0D;
 }
 
 .html
@@ -333,7 +333,7 @@
 
 #u46611_states
 {
-	height: 110px;
+	height: 106px;
 	width: 495px;
 	vertical-align: top;
 	background: url("../images/u46611_states.png") no-repeat 2px 2px;
@@ -383,7 +383,7 @@
 #u46618
 {
 	z-index: 59;
-	height: 110px;
+	height: 106px;
 	width: 494px;
 	vertical-align: top;
 	position: relative;
@@ -424,7 +424,7 @@
 #u46626
 {
 	z-index: 65;
-	height: 110px;
+	height: 106px;
 	width: 494px;
 	vertical-align: top;
 	position: relative;
@@ -442,7 +442,7 @@
 #u46627
 {
 	z-index: 68;
-	height: 110px;
+	height: 106px;
 	width: 494px;
 	vertical-align: top;
 	position: relative;

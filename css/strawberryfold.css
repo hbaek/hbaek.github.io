@@ -1,7 +1,7 @@
 .version.strawberryfold /* version checker */
 {
-	color: #000019;
-	background-color: #DDAA0A;
+	color: #0000E9;
+	background-color: #8F614D;
 }
 
 .html
@@ -504,9 +504,9 @@
 	width: 93px;
 	min-height: 569px;
 	background-color: transparent;
-	color: #FFFFFF;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -57px;
 	left: 725px;
@@ -523,9 +523,9 @@
 	width: 96px;
 	min-height: 569px;
 	background-color: transparent;
-	color: #FFFFFF;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -57px;
 	left: 1123px;

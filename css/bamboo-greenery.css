@@ -1,7 +1,7 @@
 .version.bamboo_greenery /* version checker */
 {
-	color: #000018;
-	background-color: #8029C2;
+	color: #000013;
+	background-color: #8AF4F0;
 }
 
 .html
@@ -198,9 +198,9 @@
 	width: 320px;
 	min-height: 1098px;
 	background-color: transparent;
-	color: #FFFFFF;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -565px;
 	left: 662px;
@@ -217,9 +217,9 @@
 	width: 322px;
 	min-height: 1087px;
 	background-color: transparent;
-	color: #FFFFFF;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -554px;
 	left: 1061px;

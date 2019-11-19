@@ -487,6 +487,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/65.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/model_collaboration.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -613,7 +619,25 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/114.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/29.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/test.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/312.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -626,6 +650,18 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/dsc03837-%EB%B3%B5%EA%B5%AC%EB%90%A8.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/115.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/55.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1105,12 +1141,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/ct8b2114.jpg</loc>
-    <lastmod>2019-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/fwb_group12.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1165,18 +1195,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/dsc03621360x360.jpg</loc>
-    <lastmod>2019-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/images/dsc03644360x360.jpg</loc>
-    <lastmod>2019-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.hazelbaek.com/images/dsasdfasdfc03854258x360.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1207,7 +1225,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/1478607193719.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/1478607193719480x320.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1238,6 +1256,12 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/8wb507x508.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/img_20190414_085906.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1285,7 +1309,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/test3.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/test2.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1363,7 +1387,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/121.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/120.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1537,13 +1561,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/dsc0567%E3%84%B4%E3%85%87%E3%84%B99.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/s_22.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/back2.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/s_42.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/s_62.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1591,19 +1621,97 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/img_20180117_1220552.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/img_20180117_1221112.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/img_20180117_1221202.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/img_20180117_1221272.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/%EC%98%A5%EC%B6%98%EB%8B%B912.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/%EC%98%A5%EC%B6%98%EB%8B%B922.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/img_20180117_122049.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/img_20190414_085906.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/%EB%B3%B5%EA%B3%BC%EB%88%8852.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/%EB%B3%B5%EA%B3%BC%EB%88%8882.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/%EB%B3%B5%EA%B3%BC%EB%88%8892.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/%EB%B3%B5%EA%B3%BC%EB%88%88102.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/%EB%B3%B5%EA%B3%BC%EB%88%88112.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/%EB%B3%B5%EA%B3%BC%EB%88%88142.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/%EB%B3%B5%EA%B3%BC%EB%88%88152.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/dsc05381.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc0567%E3%84%B4%E3%85%87%E3%84%B99.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1753,6 +1861,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/412.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/57.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/ct8b2114.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/thumbnail.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -1766,6 +1892,24 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/fb2.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/121.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/213.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/315.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1789,7 +1933,73 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/insta22.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03621360x360.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03644360x360.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/back2.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/front.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/122.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/214.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/316.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/edit72.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/413.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/fwb82.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/back3.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1813,7 +2023,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/66.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/merrygroudn3.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/414.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1844,6 +2066,30 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/images/renew4.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/215.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/123.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/415.jpg</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/124.jpg</loc>
     <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2437,6 +2683,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/page1.html</loc>
+    <lastmod>2019-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/untitled-36.html</loc>
     <lastmod>2019-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2494,12 +2746,6 @@
   <url>
     <loc>http://www.hazelbaek.com/princesshwagwan.html</loc>
     <lastmod>2019-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hazelbaek.com/page1.html</loc>
-    <lastmod>2019-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

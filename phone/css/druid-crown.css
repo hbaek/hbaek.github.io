@@ -1,7 +1,7 @@
 .version.druid_crown /* version checker */
 {
-	color: #0000E9;
-	background-color: #6894CC;
+	color: #000013;
+	background-color: #D3904E;
 }
 
 @-ms-viewport
@@ -123,11 +123,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	color: #000000;
-	font-size: 12px;
-	text-align: left;
 	line-height: 1.4;
+	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -142,11 +142,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	color: #000000;
-	font-size: 12px;
-	text-align: left;
 	line-height: 1.4;
+	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -161,11 +161,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	color: #000000;
-	font-size: 12px;
-	text-align: left;
 	line-height: 1.4;
+	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -180,11 +180,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	color: #000000;
-	font-size: 12px;
-	text-align: left;
 	line-height: 1.4;
+	text-align: left;
+	font-size: 12px;
 	letter-spacing: 3px;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -237,9 +237,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	color: #999999;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 107px;
 	left: 81px;
