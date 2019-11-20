@@ -1,4 +1,4 @@
-#menuu43697
+#menuu48587
 {
 	border-style: none;
 	border-color: transparent;
@@ -6,65 +6,23 @@
 	position: relative;
 }
 
-#u43698,#u43699
+#u48588,#u48598
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u43699:hover
+#u48598:hover
 {
-	background-color: #999999;
+	background-color: #F0B8FF;
 }
 
-#u43699:active
+#u48598:active
 {
-	background-color: #6B6B6B;
+	background-color: #F085FF;
 }
 
-#u43702-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
-	color: #000000;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u43706
-{
-	border-width: 1px;
-	border-style: solid;
-	border-color: #777777;
-	background-color: #FFFFFF;
-	position: relative;
-}
-
-#u43706:hover
-{
-	background-color: #AAAAAA;
-}
-
-#u43704,#u43705,#u43712,#u43722
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u43699.MuseMenuActive,#u43722:hover
-{
-	background-color: #999999;
-}
-
-#u43722:active
-{
-	background-color: #6B6B6B;
-}
-
-#u43725-4
+#u48599-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -76,42 +34,51 @@
 	position: relative;
 }
 
-#u43718
+#u48590
 {
-	border-width: 1px;
-	border-style: solid;
-	border-color: #777777;
-	background-color: #FFFFFF;
+	background-color: #F079FF;
 	position: relative;
 }
 
-#u43718:hover
+#u48592
 {
-	background-color: #AAAAAA;
+	border-color: #777777;
+	background-color: #F0CED6;
+	position: relative;
 }
 
-#u43714,#u43715,#u43726,#u43727
+#u48592:hover
+{
+	background-color: #B9B8FF;
+}
+
+#u48592:active
+{
+	background-color: #F0B8BA;
+}
+
+#u48592.MuseMenuActive
+{
+	background-color: #76B8FF;
+}
+
+#u48591,#u48616,#u48626
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u43722.MuseMenuActive,#u43727:hover
+#u48626:hover
 {
-	background-color: #999999;
+	background-color: #F0B8FF;
 }
 
-#u43727:active
+#u48626:active
 {
-	background-color: #6B6B6B;
+	background-color: #F085FF;
 }
 
-#u43727.MuseMenuActive
-{
-	background-color: #999999;
-}
-
-#u43729-4
+#u48627-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -123,37 +90,102 @@
 	position: relative;
 }
 
-#u43703,#u43713,#u43731
+#u48618
 {
-	background-color: transparent;
-}
-
-#u43732,#u43733
-{
-	background-color: transparent;
+	background-color: #F0B888;
 	position: relative;
 }
 
-#u43734
+#u48618:hover
 {
-	border-width: 1px;
-	border-style: solid;
+	background-color: #F0B8D6;
+}
+
+#u48620
+{
 	border-color: #777777;
-	background-color: #FFFFFF;
+	background-color: #F09486;
 	position: relative;
 }
 
-#u43734:hover
+#u48620:hover
 {
-	background-color: #AAAAAA;
+	background-color: #F0607F;
 }
 
-#u43706.MuseMenuActive,#u43718.MuseMenuActive,#u43734.MuseMenuActive
+#u48620.MuseMenuActive
 {
-	background-color: #666666;
+	background-color: #F0E8FF;
 }
 
-#u43709-4,#u43719-4,#u43737-4
+#u48619,#u48602,#u48612
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u48612:hover
+{
+	background-color: #F0B8FF;
+}
+
+#u48612:active
+{
+	background-color: #F085FF;
+}
+
+#u48613-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 16px;
+	color: #000000;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u48598.MuseMenuActive,#u48589,#u48626.MuseMenuActive,#u48617,#u48612.MuseMenuActive,#u48603
+{
+	background-color: transparent;
+}
+
+#u48604
+{
+	background-color: #F096D7;
+	position: relative;
+}
+
+#u48605
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u48608
+{
+	border-color: #777777;
+	background-color: #97B88C;
+	position: relative;
+}
+
+#u48608:hover
+{
+	background-color: #7CB8FF;
+}
+
+#u48608:active
+{
+	background-color: #D1B8FF;
+}
+
+#u48608.MuseMenuActive
+{
+	background-color: #F0B87D;
+}
+
+#u48593-4,#u48621-4,#u48610-4
 {
 	display: block;
 	vertical-align: top;
@@ -168,7 +200,7 @@
 #u43740
 {
 	position: relative;
-	background: transparent url("../images/fb4.jpg") no-repeat center top;
+	background: transparent url("../images/dsc03458.jpg") no-repeat center top;
 	background-size: cover;
 }
 

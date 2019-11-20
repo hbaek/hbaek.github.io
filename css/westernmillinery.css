@@ -1,7 +1,7 @@
 .version.westernmillinery /* version checker */
 {
-	color: #0000F4;
-	background-color: #6AFC0D;
+	color: #0000F3;
+	background-color: #92BCB4;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 837px;
-	min-height: 1520px;
+	min-height: 1525px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
@@ -21,43 +21,43 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 12px 58px 58px;
+	padding: 7px 58px 58px;
 }
 
-#menuu43697
+#menuu48587
 {
-	z-index: 2;
+	z-index: 3;
 	width: 203px;
 }
 
-#u43698
+#u48588
 {
 	width: 66px;
 	min-height: 39px;
 	margin-right: -10000px;
 }
 
-#u43699
+#u48598
 {
 	width: 66px;
 	padding-bottom: 20px;
 }
 
-#u43699:hover
+#u48598:hover
 {
 	width: 66px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u43699:active
+#u48598:active
 {
 	width: 66px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u43702-4
+#u48599-4
 {
 	width: 66px;
 	min-height: 19px;
@@ -65,7 +65,7 @@
 	top: 10px;
 }
 
-#u43699:hover #u43702-4
+#u48598:hover #u48599-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -74,7 +74,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43699:active #u43702-4
+#u48598:active #u48599-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -83,21 +83,28 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43706
+#u48592
 {
-	width: 118px;
-	padding-bottom: 5px;
+	width: 120px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
-#u43706:hover
+#u48592:hover
 {
-	width: 118px;
+	width: 120px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43712
+#u48592:active
+{
+	width: 120px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u48616
 {
 	width: 66px;
 	min-height: 39px;
@@ -105,34 +112,34 @@
 	left: 68px;
 }
 
-#u43722
+#u48626
 {
 	width: 66px;
 	padding-bottom: 20px;
 }
 
-#u43699.MuseMenuActive,#u43722:hover
+#u48598.MuseMenuActive,#u48626:hover
 {
 	width: 66px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u43722:active
+#u48626:active
 {
 	width: 66px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u43722.MuseMenuActive
+#u48626.MuseMenuActive
 {
 	width: 66px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u43725-4
+#u48627-4
 {
 	width: 66px;
 	min-height: 19px;
@@ -140,7 +147,7 @@
 	top: 10px;
 }
 
-#u43699.MuseMenuActive #u43702-4,#u43722:hover #u43725-4
+#u48598.MuseMenuActive #u48599-4,#u48626:hover #u48627-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -149,7 +156,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43722:active #u43725-4
+#u48626:active #u48627-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -158,7 +165,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43722.MuseMenuActive #u43725-4
+#u48626.MuseMenuActive #u48627-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -167,21 +174,40 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43718
+#u48590,#u48591,#u48618
 {
-	width: 118px;
-	padding-bottom: 4px;
+	width: 120px;
+}
+
+#u48618:hover
+{
+	width: 120px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u48620
+{
+	width: 120px;
+	padding-bottom: 6px;
 	margin-right: -10000px;
 }
 
-#u43706.MuseMenuActive,#u43718:hover
+#u48592.MuseMenuActive,#u48620:hover
 {
-	width: 118px;
+	width: 120px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43726
+#u48593-4,#u48621-4
+{
+	margin-right: -10000px;
+	top: 3px;
+	left: 2px;
+}
+
+#u48602
 {
 	width: 67px;
 	min-height: 39px;
@@ -189,34 +215,34 @@
 	left: 136px;
 }
 
-#u43727
+#u48612
 {
 	width: 67px;
 	padding-bottom: 20px;
 }
 
-#u43727:hover
+#u48612:hover
 {
 	width: 67px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u43727:active
+#u48612:active
 {
 	width: 67px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u43727.MuseMenuActive
+#u48612.MuseMenuActive
 {
 	width: 67px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u43729-4
+#u48613-4
 {
 	width: 67px;
 	min-height: 19px;
@@ -224,7 +250,7 @@
 	top: 10px;
 }
 
-#u43727:hover #u43729-4
+#u48612:hover #u48613-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -233,7 +259,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43727:active #u43729-4
+#u48612:active #u48613-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -242,7 +268,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43727.MuseMenuActive #u43729-4
+#u48612.MuseMenuActive #u48613-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -251,39 +277,46 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43703,#u43713,#u43731
+#u48589,#u48617,#u48603
 {
 	width: 120px;
 	top: 39px;
 }
 
-#u43704,#u43705,#u43714,#u43715,#u43732,#u43733
+#u48619,#u48604,#u48605
 {
 	width: 120px;
 }
 
-#u43734
+#u48608
 {
-	width: 118px;
-	padding-bottom: 4px;
+	width: 120px;
+	padding-bottom: 5px;
 	margin-right: -10000px;
 }
 
-#u43718.MuseMenuActive,#u43734:hover
+#u48620.MuseMenuActive,#u48608:hover
 {
-	width: 118px;
+	width: 120px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43734.MuseMenuActive
+#u48608:active
 {
-	width: 118px;
+	width: 120px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u43709-4,#u43719-4,#u43737-4
+#u48608.MuseMenuActive
+{
+	width: 120px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u48610-4
 {
 	margin-right: -10000px;
 	top: 2px;
@@ -293,50 +326,56 @@
 #pu43740
 {
 	width: 0.01px;
+	margin-top: 12px;
 }
 
 #u43740
 {
-	z-index: 45;
+	z-index: 2;
 	width: 837px;
-	height: 1481px;
+	height: 1474px;
 	margin-right: -10000px;
 }
 
 #u44176
 {
 	z-index: 47;
-	height: 103px;
-	width: 494px;
-	vertical-align: top;
 	position: relative;
+	width: 490px;
 	margin-right: -10000px;
-	margin-top: 271px;
-	left: 233px;
-	background: url("../images/u44176.png") no-repeat 2px 2px;
+	margin-top: 289px;
+	left: 209px;
 }
 
-#u44176:hover
+#u44176_states
 {
-	background: url("../images/u44176-r.png") no-repeat 0px 0px;
+	height: 99px;
+	width: 490px;
+	vertical-align: top;
+	background: url("../images/u44176_states.png") no-repeat 0px 0px;
+}
+
+#u44176:hover #u44176_states
+{
+	background: url("../images/u44176_states-r.png") no-repeat 0px 0px;
 }
 
 #u46611
 {
 	z-index: 50;
 	position: relative;
-	width: 495px;
+	width: 491px;
 	margin-right: -10000px;
-	margin-top: 469px;
-	left: 232px;
+	margin-top: 487px;
+	left: 208px;
 }
 
 #u46611_states
 {
-	height: 106px;
-	width: 495px;
+	height: 98px;
+	width: 491px;
 	vertical-align: top;
-	background: url("../images/u46611_states.png") no-repeat 2px 2px;
+	background: url("../images/u46611_states.png") no-repeat 0px 0px;
 }
 
 #u46611:hover #u46611_states
@@ -347,73 +386,88 @@
 #u46615
 {
 	z-index: 53;
-	height: 110px;
-	width: 514px;
-	vertical-align: top;
 	position: relative;
+	width: 510px;
 	margin-right: -10000px;
-	margin-top: 789px;
-	left: 196px;
-	background: url("../images/u46615.png") no-repeat 2px 2px;
+	margin-top: 781px;
+	left: 197px;
 }
 
-#u46615:hover
+#u46615_states
 {
-	background: url("../images/u46615-r.png") no-repeat 0px 0px;
+	height: 98px;
+	width: 510px;
+	vertical-align: top;
+	background: url("../images/u46615_states.png") no-repeat 0px 0px;
+}
+
+#u46615:hover #u46615_states
+{
+	background: url("../images/u46615_states-r.png") no-repeat 0px 0px;
 }
 
 #u46616
 {
 	z-index: 56;
-	height: 110px;
-	width: 494px;
-	vertical-align: top;
 	position: relative;
+	width: 490px;
 	margin-right: -10000px;
-	margin-top: 691px;
-	left: 206px;
-	background: url("../images/u46616.png") no-repeat 2px 2px;
+	margin-top: 683px;
+	left: 207px;
 }
 
-#u46616:hover
+#u46616_states
 {
-	background: url("../images/u46616-r.png") no-repeat 0px 0px;
+	height: 98px;
+	width: 490px;
+	vertical-align: top;
+	background: url("../images/u46616_states.png") no-repeat 0px 0px;
+}
+
+#u46616:hover #u46616_states
+{
+	background: url("../images/u46616_states-r.png") no-repeat 0px 0px;
 }
 
 #u46618
 {
 	z-index: 59;
-	height: 106px;
-	width: 494px;
-	vertical-align: top;
 	position: relative;
+	width: 490px;
 	margin-right: -10000px;
-	margin-top: 567px;
-	left: 233px;
-	background: url("../images/u46618.png") no-repeat 2px 2px;
+	margin-top: 585px;
+	left: 209px;
 }
 
-#u46618:hover
+#u46618_states
 {
-	background: url("../images/u46618-r.png") no-repeat 0px 0px;
+	height: 98px;
+	width: 490px;
+	vertical-align: top;
+	background: url("../images/u46618_states.png") no-repeat 0px 0px;
+}
+
+#u46618:hover #u46618_states
+{
+	background: url("../images/u46618_states-r.png") no-repeat 0px 0px;
 }
 
 #u46625
 {
 	z-index: 62;
 	position: relative;
-	width: 494px;
+	width: 490px;
 	margin-right: -10000px;
-	margin-top: 887px;
-	left: 206px;
+	margin-top: 879px;
+	left: 208px;
 }
 
 #u46625_states
 {
-	height: 110px;
-	width: 494px;
+	height: 98px;
+	width: 490px;
 	vertical-align: top;
-	background: url("../images/u46625_states.png") no-repeat 2px 2px;
+	background: url("../images/u46625_states.png") no-repeat 0px 0px;
 }
 
 #u46625:hover #u46625_states
@@ -424,55 +478,70 @@
 #u46626
 {
 	z-index: 65;
-	height: 106px;
-	width: 494px;
-	vertical-align: top;
 	position: relative;
+	width: 490px;
 	margin-right: -10000px;
-	margin-top: 173px;
-	left: 233px;
-	background: url("../images/u46626.png") no-repeat 2px 2px;
+	margin-top: 191px;
+	left: 209px;
 }
 
-#u46626:hover
+#u46626_states
 {
-	background: url("../images/u46626-r.png") no-repeat 0px 0px;
+	height: 98px;
+	width: 490px;
+	vertical-align: top;
+	background: url("../images/u46626_states.png") no-repeat 0px 0px;
+}
+
+#u46626:hover #u46626_states
+{
+	background: url("../images/u46626_states-r.png") no-repeat 0px 0px;
 }
 
 #u46627
 {
 	z-index: 68;
-	height: 106px;
-	width: 494px;
-	vertical-align: top;
 	position: relative;
+	width: 490px;
 	margin-right: -10000px;
-	margin-top: 75px;
-	left: 233px;
-	background: url("../images/u46627.png") no-repeat 2px 2px;
+	margin-top: 93px;
+	left: 209px;
 }
 
-#u46627:hover
+#u46627_states
 {
-	background: url("../images/u46627-r.png") no-repeat 0px 0px;
+	height: 98px;
+	width: 490px;
+	vertical-align: top;
+	background: url("../images/u46627_states.png") no-repeat 0px 0px;
+}
+
+#u46627:hover #u46627_states
+{
+	background: url("../images/u46627_states-r.png") no-repeat 0px 0px;
 }
 
 #u46628
 {
 	z-index: 71;
-	height: 103px;
-	width: 494px;
-	vertical-align: top;
 	position: relative;
+	width: 490px;
 	margin-right: -10000px;
-	margin-top: 370px;
-	left: 233px;
-	background: url("../images/u46628.png") no-repeat 2px 2px;
+	margin-top: 388px;
+	left: 209px;
 }
 
-#u46628:hover
+#u46628_states
 {
-	background: url("../images/u46628-r.png") no-repeat 0px 0px;
+	height: 99px;
+	width: 490px;
+	vertical-align: top;
+	background: url("../images/u46628_states.png") no-repeat 0px 0px;
+}
+
+#u46628:hover #u46628_states
+{
+	background: url("../images/u46628_states-r.png") no-repeat 0px 0px;
 }
 
 body
