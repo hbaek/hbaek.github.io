@@ -1,7 +1,7 @@
 .version.jinsa_shat /* version checker */
 {
-	color: #0000FA;
-	background-color: #78D597;
+	color: #0000F1;
+	background-color: #2DC62E;
 }
 
 .html
@@ -204,9 +204,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

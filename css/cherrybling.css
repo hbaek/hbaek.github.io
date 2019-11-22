@@ -1,7 +1,7 @@
 .version.cherrybling /* version checker */
 {
-	color: #00001B;
-	background-color: #22771C;
+	color: #000016;
+	background-color: #75D2ED;
 }
 
 .html
@@ -160,9 +160,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

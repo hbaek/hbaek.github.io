@@ -1,7 +1,7 @@
 .version.luckandeye /* version checker */
 {
-	color: #0000E3;
-	background-color: #D929B2;
+	color: #0000E0;
+	background-color: #859C24;
 }
 
 .html
@@ -246,9 +246,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;
@@ -610,13 +610,13 @@
 	position: relative;
 	width: 369px;
 	margin-right: -10000px;
-	margin-top: 787px;
+	margin-top: 784px;
 	left: 234px;
 }
 
 #u45010_states
 {
-	height: 99px;
+	height: 104px;
 	width: 369px;
 	vertical-align: top;
 	background: url("../images/u45010_states.png") no-repeat 0px 0px;

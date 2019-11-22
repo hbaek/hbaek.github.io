@@ -1,7 +1,7 @@
 .version.ballerina_roug /* version checker */
 {
-	color: #000017;
-	background-color: #E32563;
+	color: #000001;
+	background-color: #76A051;
 }
 
 .html
@@ -318,9 +318,9 @@
 	width: 320px;
 	min-height: 1098px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -565px;
 	left: 662px;
@@ -337,9 +337,9 @@
 	width: 322px;
 	min-height: 1087px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -554px;
 	left: 1061px;

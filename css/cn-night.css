@@ -1,7 +1,7 @@
 .version.cn_night /* version checker */
 {
-	color: #000013;
-	background-color: #63B4D1;
+	color: #0000E8;
+	background-color: #47A7CC;
 }
 
 .html
@@ -548,9 +548,9 @@
 	width: 123px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 119px;
 	left: 809px;
@@ -567,9 +567,9 @@
 	width: 125px;
 	min-height: 422px;
 	background-color: transparent;
-	line-height: 1.4;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 119px;
 	left: 1208px;

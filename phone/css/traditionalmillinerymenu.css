@@ -1,7 +1,7 @@
 .version.traditionalmillinerymenu /* version checker */
 {
-	color: #000006;
-	background-color: #5BBE0B;
+	color: #00001D;
+	background-color: #D9064C;
 }
 
 @-ms-viewport
@@ -37,22 +37,14 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
-	min-height: 517px;
+	width: 316px;
+	min-height: 500.7391662837672px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 31px;
-}
-
-#pu28146-4
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 16px;
-	margin-left: 10px;
+	padding: 16px 54px 31.26083371623281px 10px;
 }
 
 #u28146-4
@@ -108,7 +100,7 @@
 
 #u42696-6
 {
-	z-index: 43;
+	z-index: 38;
 	display: block;
 	vertical-align: top;
 	margin-left: 2px;
@@ -117,7 +109,7 @@
 
 #u43275-6
 {
-	z-index: 52;
+	z-index: 47;
 	display: block;
 	vertical-align: top;
 	margin-top: 11px;
@@ -135,7 +127,7 @@
 
 #u41281
 {
-	z-index: 35;
+	z-index: 30;
 	position: relative;
 	width: 255px;
 	margin-right: -10000px;
@@ -150,7 +142,7 @@
 
 #u41277-6
 {
-	z-index: 37;
+	z-index: 32;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -161,7 +153,7 @@
 
 #u42697
 {
-	z-index: 50;
+	z-index: 45;
 	position: relative;
 	width: 255px;
 	margin-right: -10000px;
@@ -176,7 +168,7 @@
 
 #u43274
 {
-	z-index: 59;
+	z-index: 54;
 	position: relative;
 	width: 255px;
 	margin-right: -10000px;
@@ -196,43 +188,39 @@
 	background: url("../../images/u43274_states-r.png") no-repeat 0px 0px;
 }
 
-#u29450-5
+#u29454-5
 {
 	z-index: 20;
 	width: 103px;
 	min-height: 14px;
-	margin-right: -10000px;
-	margin-top: 517px;
-	left: 30px;
+	margin-left: 212px;
 }
 
-#u29455-4
-{
-	z-index: 30;
-	width: 103px;
-	min-height: 14px;
-	margin-right: -10000px;
-	margin-top: 517px;
-	left: 140px;
-}
-
-#u29454-5
-{
-	z-index: 25;
-	width: 103px;
-	min-height: 14px;
-	margin-right: -10000px;
-	margin-top: 517px;
-	left: 250px;
-}
-
-#u29450-5:hover,#u29455-4:hover,#u29454-5:hover
+#u29454-5:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 14px;
 	width: 103px;
-	margin: 517px -10000px 0px 0px;
+	margin: 0px 0px 0px 212px;
+}
+
+#u29455-4
+{
+	z-index: 25;
+	width: 103px;
+	min-height: 14px;
+	margin-left: 44px;
+	margin-top: 1px;
+}
+
+#u29455-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 14px;
+	width: 103px;
+	margin: 1px 0px 0px 44px;
 }
 
 body
@@ -244,6 +232,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -516px;
 }
 

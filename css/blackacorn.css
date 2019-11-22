@@ -1,7 +1,7 @@
 .version.blackacorn /* version checker */
 {
-	color: #0000F0;
-	background-color: #D06DCA;
+	color: #0000FD;
+	background-color: #87C83B;
 }
 
 .html
@@ -172,9 +172,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

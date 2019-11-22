@@ -1,7 +1,7 @@
 .version.ohkchundang /* version checker */
 {
-	color: #00001F;
-	background-color: #967CC9;
+	color: #000000;
+	background-color: #01BD1C;
 }
 
 .html
@@ -240,9 +240,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;
@@ -606,7 +606,7 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 783px;
+	margin-top: 787px;
 	left: 234px;
 	background: url("../images/u44721.png") no-repeat 0px 0px;
 }

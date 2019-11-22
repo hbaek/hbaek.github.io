@@ -1,3 +1,11 @@
+#menuu48499
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
 #u48500,#u48510
 {
 	background-color: transparent;
@@ -19,9 +27,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -75,9 +83,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -131,9 +139,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -184,28 +192,9 @@
 	position: relative;
 }
 
-#u48277
-{
-	position: absolute;
-	background-color: transparent;
-}
-
-#menuu48499,#u48280
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
-.MenuItem,.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* unifiedNavBar */
+.MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-.SSSlideLoading /* slideshowFreeStyle */
-{
-	background: url("../images/loading.gif") no-repeat center center;
 }
 
 #u48321
@@ -217,7 +206,7 @@
 	position: relative;
 }
 
-#slideshowu48272,#u48271
+#u49112,#u48271
 {
 	position: relative;
 }

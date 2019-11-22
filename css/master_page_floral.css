@@ -32,9 +32,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -88,9 +88,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -144,9 +144,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -214,8 +214,8 @@
 #u38182-3
 {
 	background-color: transparent;
-	text-align: left;
 	font-size: 12px;
+	text-align: left;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -224,8 +224,8 @@
 #u38181-4
 {
 	background-color: transparent;
-	text-align: justify;
 	font-size: 12px;
+	text-align: justify;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;

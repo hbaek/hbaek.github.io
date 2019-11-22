@@ -1,7 +1,7 @@
 .version.mainmenu /* version checker */
 {
-	color: #0000FE;
-	background-color: #459F1D;
+	color: #000019;
+	background-color: #36F986;
 }
 
 @-ms-viewport
@@ -37,22 +37,14 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
-	min-height: 517px;
+	width: 316px;
+	min-height: 500.7391662837672px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 31px;
-}
-
-#pu28146-4
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 16px;
-	margin-left: 10px;
+	padding: 16px 54px 31.26083371623281px 10px;
 }
 
 #u28146-4
@@ -108,12 +100,12 @@
 
 #u33631-6
 {
-	z-index: 40;
+	z-index: 35;
 	width: 242px;
 	min-height: 38px;
 	background-color: transparent;
-	line-height: 1.58;
 	text-align: center;
+	line-height: 1.58;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-left: 2px;
 	position: relative;
@@ -134,7 +126,7 @@
 
 #u33627-6
 {
-	z-index: 46;
+	z-index: 41;
 	width: 242px;
 	min-height: 43px;
 	background-color: transparent;
@@ -161,13 +153,13 @@
 
 #u33629-6
 {
-	z-index: 34;
+	z-index: 29;
 	width: 242px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 1.58;
-	text-align: center;
 	letter-spacing: 4px;
+	text-align: center;
+	line-height: 1.58;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	margin-top: 130px;
 	position: relative;
@@ -194,7 +186,7 @@
 
 #u33628
 {
-	z-index: 53;
+	z-index: 48;
 	position: relative;
 	width: 242px;
 	margin-right: -10000px;
@@ -216,7 +208,7 @@
 
 #u33861
 {
-	z-index: 56;
+	z-index: 51;
 	height: 48px;
 	width: 242px;
 	vertical-align: top;
@@ -233,7 +225,7 @@
 
 #u33862
 {
-	z-index: 59;
+	z-index: 54;
 	position: relative;
 	width: 242px;
 	margin-right: -10000px;
@@ -253,43 +245,39 @@
 	background: url("../../images/u33862_states-r.png") no-repeat 0px 0px;
 }
 
-#u29450-5
+#u29454-5
 {
 	z-index: 20;
 	width: 103px;
 	min-height: 14px;
-	margin-right: -10000px;
-	margin-top: 517px;
-	left: 30px;
+	margin-left: 212px;
 }
 
-#u29455-4
-{
-	z-index: 30;
-	width: 103px;
-	min-height: 14px;
-	margin-right: -10000px;
-	margin-top: 517px;
-	left: 140px;
-}
-
-#u29454-5
-{
-	z-index: 25;
-	width: 103px;
-	min-height: 14px;
-	margin-right: -10000px;
-	margin-top: 517px;
-	left: 250px;
-}
-
-#u29450-5:hover,#u29455-4:hover,#u29454-5:hover
+#u29454-5:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 14px;
 	width: 103px;
-	margin: 517px -10000px 0px 0px;
+	margin: 0px 0px 0px 212px;
+}
+
+#u29455-4
+{
+	z-index: 25;
+	width: 103px;
+	min-height: 14px;
+	margin-left: 44px;
+	margin-top: 1px;
+}
+
+#u29455-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 14px;
+	width: 103px;
+	margin: 1px 0px 0px 44px;
 }
 
 body
@@ -301,6 +289,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -516px;
 }
 

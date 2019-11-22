@@ -1,7 +1,7 @@
 .version.druidcrown /* version checker */
 {
-	color: #000017;
-	background-color: #F45742;
+	color: #000003;
+	background-color: #A6713A;
 }
 
 .html
@@ -456,9 +456,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hazelbaek.com/images/4.jpg</loc>
+    <lastmod>2019-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hazelbaek.com/images/dsc03488.jpg</loc>
     <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1435,25 +1441,49 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/img_20180301_001457.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/dsc03526361x507.jpg</loc>
     <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/img_20180301_001819.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/dsc035332.jpg</loc>
     <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/img_20180301_003352.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/dsc03555338x507.jpg</loc>
     <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/images/img_20180301_003406.jpg</loc>
+    <loc>http://www.hazelbaek.com/images/insta2507x507.jpg</loc>
+    <lastmod>2019-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03522.jpg</loc>
+    <lastmod>2019-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03537.jpg</loc>
+    <lastmod>2019-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/dsc03549.jpg</loc>
+    <lastmod>2019-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hazelbaek.com/images/insta.jpg</loc>
     <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2233,7 +2263,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/menufineart1.html</loc>
-    <lastmod>2017-12-26</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2359,13 +2389,13 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/menumillinery.html</loc>
-    <lastmod>2018-06-05</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/floralccrown1.html</loc>
-    <lastmod>2018-06-05</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2401,7 +2431,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/mainmenu.html</loc>
-    <lastmod>2017-12-26</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2419,25 +2449,25 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/floralccrown4.html</loc>
-    <lastmod>2017-12-22</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/floralccrown3.html</loc>
-    <lastmod>2018-06-05</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/floralccrown2.html</loc>
-    <lastmod>2018-06-05</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/strawmenu.html</loc>
-    <lastmod>2017-12-22</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2449,7 +2479,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/fabricmenu.html</loc>
-    <lastmod>2017-12-22</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2473,19 +2503,19 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/menufloral.html</loc>
-    <lastmod>2017-12-26</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/menufloral2.html</loc>
-    <lastmod>2017-12-26</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/menufloral3.html</loc>
-    <lastmod>2017-12-26</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2503,7 +2533,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/menufineart2.html</loc>
-    <lastmod>2017-12-26</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2515,7 +2545,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/phone/traditionalmillinerymenu.html</loc>
-    <lastmod>2018-08-12</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2558,7 +2588,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/flowers.html</loc>
-    <lastmod>2019-11-19</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2634,8 +2664,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hazelbaek.com/bamboo-greenery.html</loc>
-    <lastmod>2019-11-19</lastmod>
+    <loc>http://www.hazelbaek.com/kalecelosia.html</loc>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2678,105 +2708,105 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/untitled-36.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/layeroverlayer.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/floralhwagwan.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/ohkchundang.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/ohkchundang.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/luckandeye.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/jinsa-shat.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/summergokkal.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/smfpjeonmo.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/hanjihwagwan.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/princesshwagwan.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/shadeofhue.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.hazelbaek.com/phone/shadeofhue.html"/>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/winsleargear.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/whitestrawandblackcross.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/greenspringbonnet.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/cherrybling.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/blackacorn.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/cinderella.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2788,31 +2818,31 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/coralalabaster.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/nightbead.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/mixfloral.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/hotpinkroseband.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/rosegreyband.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2830,7 +2860,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/whiteandorange.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2848,7 +2878,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/magnolialeaves.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2873,25 +2903,25 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/hemlockangle.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/foryyrose.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/foryyrice.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/foryyfern.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2909,19 +2939,19 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/carnationhalo.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/burgundyrose.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hazelbaek.com/boroniaspring.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2939,7 +2969,7 @@
   </url>
   <url>
     <loc>http://www.hazelbaek.com/mangunband.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

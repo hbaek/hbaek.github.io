@@ -1,7 +1,7 @@
 .version.princesshwagwan /* version checker */
 {
-	color: #0000F9;
-	background-color: #DE2224;
+	color: #00000F;
+	background-color: #D4B5EF;
 }
 
 .html
@@ -210,9 +210,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;
@@ -577,7 +577,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 783px;
-	left: 234px;
+	left: 269px;
 	background: url("../images/u45572.png") no-repeat 0px 0px;
 }
 

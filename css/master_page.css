@@ -30,9 +30,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -70,9 +70,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -126,9 +126,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -182,9 +182,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -272,9 +272,9 @@
 	border-color: #000000;
 	background-color: transparent;
 	line-height: 0.5;
-	text-align: center;
-	font-size: 23px;
 	letter-spacing: 1px;
+	font-size: 23px;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;

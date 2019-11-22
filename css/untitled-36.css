@@ -1,7 +1,7 @@
 .version.untitled_36 /* version checker */
 {
-	color: #0000FD;
-	background-color: #DF667D;
+	color: #0000F5;
+	background-color: #EA67C9;
 }
 
 .html
@@ -193,9 +193,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 897px;

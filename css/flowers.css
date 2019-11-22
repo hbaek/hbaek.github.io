@@ -1,7 +1,7 @@
 .version.flowers /* version checker */
 {
-	color: #000003;
-	background-color: #8CB76D;
+	color: #00001B;
+	background-color: #811E98;
 }
 
 .html
@@ -13,13 +13,13 @@
 {
 	z-index: 1;
 	width: 953px;
-	min-height: 1559px;
+	min-height: 1169px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 31px;
+	padding-bottom: 61px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -342,7 +342,7 @@
 {
 	z-index: 2;
 	width: 837px;
-	padding-bottom: 1082px;
+	padding-bottom: 691px;
 	margin-right: -10000px;
 }
 
@@ -393,7 +393,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 696px;
+	padding-bottom: 909px;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 2px;
@@ -409,10 +410,10 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 0.9;
-	text-align: left;
-	font-size: 15px;
 	color: #5A0804;
+	font-size: 15px;
+	text-align: left;
+	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 183px;

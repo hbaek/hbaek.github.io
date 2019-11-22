@@ -1,7 +1,7 @@
 .version.summergokkal /* version checker */
 {
-	color: #000011;
-	background-color: #27DB15;
+	color: #00000C;
+	background-color: #03BD5E;
 }
 
 .html
@@ -240,9 +240,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;
@@ -598,20 +598,22 @@
 	width: 837px;
 }
 
-#u45315-13
+#u45315
 {
-	z-index: 96;
-	position: relative;
+	z-index: 97;
+	height: 106px;
 	width: 369px;
+	vertical-align: top;
+	position: relative;
 	margin-right: -10000px;
 	margin-top: 782px;
 	left: 234px;
+	background: url("../images/u45315.png") no-repeat 0px 0px;
 }
 
-#u45315-13_img
+#u45315:hover
 {
-	display: block;
-	vertical-align: top;
+	background: url("../images/u45315-r.png") no-repeat 0px 0px;
 }
 
 #pu44179-3
@@ -645,7 +647,7 @@
 
 #u48876
 {
-	z-index: 109;
+	z-index: 99;
 	width: 532px;
 	height: 941px;
 	background-color: #7F7F7F;

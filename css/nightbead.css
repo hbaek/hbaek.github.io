@@ -1,7 +1,7 @@
 .version.nightbead /* version checker */
 {
-	color: #0000E7;
-	background-color: #741165;
+	color: #0000EA;
+	background-color: #23B494;
 }
 
 .html
@@ -172,9 +172,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
-	line-height: 1.4;
-	text-align: center;
 	color: #999999;
+	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;
