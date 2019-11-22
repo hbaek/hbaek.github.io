@@ -1,3 +1,10 @@
+#u43687
+{
+	position: relative;
+	background: transparent url("../images/4.jpg") no-repeat center center;
+	background-size: cover;
+}
+
 #menuu48630
 {
 	border-style: none;
@@ -27,9 +34,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -83,9 +90,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -139,9 +146,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
-	font-size: 16px;
 	color: #000000;
+	font-size: 16px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -195,12 +202,5 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u43687
-{
-	position: relative;
-	background: transparent url("../images/45.jpg") no-repeat center center;
-	background-size: cover;
 }
 
