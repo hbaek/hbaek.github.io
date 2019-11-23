@@ -1,7 +1,7 @@
 .version.ohkchundang /* version checker */
 {
-	color: #000015;
-	background-color: #3369D4;
+	color: #000000;
+	background-color: #3F1FC8;
 }
 
 @-ms-viewport
@@ -38,110 +38,142 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 544px;
+	min-height: 545px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 4px;
+	padding-bottom: 3px;
 }
 
 #slideshowu43278
 {
-	z-index: 51;
+	z-index: 55;
 	width: 0.01px;
-	height: 175px;
+	height: 550px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
+	margin-top: -2px;
 	left: -233px;
 }
 
 #u43286
 {
 	position: absolute;
+	width: 380px;
+	height: 498px;
 	background-color: transparent;
+	top: 52px;
+	left: 233px;
 }
 
 #u43286popup
 {
-	z-index: 52;
+	z-index: 56;
 }
 
 #u43305
 {
-	z-index: 53;
+	z-index: 57;
+	width: 380px;
+	height: 498px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
 #u43419
 {
-	z-index: 55;
+	z-index: 59;
+	width: 380px;
+	height: 498px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
 #u43428
 {
-	z-index: 57;
+	z-index: 61;
+	width: 380px;
+	height: 498px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
 #u43437
 {
-	z-index: 59;
+	z-index: 63;
+	width: 380px;
+	height: 498px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
 #u43446
 {
-	z-index: 61;
+	z-index: 65;
+	width: 380px;
+	height: 498px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
 #u43455
 {
-	z-index: 63;
+	z-index: 67;
+	width: 380px;
+	height: 498px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
 #u43464
 {
-	z-index: 65;
+	z-index: 69;
+	width: 380px;
+	height: 498px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
 #u43336
 {
 	position: absolute;
-	width: 279px;
+	width: 163px;
 	background-color: transparent;
-	left: 233px;
+	left: 387px;
 }
 
 #u43336popup
 {
-	z-index: 67;
+	z-index: 71;
 }
 
 #u43345-4
 {
-	z-index: 68;
-	width: 249px;
+	z-index: 72;
+	width: 133px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -159,8 +191,8 @@
 
 #u43425-4
 {
-	z-index: 72;
-	width: 249px;
+	z-index: 76;
+	width: 133px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -178,8 +210,8 @@
 
 #u43434-4
 {
-	z-index: 76;
-	width: 249px;
+	z-index: 80;
+	width: 133px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -197,8 +229,8 @@
 
 #u43443-4
 {
-	z-index: 80;
-	width: 249px;
+	z-index: 84;
+	width: 133px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -216,8 +248,8 @@
 
 #u43452-4
 {
-	z-index: 84;
-	width: 249px;
+	z-index: 88;
+	width: 133px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -235,8 +267,8 @@
 
 #u43461-4
 {
-	z-index: 88;
-	width: 249px;
+	z-index: 92;
+	width: 133px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -254,8 +286,8 @@
 
 #u43470-4
 {
-	z-index: 92;
-	width: 249px;
+	z-index: 96;
+	width: 133px;
 	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
@@ -280,7 +312,7 @@
 	padding-top: 15px;
 	padding-bottom: 15px;
 	min-height: 17px;
-	width: 249px;
+	width: 133px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -296,12 +328,12 @@
 	text-align: center;
 	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 114px;
+	top: 119px;
 }
 
 #u43279-4popup
 {
-	z-index: 96;
+	z-index: 100;
 }
 
 #u43279
@@ -322,13 +354,13 @@
 	text-align: center;
 	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 125px;
+	top: 130px;
 	left: 81px;
 }
 
 #u43280-4popup
 {
-	z-index: 100;
+	z-index: 104;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -341,17 +373,44 @@
 	background: url("../../images/loading.gif") no-repeat center center;
 }
 
-#ppu50622
+#pppu50670-3
 {
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 1px;
 }
 
-#pu50622
+#ppu50670-3
 {
 	width: 0.01px;
 	margin-left: 2px;
+}
+
+#pu50670-3
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 6px;
+	margin-left: 83px;
+}
+
+#u50670-3
+{
+	z-index: 47;
+	width: 284px;
+	min-height: 37px;
+	margin-right: -10000px;
+}
+
+#u50793-4
+{
+	z-index: 50;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 5px;
 }
 
 #u50622
@@ -490,16 +549,6 @@
 	left: 2px;
 }
 
-#u50670-3
-{
-	z-index: 47;
-	width: 284px;
-	min-height: 37px;
-	margin-right: -10000px;
-	margin-top: 6px;
-	left: 83px;
-}
-
 #pu50624
 {
 	width: 0.01px;
@@ -513,7 +562,7 @@
 
 #u43349
 {
-	z-index: 50;
+	z-index: 54;
 	width: 237px;
 	height: 13px;
 	background-color: #FFFFFF;
@@ -528,7 +577,7 @@
 	z-index: 7;
 	width: 40px;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 553px;
 	left: 55px;
 }
 
@@ -536,7 +585,7 @@
 {
 	width: 40px;
 	min-height: 0px;
-	margin: 549px -10000px 0px 0px;
+	margin: 553px -10000px 0px 0px;
 }
 
 #u50673
@@ -544,7 +593,7 @@
 	z-index: 3;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 553px;
 	left: 170px;
 }
 
@@ -553,7 +602,7 @@
 	z-index: 5;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 553px;
 	left: 287px;
 }
 
@@ -561,7 +610,7 @@
 {
 	width: 39px;
 	min-height: 0px;
-	margin: 549px -10000px 0px 0px;
+	margin: 553px -10000px 0px 0px;
 }
 
 body
@@ -573,6 +622,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -549px;
+	margin-bottom: -552px;
 }
 

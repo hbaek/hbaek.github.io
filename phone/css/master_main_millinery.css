@@ -1,3 +1,11 @@
+#u27618
+{
+	background-color: #F7F6F4;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+
 #menuu50096
 {
 	border-style: none;
@@ -13,11 +21,6 @@
 }
 
 #u50105:hover
-{
-	background-color: #484848;
-}
-
-#u50105.MuseMenuActive
 {
 	background-color: #484848;
 }
@@ -38,7 +41,7 @@
 	background: url("../../images/u50107-3.png") no-repeat 0px 0px;
 }
 
-#u50109
+#u50105.MuseMenuActive,#u50109
 {
 	background-color: transparent;
 }
@@ -53,7 +56,7 @@
 
 #u50161:hover
 {
-	border-width: 1px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: #484848;
 	background-color: #FFFFFF;
@@ -69,7 +72,7 @@
 
 #u50204:hover
 {
-	border-width: 1px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: #484848;
 	background-color: #FFFFFF;
@@ -85,7 +88,7 @@
 
 #u50194:hover
 {
-	border-width: 1px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: #484848;
 	background-color: #FFFFFF;
@@ -101,7 +104,7 @@
 
 #u50187:hover
 {
-	border-width: 1px;
+	border-width: 2px;
 	border-style: solid;
 	border-color: #484848;
 	background-color: #FFFFFF;
@@ -124,14 +127,6 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u27618
-{
-	background-color: #F7F6F4;
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
 }
 
 #u50110,#u50160,#u50201,#u50191,#u50184,#u50307-3,#u49998

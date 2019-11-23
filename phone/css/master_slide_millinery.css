@@ -6,18 +6,13 @@
 	position: relative;
 }
 
-#u50622,#u50626,#u50627
+#u50670-3,#u50622,#u50626,#u50627
 {
 	background-color: transparent;
 	position: relative;
 }
 
 #u50627:hover
-{
-	background-color: #484848;
-}
-
-#u50627.MuseMenuActive
 {
 	background-color: #484848;
 }
@@ -38,7 +33,7 @@
 	background: url("../../images/u50629-3.png") no-repeat 0px 0px;
 }
 
-#u50631
+#u50627.MuseMenuActive,#u50631
 {
 	background-color: transparent;
 }
@@ -134,7 +129,7 @@
 	filter: alpha(opacity=75);
 }
 
-#u50632,#u50633,#u50661,#u50640,#u50654,#u50670-3,#u50671
+#u50632,#u50633,#u50661,#u50640,#u50654,#u50671
 {
 	background-color: transparent;
 	position: relative;
