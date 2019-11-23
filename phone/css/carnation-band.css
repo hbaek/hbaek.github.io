@@ -1,7 +1,7 @@
 .version.carnation_band /* version checker */
 {
-	color: #000017;
-	background-color: #2709E8;
+	color: #0000EB;
+	background-color: #E0D807;
 }
 
 @-ms-viewport
@@ -38,24 +38,27 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 305px;
+	min-height: 570px;
 	background-image: none;
 	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 243px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#page_position_content
+{
+	margin-top: -29px;
+	padding-bottom: 442px;
+	width: 0.01px;
 }
 
 #slideshowu32720
 {
-	z-index: 3;
+	z-index: 2;
 	width: 0.01px;
 	height: 157px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 21px;
 	left: -233px;
+	position: relative;
 }
 
 #u32721
@@ -66,12 +69,12 @@
 
 #u32721popup
 {
-	z-index: 4;
+	z-index: 3;
 }
 
 #u32722
 {
-	z-index: 5;
+	z-index: 4;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -79,7 +82,7 @@
 
 #u32793
 {
-	z-index: 7;
+	z-index: 6;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -87,7 +90,7 @@
 
 #u32802
 {
-	z-index: 9;
+	z-index: 8;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -103,12 +106,12 @@
 
 #u32737popup
 {
-	z-index: 11;
+	z-index: 10;
 }
 
 #u32739-4
 {
-	z-index: 12;
+	z-index: 11;
 	width: 153px;
 	min-height: 17px;
 	border-style: none;
@@ -127,7 +130,7 @@
 
 #u32799-4
 {
-	z-index: 16;
+	z-index: 15;
 	width: 153px;
 	min-height: 17px;
 	border-style: none;
@@ -146,7 +149,7 @@
 
 #u32808-4
 {
-	z-index: 20;
+	z-index: 19;
 	width: 153px;
 	min-height: 17px;
 	border-style: none;
@@ -193,7 +196,7 @@
 
 #u32745-4popup
 {
-	z-index: 24;
+	z-index: 23;
 }
 
 #u32745
@@ -220,7 +223,7 @@
 
 #u32744-4popup
 {
-	z-index: 28;
+	z-index: 27;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -231,19 +234,6 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../../images/loading.gif") no-repeat center center;
-}
-
-#u34070
-{
-	z-index: 2;
-	height: 63px;
-}
-
-#u34070-bw
-{
-	z-index: 2;
-	margin-top: 242px;
-	height: 63px;
 }
 
 body

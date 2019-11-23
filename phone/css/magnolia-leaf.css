@@ -1,7 +1,7 @@
 .version.magnolia_leaf /* version checker */
 {
-	color: #000011;
-	background-color: #747206;
+	color: #000014;
+	background-color: #3DFDFE;
 }
 
 @-ms-viewport
@@ -38,24 +38,27 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 305px;
+	min-height: 570px;
 	background-image: none;
 	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 243px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#page_position_content
+{
+	padding-top: 21px;
+	padding-bottom: 392px;
+	width: 0.01px;
 }
 
 #slideshowu32189
 {
-	z-index: 3;
+	z-index: 2;
 	width: 0.01px;
 	height: 157px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 21px;
 	left: -233px;
+	position: relative;
 }
 
 #u32199
@@ -66,12 +69,12 @@
 
 #u32199popup
 {
-	z-index: 4;
+	z-index: 3;
 }
 
 #u32260
 {
-	z-index: 5;
+	z-index: 4;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -79,7 +82,7 @@
 
 #u39731
 {
-	z-index: 7;
+	z-index: 6;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -87,7 +90,7 @@
 
 #u39740
 {
-	z-index: 9;
+	z-index: 8;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -95,7 +98,7 @@
 
 #u39763
 {
-	z-index: 11;
+	z-index: 10;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -111,12 +114,12 @@
 
 #u32204popup
 {
-	z-index: 13;
+	z-index: 12;
 }
 
 #u32266-4
 {
-	z-index: 14;
+	z-index: 13;
 	width: 120px;
 	min-height: 17px;
 	border-style: none;
@@ -135,7 +138,7 @@
 
 #u39737-4
 {
-	z-index: 18;
+	z-index: 17;
 	width: 120px;
 	min-height: 17px;
 	border-style: none;
@@ -154,7 +157,7 @@
 
 #u39746-4
 {
-	z-index: 22;
+	z-index: 21;
 	width: 120px;
 	min-height: 17px;
 	border-style: none;
@@ -173,7 +176,7 @@
 
 #u39769-4
 {
-	z-index: 26;
+	z-index: 25;
 	width: 120px;
 	min-height: 17px;
 	border-style: none;
@@ -220,7 +223,7 @@
 
 #u32197-4popup
 {
-	z-index: 30;
+	z-index: 29;
 }
 
 #u32197
@@ -247,7 +250,7 @@
 
 #u32209-4popup
 {
-	z-index: 34;
+	z-index: 33;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -258,19 +261,6 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../../images/loading.gif") no-repeat center center;
-}
-
-#u34070
-{
-	z-index: 2;
-	height: 63px;
-}
-
-#u34070-bw
-{
-	z-index: 2;
-	margin-top: 242px;
-	height: 63px;
 }
 
 body

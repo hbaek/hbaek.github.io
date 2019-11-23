@@ -1,7 +1,7 @@
 .version.cinderella /* version checker */
 {
-	color: #00001B;
-	background-color: #723027;
+	color: #0000E3;
+	background-color: #B89CBD;
 }
 
 .html
@@ -115,13 +115,7 @@
 	position: relative;
 }
 
-#u46314_img
-{
-	padding-left: 14px;
-	padding-right: 14px;
-}
-
-#u46368
+#u49626
 {
 	z-index: 65;
 	width: 828px;
@@ -133,7 +127,7 @@
 	position: relative;
 }
 
-#u46377
+#u49635
 {
 	z-index: 67;
 	width: 828px;
@@ -145,12 +139,13 @@
 	position: relative;
 }
 
-#u46368_img,#u46377_img
+#u49635_img
 {
-	padding: 41px 14px 40px;
+	margin-left: -26px;
+	margin-right: -26px;
 }
 
-#u46386
+#u49644
 {
 	z-index: 69;
 	width: 828px;
@@ -162,12 +157,7 @@
 	position: relative;
 }
 
-#u46386_img
-{
-	padding: 21px 14px;
-}
-
-#u46395
+#u49653
 {
 	z-index: 71;
 	width: 828px;
@@ -179,16 +169,17 @@
 	position: relative;
 }
 
-#u46395_clip
+#u46314_clip,#u49626_clip,#u49635_clip,#u49644_clip,#u49653_clip
 {
 	overflow: hidden;
 	width: 828px;
 	height: 881px;
 }
 
-#u46395_img
+#u46314_img,#u49626_img,#u49644_img,#u49653_img
 {
-	margin: -14px 14px;
+	margin-left: -26px;
+	margin-right: -27px;
 }
 
 #u46307-3

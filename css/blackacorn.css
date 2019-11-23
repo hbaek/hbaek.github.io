@@ -1,7 +1,7 @@
 .version.blackacorn /* version checker */
 {
-	color: #0000FD;
-	background-color: #87C83B;
+	color: #0000EB;
+	background-color: #E35001;
 }
 
 .html
@@ -103,7 +103,7 @@
 	z-index: 62;
 }
 
-#u46235
+#u46287
 {
 	z-index: 63;
 	width: 828px;
@@ -115,7 +115,7 @@
 	position: relative;
 }
 
-#u46278
+#u49303
 {
 	z-index: 65;
 	width: 828px;
@@ -127,7 +127,13 @@
 	position: relative;
 }
 
-#u46287
+#u49303_img
+{
+	margin-left: -26px;
+	margin-right: -26px;
+}
+
+#u49312
 {
 	z-index: 67;
 	width: 828px;
@@ -139,9 +145,17 @@
 	position: relative;
 }
 
-#u46235_img,#u46278_img,#u46287_img
+#u46287_clip,#u49303_clip,#u49312_clip
 {
-	padding: 120px 169px 120px 170px;
+	overflow: hidden;
+	width: 828px;
+	height: 881px;
+}
+
+#u46287_img,#u49312_img
+{
+	margin-left: -26px;
+	margin-right: -27px;
 }
 
 #u46232-3

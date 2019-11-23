@@ -1,7 +1,7 @@
 .version.cherrybling /* version checker */
 {
-	color: #000016;
-	background-color: #75D2ED;
+	color: #0000E4;
+	background-color: #B4F241;
 }
 
 .html
@@ -115,7 +115,13 @@
 	position: relative;
 }
 
-#u46217
+#u46188_img
+{
+	margin-left: -26px;
+	margin-right: -27px;
+}
+
+#u49434
 {
 	z-index: 65;
 	width: 828px;
@@ -127,9 +133,17 @@
 	position: relative;
 }
 
-#u46188_img,#u46217_img
+#u46188_clip,#u49434_clip
 {
-	padding: 41px 14px 40px;
+	overflow: hidden;
+	width: 828px;
+	height: 881px;
+}
+
+#u49434_img
+{
+	margin-left: -26px;
+	margin-right: -26px;
 }
 
 #u46175-3

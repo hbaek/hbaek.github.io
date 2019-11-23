@@ -1,7 +1,7 @@
 .version.winsleargear /* version checker */
 {
-	color: #0000FE;
-	background-color: #82AACB;
+	color: #0000F1;
+	background-color: #72BA8C;
 }
 
 .html
@@ -103,7 +103,7 @@
 	z-index: 62;
 }
 
-#u45912
+#u45970
 {
 	z-index: 63;
 	width: 828px;
@@ -115,7 +115,7 @@
 	position: relative;
 }
 
-#u45952
+#u49339
 {
 	z-index: 65;
 	width: 828px;
@@ -127,7 +127,7 @@
 	position: relative;
 }
 
-#u45961
+#u49348
 {
 	z-index: 67;
 	width: 828px;
@@ -139,34 +139,17 @@
 	position: relative;
 }
 
-#u45912_img,#u45952_img,#u45961_img
-{
-	padding: 120px 169px 120px 170px;
-}
-
-#u45970
-{
-	z-index: 69;
-	width: 828px;
-	height: 881px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u45970_clip
+#u45970_clip,#u49339_clip,#u49348_clip
 {
 	overflow: hidden;
 	width: 828px;
 	height: 881px;
 }
 
-#u45970_img
+#u45970_img,#u49339_img,#u49348_img
 {
-	margin-top: -59px;
-	margin-bottom: -60px;
+	margin-left: -26px;
+	margin-right: -27px;
 }
 
 #u45894-3
@@ -185,7 +168,7 @@
 
 #u45894-3popup
 {
-	z-index: 71;
+	z-index: 69;
 }
 
 #u45899-3
@@ -207,7 +190,7 @@
 
 #u45899-3popup
 {
-	z-index: 74;
+	z-index: 72;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -535,7 +518,7 @@
 
 #u45979-3
 {
-	z-index: 101;
+	z-index: 99;
 	width: 5px;
 	background-color: transparent;
 	position: relative;
@@ -574,7 +557,7 @@
 
 #u45925-12
 {
-	z-index: 89;
+	z-index: 87;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -587,8 +570,8 @@
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 58px;
-	margin-left: 970px;
+	margin-top: 47px;
+	margin-left: 967px;
 }
 
 #u44179-3
@@ -596,21 +579,47 @@
 	z-index: 3;
 	width: 450px;
 	min-height: 881px;
-	margin-bottom: -2px;
 	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
+	margin-top: 10px;
+	left: 2px;
 }
 
 #u45924-12
 {
-	z-index: 77;
+	z-index: 75;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	left: 11px;
+	margin-top: 20px;
+	left: 14px;
+}
+
+#u49358
+{
+	z-index: 102;
+	width: 532px;
+	height: 941px;
+	background-color: #7F7F7F;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u49358:hover
+{
+	background-color: transparent;
+	width: 532px;
+	height: 941px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+.ie #u49358:hover
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
 }
 
 body

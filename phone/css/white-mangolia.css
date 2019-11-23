@@ -1,7 +1,7 @@
 .version.white_mangolia /* version checker */
 {
-	color: #0000E5;
-	background-color: #632A19;
+	color: #0000EC;
+	background-color: #C3E50A;
 }
 
 @-ms-viewport
@@ -38,18 +38,18 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 305px;
+	min-height: 543px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 243px;
+	padding-bottom: 5px;
 }
 
 #slideshowu30580
 {
-	z-index: 3;
+	z-index: 57;
 	width: 0.01px;
 	height: 162px;
 	position: relative;
@@ -66,12 +66,12 @@
 
 #u30588popup
 {
-	z-index: 4;
+	z-index: 58;
 }
 
 #u30589
 {
-	z-index: 5;
+	z-index: 59;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -79,7 +79,7 @@
 
 #u30621
 {
-	z-index: 7;
+	z-index: 61;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -95,12 +95,12 @@
 
 #u30596popup
 {
-	z-index: 9;
+	z-index: 63;
 }
 
 #u30598-4
 {
-	z-index: 10;
+	z-index: 64;
 	width: 132px;
 	min-height: 17px;
 	border-style: none;
@@ -119,7 +119,7 @@
 
 #u30627-4
 {
-	z-index: 14;
+	z-index: 68;
 	width: 132px;
 	min-height: 17px;
 	border-style: none;
@@ -166,7 +166,7 @@
 
 #u30600-4popup
 {
-	z-index: 18;
+	z-index: 72;
 }
 
 #u30600
@@ -193,7 +193,7 @@
 
 #u30595-4popup
 {
-	z-index: 22;
+	z-index: 76;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -206,17 +206,230 @@
 	background: url("../../images/loading.gif") no-repeat center center;
 }
 
-#u34070
+#ppu50569
 {
-	z-index: 2;
-	height: 63px;
+	width: 0.01px;
+	margin-right: -10000px;
 }
 
-#u34070-bw
+#pu50569
+{
+	width: 0.01px;
+	margin-left: 1px;
+}
+
+#u50569
+{
+	z-index: 7;
+	width: 40px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 5px;
+}
+
+#u50569:hover
+{
+	width: 40px;
+	min-height: 0px;
+	margin: 5px -10000px 0px 0px;
+}
+
+#menuu50571
+{
+	z-index: 11;
+	width: 54px;
+	margin-right: -10000px;
+}
+
+#u50572
+{
+	width: 54px;
+	min-height: 50px;
+	margin-right: -10000px;
+}
+
+#u50573
+{
+	width: 54px;
+	padding-bottom: 31px;
+}
+
+#u50573:hover
+{
+	width: 54px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u50573.MuseMenuActive
+{
+	width: 54px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u50576-3_clip,#u50576-3_img
+{
+	width: 54px;
+	height: 19px;
+}
+
+#u50576-3
+{
+	margin-right: -10000px;
+	top: 15px;
+}
+
+#u50577
+{
+	width: 312px;
+	top: 50px;
+}
+
+#u50587
+{
+	width: 312px;
+	padding-bottom: 28px;
+	margin-right: -10000px;
+}
+
+#u50587:hover
+{
+	width: 311px;
+	min-height: 0px;
+	margin: 0px -10001px -1px 0px;
+}
+
+#u50582
+{
+	width: 312px;
+	padding-bottom: 28px;
+	margin-right: -10000px;
+}
+
+#u50582:hover
+{
+	width: 311px;
+	min-height: 0px;
+	margin: 0px -10001px -1px 0px;
+}
+
+#u50601
+{
+	width: 312px;
+	padding-bottom: 28px;
+	margin-right: -10000px;
+}
+
+#u50601:hover
+{
+	width: 311px;
+	min-height: 0px;
+	margin: 0px -10001px -1px 0px;
+}
+
+#u50608
+{
+	width: 312px;
+	padding-bottom: 28px;
+	margin-right: -10000px;
+}
+
+#u50608:hover
+{
+	width: 311px;
+	min-height: 0px;
+	margin: 0px -10001px -1px 0px;
+}
+
+#u50578,#u50586,#u50579,#u50600,#u50607,#u50593
+{
+	width: 312px;
+}
+
+#u50596
+{
+	width: 312px;
+	padding-bottom: 28px;
+	margin-right: -10000px;
+}
+
+#u50596:hover
+{
+	width: 311px;
+	min-height: 0px;
+	margin: 0px -10001px -1px 0px;
+}
+
+#u50587.MuseMenuActive,#u50582.MuseMenuActive,#u50601.MuseMenuActive,#u50608.MuseMenuActive,#u50596.MuseMenuActive
+{
+	width: 312px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u50590-5,#u50584-5,#u50604-5,#u50609-5,#u50597-5
+{
+	margin-right: -10000px;
+	top: 14px;
+	left: 2px;
+}
+
+#u50614-3
+{
+	z-index: 54;
+	width: 284px;
+	min-height: 37px;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 84px;
+}
+
+#u50568
 {
 	z-index: 2;
-	margin-top: 242px;
-	height: 63px;
+	height: 450px;
+}
+
+#u50568-bw
+{
+	z-index: 2;
+	margin-top: 1px;
+	height: 450px;
+}
+
+#u50566
+{
+	z-index: 9;
+	width: 37px;
+	margin-right: -10000px;
+	margin-top: 548px;
+	left: 55px;
+}
+
+#u50562
+{
+	z-index: 3;
+	width: 39px;
+	margin-right: -10000px;
+	margin-top: 548px;
+	left: 170px;
+}
+
+#u50564
+{
+	z-index: 5;
+	width: 39px;
+	margin-right: -10000px;
+	margin-top: 548px;
+	left: 287px;
+}
+
+#u50562:hover,#u50564:hover
+{
+	width: 39px;
+	min-height: 0px;
+	margin: 548px -10000px 0px 0px;
 }
 
 body
@@ -228,5 +441,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
+	margin-bottom: -548px;
 }
 

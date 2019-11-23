@@ -1,7 +1,7 @@
 .version.coralalabaster /* version checker */
 {
-	color: #0000E9;
-	background-color: #3B9DFA;
+	color: #000016;
+	background-color: #FD60DA;
 }
 
 .html
@@ -103,7 +103,7 @@
 	z-index: 62;
 }
 
-#u46482
+#u49678
 {
 	z-index: 63;
 	width: 828px;
@@ -115,7 +115,7 @@
 	position: relative;
 }
 
-#u46512
+#u49733
 {
 	z-index: 65;
 	width: 828px;
@@ -127,19 +127,13 @@
 	position: relative;
 }
 
-#u46512_clip
+#u49678_img,#u49733_img
 {
-	overflow: hidden;
-	width: 828px;
-	height: 881px;
+	margin-left: -26px;
+	margin-right: -26px;
 }
 
-#u46512_img
-{
-	margin: -100px 14px -101px;
-}
-
-#u46521
+#u49742
 {
 	z-index: 67;
 	width: 828px;
@@ -151,9 +145,17 @@
 	position: relative;
 }
 
-#u46482_img,#u46521_img
+#u49678_clip,#u49733_clip,#u49742_clip
 {
-	padding: 41px 14px 40px;
+	overflow: hidden;
+	width: 828px;
+	height: 881px;
+}
+
+#u49742_img
+{
+	margin-left: -26px;
+	margin-right: -27px;
 }
 
 #u46449-3

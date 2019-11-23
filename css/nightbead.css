@@ -1,7 +1,7 @@
 .version.nightbead /* version checker */
 {
-	color: #0000EA;
-	background-color: #23B494;
+	color: #0000F8;
+	background-color: #32D5CC;
 }
 
 .html
@@ -115,7 +115,7 @@
 	position: relative;
 }
 
-#u46591
+#u49269
 {
 	z-index: 65;
 	width: 828px;
@@ -127,7 +127,13 @@
 	position: relative;
 }
 
-#u46600
+#u49269_img
+{
+	margin-left: -26px;
+	margin-right: -26px;
+}
+
+#u49278
 {
 	z-index: 67;
 	width: 828px;
@@ -139,9 +145,17 @@
 	position: relative;
 }
 
-#u46556_img,#u46591_img,#u46600_img
+#u46556_clip,#u49269_clip,#u49278_clip
 {
-	padding: 120px 169px 120px 170px;
+	overflow: hidden;
+	width: 828px;
+	height: 881px;
+}
+
+#u46556_img,#u49278_img
+{
+	margin-left: -26px;
+	margin-right: -27px;
 }
 
 #u46550-3

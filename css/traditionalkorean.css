@@ -1,7 +1,7 @@
 .version.traditionalkorean /* version checker */
 {
-	color: #0000E0;
-	background-color: #41E629;
+	color: #0000EA;
+	background-color: #75184A;
 }
 
 .html
@@ -506,9 +506,9 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	font-size: 15px;
-	line-height: 0.5;
 	text-align: center;
 	letter-spacing: 1px;
+	line-height: 0.5;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	-webkit-transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);

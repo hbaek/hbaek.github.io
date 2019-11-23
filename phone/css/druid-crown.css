@@ -1,7 +1,7 @@
 .version.druid_crown /* version checker */
 {
-	color: #0000F1;
-	background-color: #46737B;
+	color: #00001C;
+	background-color: #11808A;
 }
 
 @-ms-viewport
@@ -38,24 +38,27 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 305px;
+	min-height: 570px;
 	background-image: none;
 	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 243px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#page_position_content
+{
+	margin-top: -29px;
+	padding-bottom: 442px;
+	width: 0.01px;
 }
 
 #slideshowu31419
 {
-	z-index: 3;
+	z-index: 2;
 	width: 0.01px;
 	height: 157px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 21px;
 	left: -233px;
+	position: relative;
 }
 
 #u31437
@@ -66,12 +69,12 @@
 
 #u31437popup
 {
-	z-index: 4;
+	z-index: 3;
 }
 
 #u31440
 {
-	z-index: 5;
+	z-index: 4;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -79,7 +82,7 @@
 
 #u31511
 {
-	z-index: 7;
+	z-index: 6;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -87,7 +90,7 @@
 
 #u31520
 {
-	z-index: 9;
+	z-index: 8;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -95,7 +98,7 @@
 
 #u31529
 {
-	z-index: 11;
+	z-index: 10;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -111,12 +114,12 @@
 
 #u31420popup
 {
-	z-index: 13;
+	z-index: 12;
 }
 
 #u31423-4
 {
-	z-index: 14;
+	z-index: 13;
 	width: 112px;
 	min-height: 17px;
 	border-style: none;
@@ -135,7 +138,7 @@
 
 #u31517-4
 {
-	z-index: 18;
+	z-index: 17;
 	width: 112px;
 	min-height: 17px;
 	border-style: none;
@@ -154,7 +157,7 @@
 
 #u31526-4
 {
-	z-index: 22;
+	z-index: 21;
 	width: 112px;
 	min-height: 17px;
 	border-style: none;
@@ -173,7 +176,7 @@
 
 #u31535-4
 {
-	z-index: 26;
+	z-index: 25;
 	width: 112px;
 	min-height: 17px;
 	border-style: none;
@@ -220,7 +223,7 @@
 
 #u31446-4popup
 {
-	z-index: 30;
+	z-index: 29;
 }
 
 #u31446
@@ -247,7 +250,7 @@
 
 #u31425-4popup
 {
-	z-index: 34;
+	z-index: 33;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -258,19 +261,6 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../../images/loading.gif") no-repeat center center;
-}
-
-#u34070
-{
-	z-index: 2;
-	height: 63px;
-}
-
-#u34070-bw
-{
-	z-index: 2;
-	margin-top: 242px;
-	height: 63px;
 }
 
 body

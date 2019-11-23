@@ -1,7 +1,7 @@
 .version.underthewillowtree /* version checker */
 {
-	color: #000009;
-	background-color: #EB23FA;
+	color: #000010;
+	background-color: #AD6FC5;
 }
 
 @-ms-viewport
@@ -38,24 +38,28 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 305px;
+	min-height: 569.6499999999999px;
 	background-image: none;
 	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 243px;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-top: -29px;
+	padding-bottom: 437px;
+	width: 0.01px;
 }
 
 #slideshowu40296
 {
-	z-index: 3;
+	z-index: 2;
 	width: 0.01px;
 	height: 162px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 21px;
 	left: -233px;
+	position: relative;
 }
 
 #u40298
@@ -66,12 +70,12 @@
 
 #u40298popup
 {
-	z-index: 4;
+	z-index: 3;
 }
 
 #u40301
 {
-	z-index: 5;
+	z-index: 4;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -79,7 +83,7 @@
 
 #u40367
 {
-	z-index: 7;
+	z-index: 6;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -87,7 +91,7 @@
 
 #u40376
 {
-	z-index: 9;
+	z-index: 8;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -103,12 +107,12 @@
 
 #u40314popup
 {
-	z-index: 11;
+	z-index: 10;
 }
 
 #u40317-4
 {
-	z-index: 12;
+	z-index: 11;
 	width: 191px;
 	min-height: 17px;
 	border-style: none;
@@ -127,7 +131,7 @@
 
 #u40373-4
 {
-	z-index: 16;
+	z-index: 15;
 	width: 191px;
 	min-height: 17px;
 	border-style: none;
@@ -146,7 +150,7 @@
 
 #u40382-4
 {
-	z-index: 20;
+	z-index: 19;
 	width: 191px;
 	min-height: 17px;
 	border-style: none;
@@ -193,7 +197,7 @@
 
 #u40312-4popup
 {
-	z-index: 24;
+	z-index: 23;
 }
 
 #u40312
@@ -220,7 +224,7 @@
 
 #u40297-4popup
 {
-	z-index: 28;
+	z-index: 27;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -231,19 +235,6 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../../images/loading.gif") no-repeat center center;
-}
-
-#u34070
-{
-	z-index: 2;
-	height: 63px;
-}
-
-#u34070-bw
-{
-	z-index: 2;
-	margin-top: 242px;
-	height: 63px;
 }
 
 body
