@@ -1,7 +1,7 @@
 .version.floral_newly_in /* version checker */
 {
-	color: #0000E0;
-	background-color: #1C7994;
+	color: #000012;
+	background-color: #634FFC;
 }
 
 @-ms-viewport
@@ -38,13 +38,13 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 543px;
+	min-height: 536px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 5px;
+	padding-bottom: 12px;
 }
 
 #ppu50242
@@ -235,7 +235,7 @@
 #u50241,#u50241-bw
 {
 	z-index: 2;
-	height: 450px;
+	height: 431px;
 }
 
 #u52040-6
@@ -297,7 +297,7 @@
 	z-index: 9;
 	width: 37px;
 	margin-right: -10000px;
-	margin-top: 548px;
+	margin-top: 497px;
 	left: 55px;
 }
 
@@ -306,7 +306,7 @@
 	z-index: 3;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 548px;
+	margin-top: 497px;
 	left: 170px;
 }
 
@@ -315,15 +315,15 @@
 	z-index: 5;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 548px;
-	left: 287px;
+	margin-top: 497px;
+	left: 286px;
 }
 
 #u50244:hover,#u50289:hover
 {
 	width: 39px;
 	min-height: 0px;
-	margin: 548px -10000px 0px 0px;
+	margin: 497px -10000px 0px 0px;
 }
 
 body
@@ -335,6 +335,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -548px;
+	margin-bottom: -497px;
 }
 

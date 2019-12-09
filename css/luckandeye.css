@@ -1,7 +1,7 @@
 .version.luckandeye /* version checker */
 {
-	color: #0000E0;
-	background-color: #859C24;
+	color: #0000FC;
+	background-color: #B8F179;
 }
 
 .html
@@ -246,9 +246,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

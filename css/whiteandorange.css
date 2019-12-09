@@ -1,7 +1,7 @@
 .version.whiteandorange /* version checker */
 {
-	color: #0000E5;
-	background-color: #935130;
+	color: #0000FD;
+	background-color: #72C6A9;
 }
 
 .html
@@ -427,9 +427,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

@@ -1,7 +1,7 @@
 .version.millerwreath /* version checker */
 {
-	color: #000000;
-	background-color: #107EE3;
+	color: #000012;
+	background-color: #99FBA7;
 }
 
 .html
@@ -459,9 +459,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

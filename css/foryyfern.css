@@ -1,7 +1,7 @@
 .version.foryyfern /* version checker */
 {
-	color: #00000F;
-	background-color: #D037D9;
+	color: #000017;
+	background-color: #31A040;
 }
 
 .html
@@ -443,9 +443,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

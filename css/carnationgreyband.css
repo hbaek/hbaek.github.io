@@ -1,7 +1,7 @@
 .version.carnationgreyband /* version checker */
 {
-	color: #000012;
-	background-color: #EC42C1;
+	color: #000000;
+	background-color: #65C785;
 }
 
 .html
@@ -447,9 +447,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

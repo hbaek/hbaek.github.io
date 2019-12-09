@@ -1,7 +1,7 @@
 .version.koreanmenu2 /* version checker */
 {
-	color: #0000FA;
-	background-color: #8B68F1;
+	color: #0000EE;
+	background-color: #CF9D24;
 }
 
 @-ms-viewport
@@ -38,13 +38,13 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 544px;
+	min-height: 535px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 4px;
+	padding-bottom: 13px;
 }
 
 #ppu50198
@@ -237,7 +237,7 @@
 #u27618,#u27618-bw
 {
 	z-index: 2;
-	height: 450px;
+	height: 431px;
 }
 
 #u50790-4
@@ -369,16 +369,41 @@
 	margin-top: 119px;
 }
 
-#u50780_states,#u50787_states,#u50778_states
+#u50778:hover #u50778_states
+{
+	background: url("../../images/u50778_states-r.png") no-repeat 0px 0px;
+}
+
+#u55343-6
+{
+	z-index: 83;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 296px;
+	left: 69px;
+}
+
+#u55344
+{
+	z-index: 90;
+	position: relative;
+	width: 380px;
+	margin-right: -10000px;
+	margin-top: 297px;
+}
+
+#u50780_states,#u50787_states,#u50778_states,#u55344_states
 {
 	height: 48px;
 	width: 380px;
 	vertical-align: top;
 }
 
-#u50778:hover #u50778_states
+#u55344:hover #u55344_states
 {
-	background: url("../../images/u50778_states-r.png") no-repeat 0px 0px;
+	background: url("../../images/u55344_states-r.png") no-repeat 0px 0px;
 }
 
 #u49998
@@ -386,7 +411,7 @@
 	z-index: 7;
 	width: 40px;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 495px;
 	left: 55px;
 }
 
@@ -394,7 +419,7 @@
 {
 	width: 40px;
 	min-height: 0px;
-	margin: 549px -10000px 0px 0px;
+	margin: 495px -10000px 0px 0px;
 }
 
 #u49151
@@ -402,7 +427,7 @@
 	z-index: 3;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 495px;
 	left: 170px;
 }
 
@@ -411,7 +436,7 @@
 	z-index: 5;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 495px;
 	left: 287px;
 }
 
@@ -419,7 +444,7 @@
 {
 	width: 39px;
 	min-height: 0px;
-	margin: 549px -10000px 0px 0px;
+	margin: 495px -10000px 0px 0px;
 }
 
 body
@@ -431,6 +456,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -549px;
+	margin-bottom: -495px;
 }
 

@@ -1,7 +1,7 @@
 .version.whitestrawandblackcross /* version checker */
 {
-	color: #000015;
-	background-color: #30CE31;
+	color: #000000;
+	background-color: #0ADC0D;
 }
 
 .html
@@ -173,9 +173,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

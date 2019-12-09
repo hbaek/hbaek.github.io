@@ -1,7 +1,7 @@
 .version.coral__alabaster /* version checker */
 {
-	color: #000013;
-	background-color: #548797;
+	color: #00000B;
+	background-color: #4F843F;
 }
 
 @-ms-viewport
@@ -38,13 +38,13 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 545px;
+	min-height: 533px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 3px;
+	padding-bottom: 15px;
 }
 
 #slideshowu33395
@@ -118,11 +118,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -137,11 +137,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -194,9 +194,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 128px;
 	left: 81px;
@@ -396,7 +396,7 @@
 #u50624,#u50624-bw
 {
 	z-index: 2;
-	height: 450px;
+	height: 431px;
 }
 
 #u50671
@@ -404,7 +404,7 @@
 	z-index: 7;
 	width: 40px;
 	margin-right: -10000px;
-	margin-top: 553px;
+	margin-top: 560px;
 	left: 55px;
 }
 
@@ -412,7 +412,7 @@
 {
 	width: 40px;
 	min-height: 0px;
-	margin: 553px -10000px 0px 0px;
+	margin: 560px -10000px 0px 0px;
 }
 
 #u50673
@@ -420,7 +420,7 @@
 	z-index: 3;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 553px;
+	margin-top: 560px;
 	left: 170px;
 }
 
@@ -429,7 +429,7 @@
 	z-index: 5;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 553px;
+	margin-top: 560px;
 	left: 287px;
 }
 
@@ -437,7 +437,7 @@
 {
 	width: 39px;
 	min-height: 0px;
-	margin: 553px -10000px 0px 0px;
+	margin: 560px -10000px 0px 0px;
 }
 
 body
@@ -449,6 +449,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -552px;
+	margin-bottom: -560px;
 }
 

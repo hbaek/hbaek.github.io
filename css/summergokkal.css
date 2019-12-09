@@ -1,7 +1,7 @@
 .version.summergokkal /* version checker */
 {
-	color: #00000C;
-	background-color: #03BD5E;
+	color: #000018;
+	background-color: #6D6BCA;
 }
 
 .html
@@ -240,9 +240,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

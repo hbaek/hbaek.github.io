@@ -1,7 +1,7 @@
 .version.for_mothersday /* version checker */
 {
-	color: #0000EB;
-	background-color: #C49833;
+	color: #0000ED;
+	background-color: #0131B1;
 }
 
 @-ms-viewport
@@ -38,13 +38,13 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 545px;
+	min-height: 533px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 3px;
+	padding-bottom: 15px;
 }
 
 #slideshowu52116
@@ -154,9 +154,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 78px;
 	left: 81px;
@@ -180,6 +180,7 @@
 #pppu50670-3
 {
 	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 1px;
 }
@@ -380,15 +381,10 @@
 	left: 2px;
 }
 
-#pu50624
-{
-	width: 0.01px;
-}
-
 #u50624,#u50624-bw
 {
 	z-index: 2;
-	height: 450px;
+	height: 431px;
 }
 
 #u52153
@@ -397,10 +393,9 @@
 	width: 237px;
 	height: 13px;
 	background-color: #FFFFFF;
+	margin-left: 143px;
+	margin-top: 5px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 437px;
-	left: 143px;
 }
 
 #u50671
@@ -408,7 +403,7 @@
 	z-index: 7;
 	width: 40px;
 	margin-right: -10000px;
-	margin-top: 550px;
+	margin-top: 557px;
 	left: 55px;
 }
 
@@ -416,7 +411,7 @@
 {
 	width: 40px;
 	min-height: 0px;
-	margin: 550px -10000px 0px 0px;
+	margin: 557px -10000px 0px 0px;
 }
 
 #u50673
@@ -424,7 +419,7 @@
 	z-index: 3;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 550px;
+	margin-top: 557px;
 	left: 170px;
 }
 
@@ -433,7 +428,7 @@
 	z-index: 5;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 550px;
+	margin-top: 557px;
 	left: 287px;
 }
 
@@ -441,7 +436,7 @@
 {
 	width: 39px;
 	min-height: 0px;
-	margin: 550px -10000px 0px 0px;
+	margin: 557px -10000px 0px 0px;
 }
 
 body
@@ -453,6 +448,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -549px;
+	margin-bottom: -557px;
 }
 

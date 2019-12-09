@@ -1,7 +1,7 @@
 .version.winsleargear /* version checker */
 {
-	color: #0000F1;
-	background-color: #72BA8C;
+	color: #0000F6;
+	background-color: #08FC19;
 }
 
 .html
@@ -180,9 +180,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

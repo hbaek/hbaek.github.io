@@ -1,7 +1,7 @@
 .version.greenspringbonnet /* version checker */
 {
-	color: #000008;
-	background-color: #6A8AED;
+	color: #00001D;
+	background-color: #5098D1;
 }
 
 .html
@@ -192,9 +192,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

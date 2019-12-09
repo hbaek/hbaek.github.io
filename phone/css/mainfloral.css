@@ -1,7 +1,7 @@
 .version.mainfloral /* version checker */
 {
-	color: #0000EB;
-	background-color: #B6A053;
+	color: #0000EA;
+	background-color: #04A648;
 }
 
 @-ms-viewport
@@ -38,13 +38,13 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 543px;
+	min-height: 536px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 5px;
+	padding-bottom: 12px;
 }
 
 #ppu50242
@@ -314,54 +314,6 @@
 	position: relative;
 }
 
-#u50468-4
-{
-	position: absolute;
-	width: 10px;
-	min-height: 20px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	text-align: center;
-	line-height: 1.4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 171px;
-	left: 603px;
-}
-
-#u50468-4popup
-{
-	z-index: 69;
-}
-
-#u50468
-{
-	color: #999999;
-}
-
-#u50467-4
-{
-	position: absolute;
-	width: 10px;
-	min-height: 20px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	color: #999999;
-	text-align: center;
-	line-height: 1.4;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 100px;
-	left: 603px;
-}
-
-#u50467-4popup
-{
-	z-index: 73;
-}
-
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
 {
 	cursor: pointer;
@@ -375,7 +327,7 @@
 #u50241,#u50241-bw
 {
 	z-index: 2;
-	height: 450px;
+	height: 431px;
 }
 
 #u50239
@@ -383,7 +335,7 @@
 	z-index: 9;
 	width: 37px;
 	margin-right: -10000px;
-	margin-top: 548px;
+	margin-top: 517px;
 	left: 55px;
 }
 
@@ -392,7 +344,7 @@
 	z-index: 3;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 548px;
+	margin-top: 517px;
 	left: 170px;
 }
 
@@ -401,15 +353,15 @@
 	z-index: 5;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 548px;
-	left: 287px;
+	margin-top: 517px;
+	left: 286px;
 }
 
 #u50244:hover,#u50289:hover
 {
 	width: 39px;
 	min-height: 0px;
-	margin: 548px -10000px 0px 0px;
+	margin: 517px -10000px 0px 0px;
 }
 
 body
@@ -421,6 +373,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -548px;
+	margin-bottom: -516px;
 }
 

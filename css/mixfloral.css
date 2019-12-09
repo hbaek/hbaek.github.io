@@ -1,7 +1,7 @@
 .version.mixfloral /* version checker */
 {
-	color: #0000FD;
-	background-color: #5A041C;
+	color: #0000E5;
+	background-color: #BB9385;
 }
 
 .html
@@ -463,9 +463,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

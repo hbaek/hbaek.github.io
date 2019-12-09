@@ -1,7 +1,7 @@
 .version.flowers /* version checker */
 {
-	color: #00001B;
-	background-color: #811E98;
+	color: #0000EE;
+	background-color: #536FF1;
 }
 
 .html
@@ -410,10 +410,10 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 0.9;
 	color: #5A0804;
 	font-size: 15px;
 	text-align: left;
-	line-height: 0.9;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 183px;

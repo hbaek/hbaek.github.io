@@ -1,7 +1,7 @@
 .version.traditionalkorean /* version checker */
 {
-	color: #0000EA;
-	background-color: #75184A;
+	color: #0000FE;
+	background-color: #C7CA2F;
 }
 
 .html
@@ -343,7 +343,7 @@
 	position: relative;
 	width: 369px;
 	margin-right: -10000px;
-	margin-top: 451px;
+	margin-top: 681px;
 	left: 238px;
 }
 
@@ -366,7 +366,7 @@
 	position: relative;
 	width: 369px;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 779px;
 	left: 238px;
 }
 
@@ -389,7 +389,7 @@
 	position: relative;
 	width: 369px;
 	margin-right: -10000px;
-	margin-top: 648px;
+	margin-top: 878px;
 	left: 238px;
 }
 
@@ -412,7 +412,7 @@
 	position: relative;
 	width: 369px;
 	margin-right: -10000px;
-	margin-top: 747px;
+	margin-top: 977px;
 	left: 238px;
 }
 
@@ -435,7 +435,7 @@
 	position: relative;
 	width: 369px;
 	margin-right: -10000px;
-	margin-top: 846px;
+	margin-top: 1076px;
 	left: 238px;
 }
 
@@ -458,7 +458,7 @@
 	position: relative;
 	width: 369px;
 	margin-right: -10000px;
-	margin-top: 352px;
+	margin-top: 582px;
 	left: 236px;
 }
 
@@ -481,7 +481,7 @@
 	position: relative;
 	width: 538px;
 	margin-right: -10000px;
-	margin-top: 125px;
+	margin-top: 275px;
 	left: 150px;
 }
 
@@ -506,9 +506,9 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	font-size: 15px;
-	text-align: center;
 	letter-spacing: 1px;
 	line-height: 0.5;
+	text-align: center;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	font-weight: normal;
 	-webkit-transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);
@@ -516,13 +516,8 @@
 	transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 116px;
+	margin-top: 266px;
 	left: 102px;
-}
-
-#u45328
-{
-	text-decoration: underline;
 }
 
 #u45504
@@ -531,7 +526,7 @@
 	position: relative;
 	width: 369px;
 	margin-right: -10000px;
-	margin-top: 945px;
+	margin-top: 1175px;
 	left: 236px;
 }
 
@@ -554,7 +549,7 @@
 	position: relative;
 	width: 369px;
 	margin-right: -10000px;
-	margin-top: 1044px;
+	margin-top: 1274px;
 	left: 236px;
 }
 
@@ -569,6 +564,56 @@
 #u45505:hover #u45505_states
 {
 	background: url("../images/u45505_states-r.png") no-repeat 0px 0px;
+}
+
+#u55104
+{
+	z-index: 78;
+	position: relative;
+	width: 538px;
+	margin-right: -10000px;
+	margin-top: 176px;
+	left: 150px;
+}
+
+#u55104_states
+{
+	height: 99px;
+	width: 538px;
+	vertical-align: top;
+	background: url("../images/u55104_states.png") no-repeat 0px 0px;
+}
+
+#u55104:hover #u55104_states
+{
+	background: url("../images/u55104_states-r.png") no-repeat 0px 0px;
+}
+
+#u55105-4
+{
+	z-index: 80;
+	width: 94px;
+	min-height: 20px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	letter-spacing: 1px;
+	line-height: 0.5;
+	text-align: center;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-weight: normal;
+	-webkit-transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);
+	-ms-transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);
+	transform: matrix(0.8572,-0.515,0.515,0.8572,2,26);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 173px;
+	left: 108px;
+}
+
+#u45328,#u55105
+{
+	text-decoration: underline;
 }
 
 body

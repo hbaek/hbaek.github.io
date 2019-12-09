@@ -1,7 +1,7 @@
 .version.kalecelosia /* version checker */
 {
-	color: #00001D;
-	background-color: #6E4C5A;
+	color: #0000E7;
+	background-color: #F740FC;
 }
 
 .html
@@ -330,9 +330,9 @@
 	width: 320px;
 	min-height: 1098px;
 	background-color: transparent;
+	line-height: 1.4;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -565px;
 	left: 662px;
@@ -349,9 +349,9 @@
 	width: 322px;
 	min-height: 1087px;
 	background-color: transparent;
+	line-height: 1.4;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: -554px;
 	left: 1061px;

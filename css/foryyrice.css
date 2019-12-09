@@ -1,7 +1,7 @@
 .version.foryyrice /* version checker */
 {
-	color: #0000E4;
-	background-color: #6DAD9E;
+	color: #0000FC;
+	background-color: #8C3A07;
 }
 
 .html
@@ -462,9 +462,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding: 10px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 1px;
 	left: 730px;

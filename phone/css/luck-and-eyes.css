@@ -1,7 +1,7 @@
 .version.luck_and_eyes /* version checker */
 {
-	color: #000004;
-	background-color: #E23E69;
+	color: #00001D;
+	background-color: #DDA854;
 }
 
 @-ms-viewport
@@ -38,13 +38,13 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 544px;
+	min-height: 533px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 4px;
+	padding-bottom: 15px;
 }
 
 #slideshowu41288
@@ -226,11 +226,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -245,11 +245,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -264,11 +264,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -283,11 +283,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -302,11 +302,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -321,11 +321,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -340,11 +340,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -359,11 +359,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -378,11 +378,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -397,11 +397,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -416,11 +416,11 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
-	letter-spacing: 3px;
+	line-height: 1.4;
 	color: #000000;
 	font-size: 12px;
 	text-align: left;
-	line-height: 1.4;
+	letter-spacing: 3px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-right: -10000px;
 	position: relative;
@@ -473,9 +473,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 15px;
+	line-height: 1.4;
 	color: #999999;
 	text-align: center;
-	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 128px;
 	left: 81px;
@@ -499,6 +499,7 @@
 #pppu50670-3
 {
 	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 1px;
 }
@@ -680,19 +681,7 @@
 #u50624,#u50624-bw
 {
 	z-index: 2;
-	height: 450px;
-}
-
-#u41470
-{
-	z-index: 54;
-	width: 237px;
-	height: 13px;
-	background-color: #FFFFFF;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 437px;
-	left: 143px;
+	height: 431px;
 }
 
 #u41469-4
@@ -712,12 +701,23 @@
 	left: 96px;
 }
 
+#u41470
+{
+	z-index: 54;
+	width: 237px;
+	height: 13px;
+	background-color: #FFFFFF;
+	margin-left: 143px;
+	margin-top: 5px;
+	position: relative;
+}
+
 #u50671
 {
 	z-index: 7;
 	width: 40px;
 	margin-right: -10000px;
-	margin-top: 597px;
+	margin-top: 605px;
 	left: 55px;
 }
 
@@ -725,7 +725,7 @@
 {
 	width: 40px;
 	min-height: 0px;
-	margin: 597px -10000px 0px 0px;
+	margin: 605px -10000px 0px 0px;
 }
 
 #u50673
@@ -733,7 +733,7 @@
 	z-index: 3;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 597px;
+	margin-top: 605px;
 	left: 170px;
 }
 
@@ -742,7 +742,7 @@
 	z-index: 5;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 597px;
+	margin-top: 605px;
 	left: 287px;
 }
 
@@ -750,7 +750,7 @@
 {
 	width: 39px;
 	min-height: 0px;
-	margin: 597px -10000px 0px 0px;
+	margin: 605px -10000px 0px 0px;
 }
 
 body
@@ -762,6 +762,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -597px;
+	margin-bottom: -604px;
 }
 

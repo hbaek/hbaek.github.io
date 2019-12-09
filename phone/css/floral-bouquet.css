@@ -1,7 +1,7 @@
 .version.floral_bouquet /* version checker */
 {
-	color: #000006;
-	background-color: #DCCD1A;
+	color: #000011;
+	background-color: #52D1B8;
 }
 
 @-ms-viewport
@@ -38,13 +38,13 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 544px;
+	min-height: 535px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	border-radius: 0px 0px 0px 10px ;
-	padding-bottom: 4px;
+	padding-bottom: 13px;
 }
 
 #ppu50198
@@ -237,7 +237,7 @@
 #u27618,#u27618-bw
 {
 	z-index: 2;
-	height: 450px;
+	height: 431px;
 }
 
 #u52003-6
@@ -328,7 +328,7 @@
 	z-index: 7;
 	width: 40px;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 495px;
 	left: 55px;
 }
 
@@ -336,7 +336,7 @@
 {
 	width: 40px;
 	min-height: 0px;
-	margin: 549px -10000px 0px 0px;
+	margin: 495px -10000px 0px 0px;
 }
 
 #u49151
@@ -344,7 +344,7 @@
 	z-index: 3;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 495px;
 	left: 170px;
 }
 
@@ -353,7 +353,7 @@
 	z-index: 5;
 	width: 39px;
 	margin-right: -10000px;
-	margin-top: 549px;
+	margin-top: 495px;
 	left: 287px;
 }
 
@@ -361,7 +361,7 @@
 {
 	width: 39px;
 	min-height: 0px;
-	margin: 549px -10000px 0px 0px;
+	margin: 495px -10000px 0px 0px;
 }
 
 body
@@ -373,6 +373,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -549px;
+	margin-bottom: -495px;
 }
 
